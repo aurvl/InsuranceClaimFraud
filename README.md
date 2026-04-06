@@ -110,7 +110,7 @@ Fraud labels are generated probabilistically. Fraud propensity increases when:
 
 ## Extraction Layer
 
-The extraction engine is implemented in [document_extraction.py](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/src/api/document_extraction.py).
+The extraction engine is implemented in [document_extraction.py](src/api/document_extraction.py).
 
 It currently:
 
@@ -126,14 +126,14 @@ This is a real local extraction layer, but it remains rule-based. It is not a fu
 
 The project includes analyst-oriented SQL assets:
 
-- [01_business_exploration.sql](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/sql/01_business_exploration.sql)
-- [02_create_analytics_views.sql](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/sql/02_create_analytics_views.sql)
+- [01_business_exploration.sql](sql/01_business_exploration.sql)
+- [02_create_analytics_views.sql](sql/02_create_analytics_views.sql)
 
 The exploration script answers 10 business questions ranging from portfolio profiling to suspicious-provider analysis and counterfactual-oriented fraud patterns.
 
 The processed SQL report artifact is:
 
-- [sql_analyst_report.json](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/data/processed/sql_analyst_report.json)
+- [sql_analyst_report.json](data/processed/sql_analyst_report.json)
 
 ## Model Training Strategy
 
@@ -181,23 +181,23 @@ This is materially stronger than the previous presentation point based on a defa
 The current pipeline keeps only the active artifacts needed for deployment and benchmarking:
 
 - champion deployment model:
-  [deployment_champion.pkl](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/models/deployment_champion.pkl)
+  [deployment_champion.pkl](models/deployment_champion.pkl)
 - champion deployment metadata:
-  [deployment_champion.json](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/models/deployment_champion.json)
+  [deployment_champion.json](models/deployment_champion.json)
 - candidate benchmark model:
-  [candidate_rf.pkl](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/models/candidate_rf.pkl)
+  [candidate_rf.pkl](models/candidate_rf.pkl)
 - candidate benchmark metadata:
-  [candidate_rf.json](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/models/candidate_rf.json)
+  [candidate_rf.json](models/candidate_rf.json)
 - candidate benchmark model:
-  [candidate_xgb.pkl](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/models/candidate_xgb.pkl)
+  [candidate_xgb.pkl](models/candidate_xgb.pkl)
 - candidate benchmark metadata:
-  [candidate_xgb.json](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/models/candidate_xgb.json)
+  [candidate_xgb.json](models/candidate_xgb.json)
 
 Evaluation and diagnostics:
 
-- [evaluation_metrics.json](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/data/processed/evaluation_metrics.json)
-- [historical_test_predictions.csv](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/data/processed/historical_test_predictions.csv)
-- [feature_importances.csv](/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/data/processed/feature_importances.csv)
+- [evaluation_metrics.json](data/processed/evaluation_metrics.json)
+- [historical_test_predictions.csv](data/processed/historical_test_predictions.csv)
+- [feature_importances.csv](data/processed/feature_importances.csv)
 
 ## Local Setup
 
