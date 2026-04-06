@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00842-008",
+  "customer_id": "CUST-00842",
+  "claim_date": "2021-11-24",
+  "policy_start_date": "2018-04-21",
+  "policy_age_days": 1313,
+  "claim_amount": 55225.43,
+  "claim_type": "fire",
+  "customer_age": 28,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-115",
+  "location": "Limoges",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

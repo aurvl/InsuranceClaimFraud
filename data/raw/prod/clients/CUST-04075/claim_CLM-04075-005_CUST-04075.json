@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04075-005",
+  "customer_id": "CUST-04075",
+  "claim_date": "2025-05-17",
+  "policy_start_date": "2024-05-15",
+  "policy_age_days": 367,
+  "claim_amount": 10939.41,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 149,
+  "service_provider_id": "SP-061",
+  "location": "La Rochelle",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07908-008",
+  "customer_id": "CUST-07908",
+  "claim_date": "2022-08-15",
+  "policy_start_date": "2019-11-11",
+  "policy_age_days": 1008,
+  "claim_amount": 5789.43,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-046",
+  "location": "Annecy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

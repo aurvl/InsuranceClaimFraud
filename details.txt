@@ -1,0 +1,359 @@
+DETAILS DU PROJET
+Insurance Claim Counterfactual Simulator
+
+Ce fichier explique le pipeline actuel, les artefacts encore actifs, la logique
+de selection du modele et la signification des donnees.
+
+IMPORTANT
+
+- toutes les donnees sont synthetiques
+- la source analytique officielle est PostgreSQL
+- le pipeline actif ne repose plus sur des CSV intermediaires
+- le modele de prod n'utilise plus un threshold fixe a 0.5
+
+===============================================================================
+1. OBJECTIF PRINCIPAL
+===============================================================================
+
+Le coeur du projet est la decision interpretable autour de la fraude.
+
+Question centrale:
+
+"Que faudrait-il changer dans un sinistre pour qu'il ne soit plus considere
+comme frauduleux ?"
+
+Le modele de fraude est donc un moteur de decision support, pas seulement un
+classifieur.
+
+Ce que le projet veut montrer:
+
+- extraction documentaire locale
+- structuration des donnees dans PostgreSQL
+- travail SQL realiste pour analystes et data scientists
+- benchmark de modeles
+- optimisation du threshold de decision
+- production scoring via FastAPI
+- contre-factuels pour expliquer les decisions
+
+===============================================================================
+2. PIPELINE ACTUEL
+===============================================================================
+
+Le pipeline actif est:
+
+1. un package client arrive sous forme de JSON + PDF + image
+2. le module d'extraction lit et consolide ces sources
+3. le dossier structure est insere dans PostgreSQL
+4. les analyses SQL et l'entrainement lisent PostgreSQL
+5. la partie ML benchmarke plusieurs approches
+6. le systeme choisit un champion de deploiement
+7. FastAPI score les nouveaux dossiers avec ce champion
+8. le systeme peut produire un contre-factuel
+
+Le pipeline ne fait plus:
+
+- de CSV comme etape intermediaire entre extraction et base
+- de selection du modele uniquement sur l'AUC
+- de decision finale basee sur un threshold fixe a 0.5
+
+===============================================================================
+3. STRUCTURE DES DONNEES
+===============================================================================
+
+La base PostgreSQL est volontairement simple et limitee a 5 tables:
+
+- customers
+- policies
+- claims
+- production_claim_intake
+- production_claim_decisions
+
+Vues SQL reutilisables:
+
+- vw_historical_claims_enriched
+- vw_production_claim_intake_enriched
+- vw_production_claim_decisions_enriched
+
+Le data scientist et le data analyst travaillent a partir de ces tables et vues.
+
+===============================================================================
+4. BOUNDARY TRAIN / PROD
+===============================================================================
+
+Split temporel impose:
+
+- fin de l'historique de developpement: 2024-10-02
+- debut du prod synthetique: 2024-10-03
+
+Regles:
+
+- le train utilise seulement l'historique
+- l'evaluation utilise seulement l'historique
+- le prod est reserve au scoring post-developpement
+- l'API refuse un package prod date avant 2024-10-03
+
+===============================================================================
+5. DONNEES ACTUELLES
+===============================================================================
+
+Volumes actuels:
+
+- total claims: 60,274
+- historical claims: 54,248
+- production-like claims: 6,026
+- active locations: 37
+
+Colonnes principales d'un claim:
+
+- claim_id
+- customer_id
+- claim_date
+- policy_start_date
+- policy_age_days
+- claim_amount
+- claim_type
+- customer_age
+- num_previous_claims
+- time_since_last_claim_days
+- service_provider_id
+- location
+- weather_condition
+- is_fraud
+
+Rappel important:
+
+- is_fraud n'est pas une regle triviale
+- c'est un label probabiliste genere a partir de signaux de risque
+
+===============================================================================
+6. FEATURES MODELE
+===============================================================================
+
+Le pipeline de features de [features.py]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/src/ml/features.py)
+construit notamment:
+
+- time_since_last_claim_days_filled
+- missing_last_claim_flag
+- claim_amount_to_policy_age
+- recent_claim_flag
+- suspicious_provider_flag
+- high_amount_flag
+- policy_recent_flag
+- claim_month
+- claim_quarter
+- claim_weekday
+- amount_per_previous_claim
+- customer_age_band
+
+Ces features restent reutilisables en train, evaluation et inference.
+
+===============================================================================
+7. NOUVELLE LOGIQUE TRAINING
+===============================================================================
+
+Le pipeline actuel de training ne se contente plus d'entrainer un modele puis
+d'appliquer 0.5.
+
+Il fait maintenant:
+
+1. split historique en train / validation / holdout
+2. benchmark de plusieurs modeles
+3. benchmark de plusieurs strategies d'equilibrage par modele
+4. tuning du threshold sur validation
+5. selection d'un champion de deploiement
+
+Objectif de selection:
+
+- maximiser la precision
+- imposer un rappel minimal de 0.20
+- utiliser F1 et ROC AUC comme signaux secondaires
+
+Cela correspond mieux a un contexte fraude ou une precision trop basse rend le
+modele difficile a presenter ou a utiliser operationnellement.
+
+===============================================================================
+8. MODELES ET STRATEGIES ACTUELLES
+===============================================================================
+
+Candidats du benchmark actif:
+
+- rf avec weighted imbalance handling
+- xgb avec oversample imbalance handling
+
+Le SVM existe encore dans le code, mais il n'est plus retenu dans le benchmark
+de deploiement car il est trop couteux sur ce volume pour un gain peu utile.
+
+Champion actuel:
+
+- classifier: xgb
+- selected_imbalance_strategy: oversample
+- decision_threshold: 0.83
+
+Alternative benchmarkee:
+
+- rf
+- selected_imbalance_strategy: weighted
+- decision_threshold: 0.76
+
+===============================================================================
+9. METRIQUES ACTUELLES
+===============================================================================
+
+Champion actuel sur holdout historique:
+
+- roc_auc: 0.764572
+- precision: 0.525140
+- recall: 0.247043
+- f1: 0.336014
+- precision top 1 percent: 0.777778
+- precision top 5 percent: 0.431734
+- precision top 10 percent: 0.302304
+
+Alternative rf:
+
+- roc_auc: 0.777548
+- precision: 0.481959
+- recall: 0.245729
+- f1: 0.325500
+
+Interpretation:
+
+- le champion n'est pas choisi uniquement a l'AUC
+- xgb est retenu car il fournit la meilleure precision dans le cadre de
+  deploiement retenu
+- le threshold de 0.83 est central dans ce resultat
+
+===============================================================================
+10. ARTEFACTS ACTIFS
+===============================================================================
+
+Artefacts modeles encore valides dans le pipeline actuel:
+
+- models/deployment_champion.pkl
+  champion de deploiement actuellement charge par l'API
+
+- models/deployment_champion.json
+  metadata du champion de deploiement
+
+- models/candidate_rf.pkl
+  candidat benchmark rf
+
+- models/candidate_rf.json
+  metadata du candidat rf
+
+- models/candidate_xgb.pkl
+  candidat benchmark xgb
+
+- models/candidate_xgb.json
+  metadata du candidat xgb
+
+Artefacts d'evaluation actifs:
+
+- data/processed/evaluation_metrics.json
+- data/processed/historical_test_predictions.csv
+- data/processed/feature_importances.csv
+- data/processed/sql_analyst_report.json
+
+===============================================================================
+11. ARTEFACTS SUPPRIMES
+===============================================================================
+
+Les artefacts historiques qui ne correspondaient plus au pipeline actif ont ete
+supprimes, notamment:
+
+- anciens modeles SVM de sortie pipeline
+- anciens modeles XGB de sortie pipeline
+- anciennes metadata associees
+
+La logique est la suivante:
+
+- on garde le champion actuel
+- on garde les candidats encore utilises dans le benchmark actif
+- on supprime les sorties qui ne sont plus produites ni lues par le pipeline
+
+===============================================================================
+12. ROLE DE FASTAPI
+===============================================================================
+
+FastAPI sert a la partie operationnelle:
+
+- intake package
+- extraction
+- validation
+- scoring
+- insertion SQL
+- contre-factuels
+
+Point important:
+
+- FastAPI lit le champion de deploiement
+- la decision applique le threshold appris et retenu pendant le benchmark
+
+Donc, si le champion actuel est xgb avec threshold 0.83, l'API suit cette
+decision, pas un threshold arbitraire de 0.5.
+
+===============================================================================
+13. FICHIERS IMPORTANTS
+===============================================================================
+
+Training:
+
+- [train_model.py]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/src/ml/train_model.py)
+
+Evaluation:
+
+- [evaluate_model.py]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/src/ml/evaluate_model.py)
+
+Production scoring:
+
+- [score_production.py]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/src/ml/score_production.py)
+
+API:
+
+- [main.py]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/src/api/main.py)
+
+SQL views:
+
+- [02_create_analytics_views.sql]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/sql/02_create_analytics_views.sql)
+
+Business SQL exploration:
+
+- [01_business_exploration.sql]
+(/C:/Users/aurel/Desktop/Projects/Insurance%20Claim%20Counterfactual%20Simulator/sql/01_business_exploration.sql)
+
+===============================================================================
+14. LIMITES ACTUELLES
+===============================================================================
+
+- donnees totalement synthetiques
+- extraction rule-based, pas OCR/CV industriel
+- contre-factuels heuristiques
+- rappel encore modere car le pipeline privilegie maintenant une precision plus
+  presentable
+- SVM conserve dans le code mais non retenu comme voie de deploiement
+
+===============================================================================
+15. RESUME SIMPLE
+===============================================================================
+
+Le pipeline actuel:
+
+- extrait des packages client
+- stocke dans PostgreSQL
+- benchmarke rf et xgb
+- teste plusieurs strategies d'equilibrage
+- tune le threshold
+- retient un champion de deploiement
+- score la prod avec ce champion
+
+Aujourd'hui, le champion retenu est:
+
+- xgb
+- oversample
+- threshold 0.83

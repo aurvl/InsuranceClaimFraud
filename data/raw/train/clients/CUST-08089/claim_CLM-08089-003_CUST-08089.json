@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08089-003",
+  "customer_id": "CUST-08089",
+  "claim_date": "2019-12-12",
+  "policy_start_date": "2019-02-04",
+  "policy_age_days": 311,
+  "claim_amount": 5895.49,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-013",
+  "location": "Paris",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

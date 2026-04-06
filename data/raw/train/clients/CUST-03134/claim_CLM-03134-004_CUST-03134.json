@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03134-004",
+  "customer_id": "CUST-03134",
+  "claim_date": "2023-08-21",
+  "policy_start_date": "2021-04-25",
+  "policy_age_days": 848,
+  "claim_amount": 4151.68,
+  "claim_type": "water_damage",
+  "customer_age": 49,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 280,
+  "service_provider_id": "SP-008",
+  "location": "Paris",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

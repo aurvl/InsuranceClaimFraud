@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01610-007",
+  "customer_id": "CUST-01610",
+  "claim_date": "2025-03-23",
+  "policy_start_date": "2023-05-08",
+  "policy_age_days": 685,
+  "claim_amount": 28604.25,
+  "claim_type": "fire",
+  "customer_age": 76,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-107",
+  "location": "Tours",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

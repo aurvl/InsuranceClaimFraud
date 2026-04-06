@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05539-002",
+  "customer_id": "CUST-05539",
+  "claim_date": "2023-03-10",
+  "policy_start_date": "2022-12-14",
+  "policy_age_days": 86,
+  "claim_amount": 1311.85,
+  "claim_type": "hail_damage",
+  "customer_age": 42,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-079",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

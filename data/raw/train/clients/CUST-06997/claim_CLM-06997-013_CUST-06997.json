@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06997-013",
+  "customer_id": "CUST-06997",
+  "claim_date": "2024-01-27",
+  "policy_start_date": "2019-03-23",
+  "policy_age_days": 1771,
+  "claim_amount": 1018.6,
+  "claim_type": "windshield",
+  "customer_age": 85,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 161,
+  "service_provider_id": "SP-076",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

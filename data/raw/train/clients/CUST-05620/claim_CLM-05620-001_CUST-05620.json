@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05620-001",
+  "customer_id": "CUST-05620",
+  "claim_date": "2020-05-19",
+  "policy_start_date": "2020-02-29",
+  "policy_age_days": 80,
+  "claim_amount": 3817.9,
+  "claim_type": "collision",
+  "customer_age": 61,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-013",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

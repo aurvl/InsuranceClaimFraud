@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05222-003",
+  "customer_id": "CUST-05222",
+  "claim_date": "2025-03-06",
+  "policy_start_date": "2023-04-25",
+  "policy_age_days": 681,
+  "claim_amount": 12858.68,
+  "claim_type": "fire",
+  "customer_age": 50,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 233,
+  "service_provider_id": "SP-108",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

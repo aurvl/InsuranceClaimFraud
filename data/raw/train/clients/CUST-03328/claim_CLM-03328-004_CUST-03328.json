@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03328-004",
+  "customer_id": "CUST-03328",
+  "claim_date": "2023-02-10",
+  "policy_start_date": "2021-09-04",
+  "policy_age_days": 524,
+  "claim_amount": 8949.45,
+  "claim_type": "water_damage",
+  "customer_age": 58,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 225,
+  "service_provider_id": "SP-044",
+  "location": "Annecy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

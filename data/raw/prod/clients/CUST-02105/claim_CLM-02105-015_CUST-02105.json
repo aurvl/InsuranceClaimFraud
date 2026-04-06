@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02105-015",
+  "customer_id": "CUST-02105",
+  "claim_date": "2025-06-06",
+  "policy_start_date": "2018-07-16",
+  "policy_age_days": 2517,
+  "claim_amount": 1775.61,
+  "claim_type": "windshield",
+  "customer_age": 26,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 113,
+  "service_provider_id": "SP-075",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

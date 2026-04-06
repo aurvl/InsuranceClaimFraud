@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05563-004",
+  "customer_id": "CUST-05563",
+  "claim_date": "2021-01-01",
+  "policy_start_date": "2020-03-06",
+  "policy_age_days": 301,
+  "claim_amount": 25361.3,
+  "claim_type": "theft",
+  "customer_age": 23,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 68,
+  "service_provider_id": "SP-098",
+  "location": "Rennes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

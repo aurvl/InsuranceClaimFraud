@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07176-008",
+  "customer_id": "CUST-07176",
+  "claim_date": "2023-01-01",
+  "policy_start_date": "2018-04-08",
+  "policy_age_days": 1729,
+  "claim_amount": 4187.64,
+  "claim_type": "collision",
+  "customer_age": 47,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 176,
+  "service_provider_id": "SP-043",
+  "location": "Cannes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

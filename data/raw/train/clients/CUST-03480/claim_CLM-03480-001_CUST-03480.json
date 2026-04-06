@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03480-001",
+  "customer_id": "CUST-03480",
+  "claim_date": "2022-12-16",
+  "policy_start_date": "2022-09-24",
+  "policy_age_days": 83,
+  "claim_amount": 5425.6,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-102",
+  "location": "Rennes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

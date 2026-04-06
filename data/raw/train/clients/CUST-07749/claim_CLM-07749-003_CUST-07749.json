@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07749-003",
+  "customer_id": "CUST-07749",
+  "claim_date": "2020-07-25",
+  "policy_start_date": "2019-11-19",
+  "policy_age_days": 249,
+  "claim_amount": 2591.3,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 190,
+  "service_provider_id": "SP-111",
+  "location": "Metz",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

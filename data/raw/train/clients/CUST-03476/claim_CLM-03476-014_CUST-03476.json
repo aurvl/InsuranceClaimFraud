@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03476-014",
+  "customer_id": "CUST-03476",
+  "claim_date": "2023-11-14",
+  "policy_start_date": "2018-08-06",
+  "policy_age_days": 1926,
+  "claim_amount": 2749.76,
+  "claim_type": "hail_damage",
+  "customer_age": 40,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 159,
+  "service_provider_id": "SP-072",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

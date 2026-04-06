@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02895-003",
+  "customer_id": "CUST-02895",
+  "claim_date": "2021-08-23",
+  "policy_start_date": "2019-11-13",
+  "policy_age_days": 649,
+  "claim_amount": 16281.41,
+  "claim_type": "collision",
+  "customer_age": 41,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 283,
+  "service_provider_id": "SP-057",
+  "location": "Saint-Malo",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

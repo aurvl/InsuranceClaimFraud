@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01817-008",
+  "customer_id": "CUST-01817",
+  "claim_date": "2024-03-24",
+  "policy_start_date": "2019-02-24",
+  "policy_age_days": 1855,
+  "claim_amount": 3864.08,
+  "claim_type": "collision",
+  "customer_age": 76,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 201,
+  "service_provider_id": "SP-034",
+  "location": "Cannes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

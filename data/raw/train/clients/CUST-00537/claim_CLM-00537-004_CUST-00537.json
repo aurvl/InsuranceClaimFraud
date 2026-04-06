@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00537-004",
+  "customer_id": "CUST-00537",
+  "claim_date": "2021-12-05",
+  "policy_start_date": "2019-12-14",
+  "policy_age_days": 722,
+  "claim_amount": 3513.52,
+  "claim_type": "water_damage",
+  "customer_age": 51,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 182,
+  "service_provider_id": "SP-058",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04186-008",
+  "customer_id": "CUST-04186",
+  "claim_date": "2021-07-10",
+  "policy_start_date": "2018-04-09",
+  "policy_age_days": 1188,
+  "claim_amount": 7691.17,
+  "claim_type": "fire",
+  "customer_age": 32,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 98,
+  "service_provider_id": "SP-101",
+  "location": "Tours",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

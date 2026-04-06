@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07610-001",
+  "customer_id": "CUST-07610",
+  "claim_date": "2019-12-09",
+  "policy_start_date": "2019-09-04",
+  "policy_age_days": 96,
+  "claim_amount": 16102.63,
+  "claim_type": "bodily_injury",
+  "customer_age": 57,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-051",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

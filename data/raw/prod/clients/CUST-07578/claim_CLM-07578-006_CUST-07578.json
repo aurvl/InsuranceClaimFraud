@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07578-006",
+  "customer_id": "CUST-07578",
+  "claim_date": "2024-10-11",
+  "policy_start_date": "2022-11-28",
+  "policy_age_days": 683,
+  "claim_amount": 1266.92,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-053",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

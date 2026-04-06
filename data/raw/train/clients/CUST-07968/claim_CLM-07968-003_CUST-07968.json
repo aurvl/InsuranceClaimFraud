@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07968-003",
+  "customer_id": "CUST-07968",
+  "claim_date": "2019-11-27",
+  "policy_start_date": "2019-01-09",
+  "policy_age_days": 322,
+  "claim_amount": 5898.24,
+  "claim_type": "collision",
+  "customer_age": 76,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 168,
+  "service_provider_id": "SP-061",
+  "location": "Villeurbanne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04700-011",
+  "customer_id": "CUST-04700",
+  "claim_date": "2025-04-16",
+  "policy_start_date": "2020-06-21",
+  "policy_age_days": 1760,
+  "claim_amount": 2980.51,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 291,
+  "service_provider_id": "SP-017",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

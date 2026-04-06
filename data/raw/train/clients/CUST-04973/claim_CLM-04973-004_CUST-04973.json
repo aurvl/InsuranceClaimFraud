@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04973-004",
+  "customer_id": "CUST-04973",
+  "claim_date": "2019-02-03",
+  "policy_start_date": "2018-04-17",
+  "policy_age_days": 292,
+  "claim_amount": 2832.74,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 196,
+  "service_provider_id": "SP-095",
+  "location": "Rennes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

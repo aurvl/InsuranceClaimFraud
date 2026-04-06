@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06839-008",
+  "customer_id": "CUST-06839",
+  "claim_date": "2025-04-01",
+  "policy_start_date": "2019-08-18",
+  "policy_age_days": 2053,
+  "claim_amount": 9856.12,
+  "claim_type": "water_damage",
+  "customer_age": 80,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 240,
+  "service_provider_id": "SP-085",
+  "location": "Nancy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01428-004",
+  "customer_id": "CUST-01428",
+  "claim_date": "2021-09-25",
+  "policy_start_date": "2018-12-05",
+  "policy_age_days": 1025,
+  "claim_amount": 4775.64,
+  "claim_type": "water_damage",
+  "customer_age": 84,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 741,
+  "service_provider_id": "SP-063",
+  "location": "Strasbourg",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

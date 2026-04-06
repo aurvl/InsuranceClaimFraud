@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02427-012",
+  "customer_id": "CUST-02427",
+  "claim_date": "2023-01-14",
+  "policy_start_date": "2018-01-19",
+  "policy_age_days": 1821,
+  "claim_amount": 2295.4,
+  "claim_type": "hail_damage",
+  "customer_age": 64,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 80,
+  "service_provider_id": "SP-055",
+  "location": "Nantes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05624-010",
+  "customer_id": "CUST-05624",
+  "claim_date": "2024-05-13",
+  "policy_start_date": "2020-02-27",
+  "policy_age_days": 1537,
+  "claim_amount": 10012.95,
+  "claim_type": "bodily_injury",
+  "customer_age": 71,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 30,
+  "service_provider_id": "SP-038",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

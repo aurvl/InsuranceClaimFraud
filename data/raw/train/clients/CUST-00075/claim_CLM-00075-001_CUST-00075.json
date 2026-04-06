@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00075-001",
+  "customer_id": "CUST-00075",
+  "claim_date": "2023-03-20",
+  "policy_start_date": "2023-02-01",
+  "policy_age_days": 47,
+  "claim_amount": 3174.84,
+  "claim_type": "fire",
+  "customer_age": 26,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-098",
+  "location": "Brest",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08154-007",
+  "customer_id": "CUST-08154",
+  "claim_date": "2023-07-11",
+  "policy_start_date": "2021-03-04",
+  "policy_age_days": 859,
+  "claim_amount": 3090.72,
+  "claim_type": "collision",
+  "customer_age": 79,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 57,
+  "service_provider_id": "SP-071",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

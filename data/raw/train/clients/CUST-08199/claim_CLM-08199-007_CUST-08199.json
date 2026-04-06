@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08199-007",
+  "customer_id": "CUST-08199",
+  "claim_date": "2022-06-24",
+  "policy_start_date": "2019-01-10",
+  "policy_age_days": 1261,
+  "claim_amount": 3849.55,
+  "claim_type": "hail_damage",
+  "customer_age": 67,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-107",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

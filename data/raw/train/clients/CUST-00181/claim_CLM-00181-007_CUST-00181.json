@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00181-007",
+  "customer_id": "CUST-00181",
+  "claim_date": "2020-09-12",
+  "policy_start_date": "2018-08-08",
+  "policy_age_days": 766,
+  "claim_amount": 8576.6,
+  "claim_type": "fire",
+  "customer_age": 28,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-071",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

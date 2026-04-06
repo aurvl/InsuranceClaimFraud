@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08900-002",
+  "customer_id": "CUST-08900",
+  "claim_date": "2020-12-08",
+  "policy_start_date": "2020-05-06",
+  "policy_age_days": 216,
+  "claim_amount": 13212.85,
+  "claim_type": "theft",
+  "customer_age": 71,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 133,
+  "service_provider_id": "SP-090",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

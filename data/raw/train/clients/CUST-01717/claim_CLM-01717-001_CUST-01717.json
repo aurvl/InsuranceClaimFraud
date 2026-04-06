@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01717-001",
+  "customer_id": "CUST-01717",
+  "claim_date": "2021-07-30",
+  "policy_start_date": "2021-03-11",
+  "policy_age_days": 141,
+  "claim_amount": 1886.73,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-119",
+  "location": "Limoges",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

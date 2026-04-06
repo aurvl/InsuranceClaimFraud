@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03929-004",
+  "customer_id": "CUST-03929",
+  "claim_date": "2021-01-20",
+  "policy_start_date": "2019-03-05",
+  "policy_age_days": 687,
+  "claim_amount": 3885.21,
+  "claim_type": "collision",
+  "customer_age": 66,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 219,
+  "service_provider_id": "SP-035",
+  "location": "Angers",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

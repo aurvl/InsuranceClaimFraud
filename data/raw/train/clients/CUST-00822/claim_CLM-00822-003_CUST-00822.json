@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00822-003",
+  "customer_id": "CUST-00822",
+  "claim_date": "2021-12-20",
+  "policy_start_date": "2021-03-13",
+  "policy_age_days": 282,
+  "claim_amount": 2232.36,
+  "claim_type": "water_damage",
+  "customer_age": 48,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 99,
+  "service_provider_id": "SP-064",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

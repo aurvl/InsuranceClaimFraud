@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01554-003",
+  "customer_id": "CUST-01554",
+  "claim_date": "2022-02-15",
+  "policy_start_date": "2020-07-31",
+  "policy_age_days": 564,
+  "claim_amount": 38258.91,
+  "claim_type": "fire",
+  "customer_age": 25,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-018",
+  "location": "Marseille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

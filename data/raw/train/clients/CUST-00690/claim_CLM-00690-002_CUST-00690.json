@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00690-002",
+  "customer_id": "CUST-00690",
+  "claim_date": "2024-02-17",
+  "policy_start_date": "2023-02-22",
+  "policy_age_days": 360,
+  "claim_amount": 1967.76,
+  "claim_type": "hail_damage",
+  "customer_age": 59,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 318,
+  "service_provider_id": "SP-073",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

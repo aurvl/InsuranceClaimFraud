@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05355-005",
+  "customer_id": "CUST-05355",
+  "claim_date": "2020-02-13",
+  "policy_start_date": "2018-05-17",
+  "policy_age_days": 637,
+  "claim_amount": 5578.4,
+  "claim_type": "theft",
+  "customer_age": 37,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-058",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

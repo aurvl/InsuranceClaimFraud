@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05036-001",
+  "customer_id": "CUST-05036",
+  "claim_date": "2018-09-11",
+  "policy_start_date": "2018-04-29",
+  "policy_age_days": 135,
+  "claim_amount": 4513.5,
+  "claim_type": "collision",
+  "customer_age": 22,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-061",
+  "location": "Saint-Malo",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

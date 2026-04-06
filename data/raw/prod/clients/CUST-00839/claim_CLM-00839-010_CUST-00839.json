@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00839-010",
+  "customer_id": "CUST-00839",
+  "claim_date": "2025-01-28",
+  "policy_start_date": "2019-07-12",
+  "policy_age_days": 2027,
+  "claim_amount": 1736.51,
+  "claim_type": "windshield",
+  "customer_age": 68,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-018",
+  "location": "Metz",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

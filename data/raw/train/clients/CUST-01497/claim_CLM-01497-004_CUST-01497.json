@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01497-004",
+  "customer_id": "CUST-01497",
+  "claim_date": "2020-01-25",
+  "policy_start_date": "2019-01-28",
+  "policy_age_days": 362,
+  "claim_amount": 1637.1,
+  "claim_type": "windshield",
+  "customer_age": 23,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 266,
+  "service_provider_id": "SP-003",
+  "location": "Grenoble",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

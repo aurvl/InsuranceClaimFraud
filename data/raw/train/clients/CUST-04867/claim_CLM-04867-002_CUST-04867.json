@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04867-002",
+  "customer_id": "CUST-04867",
+  "claim_date": "2019-09-08",
+  "policy_start_date": "2018-08-04",
+  "policy_age_days": 400,
+  "claim_amount": 4506.2,
+  "claim_type": "collision",
+  "customer_age": 57,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 260,
+  "service_provider_id": "SP-058",
+  "location": "Strasbourg",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

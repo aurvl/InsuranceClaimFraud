@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00321-001",
+  "customer_id": "CUST-00321",
+  "claim_date": "2020-08-27",
+  "policy_start_date": "2020-07-30",
+  "policy_age_days": 28,
+  "claim_amount": 10972.04,
+  "claim_type": "bodily_injury",
+  "customer_age": 81,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-021",
+  "location": "Grenoble",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08192-006",
+  "customer_id": "CUST-08192",
+  "claim_date": "2024-12-13",
+  "policy_start_date": "2022-07-28",
+  "policy_age_days": 869,
+  "claim_amount": 3238.19,
+  "claim_type": "hail_damage",
+  "customer_age": 18,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-019",
+  "location": "Metz",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

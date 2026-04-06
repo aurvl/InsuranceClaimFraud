@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02781-002",
+  "customer_id": "CUST-02781",
+  "claim_date": "2018-03-04",
+  "policy_start_date": "2018-01-11",
+  "policy_age_days": 52,
+  "claim_amount": 28652.72,
+  "claim_type": "theft",
+  "customer_age": 75,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-017",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

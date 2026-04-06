@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02522-002",
+  "customer_id": "CUST-02522",
+  "claim_date": "2024-06-02",
+  "policy_start_date": "2023-09-23",
+  "policy_age_days": 253,
+  "claim_amount": 30652.4,
+  "claim_type": "bodily_injury",
+  "customer_age": 78,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 206,
+  "service_provider_id": "SP-051",
+  "location": "La Rochelle",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

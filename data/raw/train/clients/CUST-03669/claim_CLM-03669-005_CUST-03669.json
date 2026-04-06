@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03669-005",
+  "customer_id": "CUST-03669",
+  "claim_date": "2019-10-08",
+  "policy_start_date": "2018-01-16",
+  "policy_age_days": 630,
+  "claim_amount": 16481.53,
+  "claim_type": "collision",
+  "customer_age": 29,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 195,
+  "service_provider_id": "SP-012",
+  "location": "Perpignan",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

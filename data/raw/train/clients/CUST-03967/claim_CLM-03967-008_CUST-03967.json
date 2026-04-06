@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03967-008",
+  "customer_id": "CUST-03967",
+  "claim_date": "2023-05-29",
+  "policy_start_date": "2019-08-04",
+  "policy_age_days": 1394,
+  "claim_amount": 3332.55,
+  "claim_type": "windshield",
+  "customer_age": 47,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 195,
+  "service_provider_id": "SP-041",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

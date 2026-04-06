@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07154-006",
+  "customer_id": "CUST-07154",
+  "claim_date": "2023-11-08",
+  "policy_start_date": "2020-01-08",
+  "policy_age_days": 1400,
+  "claim_amount": 1767.68,
+  "claim_type": "windshield",
+  "customer_age": 20,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 376,
+  "service_provider_id": "SP-058",
+  "location": "Angers",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05012-005",
+  "customer_id": "CUST-05012",
+  "claim_date": "2022-01-11",
+  "policy_start_date": "2019-07-06",
+  "policy_age_days": 920,
+  "claim_amount": 7777.17,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 187,
+  "service_provider_id": "SP-120",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

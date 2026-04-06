@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06507-001",
+  "customer_id": "CUST-06507",
+  "claim_date": "2020-12-28",
+  "policy_start_date": "2020-08-08",
+  "policy_age_days": 142,
+  "claim_amount": 9337.82,
+  "claim_type": "theft",
+  "customer_age": 73,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-003",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

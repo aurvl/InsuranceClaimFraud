@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01365-003",
+  "customer_id": "CUST-01365",
+  "claim_date": "2021-05-11",
+  "policy_start_date": "2020-06-17",
+  "policy_age_days": 328,
+  "claim_amount": 20837.88,
+  "claim_type": "theft",
+  "customer_age": 35,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 168,
+  "service_provider_id": "SP-051",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

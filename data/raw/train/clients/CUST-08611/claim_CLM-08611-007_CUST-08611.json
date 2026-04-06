@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08611-007",
+  "customer_id": "CUST-08611",
+  "claim_date": "2023-05-15",
+  "policy_start_date": "2021-10-24",
+  "policy_age_days": 568,
+  "claim_amount": 1227.47,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-003",
+  "location": "Dijon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

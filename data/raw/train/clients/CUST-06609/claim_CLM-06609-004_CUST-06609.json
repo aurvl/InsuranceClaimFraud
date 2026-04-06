@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06609-004",
+  "customer_id": "CUST-06609",
+  "claim_date": "2021-01-14",
+  "policy_start_date": "2020-01-18",
+  "policy_age_days": 362,
+  "claim_amount": 12652.97,
+  "claim_type": "fire",
+  "customer_age": 54,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 159,
+  "service_provider_id": "SP-119",
+  "location": "Amiens",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06184-008",
+  "customer_id": "CUST-06184",
+  "claim_date": "2023-01-02",
+  "policy_start_date": "2020-06-17",
+  "policy_age_days": 929,
+  "claim_amount": 5752.17,
+  "claim_type": "collision",
+  "customer_age": 36,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-037",
+  "location": "Angers",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

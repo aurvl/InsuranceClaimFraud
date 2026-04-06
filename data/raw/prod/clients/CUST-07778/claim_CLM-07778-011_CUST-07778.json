@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07778-011",
+  "customer_id": "CUST-07778",
+  "claim_date": "2025-05-18",
+  "policy_start_date": "2019-05-18",
+  "policy_age_days": 2192,
+  "claim_amount": 2089.67,
+  "claim_type": "windshield",
+  "customer_age": 67,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-089",
+  "location": "Le Havre",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

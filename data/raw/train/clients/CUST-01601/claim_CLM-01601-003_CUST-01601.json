@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01601-003",
+  "customer_id": "CUST-01601",
+  "claim_date": "2021-04-01",
+  "policy_start_date": "2020-03-06",
+  "policy_age_days": 391,
+  "claim_amount": 4348.47,
+  "claim_type": "bodily_injury",
+  "customer_age": 44,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

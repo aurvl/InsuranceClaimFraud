@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08190-002",
+  "customer_id": "CUST-08190",
+  "claim_date": "2024-07-13",
+  "policy_start_date": "2023-07-26",
+  "policy_age_days": 353,
+  "claim_amount": 24360.29,
+  "claim_type": "theft",
+  "customer_age": 55,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 241,
+  "service_provider_id": "SP-004",
+  "location": "Perpignan",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06063-009",
+  "customer_id": "CUST-06063",
+  "claim_date": "2023-12-29",
+  "policy_start_date": "2019-01-17",
+  "policy_age_days": 1807,
+  "claim_amount": 23500.42,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 102,
+  "service_provider_id": "SP-032",
+  "location": "Lyon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

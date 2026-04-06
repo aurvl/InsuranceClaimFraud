@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07646-006",
+  "customer_id": "CUST-07646",
+  "claim_date": "2024-10-08",
+  "policy_start_date": "2019-10-28",
+  "policy_age_days": 1807,
+  "claim_amount": 18783.91,
+  "claim_type": "fire",
+  "customer_age": 78,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-043",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07970-005",
+  "customer_id": "CUST-07970",
+  "claim_date": "2022-02-13",
+  "policy_start_date": "2018-06-25",
+  "policy_age_days": 1329,
+  "claim_amount": 6994.41,
+  "claim_type": "fire",
+  "customer_age": 75,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 190,
+  "service_provider_id": "SP-026",
+  "location": "Dijon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

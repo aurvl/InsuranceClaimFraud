@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04444-006",
+  "customer_id": "CUST-04444",
+  "claim_date": "2020-11-12",
+  "policy_start_date": "2018-10-31",
+  "policy_age_days": 743,
+  "claim_amount": 3318.33,
+  "claim_type": "windshield",
+  "customer_age": 55,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 117,
+  "service_provider_id": "SP-044",
+  "location": "Dijon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

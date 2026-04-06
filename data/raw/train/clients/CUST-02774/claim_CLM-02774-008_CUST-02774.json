@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02774-008",
+  "customer_id": "CUST-02774",
+  "claim_date": "2022-10-28",
+  "policy_start_date": "2019-07-05",
+  "policy_age_days": 1211,
+  "claim_amount": 9881.06,
+  "claim_type": "collision",
+  "customer_age": 28,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 231,
+  "service_provider_id": "SP-086",
+  "location": "Bordeaux",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

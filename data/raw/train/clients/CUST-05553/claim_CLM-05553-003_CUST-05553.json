@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05553-003",
+  "customer_id": "CUST-05553",
+  "claim_date": "2023-03-24",
+  "policy_start_date": "2022-01-08",
+  "policy_age_days": 440,
+  "claim_amount": 4756.2,
+  "claim_type": "water_damage",
+  "customer_age": 54,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 283,
+  "service_provider_id": "SP-118",
+  "location": "Amiens",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

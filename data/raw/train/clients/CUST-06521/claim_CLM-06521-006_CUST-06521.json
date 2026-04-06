@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06521-006",
+  "customer_id": "CUST-06521",
+  "claim_date": "2020-10-18",
+  "policy_start_date": "2018-06-17",
+  "policy_age_days": 854,
+  "claim_amount": 4561.16,
+  "claim_type": "collision",
+  "customer_age": 67,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 224,
+  "service_provider_id": "SP-044",
+  "location": "Strasbourg",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

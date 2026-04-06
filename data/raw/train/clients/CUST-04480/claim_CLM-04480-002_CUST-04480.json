@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04480-002",
+  "customer_id": "CUST-04480",
+  "claim_date": "2019-09-26",
+  "policy_start_date": "2019-06-15",
+  "policy_age_days": 103,
+  "claim_amount": 36002.84,
+  "claim_type": "fire",
+  "customer_age": 23,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 84,
+  "service_provider_id": "SP-111",
+  "location": "Brest",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

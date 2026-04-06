@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04174-005",
+  "customer_id": "CUST-04174",
+  "claim_date": "2020-12-18",
+  "policy_start_date": "2020-05-13",
+  "policy_age_days": 219,
+  "claim_amount": 1457.82,
+  "claim_type": "hail_damage",
+  "customer_age": 67,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-053",
+  "location": "N\u00eemes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

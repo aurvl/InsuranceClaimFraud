@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00205-006",
+  "customer_id": "CUST-00205",
+  "claim_date": "2022-07-10",
+  "policy_start_date": "2018-10-15",
+  "policy_age_days": 1364,
+  "claim_amount": 2101.03,
+  "claim_type": "water_damage",
+  "customer_age": 30,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 207,
+  "service_provider_id": "SP-025",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06170-007",
+  "customer_id": "CUST-06170",
+  "claim_date": "2025-11-08",
+  "policy_start_date": "2022-06-20",
+  "policy_age_days": 1237,
+  "claim_amount": 4808.46,
+  "claim_type": "theft",
+  "customer_age": 59,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-044",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

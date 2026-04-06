@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00256-009",
+  "customer_id": "CUST-00256",
+  "claim_date": "2023-02-24",
+  "policy_start_date": "2019-06-06",
+  "policy_age_days": 1359,
+  "claim_amount": 1988.22,
+  "claim_type": "windshield",
+  "customer_age": 43,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-068",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

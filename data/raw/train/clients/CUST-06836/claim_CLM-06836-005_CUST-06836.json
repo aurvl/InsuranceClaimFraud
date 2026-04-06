@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06836-005",
+  "customer_id": "CUST-06836",
+  "claim_date": "2020-01-19",
+  "policy_start_date": "2019-05-26",
+  "policy_age_days": 238,
+  "claim_amount": 6256.64,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-113",
+  "location": "Reims",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

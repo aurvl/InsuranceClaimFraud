@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06619-007",
+  "customer_id": "CUST-06619",
+  "claim_date": "2025-07-28",
+  "policy_start_date": "2021-11-21",
+  "policy_age_days": 1345,
+  "claim_amount": 4048.85,
+  "claim_type": "water_damage",
+  "customer_age": 27,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 369,
+  "service_provider_id": "SP-029",
+  "location": "Cannes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

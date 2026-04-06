@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08545-002",
+  "customer_id": "CUST-08545",
+  "claim_date": "2018-10-07",
+  "policy_start_date": "2018-05-19",
+  "policy_age_days": 141,
+  "claim_amount": 18663.87,
+  "claim_type": "fire",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-055",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05929-002",
+  "customer_id": "CUST-05929",
+  "claim_date": "2018-10-17",
+  "policy_start_date": "2018-05-30",
+  "policy_age_days": 140,
+  "claim_amount": 2310.67,
+  "claim_type": "water_damage",
+  "customer_age": 56,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-051",
+  "location": "Nantes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

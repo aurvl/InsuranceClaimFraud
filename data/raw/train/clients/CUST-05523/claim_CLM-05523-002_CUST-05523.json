@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05523-002",
+  "customer_id": "CUST-05523",
+  "claim_date": "2019-11-28",
+  "policy_start_date": "2019-05-16",
+  "policy_age_days": 196,
+  "claim_amount": 25619.14,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 166,
+  "service_provider_id": "SP-068",
+  "location": "Montpellier",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

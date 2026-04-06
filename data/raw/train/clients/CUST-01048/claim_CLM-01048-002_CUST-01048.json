@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01048-002",
+  "customer_id": "CUST-01048",
+  "claim_date": "2022-06-06",
+  "policy_start_date": "2021-12-27",
+  "policy_age_days": 161,
+  "claim_amount": 13979.43,
+  "claim_type": "water_damage",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 16,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08852-002",
+  "customer_id": "CUST-08852",
+  "claim_date": "2020-06-04",
+  "policy_start_date": "2019-05-01",
+  "policy_age_days": 400,
+  "claim_amount": 21764.57,
+  "claim_type": "bodily_injury",
+  "customer_age": 18,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 262,
+  "service_provider_id": "SP-044",
+  "location": "Angers",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

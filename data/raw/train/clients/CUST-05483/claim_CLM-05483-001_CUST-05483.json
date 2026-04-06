@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05483-001",
+  "customer_id": "CUST-05483",
+  "claim_date": "2024-04-07",
+  "policy_start_date": "2023-12-23",
+  "policy_age_days": 106,
+  "claim_amount": 1628.16,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-014",
+  "location": "Metz",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

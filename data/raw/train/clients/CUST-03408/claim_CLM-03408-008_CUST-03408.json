@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03408-008",
+  "customer_id": "CUST-03408",
+  "claim_date": "2021-07-14",
+  "policy_start_date": "2018-04-09",
+  "policy_age_days": 1192,
+  "claim_amount": 4247.65,
+  "claim_type": "collision",
+  "customer_age": 21,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-014",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

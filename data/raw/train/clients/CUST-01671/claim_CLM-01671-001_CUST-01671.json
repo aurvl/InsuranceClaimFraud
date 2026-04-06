@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01671-001",
+  "customer_id": "CUST-01671",
+  "claim_date": "2019-02-12",
+  "policy_start_date": "2018-10-23",
+  "policy_age_days": 112,
+  "claim_amount": 1122.06,
+  "claim_type": "windshield",
+  "customer_age": 29,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

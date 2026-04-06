@@ -1,0 +1,282 @@
+{
+  "claim_payload": {
+    "claim_id": "CLM-06485-001",
+    "customer_id": "CUST-06485",
+    "claim_date": "2024-10-03",
+    "policy_start_date": "2024-06-01",
+    "policy_age_days": 124,
+    "claim_amount": 2008.3,
+    "claim_type": "water_damage",
+    "customer_age": 46,
+    "num_previous_claims": 0,
+    "time_since_last_claim_days": null,
+    "service_provider_id": "SP-035",
+    "location": "Lille",
+    "weather_condition": "rain"
+  },
+  "structured_claim": {
+    "claim_id": "CLM-06485-001",
+    "customer_id": "CUST-06485",
+    "claim_date": "2024-10-03",
+    "policy_start_date": "2024-06-01",
+    "policy_age_days": 124,
+    "claim_amount": 2008.3,
+    "claim_type": "water_damage",
+    "customer_age": 46,
+    "num_previous_claims": 0,
+    "time_since_last_claim_days": null,
+    "service_provider_id": "SP-035",
+    "location": "Lille",
+    "weather_condition": "rain"
+  },
+  "document_extraction": {
+    "json_fields": {
+      "claim_id": "CLM-06485-001",
+      "customer_id": "CUST-06485",
+      "claim_date": "2024-10-03",
+      "policy_start_date": "2024-06-01",
+      "policy_age_days": 124,
+      "claim_amount": 2008.3,
+      "claim_type": "water_damage",
+      "customer_age": 46,
+      "num_previous_claims": 0,
+      "time_since_last_claim_days": null,
+      "service_provider_id": "SP-035",
+      "location": "Lille",
+      "weather_condition": "rain"
+    },
+    "pdf_fields": {
+      "claim_id": "CLM-06485-001",
+      "customer_id": "CUST-06485",
+      "claim_date": "2024-10-03",
+      "policy_start_date": "2024-06-01",
+      "policy_age_days": 124,
+      "claim_type": "water_damage",
+      "claim_amount": 2008.3,
+      "customer_age": 46,
+      "num_previous_claims": 0,
+      "time_since_last_claim_days": null,
+      "service_provider_id": "SP-035",
+      "location": "Lille",
+      "weather_condition": "rain"
+    },
+    "image_fields": {
+      "claim_id": "CLM-06485-001",
+      "customer_id": "CUST-06485"
+    },
+    "pdf_text_excerpt": "Insurance Claim Summary\nClaim ID: CLM-06485-001\nCustomer ID: CUST-06485\nClaim Date: 2024-10-03\nPolicy Start Date: 2024-06-01\nPolicy Age (days): 124\nClaim Type: water_damage\nClaim Amount: EUR 2,008.30\nCustomer Age: 46\nPrevious Claims: 0\nTime Since Last Claim: N/A\nService Provider: SP-035\nLocation: Lille\nWeather: rain\nSynthetic adjuster note:\nThe customer reported a water_damage incident in Lille under rain conditions. The requested amount is EUR 2,008.30. This package is generated locally to emulate a claim intake workflow with CRM data and attachments.\n",
+    "image_metadata": {
+      "width": 640,
+      "height": 360,
+      "format": "PNG"
+    },
+    "source_map": {
+      "claim_id": [
+        {
+          "source": "json",
+          "value": "CLM-06485-001"
+        },
+        {
+          "source": "pdf",
+          "value": "CLM-06485-001"
+        },
+        {
+          "source": "image",
+          "value": "CLM-06485-001"
+        }
+      ],
+      "customer_id": [
+        {
+          "source": "json",
+          "value": "CUST-06485"
+        },
+        {
+          "source": "pdf",
+          "value": "CUST-06485"
+        },
+        {
+          "source": "image",
+          "value": "CUST-06485"
+        }
+      ],
+      "claim_date": [
+        {
+          "source": "json",
+          "value": "2024-10-03"
+        },
+        {
+          "source": "pdf",
+          "value": "2024-10-03"
+        }
+      ],
+      "policy_start_date": [
+        {
+          "source": "json",
+          "value": "2024-06-01"
+        },
+        {
+          "source": "pdf",
+          "value": "2024-06-01"
+        }
+      ],
+      "policy_age_days": [
+        {
+          "source": "json",
+          "value": 124
+        },
+        {
+          "source": "pdf",
+          "value": 124
+        }
+      ],
+      "claim_amount": [
+        {
+          "source": "json",
+          "value": 2008.3
+        },
+        {
+          "source": "pdf",
+          "value": 2008.3
+        }
+      ],
+      "claim_type": [
+        {
+          "source": "json",
+          "value": "water_damage"
+        },
+        {
+          "source": "pdf",
+          "value": "water_damage"
+        }
+      ],
+      "customer_age": [
+        {
+          "source": "json",
+          "value": 46
+        },
+        {
+          "source": "pdf",
+          "value": 46
+        }
+      ],
+      "num_previous_claims": [
+        {
+          "source": "json",
+          "value": 0
+        },
+        {
+          "source": "pdf",
+          "value": 0
+        }
+      ],
+      "service_provider_id": [
+        {
+          "source": "json",
+          "value": "SP-035"
+        },
+        {
+          "source": "pdf",
+          "value": "SP-035"
+        }
+      ],
+      "location": [
+        {
+          "source": "json",
+          "value": "Lille"
+        },
+        {
+          "source": "pdf",
+          "value": "Lille"
+        }
+      ],
+      "weather_condition": [
+        {
+          "source": "json",
+          "value": "rain"
+        },
+        {
+          "source": "pdf",
+          "value": "rain"
+        }
+      ]
+    },
+    "chosen_sources": {
+      "claim_id": "json",
+      "customer_id": "json",
+      "claim_date": "json",
+      "policy_start_date": "json",
+      "policy_age_days": "json",
+      "claim_amount": "json",
+      "claim_type": "json",
+      "customer_age": "json",
+      "num_previous_claims": "json",
+      "service_provider_id": "json",
+      "location": "json",
+      "weather_condition": "json"
+    },
+    "mismatches": [],
+    "missing_fields": [],
+    "structured_claim": {
+      "claim_id": "CLM-06485-001",
+      "customer_id": "CUST-06485",
+      "claim_date": "2024-10-03",
+      "policy_start_date": "2024-06-01",
+      "policy_age_days": 124,
+      "claim_amount": 2008.3,
+      "claim_type": "water_damage",
+      "customer_age": 46,
+      "num_previous_claims": 0,
+      "time_since_last_claim_days": null,
+      "service_provider_id": "SP-035",
+      "location": "Lille",
+      "weather_condition": "rain"
+    },
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  },
+  "package_metadata": {
+    "claim_id": "CLM-06485-001",
+    "package_directory": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-06485-001",
+    "stored_files": {
+      "claim_json": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-06485-001\\claim_payload.json",
+      "pdf": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-06485-001\\pdf_claim_CLM-06485-001_CUST-06485.pdf",
+      "image": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-06485-001\\image_claim_CLM-06485-001_CUST-06485.png"
+    },
+    "attachments": [
+      {
+        "kind": "pdf",
+        "filename": "claim_CLM-06485-001_CUST-06485.pdf",
+        "content_type": "application/pdf",
+        "size_bytes": 1916,
+        "sha256": "7012954c55c3bb1c8b713bdf6f84a446f17cf7742e39688324dfea40ae5c9026",
+        "stored_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-06485-001\\pdf_claim_CLM-06485-001_CUST-06485.pdf"
+      },
+      {
+        "kind": "image",
+        "filename": "claim_CLM-06485-001_CUST-06485.png",
+        "content_type": "image/png",
+        "size_bytes": 7698,
+        "sha256": "63927cc9db55472be926fa78021b63f77643c779dea8291e5dfee7fe346559b0",
+        "image_width": 640,
+        "image_height": 360,
+        "image_format": "PNG",
+        "stored_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-06485-001\\image_claim_CLM-06485-001_CUST-06485.png"
+      }
+    ],
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  },
+  "prediction": {
+    "claim_id": "CLM-06485-001",
+    "fraud_probability": 0.237402,
+    "model_decision": "non_fraud",
+    "decision_threshold": 0.5,
+    "risk_flags": []
+  },
+  "policy": {
+    "development_cutoff_date": "2024-10-02",
+    "production_start_date": "2024-10-03",
+    "production_data_used_in_training": false,
+    "production_data_used_in_evaluation": false,
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction",
+    "historical_analytics_source": "postgres_from_extracted_client_packages"
+  }
+}

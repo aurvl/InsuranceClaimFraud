@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05249-003",
+  "customer_id": "CUST-05249",
+  "claim_date": "2020-08-21",
+  "policy_start_date": "2019-06-13",
+  "policy_age_days": 435,
+  "claim_amount": 24703.01,
+  "claim_type": "bodily_injury",
+  "customer_age": 54,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 100,
+  "service_provider_id": "SP-091",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

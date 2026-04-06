@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06656-006",
+  "customer_id": "CUST-06656",
+  "claim_date": "2020-08-27",
+  "policy_start_date": "2018-06-25",
+  "policy_age_days": 794,
+  "claim_amount": 1590.36,
+  "claim_type": "windshield",
+  "customer_age": 75,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 142,
+  "service_provider_id": "SP-004",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

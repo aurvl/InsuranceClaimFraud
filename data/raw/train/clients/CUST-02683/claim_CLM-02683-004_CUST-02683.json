@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02683-004",
+  "customer_id": "CUST-02683",
+  "claim_date": "2020-04-14",
+  "policy_start_date": "2018-04-25",
+  "policy_age_days": 720,
+  "claim_amount": 11694.62,
+  "claim_type": "fire",
+  "customer_age": 55,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 115,
+  "service_provider_id": "SP-018",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

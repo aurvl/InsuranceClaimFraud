@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08367-001",
+  "customer_id": "CUST-08367",
+  "claim_date": "2019-06-29",
+  "policy_start_date": "2019-03-25",
+  "policy_age_days": 96,
+  "claim_amount": 11500.53,
+  "claim_type": "bodily_injury",
+  "customer_age": 84,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-029",
+  "location": "Dijon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

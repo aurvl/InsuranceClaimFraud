@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02148-002",
+  "customer_id": "CUST-02148",
+  "claim_date": "2021-09-11",
+  "policy_start_date": "2021-05-16",
+  "policy_age_days": 118,
+  "claim_amount": 4545.19,
+  "claim_type": "theft",
+  "customer_age": 37,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 67,
+  "service_provider_id": "SP-111",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

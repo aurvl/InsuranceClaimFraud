@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08255-014",
+  "customer_id": "CUST-08255",
+  "claim_date": "2024-07-05",
+  "policy_start_date": "2019-02-02",
+  "policy_age_days": 1980,
+  "claim_amount": 4538.19,
+  "claim_type": "collision",
+  "customer_age": 51,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 160,
+  "service_provider_id": "SP-091",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

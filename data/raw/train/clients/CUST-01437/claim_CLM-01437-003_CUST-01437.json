@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01437-003",
+  "customer_id": "CUST-01437",
+  "claim_date": "2022-12-10",
+  "policy_start_date": "2021-06-01",
+  "policy_age_days": 557,
+  "claim_amount": 4804.67,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 436,
+  "service_provider_id": "SP-027",
+  "location": "Lyon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

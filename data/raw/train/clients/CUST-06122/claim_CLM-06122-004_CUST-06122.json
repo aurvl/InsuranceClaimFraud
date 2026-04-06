@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06122-004",
+  "customer_id": "CUST-06122",
+  "claim_date": "2021-02-07",
+  "policy_start_date": "2020-03-14",
+  "policy_age_days": 330,
+  "claim_amount": 10004.29,
+  "claim_type": "bodily_injury",
+  "customer_age": 46,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-044",
+  "location": "Amiens",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

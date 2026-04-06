@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06477-005",
+  "customer_id": "CUST-06477",
+  "claim_date": "2021-04-17",
+  "policy_start_date": "2019-07-09",
+  "policy_age_days": 648,
+  "claim_amount": 26561.39,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 12,
+  "service_provider_id": "SP-037",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

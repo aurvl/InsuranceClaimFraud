@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02605-005",
+  "customer_id": "CUST-02605",
+  "claim_date": "2021-08-12",
+  "policy_start_date": "2018-12-06",
+  "policy_age_days": 980,
+  "claim_amount": 2887.77,
+  "claim_type": "hail_damage",
+  "customer_age": 34,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 554,
+  "service_provider_id": "SP-017",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

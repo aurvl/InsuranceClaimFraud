@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01118-007",
+  "customer_id": "CUST-01118",
+  "claim_date": "2023-07-22",
+  "policy_start_date": "2020-08-14",
+  "policy_age_days": 1072,
+  "claim_amount": 5351.36,
+  "claim_type": "hail_damage",
+  "customer_age": 22,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-072",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

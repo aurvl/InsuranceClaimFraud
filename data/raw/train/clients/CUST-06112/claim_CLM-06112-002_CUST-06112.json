@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06112-002",
+  "customer_id": "CUST-06112",
+  "claim_date": "2023-09-21",
+  "policy_start_date": "2022-09-02",
+  "policy_age_days": 384,
+  "claim_amount": 16174.76,
+  "claim_type": "fire",
+  "customer_age": 38,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 293,
+  "service_provider_id": "SP-073",
+  "location": "Bordeaux",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

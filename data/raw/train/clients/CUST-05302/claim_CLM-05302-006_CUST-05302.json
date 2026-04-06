@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05302-006",
+  "customer_id": "CUST-05302",
+  "claim_date": "2020-06-26",
+  "policy_start_date": "2018-02-26",
+  "policy_age_days": 851,
+  "claim_amount": 13132.06,
+  "claim_type": "fire",
+  "customer_age": 55,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 126,
+  "service_provider_id": "SP-010",
+  "location": "Perpignan",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

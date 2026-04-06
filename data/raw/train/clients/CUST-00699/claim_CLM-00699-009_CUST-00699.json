@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00699-009",
+  "customer_id": "CUST-00699",
+  "claim_date": "2022-03-11",
+  "policy_start_date": "2018-11-02",
+  "policy_age_days": 1225,
+  "claim_amount": 13457.56,
+  "claim_type": "collision",
+  "customer_age": 19,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-111",
+  "location": "Tours",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

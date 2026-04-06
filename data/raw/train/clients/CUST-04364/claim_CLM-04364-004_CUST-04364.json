@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04364-004",
+  "customer_id": "CUST-04364",
+  "claim_date": "2022-02-16",
+  "policy_start_date": "2020-03-21",
+  "policy_age_days": 697,
+  "claim_amount": 6395.49,
+  "claim_type": "theft",
+  "customer_age": 57,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 291,
+  "service_provider_id": "SP-044",
+  "location": "Cannes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

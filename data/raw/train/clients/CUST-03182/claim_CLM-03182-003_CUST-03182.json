@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03182-003",
+  "customer_id": "CUST-03182",
+  "claim_date": "2022-02-21",
+  "policy_start_date": "2021-03-05",
+  "policy_age_days": 353,
+  "claim_amount": 8785.33,
+  "claim_type": "bodily_injury",
+  "customer_age": 82,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-117",
+  "location": "Paris",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

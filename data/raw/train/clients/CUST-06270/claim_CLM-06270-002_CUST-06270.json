@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06270-002",
+  "customer_id": "CUST-06270",
+  "claim_date": "2024-06-19",
+  "policy_start_date": "2023-01-11",
+  "policy_age_days": 525,
+  "claim_amount": 14149.95,
+  "claim_type": "fire",
+  "customer_age": 82,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 426,
+  "service_provider_id": "SP-026",
+  "location": "Dijon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

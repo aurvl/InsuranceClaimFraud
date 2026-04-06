@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05038-004",
+  "customer_id": "CUST-05038",
+  "claim_date": "2025-05-30",
+  "policy_start_date": "2023-07-29",
+  "policy_age_days": 671,
+  "claim_amount": 18719.48,
+  "claim_type": "bodily_injury",
+  "customer_age": 29,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 139,
+  "service_provider_id": "SP-065",
+  "location": "Saint-Malo",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

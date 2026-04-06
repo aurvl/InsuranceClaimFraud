@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03574-009",
+  "customer_id": "CUST-03574",
+  "claim_date": "2023-10-31",
+  "policy_start_date": "2018-01-02",
+  "policy_age_days": 2128,
+  "claim_amount": 1438.4,
+  "claim_type": "water_damage",
+  "customer_age": 34,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 181,
+  "service_provider_id": "SP-071",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

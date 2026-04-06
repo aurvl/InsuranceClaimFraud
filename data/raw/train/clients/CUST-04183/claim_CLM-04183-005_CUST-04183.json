@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04183-005",
+  "customer_id": "CUST-04183",
+  "claim_date": "2023-06-16",
+  "policy_start_date": "2021-09-06",
+  "policy_age_days": 648,
+  "claim_amount": 11709.25,
+  "claim_type": "bodily_injury",
+  "customer_age": 66,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 168,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08360-007",
+  "customer_id": "CUST-08360",
+  "claim_date": "2021-01-09",
+  "policy_start_date": "2018-03-01",
+  "policy_age_days": 1045,
+  "claim_amount": 2901.96,
+  "claim_type": "hail_damage",
+  "customer_age": 47,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-094",
+  "location": "Lille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

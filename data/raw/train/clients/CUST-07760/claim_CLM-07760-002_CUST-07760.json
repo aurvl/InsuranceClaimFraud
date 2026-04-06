@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07760-002",
+  "customer_id": "CUST-07760",
+  "claim_date": "2019-10-21",
+  "policy_start_date": "2019-01-29",
+  "policy_age_days": 265,
+  "claim_amount": 2143.7,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-092",
+  "location": "Tours",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07043-004",
+  "customer_id": "CUST-07043",
+  "claim_date": "2022-12-13",
+  "policy_start_date": "2021-09-22",
+  "policy_age_days": 447,
+  "claim_amount": 1888.71,
+  "claim_type": "collision",
+  "customer_age": 44,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-049",
+  "location": "Nice",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

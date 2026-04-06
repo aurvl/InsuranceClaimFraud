@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05541-005",
+  "customer_id": "CUST-05541",
+  "claim_date": "2024-03-08",
+  "policy_start_date": "2022-11-08",
+  "policy_age_days": 486,
+  "claim_amount": 3948.56,
+  "claim_type": "theft",
+  "customer_age": 35,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 37,
+  "service_provider_id": "SP-102",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

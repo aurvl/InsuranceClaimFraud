@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00858-008",
+  "customer_id": "CUST-00858",
+  "claim_date": "2024-01-24",
+  "policy_start_date": "2020-04-11",
+  "policy_age_days": 1383,
+  "claim_amount": 17463.69,
+  "claim_type": "fire",
+  "customer_age": 83,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 224,
+  "service_provider_id": "SP-009",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

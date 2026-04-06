@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04125-016",
+  "customer_id": "CUST-04125",
+  "claim_date": "2025-09-12",
+  "policy_start_date": "2018-08-22",
+  "policy_age_days": 2578,
+  "claim_amount": 15048.53,
+  "claim_type": "fire",
+  "customer_age": 80,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 143,
+  "service_provider_id": "SP-086",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

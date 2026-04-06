@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04990-002",
+  "customer_id": "CUST-04990",
+  "claim_date": "2023-07-14",
+  "policy_start_date": "2022-11-16",
+  "policy_age_days": 240,
+  "claim_amount": 1168.78,
+  "claim_type": "hail_damage",
+  "customer_age": 48,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 200,
+  "service_provider_id": "SP-019",
+  "location": "Metz",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04706-008",
+  "customer_id": "CUST-04706",
+  "claim_date": "2023-06-26",
+  "policy_start_date": "2020-04-10",
+  "policy_age_days": 1172,
+  "claim_amount": 24631.89,
+  "claim_type": "theft",
+  "customer_age": 39,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 188,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

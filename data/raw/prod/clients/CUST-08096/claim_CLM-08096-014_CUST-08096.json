@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08096-014",
+  "customer_id": "CUST-08096",
+  "claim_date": "2025-03-14",
+  "policy_start_date": "2019-04-06",
+  "policy_age_days": 2169,
+  "claim_amount": 2875.26,
+  "claim_type": "hail_damage",
+  "customer_age": 55,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 517,
+  "service_provider_id": "SP-116",
+  "location": "Le Havre",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

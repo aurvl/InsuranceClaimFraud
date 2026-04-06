@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00316-006",
+  "customer_id": "CUST-00316",
+  "claim_date": "2025-03-08",
+  "policy_start_date": "2020-10-04",
+  "policy_age_days": 1616,
+  "claim_amount": 10682.92,
+  "claim_type": "theft",
+  "customer_age": 84,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 568,
+  "service_provider_id": "SP-059",
+  "location": "Saint-Malo",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

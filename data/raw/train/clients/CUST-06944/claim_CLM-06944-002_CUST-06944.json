@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06944-002",
+  "customer_id": "CUST-06944",
+  "claim_date": "2020-03-21",
+  "policy_start_date": "2019-02-25",
+  "policy_age_days": 390,
+  "claim_amount": 20895.43,
+  "claim_type": "theft",
+  "customer_age": 55,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 317,
+  "service_provider_id": "SP-089",
+  "location": "Aix-en-Provence",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

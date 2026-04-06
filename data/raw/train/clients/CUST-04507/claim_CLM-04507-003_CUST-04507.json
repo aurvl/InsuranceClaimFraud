@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04507-003",
+  "customer_id": "CUST-04507",
+  "claim_date": "2020-04-11",
+  "policy_start_date": "2018-09-18",
+  "policy_age_days": 571,
+  "claim_amount": 35485.98,
+  "claim_type": "bodily_injury",
+  "customer_age": 66,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-028",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

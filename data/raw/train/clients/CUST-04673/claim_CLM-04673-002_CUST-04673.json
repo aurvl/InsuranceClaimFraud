@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04673-002",
+  "customer_id": "CUST-04673",
+  "claim_date": "2023-07-20",
+  "policy_start_date": "2022-11-12",
+  "policy_age_days": 250,
+  "claim_amount": 3864.05,
+  "claim_type": "collision",
+  "customer_age": 23,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 169,
+  "service_provider_id": "SP-092",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01866-005",
+  "customer_id": "CUST-01866",
+  "claim_date": "2019-10-15",
+  "policy_start_date": "2018-05-13",
+  "policy_age_days": 520,
+  "claim_amount": 1620.78,
+  "claim_type": "water_damage",
+  "customer_age": 40,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 303,
+  "service_provider_id": "SP-071",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04202-001",
+  "customer_id": "CUST-04202",
+  "claim_date": "2018-04-06",
+  "policy_start_date": "2018-03-06",
+  "policy_age_days": 31,
+  "claim_amount": 4764.55,
+  "claim_type": "water_damage",
+  "customer_age": 81,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-107",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

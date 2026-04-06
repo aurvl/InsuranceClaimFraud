@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01048-001",
+  "customer_id": "CUST-01048",
+  "claim_date": "2022-05-21",
+  "policy_start_date": "2021-12-27",
+  "policy_age_days": 145,
+  "claim_amount": 16456.67,
+  "claim_type": "bodily_injury",
+  "customer_age": 46,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-022",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

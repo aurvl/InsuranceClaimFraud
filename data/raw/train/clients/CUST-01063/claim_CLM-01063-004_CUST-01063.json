@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01063-004",
+  "customer_id": "CUST-01063",
+  "claim_date": "2023-01-03",
+  "policy_start_date": "2021-10-26",
+  "policy_age_days": 434,
+  "claim_amount": 9985.36,
+  "claim_type": "water_damage",
+  "customer_age": 32,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 25,
+  "service_provider_id": "SP-055",
+  "location": "La Rochelle",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

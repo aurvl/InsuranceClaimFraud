@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05342-006",
+  "customer_id": "CUST-05342",
+  "claim_date": "2025-12-14",
+  "policy_start_date": "2023-08-26",
+  "policy_age_days": 841,
+  "claim_amount": 15452.0,
+  "claim_type": "fire",
+  "customer_age": 24,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-019",
+  "location": "Marseille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

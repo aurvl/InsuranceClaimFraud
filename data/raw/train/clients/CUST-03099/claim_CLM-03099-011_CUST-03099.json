@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03099-011",
+  "customer_id": "CUST-03099",
+  "claim_date": "2022-08-17",
+  "policy_start_date": "2018-04-03",
+  "policy_age_days": 1597,
+  "claim_amount": 5302.96,
+  "claim_type": "water_damage",
+  "customer_age": 34,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 108,
+  "service_provider_id": "SP-070",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05683-009",
+  "customer_id": "CUST-05683",
+  "claim_date": "2023-10-11",
+  "policy_start_date": "2019-07-15",
+  "policy_age_days": 1549,
+  "claim_amount": 3200.36,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-058",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

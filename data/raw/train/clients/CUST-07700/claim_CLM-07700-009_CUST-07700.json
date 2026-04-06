@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07700-009",
+  "customer_id": "CUST-07700",
+  "claim_date": "2023-01-19",
+  "policy_start_date": "2018-08-26",
+  "policy_age_days": 1607,
+  "claim_amount": 10314.11,
+  "claim_type": "bodily_injury",
+  "customer_age": 74,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-030",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

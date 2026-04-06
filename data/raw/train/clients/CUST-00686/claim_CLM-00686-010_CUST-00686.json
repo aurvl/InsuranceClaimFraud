@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00686-010",
+  "customer_id": "CUST-00686",
+  "claim_date": "2024-01-07",
+  "policy_start_date": "2019-08-06",
+  "policy_age_days": 1615,
+  "claim_amount": 37028.58,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-094",
+  "location": "Lille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

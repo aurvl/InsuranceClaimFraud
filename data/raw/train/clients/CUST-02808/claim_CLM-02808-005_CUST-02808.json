@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02808-005",
+  "customer_id": "CUST-02808",
+  "claim_date": "2022-06-12",
+  "policy_start_date": "2019-02-13",
+  "policy_age_days": 1215,
+  "claim_amount": 2033.7,
+  "claim_type": "windshield",
+  "customer_age": 71,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 391,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

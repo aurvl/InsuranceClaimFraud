@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05328-009",
+  "customer_id": "CUST-05328",
+  "claim_date": "2022-10-31",
+  "policy_start_date": "2018-07-17",
+  "policy_age_days": 1567,
+  "claim_amount": 16294.49,
+  "claim_type": "fire",
+  "customer_age": 71,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 264,
+  "service_provider_id": "SP-094",
+  "location": "Brest",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

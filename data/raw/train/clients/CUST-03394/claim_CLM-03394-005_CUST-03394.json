@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03394-005",
+  "customer_id": "CUST-03394",
+  "claim_date": "2020-10-24",
+  "policy_start_date": "2018-04-25",
+  "policy_age_days": 913,
+  "claim_amount": 2667.6,
+  "claim_type": "water_damage",
+  "customer_age": 71,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-006",
+  "location": "Perpignan",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

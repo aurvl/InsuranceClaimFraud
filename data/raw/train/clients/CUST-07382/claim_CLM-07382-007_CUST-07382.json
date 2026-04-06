@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07382-007",
+  "customer_id": "CUST-07382",
+  "claim_date": "2023-06-27",
+  "policy_start_date": "2020-09-08",
+  "policy_age_days": 1022,
+  "claim_amount": 1385.44,
+  "claim_type": "hail_damage",
+  "customer_age": 74,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-089",
+  "location": "Nice",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

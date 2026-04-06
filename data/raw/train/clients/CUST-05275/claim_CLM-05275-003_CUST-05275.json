@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05275-003",
+  "customer_id": "CUST-05275",
+  "claim_date": "2021-10-23",
+  "policy_start_date": "2020-08-19",
+  "policy_age_days": 430,
+  "claim_amount": 8783.04,
+  "claim_type": "bodily_injury",
+  "customer_age": 38,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 153,
+  "service_provider_id": "SP-070",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

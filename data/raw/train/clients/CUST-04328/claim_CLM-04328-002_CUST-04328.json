@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04328-002",
+  "customer_id": "CUST-04328",
+  "claim_date": "2024-03-05",
+  "policy_start_date": "2023-07-25",
+  "policy_age_days": 224,
+  "claim_amount": 1202.97,
+  "claim_type": "water_damage",
+  "customer_age": 24,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 79,
+  "service_provider_id": "SP-044",
+  "location": "Villeurbanne",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04745-004",
+  "customer_id": "CUST-04745",
+  "claim_date": "2022-04-03",
+  "policy_start_date": "2021-07-20",
+  "policy_age_days": 257,
+  "claim_amount": 18646.77,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-060",
+  "location": "Villeurbanne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

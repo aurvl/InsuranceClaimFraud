@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07626-002",
+  "customer_id": "CUST-07626",
+  "claim_date": "2019-09-17",
+  "policy_start_date": "2018-04-06",
+  "policy_age_days": 529,
+  "claim_amount": 1557.13,
+  "claim_type": "hail_damage",
+  "customer_age": 53,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 472,
+  "service_provider_id": "SP-075",
+  "location": "Montpellier",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

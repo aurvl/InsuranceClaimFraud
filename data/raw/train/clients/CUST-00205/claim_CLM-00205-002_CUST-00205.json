@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00205-002",
+  "customer_id": "CUST-00205",
+  "claim_date": "2019-11-06",
+  "policy_start_date": "2018-10-15",
+  "policy_age_days": 387,
+  "claim_amount": 2736.06,
+  "claim_type": "hail_damage",
+  "customer_age": 30,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 291,
+  "service_provider_id": "SP-017",
+  "location": "Dijon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

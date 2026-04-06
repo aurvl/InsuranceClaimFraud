@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00750-001",
+  "customer_id": "CUST-00750",
+  "claim_date": "2018-06-24",
+  "policy_start_date": "2018-03-02",
+  "policy_age_days": 114,
+  "claim_amount": 4114.02,
+  "claim_type": "collision",
+  "customer_age": 33,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-111",
+  "location": "Grenoble",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

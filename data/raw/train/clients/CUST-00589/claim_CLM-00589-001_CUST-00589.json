@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00589-001",
+  "customer_id": "CUST-00589",
+  "claim_date": "2022-01-11",
+  "policy_start_date": "2021-08-15",
+  "policy_age_days": 149,
+  "claim_amount": 9813.21,
+  "claim_type": "collision",
+  "customer_age": 56,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-062",
+  "location": "La Rochelle",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

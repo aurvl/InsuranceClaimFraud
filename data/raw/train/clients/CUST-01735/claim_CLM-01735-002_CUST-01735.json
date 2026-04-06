@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01735-002",
+  "customer_id": "CUST-01735",
+  "claim_date": "2019-04-08",
+  "policy_start_date": "2018-12-01",
+  "policy_age_days": 128,
+  "claim_amount": 759.73,
+  "claim_type": "hail_damage",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-067",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

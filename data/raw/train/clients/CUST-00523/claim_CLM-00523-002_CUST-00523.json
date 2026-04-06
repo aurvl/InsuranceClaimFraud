@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00523-002",
+  "customer_id": "CUST-00523",
+  "claim_date": "2023-07-16",
+  "policy_start_date": "2022-11-09",
+  "policy_age_days": 249,
+  "claim_amount": 5299.98,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 106,
+  "service_provider_id": "SP-119",
+  "location": "Limoges",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

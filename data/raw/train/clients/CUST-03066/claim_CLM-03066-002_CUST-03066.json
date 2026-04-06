@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03066-002",
+  "customer_id": "CUST-03066",
+  "claim_date": "2018-08-30",
+  "policy_start_date": "2018-02-12",
+  "policy_age_days": 199,
+  "claim_amount": 11134.52,
+  "claim_type": "theft",
+  "customer_age": 58,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 139,
+  "service_provider_id": "SP-003",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

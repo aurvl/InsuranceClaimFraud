@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01470-007",
+  "customer_id": "CUST-01470",
+  "claim_date": "2021-08-09",
+  "policy_start_date": "2018-09-01",
+  "policy_age_days": 1073,
+  "claim_amount": 17069.22,
+  "claim_type": "bodily_injury",
+  "customer_age": 58,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 270,
+  "service_provider_id": "SP-045",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

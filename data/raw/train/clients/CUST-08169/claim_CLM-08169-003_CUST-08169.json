@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08169-003",
+  "customer_id": "CUST-08169",
+  "claim_date": "2019-05-12",
+  "policy_start_date": "2018-10-18",
+  "policy_age_days": 206,
+  "claim_amount": 1175.82,
+  "claim_type": "windshield",
+  "customer_age": 39,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 88,
+  "service_provider_id": "SP-047",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

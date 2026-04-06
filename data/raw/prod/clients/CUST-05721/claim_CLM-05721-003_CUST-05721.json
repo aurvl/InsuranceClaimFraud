@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05721-003",
+  "customer_id": "CUST-05721",
+  "claim_date": "2024-10-08",
+  "policy_start_date": "2023-05-29",
+  "policy_age_days": 498,
+  "claim_amount": 2774.97,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-110",
+  "location": "Tours",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04374-010",
+  "customer_id": "CUST-04374",
+  "claim_date": "2021-07-07",
+  "policy_start_date": "2018-07-30",
+  "policy_age_days": 1073,
+  "claim_amount": 10419.52,
+  "claim_type": "theft",
+  "customer_age": 41,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-045",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

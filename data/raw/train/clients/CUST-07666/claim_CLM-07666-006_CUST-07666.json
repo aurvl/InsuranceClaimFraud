@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07666-006",
+  "customer_id": "CUST-07666",
+  "claim_date": "2020-10-29",
+  "policy_start_date": "2018-03-26",
+  "policy_age_days": 948,
+  "claim_amount": 18872.88,
+  "claim_type": "fire",
+  "customer_age": 41,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 202,
+  "service_provider_id": "SP-108",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

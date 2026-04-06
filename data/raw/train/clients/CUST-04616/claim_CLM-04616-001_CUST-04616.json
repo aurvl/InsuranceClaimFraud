@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04616-001",
+  "customer_id": "CUST-04616",
+  "claim_date": "2021-06-20",
+  "policy_start_date": "2021-03-27",
+  "policy_age_days": 85,
+  "claim_amount": 8970.23,
+  "claim_type": "theft",
+  "customer_age": 19,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-037",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

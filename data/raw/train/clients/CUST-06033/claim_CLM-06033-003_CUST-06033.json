@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06033-003",
+  "customer_id": "CUST-06033",
+  "claim_date": "2021-09-14",
+  "policy_start_date": "2021-03-21",
+  "policy_age_days": 177,
+  "claim_amount": 64185.61,
+  "claim_type": "fire",
+  "customer_age": 23,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-044",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

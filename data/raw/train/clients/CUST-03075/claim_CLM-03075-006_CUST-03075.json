@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03075-006",
+  "customer_id": "CUST-03075",
+  "claim_date": "2023-06-22",
+  "policy_start_date": "2021-04-09",
+  "policy_age_days": 804,
+  "claim_amount": 12693.49,
+  "claim_type": "fire",
+  "customer_age": 72,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 12,
+  "service_provider_id": "SP-058",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06853-005",
+  "customer_id": "CUST-06853",
+  "claim_date": "2023-02-06",
+  "policy_start_date": "2020-09-14",
+  "policy_age_days": 875,
+  "claim_amount": 7054.8,
+  "claim_type": "hail_damage",
+  "customer_age": 19,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 105,
+  "service_provider_id": "SP-074",
+  "location": "Montpellier",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

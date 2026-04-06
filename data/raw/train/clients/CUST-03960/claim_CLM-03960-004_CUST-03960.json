@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03960-004",
+  "customer_id": "CUST-03960",
+  "claim_date": "2023-02-22",
+  "policy_start_date": "2022-01-02",
+  "policy_age_days": 416,
+  "claim_amount": 6452.68,
+  "claim_type": "fire",
+  "customer_age": 83,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 206,
+  "service_provider_id": "SP-036",
+  "location": "Dijon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

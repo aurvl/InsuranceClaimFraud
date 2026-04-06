@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01009-002",
+  "customer_id": "CUST-01009",
+  "claim_date": "2019-06-14",
+  "policy_start_date": "2019-02-11",
+  "policy_age_days": 123,
+  "claim_amount": 7268.7,
+  "claim_type": "collision",
+  "customer_age": 24,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-111",
+  "location": "Toulon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

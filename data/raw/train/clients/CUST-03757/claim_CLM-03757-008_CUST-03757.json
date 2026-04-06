@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03757-008",
+  "customer_id": "CUST-03757",
+  "claim_date": "2021-12-28",
+  "policy_start_date": "2018-02-08",
+  "policy_age_days": 1419,
+  "claim_amount": 5865.06,
+  "claim_type": "fire",
+  "customer_age": 21,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 112,
+  "service_provider_id": "SP-083",
+  "location": "Lille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

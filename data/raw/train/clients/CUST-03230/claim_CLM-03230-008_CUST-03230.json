@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03230-008",
+  "customer_id": "CUST-03230",
+  "claim_date": "2022-06-15",
+  "policy_start_date": "2018-08-24",
+  "policy_age_days": 1391,
+  "claim_amount": 12935.16,
+  "claim_type": "fire",
+  "customer_age": 60,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 546,
+  "service_provider_id": "SP-007",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

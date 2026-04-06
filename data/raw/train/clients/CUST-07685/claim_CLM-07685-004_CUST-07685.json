@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07685-004",
+  "customer_id": "CUST-07685",
+  "claim_date": "2019-03-31",
+  "policy_start_date": "2018-07-17",
+  "policy_age_days": 257,
+  "claim_amount": 21266.41,
+  "claim_type": "bodily_injury",
+  "customer_age": 53,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 100,
+  "service_provider_id": "SP-009",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

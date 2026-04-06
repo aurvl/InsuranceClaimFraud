@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07326-007",
+  "customer_id": "CUST-07326",
+  "claim_date": "2023-02-09",
+  "policy_start_date": "2020-02-24",
+  "policy_age_days": 1081,
+  "claim_amount": 9358.45,
+  "claim_type": "fire",
+  "customer_age": 51,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 187,
+  "service_provider_id": "SP-017",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

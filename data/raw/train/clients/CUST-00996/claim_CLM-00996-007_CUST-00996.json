@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00996-007",
+  "customer_id": "CUST-00996",
+  "claim_date": "2023-04-27",
+  "policy_start_date": "2020-01-27",
+  "policy_age_days": 1186,
+  "claim_amount": 3205.51,
+  "claim_type": "hail_damage",
+  "customer_age": 44,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 314,
+  "service_provider_id": "SP-039",
+  "location": "Annecy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

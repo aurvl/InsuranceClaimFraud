@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02811-002",
+  "customer_id": "CUST-02811",
+  "claim_date": "2020-05-02",
+  "policy_start_date": "2020-02-21",
+  "policy_age_days": 71,
+  "claim_amount": 1280.54,
+  "claim_type": "water_damage",
+  "customer_age": 73,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-089",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

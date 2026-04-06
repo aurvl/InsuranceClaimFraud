@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00924-001",
+  "customer_id": "CUST-00924",
+  "claim_date": "2020-08-14",
+  "policy_start_date": "2020-07-10",
+  "policy_age_days": 35,
+  "claim_amount": 2052.77,
+  "claim_type": "hail_damage",
+  "customer_age": 18,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-100",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

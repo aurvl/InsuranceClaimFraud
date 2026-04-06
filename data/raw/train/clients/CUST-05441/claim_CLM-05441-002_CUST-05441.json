@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05441-002",
+  "customer_id": "CUST-05441",
+  "claim_date": "2019-06-01",
+  "policy_start_date": "2018-12-08",
+  "policy_age_days": 175,
+  "claim_amount": 9309.37,
+  "claim_type": "fire",
+  "customer_age": 68,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 69,
+  "service_provider_id": "SP-022",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

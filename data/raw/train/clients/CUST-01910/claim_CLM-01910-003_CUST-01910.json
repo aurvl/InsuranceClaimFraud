@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01910-003",
+  "customer_id": "CUST-01910",
+  "claim_date": "2020-11-18",
+  "policy_start_date": "2020-04-02",
+  "policy_age_days": 230,
+  "claim_amount": 1380.87,
+  "claim_type": "hail_damage",
+  "customer_age": 79,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 175,
+  "service_provider_id": "SP-017",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

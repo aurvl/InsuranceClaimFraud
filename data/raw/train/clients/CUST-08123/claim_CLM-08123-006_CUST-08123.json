@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08123-006",
+  "customer_id": "CUST-08123",
+  "claim_date": "2021-09-30",
+  "policy_start_date": "2018-03-15",
+  "policy_age_days": 1295,
+  "claim_amount": 15266.54,
+  "claim_type": "fire",
+  "customer_age": 36,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 289,
+  "service_provider_id": "SP-089",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

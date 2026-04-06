@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08539-002",
+  "customer_id": "CUST-08539",
+  "claim_date": "2019-05-20",
+  "policy_start_date": "2018-05-11",
+  "policy_age_days": 374,
+  "claim_amount": 3699.89,
+  "claim_type": "hail_damage",
+  "customer_age": 44,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 246,
+  "service_provider_id": "SP-022",
+  "location": "Metz",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

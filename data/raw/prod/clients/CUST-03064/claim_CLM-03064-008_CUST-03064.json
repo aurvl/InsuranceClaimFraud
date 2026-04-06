@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03064-008",
+  "customer_id": "CUST-03064",
+  "claim_date": "2025-05-31",
+  "policy_start_date": "2023-03-16",
+  "policy_age_days": 807,
+  "claim_amount": 20080.91,
+  "claim_type": "theft",
+  "customer_age": 28,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-093",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

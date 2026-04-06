@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01779-005",
+  "customer_id": "CUST-01779",
+  "claim_date": "2021-05-18",
+  "policy_start_date": "2019-08-03",
+  "policy_age_days": 654,
+  "claim_amount": 34536.64,
+  "claim_type": "theft",
+  "customer_age": 31,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-038",
+  "location": "Dijon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

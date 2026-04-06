@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03151-006",
+  "customer_id": "CUST-03151",
+  "claim_date": "2023-08-26",
+  "policy_start_date": "2020-11-06",
+  "policy_age_days": 1023,
+  "claim_amount": 2365.46,
+  "claim_type": "theft",
+  "customer_age": 42,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 360,
+  "service_provider_id": "SP-064",
+  "location": "Villeurbanne",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

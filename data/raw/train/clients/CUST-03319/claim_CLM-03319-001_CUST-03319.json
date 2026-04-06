@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03319-001",
+  "customer_id": "CUST-03319",
+  "claim_date": "2023-09-08",
+  "policy_start_date": "2023-07-27",
+  "policy_age_days": 43,
+  "claim_amount": 6084.39,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-111",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

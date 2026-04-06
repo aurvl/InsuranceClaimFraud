@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05777-001",
+  "customer_id": "CUST-05777",
+  "claim_date": "2020-01-17",
+  "policy_start_date": "2019-10-07",
+  "policy_age_days": 102,
+  "claim_amount": 8288.98,
+  "claim_type": "water_damage",
+  "customer_age": 78,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-069",
+  "location": "Montpellier",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

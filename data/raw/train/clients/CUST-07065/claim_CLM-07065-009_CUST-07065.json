@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07065-009",
+  "customer_id": "CUST-07065",
+  "claim_date": "2023-05-01",
+  "policy_start_date": "2019-01-01",
+  "policy_age_days": 1581,
+  "claim_amount": 6532.64,
+  "claim_type": "fire",
+  "customer_age": 79,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 356,
+  "service_provider_id": "SP-086",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

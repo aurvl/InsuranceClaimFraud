@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07329-003",
+  "customer_id": "CUST-07329",
+  "claim_date": "2019-11-13",
+  "policy_start_date": "2018-04-21",
+  "policy_age_days": 571,
+  "claim_amount": 7712.75,
+  "claim_type": "water_damage",
+  "customer_age": 75,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 352,
+  "service_provider_id": "SP-081",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

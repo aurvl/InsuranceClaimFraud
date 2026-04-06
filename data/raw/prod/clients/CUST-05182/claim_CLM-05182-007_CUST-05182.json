@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05182-007",
+  "customer_id": "CUST-05182",
+  "claim_date": "2025-03-01",
+  "policy_start_date": "2020-06-10",
+  "policy_age_days": 1725,
+  "claim_amount": 18377.49,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 234,
+  "service_provider_id": "SP-075",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

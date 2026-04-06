@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03428-001",
+  "customer_id": "CUST-03428",
+  "claim_date": "2019-04-29",
+  "policy_start_date": "2019-01-27",
+  "policy_age_days": 92,
+  "claim_amount": 2956.34,
+  "claim_type": "windshield",
+  "customer_age": 35,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-119",
+  "location": "Limoges",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

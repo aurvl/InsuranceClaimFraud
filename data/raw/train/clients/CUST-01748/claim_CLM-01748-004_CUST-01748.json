@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01748-004",
+  "customer_id": "CUST-01748",
+  "claim_date": "2022-03-17",
+  "policy_start_date": "2018-11-10",
+  "policy_age_days": 1223,
+  "claim_amount": 3850.48,
+  "claim_type": "collision",
+  "customer_age": 39,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 234,
+  "service_provider_id": "SP-030",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

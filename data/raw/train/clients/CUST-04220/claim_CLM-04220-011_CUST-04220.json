@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04220-011",
+  "customer_id": "CUST-04220",
+  "claim_date": "2024-07-03",
+  "policy_start_date": "2019-11-14",
+  "policy_age_days": 1693,
+  "claim_amount": 4016.05,
+  "claim_type": "hail_damage",
+  "customer_age": 47,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 31,
+  "service_provider_id": "SP-017",
+  "location": "Saint-Malo",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02606-008",
+  "customer_id": "CUST-02606",
+  "claim_date": "2022-06-18",
+  "policy_start_date": "2018-09-13",
+  "policy_age_days": 1374,
+  "claim_amount": 18532.11,
+  "claim_type": "bodily_injury",
+  "customer_age": 18,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 104,
+  "service_provider_id": "SP-019",
+  "location": "Lyon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

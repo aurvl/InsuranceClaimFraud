@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01892-001",
+  "customer_id": "CUST-01892",
+  "claim_date": "2018-09-27",
+  "policy_start_date": "2018-08-18",
+  "policy_age_days": 40,
+  "claim_amount": 9956.72,
+  "claim_type": "bodily_injury",
+  "customer_age": 56,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-014",
+  "location": "Metz",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

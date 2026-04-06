@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03270-005",
+  "customer_id": "CUST-03270",
+  "claim_date": "2022-02-14",
+  "policy_start_date": "2020-04-07",
+  "policy_age_days": 678,
+  "claim_amount": 4691.42,
+  "claim_type": "collision",
+  "customer_age": 30,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-084",
+  "location": "Le Mans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

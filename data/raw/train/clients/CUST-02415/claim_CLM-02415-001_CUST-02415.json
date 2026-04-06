@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02415-001",
+  "customer_id": "CUST-02415",
+  "claim_date": "2021-04-02",
+  "policy_start_date": "2021-03-21",
+  "policy_age_days": 12,
+  "claim_amount": 2368.6,
+  "claim_type": "hail_damage",
+  "customer_age": 36,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-049",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

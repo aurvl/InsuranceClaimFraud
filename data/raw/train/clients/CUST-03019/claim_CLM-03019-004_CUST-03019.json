@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03019-004",
+  "customer_id": "CUST-03019",
+  "claim_date": "2020-07-31",
+  "policy_start_date": "2018-10-07",
+  "policy_age_days": 663,
+  "claim_amount": 3805.17,
+  "claim_type": "collision",
+  "customer_age": 34,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 316,
+  "service_provider_id": "SP-098",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

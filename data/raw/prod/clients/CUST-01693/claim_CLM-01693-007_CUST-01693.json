@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01693-007",
+  "customer_id": "CUST-01693",
+  "claim_date": "2025-03-07",
+  "policy_start_date": "2020-02-15",
+  "policy_age_days": 1847,
+  "claim_amount": 3009.82,
+  "claim_type": "hail_damage",
+  "customer_age": 85,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 402,
+  "service_provider_id": "SP-006",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

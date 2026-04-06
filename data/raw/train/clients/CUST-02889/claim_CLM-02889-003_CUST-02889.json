@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02889-003",
+  "customer_id": "CUST-02889",
+  "claim_date": "2019-06-19",
+  "policy_start_date": "2018-10-25",
+  "policy_age_days": 237,
+  "claim_amount": 5391.55,
+  "claim_type": "hail_damage",
+  "customer_age": 58,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-056",
+  "location": "Villeurbanne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

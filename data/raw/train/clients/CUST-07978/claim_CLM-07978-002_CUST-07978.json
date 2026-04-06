@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07978-002",
+  "customer_id": "CUST-07978",
+  "claim_date": "2020-11-07",
+  "policy_start_date": "2020-06-28",
+  "policy_age_days": 132,
+  "claim_amount": 1301.11,
+  "claim_type": "hail_damage",
+  "customer_age": 67,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

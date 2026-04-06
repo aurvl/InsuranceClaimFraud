@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03427-009",
+  "customer_id": "CUST-03427",
+  "claim_date": "2021-05-21",
+  "policy_start_date": "2018-02-25",
+  "policy_age_days": 1181,
+  "claim_amount": 19665.19,
+  "claim_type": "theft",
+  "customer_age": 19,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 236,
+  "service_provider_id": "SP-067",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

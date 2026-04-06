@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07471-007",
+  "customer_id": "CUST-07471",
+  "claim_date": "2025-07-26",
+  "policy_start_date": "2023-01-25",
+  "policy_age_days": 913,
+  "claim_amount": 5696.1,
+  "claim_type": "collision",
+  "customer_age": 64,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 77,
+  "service_provider_id": "SP-075",
+  "location": "Bordeaux",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

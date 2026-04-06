@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05357-005",
+  "customer_id": "CUST-05357",
+  "claim_date": "2020-12-24",
+  "policy_start_date": "2018-07-21",
+  "policy_age_days": 887,
+  "claim_amount": 5705.22,
+  "claim_type": "water_damage",
+  "customer_age": 82,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 94,
+  "service_provider_id": "SP-039",
+  "location": "Toulouse",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

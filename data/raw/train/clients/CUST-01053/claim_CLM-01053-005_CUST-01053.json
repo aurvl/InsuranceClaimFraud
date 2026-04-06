@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01053-005",
+  "customer_id": "CUST-01053",
+  "claim_date": "2023-02-14",
+  "policy_start_date": "2021-08-24",
+  "policy_age_days": 539,
+  "claim_amount": 12580.75,
+  "claim_type": "water_damage",
+  "customer_age": 83,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 25,
+  "service_provider_id": "SP-111",
+  "location": "Dijon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

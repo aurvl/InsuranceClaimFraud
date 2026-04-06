@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02909-002",
+  "customer_id": "CUST-02909",
+  "claim_date": "2020-08-15",
+  "policy_start_date": "2019-11-19",
+  "policy_age_days": 270,
+  "claim_amount": 16095.78,
+  "claim_type": "theft",
+  "customer_age": 75,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 247,
+  "service_provider_id": "SP-044",
+  "location": "La Rochelle",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

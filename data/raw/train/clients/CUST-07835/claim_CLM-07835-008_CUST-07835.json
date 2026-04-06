@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07835-008",
+  "customer_id": "CUST-07835",
+  "claim_date": "2023-09-12",
+  "policy_start_date": "2019-06-09",
+  "policy_age_days": 1556,
+  "claim_amount": 5473.68,
+  "claim_type": "collision",
+  "customer_age": 76,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 233,
+  "service_provider_id": "SP-089",
+  "location": "Rennes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

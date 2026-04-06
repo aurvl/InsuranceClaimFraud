@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04265-006",
+  "customer_id": "CUST-04265",
+  "claim_date": "2022-02-16",
+  "policy_start_date": "2020-03-03",
+  "policy_age_days": 715,
+  "claim_amount": 6512.28,
+  "claim_type": "theft",
+  "customer_age": 31,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 91,
+  "service_provider_id": "SP-103",
+  "location": "Rennes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

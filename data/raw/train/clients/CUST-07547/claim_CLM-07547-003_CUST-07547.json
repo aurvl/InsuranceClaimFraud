@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07547-003",
+  "customer_id": "CUST-07547",
+  "claim_date": "2019-12-02",
+  "policy_start_date": "2018-09-21",
+  "policy_age_days": 437,
+  "claim_amount": 4729.01,
+  "claim_type": "theft",
+  "customer_age": 79,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 236,
+  "service_provider_id": "SP-017",
+  "location": "Toulouse",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01736-003",
+  "customer_id": "CUST-01736",
+  "claim_date": "2019-08-22",
+  "policy_start_date": "2018-04-27",
+  "policy_age_days": 482,
+  "claim_amount": 7204.2,
+  "claim_type": "theft",
+  "customer_age": 25,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 202,
+  "service_provider_id": "SP-054",
+  "location": "Nantes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

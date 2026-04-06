@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07371-003",
+  "customer_id": "CUST-07371",
+  "claim_date": "2021-12-31",
+  "policy_start_date": "2021-02-18",
+  "policy_age_days": 316,
+  "claim_amount": 761.26,
+  "claim_type": "windshield",
+  "customer_age": 61,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 100,
+  "service_provider_id": "SP-022",
+  "location": "Grenoble",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03723-006",
+  "customer_id": "CUST-03723",
+  "claim_date": "2024-06-25",
+  "policy_start_date": "2021-04-18",
+  "policy_age_days": 1164,
+  "claim_amount": 6254.92,
+  "claim_type": "theft",
+  "customer_age": 65,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 221,
+  "service_provider_id": "SP-065",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

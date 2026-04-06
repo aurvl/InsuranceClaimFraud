@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02504-005",
+  "customer_id": "CUST-02504",
+  "claim_date": "2022-09-22",
+  "policy_start_date": "2021-05-15",
+  "policy_age_days": 495,
+  "claim_amount": 7022.22,
+  "claim_type": "collision",
+  "customer_age": 80,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-102",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

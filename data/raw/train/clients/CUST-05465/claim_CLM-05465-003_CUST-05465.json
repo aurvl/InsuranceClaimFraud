@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05465-003",
+  "customer_id": "CUST-05465",
+  "claim_date": "2022-07-04",
+  "policy_start_date": "2020-04-13",
+  "policy_age_days": 812,
+  "claim_amount": 4584.52,
+  "claim_type": "collision",
+  "customer_age": 21,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 540,
+  "service_provider_id": "SP-008",
+  "location": "Limoges",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

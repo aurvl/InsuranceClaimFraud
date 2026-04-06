@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05960-002",
+  "customer_id": "CUST-05960",
+  "claim_date": "2019-07-07",
+  "policy_start_date": "2019-01-29",
+  "policy_age_days": 159,
+  "claim_amount": 3236.04,
+  "claim_type": "theft",
+  "customer_age": 20,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 16,
+  "service_provider_id": "SP-047",
+  "location": "Nantes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

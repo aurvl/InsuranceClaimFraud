@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04779-008",
+  "customer_id": "CUST-04779",
+  "claim_date": "2021-09-06",
+  "policy_start_date": "2018-02-24",
+  "policy_age_days": 1290,
+  "claim_amount": 1920.69,
+  "claim_type": "hail_damage",
+  "customer_age": 40,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 188,
+  "service_provider_id": "SP-044",
+  "location": "Tours",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

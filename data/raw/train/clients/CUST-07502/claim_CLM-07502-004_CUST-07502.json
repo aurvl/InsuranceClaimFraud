@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07502-004",
+  "customer_id": "CUST-07502",
+  "claim_date": "2021-09-15",
+  "policy_start_date": "2019-10-14",
+  "policy_age_days": 702,
+  "claim_amount": 1765.97,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 350,
+  "service_provider_id": "SP-101",
+  "location": "Tours",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

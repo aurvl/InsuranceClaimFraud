@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02218-004",
+  "customer_id": "CUST-02218",
+  "claim_date": "2024-04-26",
+  "policy_start_date": "2022-01-11",
+  "policy_age_days": 836,
+  "claim_amount": 5596.62,
+  "claim_type": "hail_damage",
+  "customer_age": 84,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 138,
+  "service_provider_id": "SP-079",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01401-004",
+  "customer_id": "CUST-01401",
+  "claim_date": "2020-04-16",
+  "policy_start_date": "2019-03-31",
+  "policy_age_days": 382,
+  "claim_amount": 2348.23,
+  "claim_type": "water_damage",
+  "customer_age": 22,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-051",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

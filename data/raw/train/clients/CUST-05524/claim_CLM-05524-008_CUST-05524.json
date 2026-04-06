@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05524-008",
+  "customer_id": "CUST-05524",
+  "claim_date": "2021-10-29",
+  "policy_start_date": "2018-08-04",
+  "policy_age_days": 1182,
+  "claim_amount": 6018.53,
+  "claim_type": "fire",
+  "customer_age": 24,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 221,
+  "service_provider_id": "SP-038",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

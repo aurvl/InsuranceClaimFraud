@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01137-001",
+  "customer_id": "CUST-01137",
+  "claim_date": "2023-03-28",
+  "policy_start_date": "2023-02-16",
+  "policy_age_days": 40,
+  "claim_amount": 1903.24,
+  "claim_type": "hail_damage",
+  "customer_age": 78,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-117",
+  "location": "Limoges",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

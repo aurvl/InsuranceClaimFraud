@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02618-006",
+  "customer_id": "CUST-02618",
+  "claim_date": "2024-04-21",
+  "policy_start_date": "2021-01-02",
+  "policy_age_days": 1205,
+  "claim_amount": 3052.72,
+  "claim_type": "windshield",
+  "customer_age": 23,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 104,
+  "service_provider_id": "SP-044",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03052-004",
+  "customer_id": "CUST-03052",
+  "claim_date": "2020-08-20",
+  "policy_start_date": "2018-01-18",
+  "policy_age_days": 945,
+  "claim_amount": 16036.13,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 196,
+  "service_provider_id": "SP-051",
+  "location": "Annecy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

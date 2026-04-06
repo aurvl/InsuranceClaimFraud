@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05710-002",
+  "customer_id": "CUST-05710",
+  "claim_date": "2021-09-14",
+  "policy_start_date": "2021-04-27",
+  "policy_age_days": 140,
+  "claim_amount": 17995.18,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 130,
+  "service_provider_id": "SP-119",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

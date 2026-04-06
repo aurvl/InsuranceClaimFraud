@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02113-002",
+  "customer_id": "CUST-02113",
+  "claim_date": "2021-03-21",
+  "policy_start_date": "2019-09-02",
+  "policy_age_days": 566,
+  "claim_amount": 1470.0,
+  "claim_type": "hail_damage",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 545,
+  "service_provider_id": "SP-031",
+  "location": "Lyon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

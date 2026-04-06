@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02310-004",
+  "customer_id": "CUST-02310",
+  "claim_date": "2024-07-16",
+  "policy_start_date": "2022-04-25",
+  "policy_age_days": 813,
+  "claim_amount": 4103.08,
+  "claim_type": "hail_damage",
+  "customer_age": 18,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 269,
+  "service_provider_id": "SP-014",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06370-007",
+  "customer_id": "CUST-06370",
+  "claim_date": "2022-10-09",
+  "policy_start_date": "2019-10-18",
+  "policy_age_days": 1087,
+  "claim_amount": 4959.81,
+  "claim_type": "hail_damage",
+  "customer_age": 82,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

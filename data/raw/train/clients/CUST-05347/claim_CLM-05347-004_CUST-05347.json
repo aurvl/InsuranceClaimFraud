@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05347-004",
+  "customer_id": "CUST-05347",
+  "claim_date": "2020-01-31",
+  "policy_start_date": "2019-06-07",
+  "policy_age_days": 238,
+  "claim_amount": 14579.23,
+  "claim_type": "theft",
+  "customer_age": 22,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-017",
+  "location": "Strasbourg",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

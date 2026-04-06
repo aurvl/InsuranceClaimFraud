@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00924-002",
+  "customer_id": "CUST-00924",
+  "claim_date": "2021-05-08",
+  "policy_start_date": "2020-07-10",
+  "policy_age_days": 302,
+  "claim_amount": 3930.96,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-111",
+  "location": "Reims",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

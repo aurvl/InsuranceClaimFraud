@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00091-011",
+  "customer_id": "CUST-00091",
+  "claim_date": "2023-12-28",
+  "policy_start_date": "2019-02-10",
+  "policy_age_days": 1782,
+  "claim_amount": 6983.98,
+  "claim_type": "bodily_injury",
+  "customer_age": 81,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 25,
+  "service_provider_id": "SP-040",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08446-013",
+  "customer_id": "CUST-08446",
+  "claim_date": "2024-10-03",
+  "policy_start_date": "2019-04-08",
+  "policy_age_days": 2005,
+  "claim_amount": 3264.06,
+  "claim_type": "collision",
+  "customer_age": 46,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 123,
+  "service_provider_id": "SP-111",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06423-002",
+  "customer_id": "CUST-06423",
+  "claim_date": "2023-10-27",
+  "policy_start_date": "2022-12-06",
+  "policy_age_days": 325,
+  "claim_amount": 3210.52,
+  "claim_type": "water_damage",
+  "customer_age": 52,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 272,
+  "service_provider_id": "SP-003",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

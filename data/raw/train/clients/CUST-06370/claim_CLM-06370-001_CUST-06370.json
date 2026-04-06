@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06370-001",
+  "customer_id": "CUST-06370",
+  "claim_date": "2020-01-16",
+  "policy_start_date": "2019-10-18",
+  "policy_age_days": 90,
+  "claim_amount": 2071.89,
+  "claim_type": "collision",
+  "customer_age": 82,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-003",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

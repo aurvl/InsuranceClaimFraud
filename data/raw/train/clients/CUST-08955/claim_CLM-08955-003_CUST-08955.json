@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08955-003",
+  "customer_id": "CUST-08955",
+  "claim_date": "2023-09-18",
+  "policy_start_date": "2023-01-05",
+  "policy_age_days": 256,
+  "claim_amount": 8761.7,
+  "claim_type": "collision",
+  "customer_age": 76,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-103",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

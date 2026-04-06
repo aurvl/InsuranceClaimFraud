@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04349-001",
+  "customer_id": "CUST-04349",
+  "claim_date": "2018-11-18",
+  "policy_start_date": "2018-08-29",
+  "policy_age_days": 81,
+  "claim_amount": 10558.11,
+  "claim_type": "fire",
+  "customer_age": 76,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-062",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

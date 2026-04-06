@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08594-012",
+  "customer_id": "CUST-08594",
+  "claim_date": "2024-11-06",
+  "policy_start_date": "2019-12-06",
+  "policy_age_days": 1797,
+  "claim_amount": 8636.71,
+  "claim_type": "water_damage",
+  "customer_age": 80,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 374,
+  "service_provider_id": "SP-071",
+  "location": "Saint-Malo",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

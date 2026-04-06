@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05783-001",
+  "customer_id": "CUST-05783",
+  "claim_date": "2018-10-29",
+  "policy_start_date": "2018-09-15",
+  "policy_age_days": 44,
+  "claim_amount": 23109.21,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-071",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

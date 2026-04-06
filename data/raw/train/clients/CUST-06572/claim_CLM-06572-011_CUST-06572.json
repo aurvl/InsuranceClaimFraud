@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06572-011",
+  "customer_id": "CUST-06572",
+  "claim_date": "2023-06-16",
+  "policy_start_date": "2018-06-21",
+  "policy_age_days": 1821,
+  "claim_amount": 4352.7,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 129,
+  "service_provider_id": "SP-017",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

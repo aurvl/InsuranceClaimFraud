@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04373-006",
+  "customer_id": "CUST-04373",
+  "claim_date": "2024-01-27",
+  "policy_start_date": "2020-09-11",
+  "policy_age_days": 1233,
+  "claim_amount": 692.04,
+  "claim_type": "windshield",
+  "customer_age": 73,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 191,
+  "service_provider_id": "SP-102",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

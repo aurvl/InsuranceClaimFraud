@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07416-002",
+  "customer_id": "CUST-07416",
+  "claim_date": "2019-08-23",
+  "policy_start_date": "2018-09-14",
+  "policy_age_days": 343,
+  "claim_amount": 2987.51,
+  "claim_type": "theft",
+  "customer_age": 24,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 230,
+  "service_provider_id": "SP-058",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

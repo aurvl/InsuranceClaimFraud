@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06472-012",
+  "customer_id": "CUST-06472",
+  "claim_date": "2025-05-09",
+  "policy_start_date": "2019-01-29",
+  "policy_age_days": 2292,
+  "claim_amount": 4407.6,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-080",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

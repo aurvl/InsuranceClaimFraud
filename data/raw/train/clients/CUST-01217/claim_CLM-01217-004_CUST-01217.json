@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01217-004",
+  "customer_id": "CUST-01217",
+  "claim_date": "2022-04-25",
+  "policy_start_date": "2020-01-04",
+  "policy_age_days": 842,
+  "claim_amount": 12223.3,
+  "claim_type": "fire",
+  "customer_age": 73,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 287,
+  "service_provider_id": "SP-043",
+  "location": "Annecy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

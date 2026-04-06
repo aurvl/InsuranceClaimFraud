@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08126-009",
+  "customer_id": "CUST-08126",
+  "claim_date": "2023-03-18",
+  "policy_start_date": "2018-09-11",
+  "policy_age_days": 1649,
+  "claim_amount": 10647.67,
+  "claim_type": "fire",
+  "customer_age": 53,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 373,
+  "service_provider_id": "SP-067",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

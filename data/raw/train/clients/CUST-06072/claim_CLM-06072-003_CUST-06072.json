@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06072-003",
+  "customer_id": "CUST-06072",
+  "claim_date": "2019-05-17",
+  "policy_start_date": "2018-06-26",
+  "policy_age_days": 325,
+  "claim_amount": 5824.11,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 199,
+  "service_provider_id": "SP-002",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

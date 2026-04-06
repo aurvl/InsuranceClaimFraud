@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07215-005",
+  "customer_id": "CUST-07215",
+  "claim_date": "2020-08-11",
+  "policy_start_date": "2018-07-04",
+  "policy_age_days": 769,
+  "claim_amount": 7569.95,
+  "claim_type": "theft",
+  "customer_age": 21,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 194,
+  "service_provider_id": "SP-080",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

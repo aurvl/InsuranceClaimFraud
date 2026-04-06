@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08329-002",
+  "customer_id": "CUST-08329",
+  "claim_date": "2021-12-19",
+  "policy_start_date": "2021-06-10",
+  "policy_age_days": 192,
+  "claim_amount": 3000.31,
+  "claim_type": "collision",
+  "customer_age": 22,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 78,
+  "service_provider_id": "SP-022",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

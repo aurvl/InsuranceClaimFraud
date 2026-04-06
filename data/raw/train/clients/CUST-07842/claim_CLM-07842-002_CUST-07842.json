@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07842-002",
+  "customer_id": "CUST-07842",
+  "claim_date": "2020-04-28",
+  "policy_start_date": "2019-08-27",
+  "policy_age_days": 245,
+  "claim_amount": 10125.09,
+  "claim_type": "theft",
+  "customer_age": 19,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-057",
+  "location": "Strasbourg",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

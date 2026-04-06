@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07197-001",
+  "customer_id": "CUST-07197",
+  "claim_date": "2019-09-01",
+  "policy_start_date": "2019-06-14",
+  "policy_age_days": 79,
+  "claim_amount": 1852.97,
+  "claim_type": "water_damage",
+  "customer_age": 84,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-017",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05904-003",
+  "customer_id": "CUST-05904",
+  "claim_date": "2024-06-21",
+  "policy_start_date": "2022-10-13",
+  "policy_age_days": 617,
+  "claim_amount": 797.49,
+  "claim_type": "windshield",
+  "customer_age": 57,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 137,
+  "service_provider_id": "SP-055",
+  "location": "La Rochelle",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

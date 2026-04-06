@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07248-007",
+  "customer_id": "CUST-07248",
+  "claim_date": "2022-02-26",
+  "policy_start_date": "2018-07-12",
+  "policy_age_days": 1325,
+  "claim_amount": 2858.23,
+  "claim_type": "collision",
+  "customer_age": 70,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 127,
+  "service_provider_id": "SP-058",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

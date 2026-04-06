@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01132-004",
+  "customer_id": "CUST-01132",
+  "claim_date": "2021-11-06",
+  "policy_start_date": "2020-03-08",
+  "policy_age_days": 608,
+  "claim_amount": 19722.15,
+  "claim_type": "theft",
+  "customer_age": 39,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 105,
+  "service_provider_id": "SP-017",
+  "location": "Metz",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

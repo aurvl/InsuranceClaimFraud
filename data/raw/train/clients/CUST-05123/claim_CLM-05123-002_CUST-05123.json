@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05123-002",
+  "customer_id": "CUST-05123",
+  "claim_date": "2018-11-22",
+  "policy_start_date": "2018-06-13",
+  "policy_age_days": 162,
+  "claim_amount": 4914.86,
+  "claim_type": "fire",
+  "customer_age": 24,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-090",
+  "location": "Aix-en-Provence",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

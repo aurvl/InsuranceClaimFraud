@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00260-010",
+  "customer_id": "CUST-00260",
+  "claim_date": "2024-09-19",
+  "policy_start_date": "2020-04-07",
+  "policy_age_days": 1626,
+  "claim_amount": 1500.41,
+  "claim_type": "hail_damage",
+  "customer_age": 74,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 344,
+  "service_provider_id": "SP-044",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

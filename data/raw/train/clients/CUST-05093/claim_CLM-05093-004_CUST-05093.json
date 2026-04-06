@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05093-004",
+  "customer_id": "CUST-05093",
+  "claim_date": "2021-03-13",
+  "policy_start_date": "2018-11-07",
+  "policy_age_days": 857,
+  "claim_amount": 4812.39,
+  "claim_type": "fire",
+  "customer_age": 20,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-082",
+  "location": "Nancy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

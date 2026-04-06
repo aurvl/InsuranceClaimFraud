@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02170-002",
+  "customer_id": "CUST-02170",
+  "claim_date": "2019-06-25",
+  "policy_start_date": "2018-10-17",
+  "policy_age_days": 251,
+  "claim_amount": 3792.39,
+  "claim_type": "water_damage",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 205,
+  "service_provider_id": "SP-015",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

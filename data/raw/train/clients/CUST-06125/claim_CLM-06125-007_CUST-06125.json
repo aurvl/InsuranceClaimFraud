@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06125-007",
+  "customer_id": "CUST-06125",
+  "claim_date": "2023-02-24",
+  "policy_start_date": "2018-12-15",
+  "policy_age_days": 1532,
+  "claim_amount": 3426.27,
+  "claim_type": "theft",
+  "customer_age": 81,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 322,
+  "service_provider_id": "SP-091",
+  "location": "Aix-en-Provence",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

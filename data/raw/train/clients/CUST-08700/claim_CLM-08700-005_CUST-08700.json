@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08700-005",
+  "customer_id": "CUST-08700",
+  "claim_date": "2023-02-16",
+  "policy_start_date": "2020-09-07",
+  "policy_age_days": 892,
+  "claim_amount": 5371.3,
+  "claim_type": "water_damage",
+  "customer_age": 44,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 228,
+  "service_provider_id": "SP-046",
+  "location": "N\u00eemes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

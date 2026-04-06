@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02642-007",
+  "customer_id": "CUST-02642",
+  "claim_date": "2021-12-31",
+  "policy_start_date": "2018-08-08",
+  "policy_age_days": 1241,
+  "claim_amount": 7392.92,
+  "claim_type": "collision",
+  "customer_age": 80,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 151,
+  "service_provider_id": "SP-044",
+  "location": "Perpignan",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

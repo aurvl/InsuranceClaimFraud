@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02801-010",
+  "customer_id": "CUST-02801",
+  "claim_date": "2022-10-12",
+  "policy_start_date": "2018-06-27",
+  "policy_age_days": 1568,
+  "claim_amount": 2929.0,
+  "claim_type": "water_damage",
+  "customer_age": 42,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 198,
+  "service_provider_id": "SP-051",
+  "location": "Annecy",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

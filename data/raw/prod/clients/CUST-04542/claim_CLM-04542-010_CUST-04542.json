@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04542-010",
+  "customer_id": "CUST-04542",
+  "claim_date": "2025-06-16",
+  "policy_start_date": "2019-07-02",
+  "policy_age_days": 2176,
+  "claim_amount": 3744.78,
+  "claim_type": "collision",
+  "customer_age": 33,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

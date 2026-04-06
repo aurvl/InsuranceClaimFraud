@@ -1,0 +1,157 @@
+{
+  "historical_rows": 54248,
+  "historical_fraud_rate": 0.072482,
+  "mean_claim_amount": 6945.69,
+  "median_claim_amount": 4145.23,
+  "mean_claim_amount_fraud": 15214.64,
+  "mean_claim_amount_non_fraud": 6299.51,
+  "fraud_by_claim_type": {
+    "bodily_injury": 0.161,
+    "fire": 0.1304,
+    "theft": 0.0917,
+    "hail_damage": 0.0592,
+    "water_damage": 0.0554,
+    "collision": 0.0505,
+    "windshield": 0.0432
+  },
+  "fraud_by_location": {
+    "Nice": 0.0847,
+    "Marseille": 0.0835,
+    "Paris": 0.0778,
+    "Strasbourg": 0.0755,
+    "Montpellier": 0.0691,
+    "Nantes": 0.0684,
+    "Lyon": 0.0677,
+    "Lille": 0.0664,
+    "Bordeaux": 0.0663,
+    "Toulouse": 0.0607
+  },
+  "top_suspicious_providers": [
+    {
+      "service_provider_id": "SP-017",
+      "claims": 1733,
+      "fraud_rate": 0.1425
+    },
+    {
+      "service_provider_id": "SP-071",
+      "claims": 1667,
+      "fraud_rate": 0.1368
+    },
+    {
+      "service_provider_id": "SP-003",
+      "claims": 1810,
+      "fraud_rate": 0.1354
+    },
+    {
+      "service_provider_id": "SP-111",
+      "claims": 1256,
+      "fraud_rate": 0.1322
+    },
+    {
+      "service_provider_id": "SP-044",
+      "claims": 1762,
+      "fraud_rate": 0.1232
+    },
+    {
+      "service_provider_id": "SP-089",
+      "claims": 1629,
+      "fraud_rate": 0.1222
+    },
+    {
+      "service_provider_id": "SP-058",
+      "claims": 1612,
+      "fraud_rate": 0.1203
+    },
+    {
+      "service_provider_id": "SP-025",
+      "claims": 295,
+      "fraud_rate": 0.0983
+    },
+    {
+      "service_provider_id": "SP-090",
+      "claims": 348,
+      "fraud_rate": 0.0948
+    },
+    {
+      "service_provider_id": "SP-037",
+      "claims": 298,
+      "fraud_rate": 0.0872
+    }
+  ],
+  "top_weather_claim_pairs": [
+    {
+      "weather_condition": "snow",
+      "claim_type": "bodily_injury",
+      "claims": 614,
+      "fraud_rate": 0.1873
+    },
+    {
+      "weather_condition": "hail",
+      "claim_type": "bodily_injury",
+      "claims": 188,
+      "fraud_rate": 0.1755
+    },
+    {
+      "weather_condition": "rain",
+      "claim_type": "fire",
+      "claims": 427,
+      "fraud_rate": 0.1663
+    },
+    {
+      "weather_condition": "clear",
+      "claim_type": "bodily_injury",
+      "claims": 1872,
+      "fraud_rate": 0.1624
+    },
+    {
+      "weather_condition": "rain",
+      "claim_type": "bodily_injury",
+      "claims": 1271,
+      "fraud_rate": 0.1589
+    },
+    {
+      "weather_condition": "heatwave",
+      "claim_type": "bodily_injury",
+      "claims": 1024,
+      "fraud_rate": 0.1562
+    },
+    {
+      "weather_condition": "storm",
+      "claim_type": "bodily_injury",
+      "claims": 422,
+      "fraud_rate": 0.1517
+    },
+    {
+      "weather_condition": "fog",
+      "claim_type": "bodily_injury",
+      "claims": 620,
+      "fraud_rate": 0.1452
+    },
+    {
+      "weather_condition": "hail",
+      "claim_type": "fire",
+      "claims": 242,
+      "fraud_rate": 0.1364
+    },
+    {
+      "weather_condition": "fog",
+      "claim_type": "fire",
+      "claims": 208,
+      "fraud_rate": 0.1346
+    }
+  ],
+  "monthly_fraud_rate_tail": {
+    "2023-11": 0.0643,
+    "2023-12": 0.0706,
+    "2024-01": 0.0817,
+    "2024-02": 0.0596,
+    "2024-03": 0.1032,
+    "2024-04": 0.0652,
+    "2024-05": 0.0843,
+    "2024-06": 0.0906,
+    "2024-07": 0.0717,
+    "2024-08": 0.066,
+    "2024-09": 0.0761,
+    "2024-10": 0.0784
+  }
+}

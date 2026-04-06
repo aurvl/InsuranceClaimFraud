@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04936-005",
+  "customer_id": "CUST-04936",
+  "claim_date": "2022-05-12",
+  "policy_start_date": "2020-06-30",
+  "policy_age_days": 681,
+  "claim_amount": 7610.8,
+  "claim_type": "theft",
+  "customer_age": 72,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 230,
+  "service_provider_id": "SP-119",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

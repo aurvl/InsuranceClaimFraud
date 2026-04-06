@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02213-014",
+  "customer_id": "CUST-02213",
+  "claim_date": "2025-04-07",
+  "policy_start_date": "2018-06-13",
+  "policy_age_days": 2490,
+  "claim_amount": 36309.2,
+  "claim_type": "fire",
+  "customer_age": 45,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 324,
+  "service_provider_id": "SP-101",
+  "location": "Brest",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

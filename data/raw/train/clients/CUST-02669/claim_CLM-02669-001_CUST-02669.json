@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02669-001",
+  "customer_id": "CUST-02669",
+  "claim_date": "2018-05-30",
+  "policy_start_date": "2018-04-13",
+  "policy_age_days": 47,
+  "claim_amount": 4291.28,
+  "claim_type": "collision",
+  "customer_age": 35,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-052",
+  "location": "N\u00eemes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

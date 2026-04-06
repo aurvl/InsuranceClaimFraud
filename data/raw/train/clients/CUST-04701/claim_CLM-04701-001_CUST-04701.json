@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04701-001",
+  "customer_id": "CUST-04701",
+  "claim_date": "2022-09-04",
+  "policy_start_date": "2022-08-04",
+  "policy_age_days": 31,
+  "claim_amount": 1507.49,
+  "claim_type": "hail_damage",
+  "customer_age": 26,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-081",
+  "location": "Le Mans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03071-007",
+  "customer_id": "CUST-03071",
+  "claim_date": "2020-05-06",
+  "policy_start_date": "2018-01-20",
+  "policy_age_days": 837,
+  "claim_amount": 8629.0,
+  "claim_type": "bodily_injury",
+  "customer_age": 75,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 114,
+  "service_provider_id": "SP-082",
+  "location": "Nancy",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

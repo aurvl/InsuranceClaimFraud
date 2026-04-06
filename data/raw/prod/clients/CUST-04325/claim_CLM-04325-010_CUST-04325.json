@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04325-010",
+  "customer_id": "CUST-04325",
+  "claim_date": "2025-08-19",
+  "policy_start_date": "2018-11-18",
+  "policy_age_days": 2466,
+  "claim_amount": 10520.17,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 187,
+  "service_provider_id": "SP-085",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07461-008",
+  "customer_id": "CUST-07461",
+  "claim_date": "2022-02-06",
+  "policy_start_date": "2020-01-27",
+  "policy_age_days": 741,
+  "claim_amount": 2719.41,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-115",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

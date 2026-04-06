@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07313-009",
+  "customer_id": "CUST-07313",
+  "claim_date": "2023-07-13",
+  "policy_start_date": "2018-01-28",
+  "policy_age_days": 1992,
+  "claim_amount": 18748.33,
+  "claim_type": "bodily_injury",
+  "customer_age": 54,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 161,
+  "service_provider_id": "SP-043",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

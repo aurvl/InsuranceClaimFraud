@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05373-006",
+  "customer_id": "CUST-05373",
+  "claim_date": "2023-09-21",
+  "policy_start_date": "2021-02-16",
+  "policy_age_days": 947,
+  "claim_amount": 3130.09,
+  "claim_type": "water_damage",
+  "customer_age": 44,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 196,
+  "service_provider_id": "SP-017",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

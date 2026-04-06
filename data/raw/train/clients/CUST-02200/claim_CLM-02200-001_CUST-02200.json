@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02200-001",
+  "customer_id": "CUST-02200",
+  "claim_date": "2022-03-19",
+  "policy_start_date": "2022-02-12",
+  "policy_age_days": 35,
+  "claim_amount": 2235.46,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-063",
+  "location": "La Rochelle",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

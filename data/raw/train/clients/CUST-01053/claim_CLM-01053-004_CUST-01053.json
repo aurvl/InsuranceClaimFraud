@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01053-004",
+  "customer_id": "CUST-01053",
+  "claim_date": "2023-01-20",
+  "policy_start_date": "2021-08-24",
+  "policy_age_days": 514,
+  "claim_amount": 7284.21,
+  "claim_type": "theft",
+  "customer_age": 83,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 366,
+  "service_provider_id": "SP-028",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

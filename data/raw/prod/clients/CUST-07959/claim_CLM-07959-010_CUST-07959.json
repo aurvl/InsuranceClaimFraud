@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07959-010",
+  "customer_id": "CUST-07959",
+  "claim_date": "2025-10-18",
+  "policy_start_date": "2018-09-22",
+  "policy_age_days": 2583,
+  "claim_amount": 1221.04,
+  "claim_type": "windshield",
+  "customer_age": 58,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 110,
+  "service_provider_id": "SP-024",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

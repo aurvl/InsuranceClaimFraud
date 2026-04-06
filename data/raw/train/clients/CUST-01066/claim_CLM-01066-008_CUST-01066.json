@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01066-008",
+  "customer_id": "CUST-01066",
+  "claim_date": "2024-03-21",
+  "policy_start_date": "2020-05-18",
+  "policy_age_days": 1403,
+  "claim_amount": 2522.44,
+  "claim_type": "hail_damage",
+  "customer_age": 34,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 293,
+  "service_provider_id": "SP-016",
+  "location": "Metz",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03174-008",
+  "customer_id": "CUST-03174",
+  "claim_date": "2025-06-11",
+  "policy_start_date": "2020-12-21",
+  "policy_age_days": 1633,
+  "claim_amount": 19104.46,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-003",
+  "location": "Tours",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

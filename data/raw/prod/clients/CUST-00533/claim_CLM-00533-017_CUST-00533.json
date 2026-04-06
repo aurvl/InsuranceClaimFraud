@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00533-017",
+  "customer_id": "CUST-00533",
+  "claim_date": "2025-09-11",
+  "policy_start_date": "2018-08-10",
+  "policy_age_days": 2589,
+  "claim_amount": 8228.72,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 16,
+  "time_since_last_claim_days": 144,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02501-007",
+  "customer_id": "CUST-02501",
+  "claim_date": "2023-02-03",
+  "policy_start_date": "2019-07-20",
+  "policy_age_days": 1294,
+  "claim_amount": 9011.67,
+  "claim_type": "theft",
+  "customer_age": 74,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 124,
+  "service_provider_id": "SP-025",
+  "location": "Metz",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

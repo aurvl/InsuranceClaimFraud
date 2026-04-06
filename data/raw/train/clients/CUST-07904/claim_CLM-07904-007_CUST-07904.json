@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07904-007",
+  "customer_id": "CUST-07904",
+  "claim_date": "2024-04-01",
+  "policy_start_date": "2019-09-17",
+  "policy_age_days": 1658,
+  "claim_amount": 3722.06,
+  "claim_type": "collision",
+  "customer_age": 37,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-017",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

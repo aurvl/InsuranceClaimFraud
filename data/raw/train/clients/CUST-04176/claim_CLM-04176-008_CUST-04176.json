@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04176-008",
+  "customer_id": "CUST-04176",
+  "claim_date": "2023-09-17",
+  "policy_start_date": "2021-01-28",
+  "policy_age_days": 962,
+  "claim_amount": 1478.83,
+  "claim_type": "hail_damage",
+  "customer_age": 36,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-017",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

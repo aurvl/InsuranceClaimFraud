@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05439-003",
+  "customer_id": "CUST-05439",
+  "claim_date": "2020-08-18",
+  "policy_start_date": "2019-01-14",
+  "policy_age_days": 582,
+  "claim_amount": 1526.8,
+  "claim_type": "hail_damage",
+  "customer_age": 36,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 254,
+  "service_provider_id": "SP-055",
+  "location": "Strasbourg",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

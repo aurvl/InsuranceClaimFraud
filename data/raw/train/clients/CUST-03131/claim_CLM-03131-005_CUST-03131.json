@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03131-005",
+  "customer_id": "CUST-03131",
+  "claim_date": "2019-08-07",
+  "policy_start_date": "2018-02-04",
+  "policy_age_days": 549,
+  "claim_amount": 2928.29,
+  "claim_type": "collision",
+  "customer_age": 84,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-041",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

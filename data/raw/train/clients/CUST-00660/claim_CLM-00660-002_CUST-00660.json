@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00660-002",
+  "customer_id": "CUST-00660",
+  "claim_date": "2020-02-27",
+  "policy_start_date": "2019-08-19",
+  "policy_age_days": 192,
+  "claim_amount": 14514.96,
+  "claim_type": "collision",
+  "customer_age": 44,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 59,
+  "service_provider_id": "SP-062",
+  "location": "La Rochelle",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

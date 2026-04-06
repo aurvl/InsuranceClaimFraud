@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07561-008",
+  "customer_id": "CUST-07561",
+  "claim_date": "2023-09-26",
+  "policy_start_date": "2018-10-28",
+  "policy_age_days": 1794,
+  "claim_amount": 8456.5,
+  "claim_type": "collision",
+  "customer_age": 34,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 631,
+  "service_provider_id": "SP-016",
+  "location": "Perpignan",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

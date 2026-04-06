@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01814-002",
+  "customer_id": "CUST-01814",
+  "claim_date": "2024-02-29",
+  "policy_start_date": "2023-07-05",
+  "policy_age_days": 239,
+  "claim_amount": 7435.01,
+  "claim_type": "fire",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 109,
+  "service_provider_id": "SP-089",
+  "location": "Le Havre",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

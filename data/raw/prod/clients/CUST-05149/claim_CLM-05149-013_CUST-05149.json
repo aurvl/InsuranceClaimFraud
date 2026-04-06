@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05149-013",
+  "customer_id": "CUST-05149",
+  "claim_date": "2025-04-17",
+  "policy_start_date": "2018-11-14",
+  "policy_age_days": 2346,
+  "claim_amount": 5767.34,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 389,
+  "service_provider_id": "SP-036",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

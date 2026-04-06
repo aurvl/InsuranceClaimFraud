@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07325-001",
+  "customer_id": "CUST-07325",
+  "claim_date": "2020-12-19",
+  "policy_start_date": "2020-08-04",
+  "policy_age_days": 137,
+  "claim_amount": 2750.67,
+  "claim_type": "hail_damage",
+  "customer_age": 52,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-084",
+  "location": "Ajaccio",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

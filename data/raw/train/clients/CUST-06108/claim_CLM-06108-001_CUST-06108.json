@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06108-001",
+  "customer_id": "CUST-06108",
+  "claim_date": "2018-05-18",
+  "policy_start_date": "2018-01-17",
+  "policy_age_days": 121,
+  "claim_amount": 12590.13,
+  "claim_type": "bodily_injury",
+  "customer_age": 70,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-017",
+  "location": "Metz",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

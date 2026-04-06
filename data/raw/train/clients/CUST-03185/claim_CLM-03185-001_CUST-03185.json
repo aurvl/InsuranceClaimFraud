@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03185-001",
+  "customer_id": "CUST-03185",
+  "claim_date": "2018-07-07",
+  "policy_start_date": "2018-05-17",
+  "policy_age_days": 51,
+  "claim_amount": 9881.91,
+  "claim_type": "bodily_injury",
+  "customer_age": 62,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-026",
+  "location": "Grenoble",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06558-009",
+  "customer_id": "CUST-06558",
+  "claim_date": "2021-08-12",
+  "policy_start_date": "2019-02-24",
+  "policy_age_days": 900,
+  "claim_amount": 4680.96,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-058",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

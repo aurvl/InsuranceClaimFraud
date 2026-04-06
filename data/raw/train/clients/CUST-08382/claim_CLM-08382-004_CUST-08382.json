@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08382-004",
+  "customer_id": "CUST-08382",
+  "claim_date": "2022-11-28",
+  "policy_start_date": "2019-05-01",
+  "policy_age_days": 1307,
+  "claim_amount": 4273.01,
+  "claim_type": "water_damage",
+  "customer_age": 21,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 567,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

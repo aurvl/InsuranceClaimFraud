@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05720-002",
+  "customer_id": "CUST-05720",
+  "claim_date": "2025-04-21",
+  "policy_start_date": "2024-11-26",
+  "policy_age_days": 146,
+  "claim_amount": 24793.5,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-075",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

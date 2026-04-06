@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07952-014",
+  "customer_id": "CUST-07952",
+  "claim_date": "2024-06-03",
+  "policy_start_date": "2018-05-10",
+  "policy_age_days": 2216,
+  "claim_amount": 11963.37,
+  "claim_type": "theft",
+  "customer_age": 63,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 376,
+  "service_provider_id": "SP-103",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

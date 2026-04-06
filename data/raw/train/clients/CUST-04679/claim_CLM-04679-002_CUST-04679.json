@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04679-002",
+  "customer_id": "CUST-04679",
+  "claim_date": "2020-09-22",
+  "policy_start_date": "2020-01-29",
+  "policy_age_days": 237,
+  "claim_amount": 5702.36,
+  "claim_type": "collision",
+  "customer_age": 73,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 169,
+  "service_provider_id": "SP-074",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

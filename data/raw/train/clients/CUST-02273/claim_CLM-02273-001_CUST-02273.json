@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02273-001",
+  "customer_id": "CUST-02273",
+  "claim_date": "2018-06-02",
+  "policy_start_date": "2018-01-17",
+  "policy_age_days": 136,
+  "claim_amount": 5303.12,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-022",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

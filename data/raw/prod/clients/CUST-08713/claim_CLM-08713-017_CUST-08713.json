@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08713-017",
+  "customer_id": "CUST-08713",
+  "claim_date": "2025-10-01",
+  "policy_start_date": "2018-08-19",
+  "policy_age_days": 2600,
+  "claim_amount": 1508.07,
+  "claim_type": "hail_damage",
+  "customer_age": 58,
+  "num_previous_claims": 16,
+  "time_since_last_claim_days": 247,
+  "service_provider_id": "SP-018",
+  "location": "Toulon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

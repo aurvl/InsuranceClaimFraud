@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08438-014",
+  "customer_id": "CUST-08438",
+  "claim_date": "2023-01-22",
+  "policy_start_date": "2018-03-12",
+  "policy_age_days": 1777,
+  "claim_amount": 3407.96,
+  "claim_type": "collision",
+  "customer_age": 46,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 90,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

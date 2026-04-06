@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03981-007",
+  "customer_id": "CUST-03981",
+  "claim_date": "2021-12-18",
+  "policy_start_date": "2018-04-20",
+  "policy_age_days": 1338,
+  "claim_amount": 9198.9,
+  "claim_type": "bodily_injury",
+  "customer_age": 57,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 103,
+  "service_provider_id": "SP-045",
+  "location": "Annecy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

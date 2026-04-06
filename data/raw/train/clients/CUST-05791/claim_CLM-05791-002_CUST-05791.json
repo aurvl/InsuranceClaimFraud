@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05791-002",
+  "customer_id": "CUST-05791",
+  "claim_date": "2021-10-26",
+  "policy_start_date": "2021-09-04",
+  "policy_age_days": 52,
+  "claim_amount": 2262.54,
+  "claim_type": "fire",
+  "customer_age": 43,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-049",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

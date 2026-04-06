@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04020-004",
+  "customer_id": "CUST-04020",
+  "claim_date": "2022-09-23",
+  "policy_start_date": "2021-09-23",
+  "policy_age_days": 365,
+  "claim_amount": 6143.19,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 106,
+  "service_provider_id": "SP-032",
+  "location": "Dijon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

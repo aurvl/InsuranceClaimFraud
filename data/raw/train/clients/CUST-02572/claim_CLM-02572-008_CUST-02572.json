@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02572-008",
+  "customer_id": "CUST-02572",
+  "claim_date": "2024-04-09",
+  "policy_start_date": "2020-01-13",
+  "policy_age_days": 1548,
+  "claim_amount": 23396.82,
+  "claim_type": "bodily_injury",
+  "customer_age": 43,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 198,
+  "service_provider_id": "SP-008",
+  "location": "Limoges",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

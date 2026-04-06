@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06573-002",
+  "customer_id": "CUST-06573",
+  "claim_date": "2020-06-03",
+  "policy_start_date": "2019-05-06",
+  "policy_age_days": 394,
+  "claim_amount": 5184.13,
+  "claim_type": "fire",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 265,
+  "service_provider_id": "SP-035",
+  "location": "Angers",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

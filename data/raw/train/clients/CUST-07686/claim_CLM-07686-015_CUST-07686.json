@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07686-015",
+  "customer_id": "CUST-07686",
+  "claim_date": "2024-03-27",
+  "policy_start_date": "2019-06-11",
+  "policy_age_days": 1751,
+  "claim_amount": 37440.33,
+  "claim_type": "bodily_injury",
+  "customer_age": 43,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-026",
+  "location": "Metz",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

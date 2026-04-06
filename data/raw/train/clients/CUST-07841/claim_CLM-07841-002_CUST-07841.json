@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07841-002",
+  "customer_id": "CUST-07841",
+  "claim_date": "2020-10-30",
+  "policy_start_date": "2020-01-12",
+  "policy_age_days": 292,
+  "claim_amount": 1605.59,
+  "claim_type": "collision",
+  "customer_age": 83,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 157,
+  "service_provider_id": "SP-035",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

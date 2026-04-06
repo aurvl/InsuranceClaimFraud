@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00499-013",
+  "customer_id": "CUST-00499",
+  "claim_date": "2024-01-04",
+  "policy_start_date": "2018-04-08",
+  "policy_age_days": 2097,
+  "claim_amount": 22539.19,
+  "claim_type": "fire",
+  "customer_age": 31,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 74,
+  "service_provider_id": "SP-038",
+  "location": "Angers",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

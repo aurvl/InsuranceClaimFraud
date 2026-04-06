@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06313-002",
+  "customer_id": "CUST-06313",
+  "claim_date": "2021-06-17",
+  "policy_start_date": "2020-07-01",
+  "policy_age_days": 351,
+  "claim_amount": 6204.71,
+  "claim_type": "bodily_injury",
+  "customer_age": 56,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 231,
+  "service_provider_id": "SP-003",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

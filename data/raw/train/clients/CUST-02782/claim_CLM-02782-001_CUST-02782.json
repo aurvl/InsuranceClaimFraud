@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02782-001",
+  "customer_id": "CUST-02782",
+  "claim_date": "2018-06-14",
+  "policy_start_date": "2018-05-26",
+  "policy_age_days": 19,
+  "claim_amount": 10697.46,
+  "claim_type": "theft",
+  "customer_age": 28,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-071",
+  "location": "Le Havre",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

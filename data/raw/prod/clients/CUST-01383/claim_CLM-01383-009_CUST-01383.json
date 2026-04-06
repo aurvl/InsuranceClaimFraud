@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01383-009",
+  "customer_id": "CUST-01383",
+  "claim_date": "2025-12-07",
+  "policy_start_date": "2022-02-21",
+  "policy_age_days": 1385,
+  "claim_amount": 11959.2,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-111",
+  "location": "Lyon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

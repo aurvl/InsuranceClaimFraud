@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00151-006",
+  "customer_id": "CUST-00151",
+  "claim_date": "2021-11-14",
+  "policy_start_date": "2019-04-07",
+  "policy_age_days": 952,
+  "claim_amount": 1478.04,
+  "claim_type": "hail_damage",
+  "customer_age": 58,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 91,
+  "service_provider_id": "SP-044",
+  "location": "Nantes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

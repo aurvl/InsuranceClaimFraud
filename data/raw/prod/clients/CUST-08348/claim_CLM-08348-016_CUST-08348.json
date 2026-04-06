@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08348-016",
+  "customer_id": "CUST-08348",
+  "claim_date": "2025-05-20",
+  "policy_start_date": "2019-08-19",
+  "policy_age_days": 2101,
+  "claim_amount": 11875.08,
+  "claim_type": "bodily_injury",
+  "customer_age": 39,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-077",
+  "location": "Montpellier",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

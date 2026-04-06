@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05060-011",
+  "customer_id": "CUST-05060",
+  "claim_date": "2023-06-03",
+  "policy_start_date": "2018-09-16",
+  "policy_age_days": 1721,
+  "claim_amount": 13750.28,
+  "claim_type": "bodily_injury",
+  "customer_age": 71,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-058",
+  "location": "Nancy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

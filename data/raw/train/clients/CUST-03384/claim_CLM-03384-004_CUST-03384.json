@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03384-004",
+  "customer_id": "CUST-03384",
+  "claim_date": "2022-06-30",
+  "policy_start_date": "2020-12-04",
+  "policy_age_days": 573,
+  "claim_amount": 12656.25,
+  "claim_type": "fire",
+  "customer_age": 32,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 228,
+  "service_provider_id": "SP-065",
+  "location": "Villeurbanne",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00346-009",
+  "customer_id": "CUST-00346",
+  "claim_date": "2023-03-19",
+  "policy_start_date": "2018-06-14",
+  "policy_age_days": 1739,
+  "claim_amount": 1735.95,
+  "claim_type": "hail_damage",
+  "customer_age": 25,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 274,
+  "service_provider_id": "SP-017",
+  "location": "Nantes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

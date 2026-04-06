@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05632-008",
+  "customer_id": "CUST-05632",
+  "claim_date": "2023-11-23",
+  "policy_start_date": "2020-09-17",
+  "policy_age_days": 1162,
+  "claim_amount": 1606.88,
+  "claim_type": "hail_damage",
+  "customer_age": 55,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 317,
+  "service_provider_id": "SP-089",
+  "location": "Amiens",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

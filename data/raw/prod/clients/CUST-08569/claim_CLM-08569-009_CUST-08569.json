@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08569-009",
+  "customer_id": "CUST-08569",
+  "claim_date": "2025-03-21",
+  "policy_start_date": "2020-01-01",
+  "policy_age_days": 1906,
+  "claim_amount": 5507.02,
+  "claim_type": "collision",
+  "customer_age": 36,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 155,
+  "service_provider_id": "SP-064",
+  "location": "Villeurbanne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06024-002",
+  "customer_id": "CUST-06024",
+  "claim_date": "2024-11-24",
+  "policy_start_date": "2024-02-27",
+  "policy_age_days": 271,
+  "claim_amount": 1256.94,
+  "claim_type": "windshield",
+  "customer_age": 78,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-094",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

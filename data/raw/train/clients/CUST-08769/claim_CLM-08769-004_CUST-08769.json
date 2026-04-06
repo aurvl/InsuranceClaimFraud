@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08769-004",
+  "customer_id": "CUST-08769",
+  "claim_date": "2019-04-06",
+  "policy_start_date": "2018-06-13",
+  "policy_age_days": 297,
+  "claim_amount": 9322.31,
+  "claim_type": "theft",
+  "customer_age": 83,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 51,
+  "service_provider_id": "SP-003",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

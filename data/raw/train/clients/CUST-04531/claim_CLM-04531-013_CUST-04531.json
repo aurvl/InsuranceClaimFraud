@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04531-013",
+  "customer_id": "CUST-04531",
+  "claim_date": "2024-04-05",
+  "policy_start_date": "2019-02-27",
+  "policy_age_days": 1864,
+  "claim_amount": 1750.54,
+  "claim_type": "windshield",
+  "customer_age": 78,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 90,
+  "service_provider_id": "SP-003",
+  "location": "Angers",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

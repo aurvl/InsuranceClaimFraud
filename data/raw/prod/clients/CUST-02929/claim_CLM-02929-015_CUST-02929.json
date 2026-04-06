@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02929-015",
+  "customer_id": "CUST-02929",
+  "claim_date": "2025-08-14",
+  "policy_start_date": "2019-05-13",
+  "policy_age_days": 2285,
+  "claim_amount": 19314.2,
+  "claim_type": "fire",
+  "customer_age": 60,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 197,
+  "service_provider_id": "SP-111",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

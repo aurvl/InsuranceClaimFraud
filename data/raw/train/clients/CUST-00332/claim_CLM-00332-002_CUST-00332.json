@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00332-002",
+  "customer_id": "CUST-00332",
+  "claim_date": "2023-10-08",
+  "policy_start_date": "2023-04-05",
+  "policy_age_days": 186,
+  "claim_amount": 3565.79,
+  "claim_type": "theft",
+  "customer_age": 45,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 91,
+  "service_provider_id": "SP-113",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

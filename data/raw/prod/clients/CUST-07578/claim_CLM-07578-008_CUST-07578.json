@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07578-008",
+  "customer_id": "CUST-07578",
+  "claim_date": "2025-05-05",
+  "policy_start_date": "2022-11-28",
+  "policy_age_days": 889,
+  "claim_amount": 3215.78,
+  "claim_type": "water_damage",
+  "customer_age": 24,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-056",
+  "location": "Nantes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

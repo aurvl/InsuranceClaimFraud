@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03660-002",
+  "customer_id": "CUST-03660",
+  "claim_date": "2024-02-25",
+  "policy_start_date": "2022-11-12",
+  "policy_age_days": 470,
+  "claim_amount": 3382.47,
+  "claim_type": "bodily_injury",
+  "customer_age": 40,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 354,
+  "service_provider_id": "SP-014",
+  "location": "Metz",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08720-003",
+  "customer_id": "CUST-08720",
+  "claim_date": "2019-05-07",
+  "policy_start_date": "2018-01-31",
+  "policy_age_days": 461,
+  "claim_amount": 15238.75,
+  "claim_type": "bodily_injury",
+  "customer_age": 32,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 342,
+  "service_provider_id": "SP-072",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05248-002",
+  "customer_id": "CUST-05248",
+  "claim_date": "2020-09-05",
+  "policy_start_date": "2019-10-20",
+  "policy_age_days": 321,
+  "claim_amount": 11387.54,
+  "claim_type": "bodily_injury",
+  "customer_age": 83,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 234,
+  "service_provider_id": "SP-089",
+  "location": "Brest",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

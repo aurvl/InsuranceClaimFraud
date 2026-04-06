@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06539-013",
+  "customer_id": "CUST-06539",
+  "claim_date": "2023-09-13",
+  "policy_start_date": "2018-04-11",
+  "policy_age_days": 1981,
+  "claim_amount": 9899.38,
+  "claim_type": "fire",
+  "customer_age": 71,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 440,
+  "service_provider_id": "SP-030",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

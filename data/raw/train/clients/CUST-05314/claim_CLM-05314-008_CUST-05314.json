@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05314-008",
+  "customer_id": "CUST-05314",
+  "claim_date": "2024-01-29",
+  "policy_start_date": "2021-05-30",
+  "policy_age_days": 974,
+  "claim_amount": 4540.38,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-050",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03581-009",
+  "customer_id": "CUST-03581",
+  "claim_date": "2022-11-13",
+  "policy_start_date": "2019-07-18",
+  "policy_age_days": 1214,
+  "claim_amount": 14175.56,
+  "claim_type": "bodily_injury",
+  "customer_age": 32,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 97,
+  "service_provider_id": "SP-044",
+  "location": "Cannes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

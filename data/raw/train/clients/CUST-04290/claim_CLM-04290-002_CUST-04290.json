@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04290-002",
+  "customer_id": "CUST-04290",
+  "claim_date": "2018-07-06",
+  "policy_start_date": "2018-01-11",
+  "policy_age_days": 176,
+  "claim_amount": 9040.49,
+  "claim_type": "theft",
+  "customer_age": 76,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 136,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

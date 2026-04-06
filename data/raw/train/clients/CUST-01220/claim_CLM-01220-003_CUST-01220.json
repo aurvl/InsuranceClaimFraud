@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01220-003",
+  "customer_id": "CUST-01220",
+  "claim_date": "2022-07-14",
+  "policy_start_date": "2020-04-26",
+  "policy_age_days": 809,
+  "claim_amount": 4415.65,
+  "claim_type": "water_damage",
+  "customer_age": 36,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 416,
+  "service_provider_id": "SP-073",
+  "location": "Montpellier",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

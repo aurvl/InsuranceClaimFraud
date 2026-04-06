@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03606-009",
+  "customer_id": "CUST-03606",
+  "claim_date": "2025-05-29",
+  "policy_start_date": "2021-03-17",
+  "policy_age_days": 1534,
+  "claim_amount": 15695.23,
+  "claim_type": "fire",
+  "customer_age": 76,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 12,
+  "service_provider_id": "SP-003",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

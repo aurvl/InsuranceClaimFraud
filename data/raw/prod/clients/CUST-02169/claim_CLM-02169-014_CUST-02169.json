@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02169-014",
+  "customer_id": "CUST-02169",
+  "claim_date": "2025-03-23",
+  "policy_start_date": "2020-08-27",
+  "policy_age_days": 1669,
+  "claim_amount": 23533.78,
+  "claim_type": "bodily_injury",
+  "customer_age": 57,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-048",
+  "location": "Angers",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

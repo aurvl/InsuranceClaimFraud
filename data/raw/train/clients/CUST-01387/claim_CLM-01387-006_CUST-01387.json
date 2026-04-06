@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01387-006",
+  "customer_id": "CUST-01387",
+  "claim_date": "2021-04-29",
+  "policy_start_date": "2018-10-28",
+  "policy_age_days": 914,
+  "claim_amount": 4889.68,
+  "claim_type": "fire",
+  "customer_age": 58,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-088",
+  "location": "Nancy",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

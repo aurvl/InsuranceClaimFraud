@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04190-001",
+  "customer_id": "CUST-04190",
+  "claim_date": "2019-08-03",
+  "policy_start_date": "2019-03-22",
+  "policy_age_days": 134,
+  "claim_amount": 9891.5,
+  "claim_type": "theft",
+  "customer_age": 22,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-033",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

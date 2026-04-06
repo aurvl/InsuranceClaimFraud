@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08177-008",
+  "customer_id": "CUST-08177",
+  "claim_date": "2022-05-07",
+  "policy_start_date": "2019-02-08",
+  "policy_age_days": 1184,
+  "claim_amount": 2793.23,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-114",
+  "location": "Amiens",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

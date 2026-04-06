@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04683-016",
+  "customer_id": "CUST-04683",
+  "claim_date": "2025-03-09",
+  "policy_start_date": "2018-01-25",
+  "policy_age_days": 2600,
+  "claim_amount": 22348.61,
+  "claim_type": "theft",
+  "customer_age": 31,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 212,
+  "service_provider_id": "SP-015",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

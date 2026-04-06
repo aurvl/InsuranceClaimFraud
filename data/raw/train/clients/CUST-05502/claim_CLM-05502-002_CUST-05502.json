@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05502-002",
+  "customer_id": "CUST-05502",
+  "claim_date": "2020-10-13",
+  "policy_start_date": "2018-10-14",
+  "policy_age_days": 730,
+  "claim_amount": 12784.59,
+  "claim_type": "bodily_injury",
+  "customer_age": 39,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 693,
+  "service_provider_id": "SP-105",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03041-005",
+  "customer_id": "CUST-03041",
+  "claim_date": "2025-01-01",
+  "policy_start_date": "2021-03-24",
+  "policy_age_days": 1379,
+  "claim_amount": 2493.05,
+  "claim_type": "hail_damage",
+  "customer_age": 81,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 132,
+  "service_provider_id": "SP-074",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

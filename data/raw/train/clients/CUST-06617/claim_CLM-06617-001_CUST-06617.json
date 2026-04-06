@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06617-001",
+  "customer_id": "CUST-06617",
+  "claim_date": "2021-11-21",
+  "policy_start_date": "2021-08-27",
+  "policy_age_days": 86,
+  "claim_amount": 2814.48,
+  "claim_type": "water_damage",
+  "customer_age": 84,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-108",
+  "location": "Tours",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

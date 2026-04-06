@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05929-013",
+  "customer_id": "CUST-05929",
+  "claim_date": "2024-03-23",
+  "policy_start_date": "2018-05-30",
+  "policy_age_days": 2124,
+  "claim_amount": 4897.58,
+  "claim_type": "collision",
+  "customer_age": 56,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-059",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07398-003",
+  "customer_id": "CUST-07398",
+  "claim_date": "2019-03-30",
+  "policy_start_date": "2018-02-23",
+  "policy_age_days": 400,
+  "claim_amount": 1294.78,
+  "claim_type": "hail_damage",
+  "customer_age": 72,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 93,
+  "service_provider_id": "SP-102",
+  "location": "Brest",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00489-001",
+  "customer_id": "CUST-00489",
+  "claim_date": "2020-02-13",
+  "policy_start_date": "2020-01-01",
+  "policy_age_days": 43,
+  "claim_amount": 2243.98,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-025",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

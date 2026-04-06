@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05363-001",
+  "customer_id": "CUST-05363",
+  "claim_date": "2022-04-15",
+  "policy_start_date": "2022-02-21",
+  "policy_age_days": 53,
+  "claim_amount": 4303.35,
+  "claim_type": "water_damage",
+  "customer_age": 47,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-061",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

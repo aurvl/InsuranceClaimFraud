@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06512-001",
+  "customer_id": "CUST-06512",
+  "claim_date": "2020-08-12",
+  "policy_start_date": "2020-06-14",
+  "policy_age_days": 59,
+  "claim_amount": 4149.29,
+  "claim_type": "collision",
+  "customer_age": 61,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-104",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

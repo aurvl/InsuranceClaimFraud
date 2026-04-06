@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02774-004",
+  "customer_id": "CUST-02774",
+  "claim_date": "2021-02-01",
+  "policy_start_date": "2019-07-05",
+  "policy_age_days": 577,
+  "claim_amount": 5742.06,
+  "claim_type": "fire",
+  "customer_age": 28,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 242,
+  "service_provider_id": "SP-082",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

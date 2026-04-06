@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06797-006",
+  "customer_id": "CUST-06797",
+  "claim_date": "2022-09-23",
+  "policy_start_date": "2019-08-27",
+  "policy_age_days": 1123,
+  "claim_amount": 4927.45,
+  "claim_type": "hail_damage",
+  "customer_age": 84,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 203,
+  "service_provider_id": "SP-099",
+  "location": "Brest",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

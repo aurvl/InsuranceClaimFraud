@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02252-002",
+  "customer_id": "CUST-02252",
+  "claim_date": "2019-01-13",
+  "policy_start_date": "2018-06-16",
+  "policy_age_days": 211,
+  "claim_amount": 7013.96,
+  "claim_type": "water_damage",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 196,
+  "service_provider_id": "SP-017",
+  "location": "Grenoble",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

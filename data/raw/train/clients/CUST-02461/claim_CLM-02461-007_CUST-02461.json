@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02461-007",
+  "customer_id": "CUST-02461",
+  "claim_date": "2024-07-19",
+  "policy_start_date": "2020-05-23",
+  "policy_age_days": 1518,
+  "claim_amount": 2144.75,
+  "claim_type": "collision",
+  "customer_age": 69,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-020",
+  "location": "Lyon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

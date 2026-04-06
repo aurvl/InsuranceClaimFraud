@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04182-002",
+  "customer_id": "CUST-04182",
+  "claim_date": "2022-09-04",
+  "policy_start_date": "2021-07-16",
+  "policy_age_days": 415,
+  "claim_amount": 979.56,
+  "claim_type": "windshield",
+  "customer_age": 54,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 352,
+  "service_provider_id": "SP-109",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

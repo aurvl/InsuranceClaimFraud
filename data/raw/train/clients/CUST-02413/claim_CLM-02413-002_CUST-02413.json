@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02413-002",
+  "customer_id": "CUST-02413",
+  "claim_date": "2021-10-01",
+  "policy_start_date": "2021-05-26",
+  "policy_age_days": 128,
+  "claim_amount": 7707.63,
+  "claim_type": "bodily_injury",
+  "customer_age": 61,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 106,
+  "service_provider_id": "SP-044",
+  "location": "Cannes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03262-013",
+  "customer_id": "CUST-03262",
+  "claim_date": "2022-11-28",
+  "policy_start_date": "2018-02-18",
+  "policy_age_days": 1744,
+  "claim_amount": 4798.54,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-071",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

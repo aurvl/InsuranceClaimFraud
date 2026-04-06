@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00141-005",
+  "customer_id": "CUST-00141",
+  "claim_date": "2025-06-18",
+  "policy_start_date": "2022-10-04",
+  "policy_age_days": 988,
+  "claim_amount": 2200.58,
+  "claim_type": "hail_damage",
+  "customer_age": 63,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 264,
+  "service_provider_id": "SP-096",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

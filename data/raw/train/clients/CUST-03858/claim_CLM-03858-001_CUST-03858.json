@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03858-001",
+  "customer_id": "CUST-03858",
+  "claim_date": "2020-03-04",
+  "policy_start_date": "2020-02-04",
+  "policy_age_days": 29,
+  "claim_amount": 12221.38,
+  "claim_type": "water_damage",
+  "customer_age": 36,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-076",
+  "location": "Caen",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

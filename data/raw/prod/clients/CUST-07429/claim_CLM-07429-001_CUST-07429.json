@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07429-001",
+  "customer_id": "CUST-07429",
+  "claim_date": "2024-11-20",
+  "policy_start_date": "2024-08-22",
+  "policy_age_days": 90,
+  "claim_amount": 1764.58,
+  "claim_type": "hail_damage",
+  "customer_age": 68,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-111",
+  "location": "Rennes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

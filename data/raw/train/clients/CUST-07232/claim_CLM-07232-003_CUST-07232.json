@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07232-003",
+  "customer_id": "CUST-07232",
+  "claim_date": "2021-04-09",
+  "policy_start_date": "2020-04-09",
+  "policy_age_days": 365,
+  "claim_amount": 3394.03,
+  "claim_type": "collision",
+  "customer_age": 41,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-102",
+  "location": "Tours",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

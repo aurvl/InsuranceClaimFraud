@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03504-006",
+  "customer_id": "CUST-03504",
+  "claim_date": "2023-01-22",
+  "policy_start_date": "2020-10-25",
+  "policy_age_days": 819,
+  "claim_amount": 13732.28,
+  "claim_type": "water_damage",
+  "customer_age": 74,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-036",
+  "location": "Cannes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

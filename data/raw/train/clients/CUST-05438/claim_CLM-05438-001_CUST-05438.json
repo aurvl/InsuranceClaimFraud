@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05438-001",
+  "customer_id": "CUST-05438",
+  "claim_date": "2023-08-20",
+  "policy_start_date": "2023-07-21",
+  "policy_age_days": 30,
+  "claim_amount": 8592.75,
+  "claim_type": "collision",
+  "customer_age": 69,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-055",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

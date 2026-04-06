@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08782-003",
+  "customer_id": "CUST-08782",
+  "claim_date": "2023-01-10",
+  "policy_start_date": "2022-07-25",
+  "policy_age_days": 169,
+  "claim_amount": 14196.47,
+  "claim_type": "theft",
+  "customer_age": 26,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 124,
+  "service_provider_id": "SP-076",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

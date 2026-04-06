@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03269-006",
+  "customer_id": "CUST-03269",
+  "claim_date": "2023-04-03",
+  "policy_start_date": "2019-03-07",
+  "policy_age_days": 1488,
+  "claim_amount": 1627.36,
+  "claim_type": "windshield",
+  "customer_age": 64,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-069",
+  "location": "Saint-Malo",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

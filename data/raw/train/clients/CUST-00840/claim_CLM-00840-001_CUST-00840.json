@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00840-001",
+  "customer_id": "CUST-00840",
+  "claim_date": "2021-09-10",
+  "policy_start_date": "2021-08-13",
+  "policy_age_days": 28,
+  "claim_amount": 10267.24,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04007-007",
+  "customer_id": "CUST-04007",
+  "claim_date": "2023-11-30",
+  "policy_start_date": "2021-01-16",
+  "policy_age_days": 1048,
+  "claim_amount": 5366.36,
+  "claim_type": "collision",
+  "customer_age": 61,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 190,
+  "service_provider_id": "SP-079",
+  "location": "Lille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

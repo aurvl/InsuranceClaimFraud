@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05111-004",
+  "customer_id": "CUST-05111",
+  "claim_date": "2021-05-21",
+  "policy_start_date": "2019-05-30",
+  "policy_age_days": 722,
+  "claim_amount": 2083.8,
+  "claim_type": "hail_damage",
+  "customer_age": 44,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-032",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

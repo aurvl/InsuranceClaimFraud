@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06121-011",
+  "customer_id": "CUST-06121",
+  "claim_date": "2024-09-28",
+  "policy_start_date": "2019-02-12",
+  "policy_age_days": 2055,
+  "claim_amount": 15802.03,
+  "claim_type": "collision",
+  "customer_age": 51,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 122,
+  "service_provider_id": "SP-107",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

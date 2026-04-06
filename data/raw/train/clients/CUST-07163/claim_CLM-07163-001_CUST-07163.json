@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07163-001",
+  "customer_id": "CUST-07163",
+  "claim_date": "2020-08-16",
+  "policy_start_date": "2020-04-27",
+  "policy_age_days": 111,
+  "claim_amount": 22450.56,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-076",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04764-006",
+  "customer_id": "CUST-04764",
+  "claim_date": "2024-09-22",
+  "policy_start_date": "2023-01-26",
+  "policy_age_days": 605,
+  "claim_amount": 1739.22,
+  "claim_type": "windshield",
+  "customer_age": 59,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-071",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

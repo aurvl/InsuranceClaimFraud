@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04133-001",
+  "customer_id": "CUST-04133",
+  "claim_date": "2019-09-30",
+  "policy_start_date": "2019-08-25",
+  "policy_age_days": 36,
+  "claim_amount": 797.46,
+  "claim_type": "windshield",
+  "customer_age": 45,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-033",
+  "location": "Nice",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

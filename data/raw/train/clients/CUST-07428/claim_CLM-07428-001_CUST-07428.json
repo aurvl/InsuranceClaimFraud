@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07428-001",
+  "customer_id": "CUST-07428",
+  "claim_date": "2019-09-14",
+  "policy_start_date": "2019-09-04",
+  "policy_age_days": 10,
+  "claim_amount": 4224.09,
+  "claim_type": "collision",
+  "customer_age": 36,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-073",
+  "location": "Montpellier",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

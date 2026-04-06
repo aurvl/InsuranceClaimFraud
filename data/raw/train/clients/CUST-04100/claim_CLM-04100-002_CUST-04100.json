@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04100-002",
+  "customer_id": "CUST-04100",
+  "claim_date": "2023-11-02",
+  "policy_start_date": "2022-08-22",
+  "policy_age_days": 437,
+  "claim_amount": 1919.75,
+  "claim_type": "hail_damage",
+  "customer_age": 61,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 365,
+  "service_provider_id": "SP-075",
+  "location": "Bordeaux",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

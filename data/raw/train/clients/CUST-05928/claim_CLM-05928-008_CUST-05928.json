@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05928-008",
+  "customer_id": "CUST-05928",
+  "claim_date": "2023-05-12",
+  "policy_start_date": "2018-08-10",
+  "policy_age_days": 1736,
+  "claim_amount": 26689.7,
+  "claim_type": "theft",
+  "customer_age": 69,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

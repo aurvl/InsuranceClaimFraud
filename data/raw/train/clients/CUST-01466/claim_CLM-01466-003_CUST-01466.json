@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01466-003",
+  "customer_id": "CUST-01466",
+  "claim_date": "2024-02-20",
+  "policy_start_date": "2022-08-20",
+  "policy_age_days": 549,
+  "claim_amount": 3550.14,
+  "claim_type": "collision",
+  "customer_age": 78,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 320,
+  "service_provider_id": "SP-045",
+  "location": "Nice",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

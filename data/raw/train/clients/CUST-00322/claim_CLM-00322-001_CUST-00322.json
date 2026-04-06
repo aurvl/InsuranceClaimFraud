@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00322-001",
+  "customer_id": "CUST-00322",
+  "claim_date": "2018-09-11",
+  "policy_start_date": "2018-08-30",
+  "policy_age_days": 12,
+  "claim_amount": 2607.65,
+  "claim_type": "collision",
+  "customer_age": 84,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-029",
+  "location": "Dijon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

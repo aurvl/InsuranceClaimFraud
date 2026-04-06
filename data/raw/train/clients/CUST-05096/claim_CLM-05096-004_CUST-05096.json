@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05096-004",
+  "customer_id": "CUST-05096",
+  "claim_date": "2019-07-08",
+  "policy_start_date": "2018-04-11",
+  "policy_age_days": 453,
+  "claim_amount": 4463.43,
+  "claim_type": "water_damage",
+  "customer_age": 74,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 238,
+  "service_provider_id": "SP-067",
+  "location": "Le Mans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

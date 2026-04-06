@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03468-002",
+  "customer_id": "CUST-03468",
+  "claim_date": "2019-11-25",
+  "policy_start_date": "2019-03-01",
+  "policy_age_days": 269,
+  "claim_amount": 5503.85,
+  "claim_type": "water_damage",
+  "customer_age": 43,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 120,
+  "service_provider_id": "SP-015",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

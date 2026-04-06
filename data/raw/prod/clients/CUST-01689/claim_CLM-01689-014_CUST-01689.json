@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01689-014",
+  "customer_id": "CUST-01689",
+  "claim_date": "2025-03-03",
+  "policy_start_date": "2018-06-12",
+  "policy_age_days": 2456,
+  "claim_amount": 4039.61,
+  "claim_type": "theft",
+  "customer_age": 74,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 205,
+  "service_provider_id": "SP-026",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07291-001",
+  "customer_id": "CUST-07291",
+  "claim_date": "2020-02-07",
+  "policy_start_date": "2019-12-14",
+  "policy_age_days": 55,
+  "claim_amount": 5069.92,
+  "claim_type": "theft",
+  "customer_age": 23,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-004",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

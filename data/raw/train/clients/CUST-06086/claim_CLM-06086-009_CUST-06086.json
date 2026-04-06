@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06086-009",
+  "customer_id": "CUST-06086",
+  "claim_date": "2023-07-06",
+  "policy_start_date": "2018-08-21",
+  "policy_age_days": 1780,
+  "claim_amount": 8753.19,
+  "claim_type": "water_damage",
+  "customer_age": 27,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 352,
+  "service_provider_id": "SP-055",
+  "location": "La Rochelle",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

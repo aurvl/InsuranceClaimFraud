@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00778-011",
+  "customer_id": "CUST-00778",
+  "claim_date": "2023-08-31",
+  "policy_start_date": "2019-12-04",
+  "policy_age_days": 1366,
+  "claim_amount": 1196.16,
+  "claim_type": "windshield",
+  "customer_age": 47,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-079",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

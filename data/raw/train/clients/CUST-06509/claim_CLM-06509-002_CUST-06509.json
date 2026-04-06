@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06509-002",
+  "customer_id": "CUST-06509",
+  "claim_date": "2021-10-06",
+  "policy_start_date": "2020-12-07",
+  "policy_age_days": 303,
+  "claim_amount": 8707.11,
+  "claim_type": "collision",
+  "customer_age": 84,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 182,
+  "service_provider_id": "SP-089",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

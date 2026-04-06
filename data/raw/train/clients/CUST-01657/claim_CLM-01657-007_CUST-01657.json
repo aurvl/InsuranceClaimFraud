@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01657-007",
+  "customer_id": "CUST-01657",
+  "claim_date": "2024-04-16",
+  "policy_start_date": "2021-02-11",
+  "policy_age_days": 1160,
+  "claim_amount": 2647.34,
+  "claim_type": "hail_damage",
+  "customer_age": 71,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 269,
+  "service_provider_id": "SP-067",
+  "location": "Strasbourg",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

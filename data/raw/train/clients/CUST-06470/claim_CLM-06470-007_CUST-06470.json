@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06470-007",
+  "customer_id": "CUST-06470",
+  "claim_date": "2023-09-01",
+  "policy_start_date": "2022-11-14",
+  "policy_age_days": 291,
+  "claim_amount": 5453.69,
+  "claim_type": "theft",
+  "customer_age": 72,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-089",
+  "location": "Nantes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

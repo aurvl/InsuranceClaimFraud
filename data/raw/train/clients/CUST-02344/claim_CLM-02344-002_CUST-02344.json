@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02344-002",
+  "customer_id": "CUST-02344",
+  "claim_date": "2019-04-19",
+  "policy_start_date": "2018-04-22",
+  "policy_age_days": 362,
+  "claim_amount": 5278.31,
+  "claim_type": "theft",
+  "customer_age": 53,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 338,
+  "service_provider_id": "SP-036",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07278-005",
+  "customer_id": "CUST-07278",
+  "claim_date": "2019-07-11",
+  "policy_start_date": "2018-03-28",
+  "policy_age_days": 470,
+  "claim_amount": 11974.43,
+  "claim_type": "bodily_injury",
+  "customer_age": 85,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-078",
+  "location": "Aix-en-Provence",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

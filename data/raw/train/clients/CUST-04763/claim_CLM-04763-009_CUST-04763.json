@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04763-009",
+  "customer_id": "CUST-04763",
+  "claim_date": "2020-12-12",
+  "policy_start_date": "2018-12-02",
+  "policy_age_days": 741,
+  "claim_amount": 4521.38,
+  "claim_type": "water_damage",
+  "customer_age": 39,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-044",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

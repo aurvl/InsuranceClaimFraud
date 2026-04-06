@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05477-002",
+  "customer_id": "CUST-05477",
+  "claim_date": "2019-08-02",
+  "policy_start_date": "2019-04-06",
+  "policy_age_days": 118,
+  "claim_amount": 7595.92,
+  "claim_type": "theft",
+  "customer_age": 58,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 37,
+  "service_provider_id": "SP-006",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

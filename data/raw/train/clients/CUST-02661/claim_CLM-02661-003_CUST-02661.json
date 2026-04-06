@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02661-003",
+  "customer_id": "CUST-02661",
+  "claim_date": "2020-12-15",
+  "policy_start_date": "2020-06-02",
+  "policy_age_days": 196,
+  "claim_amount": 6093.08,
+  "claim_type": "collision",
+  "customer_age": 78,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-022",
+  "location": "Marseille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

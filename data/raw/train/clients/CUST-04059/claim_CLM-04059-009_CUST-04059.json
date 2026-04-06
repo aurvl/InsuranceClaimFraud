@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04059-009",
+  "customer_id": "CUST-04059",
+  "claim_date": "2022-10-14",
+  "policy_start_date": "2018-11-13",
+  "policy_age_days": 1431,
+  "claim_amount": 7415.92,
+  "claim_type": "collision",
+  "customer_age": 24,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 72,
+  "service_provider_id": "SP-013",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

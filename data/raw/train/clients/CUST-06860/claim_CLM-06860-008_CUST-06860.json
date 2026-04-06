@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06860-008",
+  "customer_id": "CUST-06860",
+  "claim_date": "2022-07-26",
+  "policy_start_date": "2018-04-21",
+  "policy_age_days": 1557,
+  "claim_amount": 20097.78,
+  "claim_type": "theft",
+  "customer_age": 65,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 77,
+  "service_provider_id": "SP-004",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

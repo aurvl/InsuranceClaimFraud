@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02237-002",
+  "customer_id": "CUST-02237",
+  "claim_date": "2020-04-29",
+  "policy_start_date": "2019-06-14",
+  "policy_age_days": 320,
+  "claim_amount": 6945.71,
+  "claim_type": "collision",
+  "customer_age": 69,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 213,
+  "service_provider_id": "SP-049",
+  "location": "Nice",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

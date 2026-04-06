@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01235-002",
+  "customer_id": "CUST-01235",
+  "claim_date": "2020-01-20",
+  "policy_start_date": "2019-07-29",
+  "policy_age_days": 175,
+  "claim_amount": 1794.3,
+  "claim_type": "hail_damage",
+  "customer_age": 59,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 141,
+  "service_provider_id": "SP-070",
+  "location": "Le Mans",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

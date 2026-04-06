@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07798-003",
+  "customer_id": "CUST-07798",
+  "claim_date": "2023-11-19",
+  "policy_start_date": "2023-03-02",
+  "policy_age_days": 262,
+  "claim_amount": 1060.64,
+  "claim_type": "hail_damage",
+  "customer_age": 46,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-067",
+  "location": "Saint-Malo",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

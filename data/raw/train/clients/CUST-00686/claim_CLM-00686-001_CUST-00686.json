@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00686-001",
+  "customer_id": "CUST-00686",
+  "claim_date": "2019-12-29",
+  "policy_start_date": "2019-08-06",
+  "policy_age_days": 145,
+  "claim_amount": 2516.18,
+  "claim_type": "collision",
+  "customer_age": 77,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-089",
+  "location": "Lille",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

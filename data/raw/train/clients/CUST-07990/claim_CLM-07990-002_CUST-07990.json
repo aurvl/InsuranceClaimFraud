@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07990-002",
+  "customer_id": "CUST-07990",
+  "claim_date": "2019-12-02",
+  "policy_start_date": "2019-02-21",
+  "policy_age_days": 284,
+  "claim_amount": 975.83,
+  "claim_type": "windshield",
+  "customer_age": 74,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 251,
+  "service_provider_id": "SP-097",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

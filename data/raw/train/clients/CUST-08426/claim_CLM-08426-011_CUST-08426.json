@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08426-011",
+  "customer_id": "CUST-08426",
+  "claim_date": "2024-07-27",
+  "policy_start_date": "2018-11-10",
+  "policy_age_days": 2086,
+  "claim_amount": 4603.12,
+  "claim_type": "fire",
+  "customer_age": 78,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 230,
+  "service_provider_id": "SP-038",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

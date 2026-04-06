@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01219-005",
+  "customer_id": "CUST-01219",
+  "claim_date": "2022-01-12",
+  "policy_start_date": "2018-09-25",
+  "policy_age_days": 1205,
+  "claim_amount": 10268.87,
+  "claim_type": "bodily_injury",
+  "customer_age": 73,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 469,
+  "service_provider_id": "SP-083",
+  "location": "Aix-en-Provence",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

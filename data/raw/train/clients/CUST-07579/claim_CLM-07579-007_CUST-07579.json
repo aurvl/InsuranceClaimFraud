@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07579-007",
+  "customer_id": "CUST-07579",
+  "claim_date": "2021-07-07",
+  "policy_start_date": "2019-01-09",
+  "policy_age_days": 910,
+  "claim_amount": 4823.06,
+  "claim_type": "water_damage",
+  "customer_age": 51,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-077",
+  "location": "Bordeaux",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

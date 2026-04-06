@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02819-002",
+  "customer_id": "CUST-02819",
+  "claim_date": "2024-02-21",
+  "policy_start_date": "2023-01-21",
+  "policy_age_days": 396,
+  "claim_amount": 28858.1,
+  "claim_type": "fire",
+  "customer_age": 21,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 298,
+  "service_provider_id": "SP-111",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

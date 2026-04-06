@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07333-002",
+  "customer_id": "CUST-07333",
+  "claim_date": "2024-01-05",
+  "policy_start_date": "2023-07-25",
+  "policy_age_days": 164,
+  "claim_amount": 1316.51,
+  "claim_type": "windshield",
+  "customer_age": 60,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 101,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

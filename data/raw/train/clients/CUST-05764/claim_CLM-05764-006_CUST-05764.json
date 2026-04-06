@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05764-006",
+  "customer_id": "CUST-05764",
+  "claim_date": "2022-04-01",
+  "policy_start_date": "2018-06-11",
+  "policy_age_days": 1390,
+  "claim_amount": 1415.66,
+  "claim_type": "hail_damage",
+  "customer_age": 21,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 441,
+  "service_provider_id": "SP-096",
+  "location": "Rennes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

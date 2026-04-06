@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01011-005",
+  "customer_id": "CUST-01011",
+  "claim_date": "2021-01-23",
+  "policy_start_date": "2018-07-04",
+  "policy_age_days": 934,
+  "claim_amount": 1427.72,
+  "claim_type": "windshield",
+  "customer_age": 65,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 163,
+  "service_provider_id": "SP-001",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

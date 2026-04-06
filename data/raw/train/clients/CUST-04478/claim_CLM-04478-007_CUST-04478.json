@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04478-007",
+  "customer_id": "CUST-04478",
+  "claim_date": "2021-12-15",
+  "policy_start_date": "2018-11-03",
+  "policy_age_days": 1138,
+  "claim_amount": 7118.66,
+  "claim_type": "collision",
+  "customer_age": 82,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 218,
+  "service_provider_id": "SP-053",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03288-008",
+  "customer_id": "CUST-03288",
+  "claim_date": "2023-08-03",
+  "policy_start_date": "2018-10-15",
+  "policy_age_days": 1753,
+  "claim_amount": 5842.74,
+  "claim_type": "collision",
+  "customer_age": 81,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 238,
+  "service_provider_id": "SP-114",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

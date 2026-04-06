@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07780-002",
+  "customer_id": "CUST-07780",
+  "claim_date": "2021-10-21",
+  "policy_start_date": "2021-02-22",
+  "policy_age_days": 241,
+  "claim_amount": 2042.01,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-016",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

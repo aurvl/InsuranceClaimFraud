@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00835-005",
+  "customer_id": "CUST-00835",
+  "claim_date": "2020-03-10",
+  "policy_start_date": "2018-07-05",
+  "policy_age_days": 614,
+  "claim_amount": 1412.92,
+  "claim_type": "hail_damage",
+  "customer_age": 28,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 56,
+  "service_provider_id": "SP-018",
+  "location": "Marseille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03269-004",
+  "customer_id": "CUST-03269",
+  "claim_date": "2022-01-02",
+  "policy_start_date": "2019-03-07",
+  "policy_age_days": 1032,
+  "claim_amount": 11974.47,
+  "claim_type": "theft",
+  "customer_age": 64,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 464,
+  "service_provider_id": "SP-058",
+  "location": "Saint-Malo",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

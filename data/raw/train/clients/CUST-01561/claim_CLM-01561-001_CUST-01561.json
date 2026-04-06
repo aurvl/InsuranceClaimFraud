@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01561-001",
+  "customer_id": "CUST-01561",
+  "claim_date": "2023-06-06",
+  "policy_start_date": "2023-04-26",
+  "policy_age_days": 41,
+  "claim_amount": 3660.55,
+  "claim_type": "collision",
+  "customer_age": 23,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-043",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06829-008",
+  "customer_id": "CUST-06829",
+  "claim_date": "2023-05-13",
+  "policy_start_date": "2018-05-23",
+  "policy_age_days": 1816,
+  "claim_amount": 6060.68,
+  "claim_type": "theft",
+  "customer_age": 26,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 319,
+  "service_provider_id": "SP-023",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

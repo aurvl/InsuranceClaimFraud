@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06024-004",
+  "customer_id": "CUST-06024",
+  "claim_date": "2025-05-19",
+  "policy_start_date": "2024-02-27",
+  "policy_age_days": 447,
+  "claim_amount": 4807.83,
+  "claim_type": "theft",
+  "customer_age": 78,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 80,
+  "service_provider_id": "SP-089",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

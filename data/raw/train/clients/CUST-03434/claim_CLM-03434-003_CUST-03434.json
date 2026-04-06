@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03434-003",
+  "customer_id": "CUST-03434",
+  "claim_date": "2024-02-03",
+  "policy_start_date": "2022-09-05",
+  "policy_age_days": 516,
+  "claim_amount": 1832.03,
+  "claim_type": "water_damage",
+  "customer_age": 48,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-046",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

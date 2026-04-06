@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07356-018",
+  "customer_id": "CUST-07356",
+  "claim_date": "2025-11-26",
+  "policy_start_date": "2018-10-14",
+  "policy_age_days": 2600,
+  "claim_amount": 6363.23,
+  "claim_type": "theft",
+  "customer_age": 80,
+  "num_previous_claims": 17,
+  "time_since_last_claim_days": 439,
+  "service_provider_id": "SP-111",
+  "location": "La Rochelle",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

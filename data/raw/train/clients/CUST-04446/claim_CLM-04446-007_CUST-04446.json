@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04446-007",
+  "customer_id": "CUST-04446",
+  "claim_date": "2023-11-25",
+  "policy_start_date": "2020-07-16",
+  "policy_age_days": 1227,
+  "claim_amount": 5794.41,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 210,
+  "service_provider_id": "SP-120",
+  "location": "Amiens",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

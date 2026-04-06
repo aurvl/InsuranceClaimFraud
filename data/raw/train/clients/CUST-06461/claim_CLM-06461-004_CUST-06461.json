@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06461-004",
+  "customer_id": "CUST-06461",
+  "claim_date": "2019-12-02",
+  "policy_start_date": "2018-09-16",
+  "policy_age_days": 442,
+  "claim_amount": 5369.87,
+  "claim_type": "collision",
+  "customer_age": 64,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 156,
+  "service_provider_id": "SP-017",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

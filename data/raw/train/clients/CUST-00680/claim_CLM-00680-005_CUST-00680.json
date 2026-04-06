@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00680-005",
+  "customer_id": "CUST-00680",
+  "claim_date": "2024-09-18",
+  "policy_start_date": "2021-10-06",
+  "policy_age_days": 1078,
+  "claim_amount": 2185.14,
+  "claim_type": "water_damage",
+  "customer_age": 62,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-065",
+  "location": "Villeurbanne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08318-009",
+  "customer_id": "CUST-08318",
+  "claim_date": "2023-11-16",
+  "policy_start_date": "2020-12-13",
+  "policy_age_days": 1068,
+  "claim_amount": 1730.95,
+  "claim_type": "windshield",
+  "customer_age": 67,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 140,
+  "service_provider_id": "SP-048",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

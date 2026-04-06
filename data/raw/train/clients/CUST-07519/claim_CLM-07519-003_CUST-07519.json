@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07519-003",
+  "customer_id": "CUST-07519",
+  "claim_date": "2024-05-26",
+  "policy_start_date": "2023-06-04",
+  "policy_age_days": 357,
+  "claim_amount": 10256.77,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 315,
+  "service_provider_id": "SP-049",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

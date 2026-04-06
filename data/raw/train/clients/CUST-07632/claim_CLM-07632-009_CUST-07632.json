@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07632-009",
+  "customer_id": "CUST-07632",
+  "claim_date": "2024-07-03",
+  "policy_start_date": "2020-04-02",
+  "policy_age_days": 1553,
+  "claim_amount": 7215.48,
+  "claim_type": "water_damage",
+  "customer_age": 72,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 177,
+  "service_provider_id": "SP-052",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

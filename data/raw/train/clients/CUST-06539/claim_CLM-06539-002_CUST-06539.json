@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06539-002",
+  "customer_id": "CUST-06539",
+  "claim_date": "2018-07-29",
+  "policy_start_date": "2018-04-11",
+  "policy_age_days": 109,
+  "claim_amount": 11519.33,
+  "claim_type": "theft",
+  "customer_age": 71,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 66,
+  "service_provider_id": "SP-035",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

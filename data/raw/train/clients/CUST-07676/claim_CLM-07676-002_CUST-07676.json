@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07676-002",
+  "customer_id": "CUST-07676",
+  "claim_date": "2020-07-21",
+  "policy_start_date": "2019-09-05",
+  "policy_age_days": 320,
+  "claim_amount": 1515.3,
+  "claim_type": "hail_damage",
+  "customer_age": 25,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 240,
+  "service_provider_id": "SP-085",
+  "location": "Ajaccio",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

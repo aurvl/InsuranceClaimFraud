@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02069-002",
+  "customer_id": "CUST-02069",
+  "claim_date": "2023-04-13",
+  "policy_start_date": "2022-03-29",
+  "policy_age_days": 380,
+  "claim_amount": 2762.61,
+  "claim_type": "water_damage",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 237,
+  "service_provider_id": "SP-071",
+  "location": "Limoges",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

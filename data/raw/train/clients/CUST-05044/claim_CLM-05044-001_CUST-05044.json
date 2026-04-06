@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05044-001",
+  "customer_id": "CUST-05044",
+  "claim_date": "2021-02-10",
+  "policy_start_date": "2021-01-27",
+  "policy_age_days": 14,
+  "claim_amount": 2986.95,
+  "claim_type": "theft",
+  "customer_age": 61,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-058",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

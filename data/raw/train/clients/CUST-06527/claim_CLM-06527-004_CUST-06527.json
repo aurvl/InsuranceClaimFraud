@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06527-004",
+  "customer_id": "CUST-06527",
+  "claim_date": "2022-03-09",
+  "policy_start_date": "2018-11-16",
+  "policy_age_days": 1209,
+  "claim_amount": 1515.05,
+  "claim_type": "windshield",
+  "customer_age": 18,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 693,
+  "service_provider_id": "SP-086",
+  "location": "Brest",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

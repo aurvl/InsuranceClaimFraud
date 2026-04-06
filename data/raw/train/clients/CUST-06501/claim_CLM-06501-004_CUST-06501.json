@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06501-004",
+  "customer_id": "CUST-06501",
+  "claim_date": "2024-02-16",
+  "policy_start_date": "2022-05-12",
+  "policy_age_days": 645,
+  "claim_amount": 12784.76,
+  "claim_type": "bodily_injury",
+  "customer_age": 52,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 361,
+  "service_provider_id": "SP-028",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

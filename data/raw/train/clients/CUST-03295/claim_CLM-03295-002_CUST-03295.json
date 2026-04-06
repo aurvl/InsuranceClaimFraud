@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03295-002",
+  "customer_id": "CUST-03295",
+  "claim_date": "2019-07-28",
+  "policy_start_date": "2018-06-06",
+  "policy_age_days": 417,
+  "claim_amount": 5984.96,
+  "claim_type": "water_damage",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 289,
+  "service_provider_id": "SP-025",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

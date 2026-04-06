@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07133-004",
+  "customer_id": "CUST-07133",
+  "claim_date": "2022-12-29",
+  "policy_start_date": "2021-03-15",
+  "policy_age_days": 654,
+  "claim_amount": 17006.03,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 78,
+  "service_provider_id": "SP-061",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

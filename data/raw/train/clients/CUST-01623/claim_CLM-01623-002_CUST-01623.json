@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01623-002",
+  "customer_id": "CUST-01623",
+  "claim_date": "2019-04-15",
+  "policy_start_date": "2018-11-14",
+  "policy_age_days": 152,
+  "claim_amount": 7312.76,
+  "claim_type": "bodily_injury",
+  "customer_age": 32,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-038",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

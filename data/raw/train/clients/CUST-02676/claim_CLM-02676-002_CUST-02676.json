@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02676-002",
+  "customer_id": "CUST-02676",
+  "claim_date": "2023-09-03",
+  "policy_start_date": "2022-12-12",
+  "policy_age_days": 265,
+  "claim_amount": 8386.41,
+  "claim_type": "water_damage",
+  "customer_age": 45,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 137,
+  "service_provider_id": "SP-014",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

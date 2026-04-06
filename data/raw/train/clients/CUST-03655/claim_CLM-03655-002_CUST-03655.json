@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03655-002",
+  "customer_id": "CUST-03655",
+  "claim_date": "2022-07-14",
+  "policy_start_date": "2022-01-03",
+  "policy_age_days": 192,
+  "claim_amount": 3959.41,
+  "claim_type": "theft",
+  "customer_age": 36,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 133,
+  "service_provider_id": "SP-045",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

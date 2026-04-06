@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07259-007",
+  "customer_id": "CUST-07259",
+  "claim_date": "2025-09-09",
+  "policy_start_date": "2023-01-22",
+  "policy_age_days": 961,
+  "claim_amount": 5306.53,
+  "claim_type": "theft",
+  "customer_age": 26,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 255,
+  "service_provider_id": "SP-044",
+  "location": "Montpellier",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

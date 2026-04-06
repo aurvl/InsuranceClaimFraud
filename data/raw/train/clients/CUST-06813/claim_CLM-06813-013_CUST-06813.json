@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06813-013",
+  "customer_id": "CUST-06813",
+  "claim_date": "2023-09-10",
+  "policy_start_date": "2018-08-22",
+  "policy_age_days": 1845,
+  "claim_amount": 4228.71,
+  "claim_type": "hail_damage",
+  "customer_age": 36,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-111",
+  "location": "Annecy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

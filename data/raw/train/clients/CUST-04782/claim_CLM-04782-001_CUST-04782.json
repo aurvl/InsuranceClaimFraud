@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04782-001",
+  "customer_id": "CUST-04782",
+  "claim_date": "2018-06-24",
+  "policy_start_date": "2018-03-31",
+  "policy_age_days": 85,
+  "claim_amount": 19846.32,
+  "claim_type": "bodily_injury",
+  "customer_age": 59,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-027",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

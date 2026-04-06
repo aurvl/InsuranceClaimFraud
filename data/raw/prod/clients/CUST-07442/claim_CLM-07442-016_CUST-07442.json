@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07442-016",
+  "customer_id": "CUST-07442",
+  "claim_date": "2025-11-17",
+  "policy_start_date": "2018-12-08",
+  "policy_age_days": 2536,
+  "claim_amount": 11781.21,
+  "claim_type": "bodily_injury",
+  "customer_age": 35,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 80,
+  "service_provider_id": "SP-010",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

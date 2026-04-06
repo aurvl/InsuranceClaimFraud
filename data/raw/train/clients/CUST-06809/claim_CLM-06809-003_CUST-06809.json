@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06809-003",
+  "customer_id": "CUST-06809",
+  "claim_date": "2022-04-08",
+  "policy_start_date": "2020-10-27",
+  "policy_age_days": 528,
+  "claim_amount": 898.07,
+  "claim_type": "windshield",
+  "customer_age": 36,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 193,
+  "service_provider_id": "SP-076",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07865-012",
+  "customer_id": "CUST-07865",
+  "claim_date": "2023-10-07",
+  "policy_start_date": "2018-09-29",
+  "policy_age_days": 1834,
+  "claim_amount": 20704.03,
+  "claim_type": "collision",
+  "customer_age": 55,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-058",
+  "location": "Nancy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

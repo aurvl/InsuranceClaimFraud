@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05090-006",
+  "customer_id": "CUST-05090",
+  "claim_date": "2023-09-04",
+  "policy_start_date": "2021-09-12",
+  "policy_age_days": 722,
+  "claim_amount": 19945.17,
+  "claim_type": "theft",
+  "customer_age": 41,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-102",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

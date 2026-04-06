@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03739-001",
+  "customer_id": "CUST-03739",
+  "claim_date": "2021-05-14",
+  "policy_start_date": "2021-02-09",
+  "policy_age_days": 94,
+  "claim_amount": 15798.91,
+  "claim_type": "fire",
+  "customer_age": 44,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-096",
+  "location": "Rennes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

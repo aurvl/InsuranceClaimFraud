@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08269-017",
+  "customer_id": "CUST-08269",
+  "claim_date": "2025-01-05",
+  "policy_start_date": "2018-05-02",
+  "policy_age_days": 2440,
+  "claim_amount": 1633.53,
+  "claim_type": "windshield",
+  "customer_age": 20,
+  "num_previous_claims": 16,
+  "time_since_last_claim_days": 117,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

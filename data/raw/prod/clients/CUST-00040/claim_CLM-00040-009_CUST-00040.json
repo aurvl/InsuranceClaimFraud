@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00040-009",
+  "customer_id": "CUST-00040",
+  "claim_date": "2024-11-20",
+  "policy_start_date": "2020-04-24",
+  "policy_age_days": 1671,
+  "claim_amount": 3972.85,
+  "claim_type": "collision",
+  "customer_age": 39,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-005",
+  "location": "Limoges",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

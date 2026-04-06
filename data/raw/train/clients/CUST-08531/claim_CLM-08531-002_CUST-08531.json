@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08531-002",
+  "customer_id": "CUST-08531",
+  "claim_date": "2022-02-10",
+  "policy_start_date": "2021-02-19",
+  "policy_age_days": 356,
+  "claim_amount": 7978.56,
+  "claim_type": "theft",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 249,
+  "service_provider_id": "SP-079",
+  "location": "Caen",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

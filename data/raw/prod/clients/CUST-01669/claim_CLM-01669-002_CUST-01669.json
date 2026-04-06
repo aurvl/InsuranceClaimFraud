@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01669-002",
+  "customer_id": "CUST-01669",
+  "claim_date": "2024-12-28",
+  "policy_start_date": "2023-09-09",
+  "policy_age_days": 476,
+  "claim_amount": 8366.81,
+  "claim_type": "collision",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 392,
+  "service_provider_id": "SP-070",
+  "location": "Montpellier",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

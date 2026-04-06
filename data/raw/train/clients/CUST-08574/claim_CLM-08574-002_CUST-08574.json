@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08574-002",
+  "customer_id": "CUST-08574",
+  "claim_date": "2019-12-04",
+  "policy_start_date": "2019-06-07",
+  "policy_age_days": 180,
+  "claim_amount": 1342.51,
+  "claim_type": "hail_damage",
+  "customer_age": 65,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 119,
+  "service_provider_id": "SP-079",
+  "location": "Lille",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

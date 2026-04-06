@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07292-005",
+  "customer_id": "CUST-07292",
+  "claim_date": "2021-09-08",
+  "policy_start_date": "2019-09-08",
+  "policy_age_days": 731,
+  "claim_amount": 24661.05,
+  "claim_type": "theft",
+  "customer_age": 34,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-040",
+  "location": "Nice",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

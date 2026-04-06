@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07355-004",
+  "customer_id": "CUST-07355",
+  "claim_date": "2025-08-18",
+  "policy_start_date": "2023-11-05",
+  "policy_age_days": 652,
+  "claim_amount": 1405.27,
+  "claim_type": "collision",
+  "customer_age": 46,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 291,
+  "service_provider_id": "SP-119",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

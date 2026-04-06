@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04150-009",
+  "customer_id": "CUST-04150",
+  "claim_date": "2021-10-03",
+  "policy_start_date": "2018-01-30",
+  "policy_age_days": 1342,
+  "claim_amount": 22431.42,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 232,
+  "service_provider_id": "SP-057",
+  "location": "Nantes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

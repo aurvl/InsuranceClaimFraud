@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03499-002",
+  "customer_id": "CUST-03499",
+  "claim_date": "2022-04-01",
+  "policy_start_date": "2021-07-21",
+  "policy_age_days": 254,
+  "claim_amount": 23493.73,
+  "claim_type": "bodily_injury",
+  "customer_age": 42,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 199,
+  "service_provider_id": "SP-025",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

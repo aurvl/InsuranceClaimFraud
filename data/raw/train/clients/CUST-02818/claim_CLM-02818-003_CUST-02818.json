@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02818-003",
+  "customer_id": "CUST-02818",
+  "claim_date": "2023-12-11",
+  "policy_start_date": "2022-05-21",
+  "policy_age_days": 569,
+  "claim_amount": 10567.94,
+  "claim_type": "theft",
+  "customer_age": 78,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 198,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04470-002",
+  "customer_id": "CUST-04470",
+  "claim_date": "2019-05-07",
+  "policy_start_date": "2018-11-27",
+  "policy_age_days": 161,
+  "claim_amount": 6971.28,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

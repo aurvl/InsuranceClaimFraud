@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04940-002",
+  "customer_id": "CUST-04940",
+  "claim_date": "2024-04-14",
+  "policy_start_date": "2023-04-07",
+  "policy_age_days": 373,
+  "claim_amount": 2374.88,
+  "claim_type": "water_damage",
+  "customer_age": 61,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 225,
+  "service_provider_id": "SP-079",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

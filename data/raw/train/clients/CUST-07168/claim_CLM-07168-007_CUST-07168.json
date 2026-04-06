@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07168-007",
+  "customer_id": "CUST-07168",
+  "claim_date": "2024-01-10",
+  "policy_start_date": "2020-01-08",
+  "policy_age_days": 1463,
+  "claim_amount": 14427.14,
+  "claim_type": "theft",
+  "customer_age": 38,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 172,
+  "service_provider_id": "SP-034",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

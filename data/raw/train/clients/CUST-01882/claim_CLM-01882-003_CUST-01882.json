@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01882-003",
+  "customer_id": "CUST-01882",
+  "claim_date": "2022-06-30",
+  "policy_start_date": "2020-10-21",
+  "policy_age_days": 617,
+  "claim_amount": 3230.01,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 363,
+  "service_provider_id": "SP-058",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

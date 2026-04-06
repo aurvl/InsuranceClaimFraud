@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01832-001",
+  "customer_id": "CUST-01832",
+  "claim_date": "2023-03-24",
+  "policy_start_date": "2022-11-03",
+  "policy_age_days": 141,
+  "claim_amount": 3823.58,
+  "claim_type": "collision",
+  "customer_age": 46,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-050",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

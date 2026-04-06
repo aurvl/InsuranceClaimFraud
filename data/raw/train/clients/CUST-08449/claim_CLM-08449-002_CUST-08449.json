@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08449-002",
+  "customer_id": "CUST-08449",
+  "claim_date": "2019-06-18",
+  "policy_start_date": "2018-01-30",
+  "policy_age_days": 504,
+  "claim_amount": 14422.87,
+  "claim_type": "fire",
+  "customer_age": 80,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 462,
+  "service_provider_id": "SP-088",
+  "location": "Nancy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05322-003",
+  "customer_id": "CUST-05322",
+  "claim_date": "2019-01-10",
+  "policy_start_date": "2018-01-11",
+  "policy_age_days": 364,
+  "claim_amount": 16681.22,
+  "claim_type": "theft",
+  "customer_age": 69,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 111,
+  "service_provider_id": "SP-099",
+  "location": "Rennes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

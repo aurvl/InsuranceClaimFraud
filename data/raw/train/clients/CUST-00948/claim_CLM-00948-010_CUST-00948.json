@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00948-010",
+  "customer_id": "CUST-00948",
+  "claim_date": "2021-11-07",
+  "policy_start_date": "2019-05-10",
+  "policy_age_days": 912,
+  "claim_amount": 3290.87,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 236,
+  "service_provider_id": "SP-049",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

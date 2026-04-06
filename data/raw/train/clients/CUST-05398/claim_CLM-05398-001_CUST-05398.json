@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05398-001",
+  "customer_id": "CUST-05398",
+  "claim_date": "2021-11-28",
+  "policy_start_date": "2021-09-15",
+  "policy_age_days": 74,
+  "claim_amount": 3130.15,
+  "claim_type": "collision",
+  "customer_age": 72,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-029",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

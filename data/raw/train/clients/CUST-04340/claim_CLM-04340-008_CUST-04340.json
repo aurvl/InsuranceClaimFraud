@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04340-008",
+  "customer_id": "CUST-04340",
+  "claim_date": "2024-06-23",
+  "policy_start_date": "2020-07-11",
+  "policy_age_days": 1443,
+  "claim_amount": 11438.39,
+  "claim_type": "theft",
+  "customer_age": 57,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 214,
+  "service_provider_id": "SP-030",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

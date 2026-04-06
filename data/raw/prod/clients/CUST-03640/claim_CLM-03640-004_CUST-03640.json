@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03640-004",
+  "customer_id": "CUST-03640",
+  "claim_date": "2025-01-03",
+  "policy_start_date": "2021-12-22",
+  "policy_age_days": 1108,
+  "claim_amount": 3513.64,
+  "claim_type": "collision",
+  "customer_age": 45,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 290,
+  "service_provider_id": "SP-110",
+  "location": "Tours",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

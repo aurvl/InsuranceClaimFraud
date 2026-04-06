@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07430-004",
+  "customer_id": "CUST-07430",
+  "claim_date": "2019-02-26",
+  "policy_start_date": "2018-04-28",
+  "policy_age_days": 304,
+  "claim_amount": 9920.29,
+  "claim_type": "fire",
+  "customer_age": 18,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-020",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

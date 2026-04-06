@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02981-006",
+  "customer_id": "CUST-02981",
+  "claim_date": "2021-06-29",
+  "policy_start_date": "2018-06-13",
+  "policy_age_days": 1112,
+  "claim_amount": 1015.61,
+  "claim_type": "hail_damage",
+  "customer_age": 76,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 121,
+  "service_provider_id": "SP-111",
+  "location": "Tours",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00786-013",
+  "customer_id": "CUST-00786",
+  "claim_date": "2023-05-30",
+  "policy_start_date": "2018-01-15",
+  "policy_age_days": 1961,
+  "claim_amount": 1332.73,
+  "claim_type": "windshield",
+  "customer_age": 26,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 129,
+  "service_provider_id": "SP-030",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

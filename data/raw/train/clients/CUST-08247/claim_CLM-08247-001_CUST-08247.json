@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08247-001",
+  "customer_id": "CUST-08247",
+  "claim_date": "2019-09-03",
+  "policy_start_date": "2019-04-13",
+  "policy_age_days": 143,
+  "claim_amount": 24149.89,
+  "claim_type": "theft",
+  "customer_age": 83,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-031",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

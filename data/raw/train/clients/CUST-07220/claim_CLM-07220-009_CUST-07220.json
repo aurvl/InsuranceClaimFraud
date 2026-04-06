@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07220-009",
+  "customer_id": "CUST-07220",
+  "claim_date": "2022-11-06",
+  "policy_start_date": "2019-01-04",
+  "policy_age_days": 1402,
+  "claim_amount": 2046.04,
+  "claim_type": "hail_damage",
+  "customer_age": 41,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 163,
+  "service_provider_id": "SP-004",
+  "location": "Limoges",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

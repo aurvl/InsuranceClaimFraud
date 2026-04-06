@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06013-005",
+  "customer_id": "CUST-06013",
+  "claim_date": "2020-10-30",
+  "policy_start_date": "2018-11-26",
+  "policy_age_days": 704,
+  "claim_amount": 5766.01,
+  "claim_type": "bodily_injury",
+  "customer_age": 85,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 361,
+  "service_provider_id": "SP-017",
+  "location": "Grenoble",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

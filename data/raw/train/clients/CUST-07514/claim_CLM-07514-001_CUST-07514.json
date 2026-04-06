@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07514-001",
+  "customer_id": "CUST-07514",
+  "claim_date": "2024-07-01",
+  "policy_start_date": "2024-02-27",
+  "policy_age_days": 125,
+  "claim_amount": 5602.21,
+  "claim_type": "fire",
+  "customer_age": 76,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-038",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

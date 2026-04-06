@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07176-001",
+  "customer_id": "CUST-07176",
+  "claim_date": "2018-08-12",
+  "policy_start_date": "2018-04-08",
+  "policy_age_days": 126,
+  "claim_amount": 2041.56,
+  "claim_type": "water_damage",
+  "customer_age": 47,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "Cannes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

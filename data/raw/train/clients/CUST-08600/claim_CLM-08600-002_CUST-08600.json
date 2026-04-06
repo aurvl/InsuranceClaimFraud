@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08600-002",
+  "customer_id": "CUST-08600",
+  "claim_date": "2020-04-05",
+  "policy_start_date": "2019-03-26",
+  "policy_age_days": 376,
+  "claim_amount": 3876.1,
+  "claim_type": "collision",
+  "customer_age": 83,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 246,
+  "service_provider_id": "SP-044",
+  "location": "Bordeaux",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

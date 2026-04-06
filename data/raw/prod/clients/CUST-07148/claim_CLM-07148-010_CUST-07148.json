@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07148-010",
+  "customer_id": "CUST-07148",
+  "claim_date": "2025-03-13",
+  "policy_start_date": "2019-01-14",
+  "policy_age_days": 2250,
+  "claim_amount": 5955.29,
+  "claim_type": "collision",
+  "customer_age": 84,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-062",
+  "location": "Strasbourg",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

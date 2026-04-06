@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06235-003",
+  "customer_id": "CUST-06235",
+  "claim_date": "2021-11-15",
+  "policy_start_date": "2020-06-15",
+  "policy_age_days": 518,
+  "claim_amount": 743.66,
+  "claim_type": "windshield",
+  "customer_age": 57,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 192,
+  "service_provider_id": "SP-045",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

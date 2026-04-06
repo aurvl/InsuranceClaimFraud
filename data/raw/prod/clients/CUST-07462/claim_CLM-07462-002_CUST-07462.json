@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07462-002",
+  "customer_id": "CUST-07462",
+  "claim_date": "2025-01-26",
+  "policy_start_date": "2024-08-04",
+  "policy_age_days": 175,
+  "claim_amount": 7473.59,
+  "claim_type": "theft",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 126,
+  "service_provider_id": "SP-070",
+  "location": "Saint-Malo",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

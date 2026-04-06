@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04374-004",
+  "customer_id": "CUST-04374",
+  "claim_date": "2019-07-10",
+  "policy_start_date": "2018-07-30",
+  "policy_age_days": 345,
+  "claim_amount": 17966.61,
+  "claim_type": "fire",
+  "customer_age": 41,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-111",
+  "location": "Nantes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

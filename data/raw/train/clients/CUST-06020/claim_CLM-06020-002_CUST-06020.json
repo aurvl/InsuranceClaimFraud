@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06020-002",
+  "customer_id": "CUST-06020",
+  "claim_date": "2019-06-21",
+  "policy_start_date": "2018-08-24",
+  "policy_age_days": 301,
+  "claim_amount": 11535.75,
+  "claim_type": "bodily_injury",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 229,
+  "service_provider_id": "SP-108",
+  "location": "Tours",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

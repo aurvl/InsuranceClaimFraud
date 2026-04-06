@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06433-001",
+  "customer_id": "CUST-06433",
+  "claim_date": "2021-04-30",
+  "policy_start_date": "2021-03-01",
+  "policy_age_days": 60,
+  "claim_amount": 799.21,
+  "claim_type": "hail_damage",
+  "customer_age": 49,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-077",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07264-003",
+  "customer_id": "CUST-07264",
+  "claim_date": "2022-08-05",
+  "policy_start_date": "2022-04-06",
+  "policy_age_days": 121,
+  "claim_amount": 2794.95,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-022",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03800-001",
+  "customer_id": "CUST-03800",
+  "claim_date": "2022-05-14",
+  "policy_start_date": "2022-02-19",
+  "policy_age_days": 84,
+  "claim_amount": 983.18,
+  "claim_type": "windshield",
+  "customer_age": 23,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-058",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

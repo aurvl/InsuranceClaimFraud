@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00167-002",
+  "customer_id": "CUST-00167",
+  "claim_date": "2019-04-03",
+  "policy_start_date": "2019-03-08",
+  "policy_age_days": 26,
+  "claim_amount": 2169.74,
+  "claim_type": "hail_damage",
+  "customer_age": 72,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-107",
+  "location": "Tours",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

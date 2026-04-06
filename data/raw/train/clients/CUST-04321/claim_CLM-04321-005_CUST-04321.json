@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04321-005",
+  "customer_id": "CUST-04321",
+  "claim_date": "2023-09-27",
+  "policy_start_date": "2021-10-16",
+  "policy_age_days": 711,
+  "claim_amount": 4082.72,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 372,
+  "service_provider_id": "SP-089",
+  "location": "Toulouse",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

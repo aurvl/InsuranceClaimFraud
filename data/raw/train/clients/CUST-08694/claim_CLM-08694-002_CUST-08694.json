@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08694-002",
+  "customer_id": "CUST-08694",
+  "claim_date": "2022-04-26",
+  "policy_start_date": "2021-12-21",
+  "policy_age_days": 126,
+  "claim_amount": 2937.59,
+  "claim_type": "hail_damage",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 31,
+  "service_provider_id": "SP-066",
+  "location": "Saint-Malo",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

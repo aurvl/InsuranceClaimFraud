@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04793-003",
+  "customer_id": "CUST-04793",
+  "claim_date": "2019-10-08",
+  "policy_start_date": "2019-05-08",
+  "policy_age_days": 153,
+  "claim_amount": 29483.25,
+  "claim_type": "fire",
+  "customer_age": 77,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-016",
+  "location": "Toulon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

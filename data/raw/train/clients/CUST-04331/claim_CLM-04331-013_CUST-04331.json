@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04331-013",
+  "customer_id": "CUST-04331",
+  "claim_date": "2023-07-07",
+  "policy_start_date": "2018-03-16",
+  "policy_age_days": 1939,
+  "claim_amount": 2688.37,
+  "claim_type": "water_damage",
+  "customer_age": 57,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 12,
+  "service_provider_id": "SP-066",
+  "location": "Strasbourg",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

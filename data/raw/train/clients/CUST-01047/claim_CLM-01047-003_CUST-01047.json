@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01047-003",
+  "customer_id": "CUST-01047",
+  "claim_date": "2019-12-26",
+  "policy_start_date": "2018-08-21",
+  "policy_age_days": 492,
+  "claim_amount": 14038.26,
+  "claim_type": "bodily_injury",
+  "customer_age": 65,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 244,
+  "service_provider_id": "SP-022",
+  "location": "Grenoble",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

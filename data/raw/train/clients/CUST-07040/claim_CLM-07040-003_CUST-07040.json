@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07040-003",
+  "customer_id": "CUST-07040",
+  "claim_date": "2021-09-01",
+  "policy_start_date": "2020-07-11",
+  "policy_age_days": 417,
+  "claim_amount": 71416.46,
+  "claim_type": "bodily_injury",
+  "customer_age": 41,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 73,
+  "service_provider_id": "SP-043",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

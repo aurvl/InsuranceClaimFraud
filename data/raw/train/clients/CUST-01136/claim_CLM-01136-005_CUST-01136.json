@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01136-005",
+  "customer_id": "CUST-01136",
+  "claim_date": "2020-12-12",
+  "policy_start_date": "2019-09-18",
+  "policy_age_days": 451,
+  "claim_amount": 604.68,
+  "claim_type": "windshield",
+  "customer_age": 18,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-058",
+  "location": "Toulon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

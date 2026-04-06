@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01852-002",
+  "customer_id": "CUST-01852",
+  "claim_date": "2019-10-25",
+  "policy_start_date": "2018-06-20",
+  "policy_age_days": 492,
+  "claim_amount": 21466.54,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 458,
+  "service_provider_id": "SP-090",
+  "location": "Brest",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

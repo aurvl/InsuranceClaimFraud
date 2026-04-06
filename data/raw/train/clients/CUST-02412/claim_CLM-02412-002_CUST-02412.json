@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02412-002",
+  "customer_id": "CUST-02412",
+  "claim_date": "2021-08-04",
+  "policy_start_date": "2021-01-25",
+  "policy_age_days": 191,
+  "claim_amount": 11949.41,
+  "claim_type": "collision",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-038",
+  "location": "Cannes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

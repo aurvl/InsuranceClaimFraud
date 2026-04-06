@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00037-009",
+  "customer_id": "CUST-00037",
+  "claim_date": "2022-01-26",
+  "policy_start_date": "2018-05-09",
+  "policy_age_days": 1358,
+  "claim_amount": 20879.53,
+  "claim_type": "fire",
+  "customer_age": 75,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 76,
+  "service_provider_id": "SP-056",
+  "location": "Saint-Malo",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

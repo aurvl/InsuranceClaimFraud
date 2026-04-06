@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07632-003",
+  "customer_id": "CUST-07632",
+  "claim_date": "2021-07-22",
+  "policy_start_date": "2020-04-02",
+  "policy_age_days": 476,
+  "claim_amount": 4195.65,
+  "claim_type": "theft",
+  "customer_age": 72,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 301,
+  "service_provider_id": "SP-055",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

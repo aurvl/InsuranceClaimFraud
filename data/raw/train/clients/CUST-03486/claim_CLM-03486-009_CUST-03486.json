@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03486-009",
+  "customer_id": "CUST-03486",
+  "claim_date": "2022-09-13",
+  "policy_start_date": "2018-07-19",
+  "policy_age_days": 1517,
+  "claim_amount": 2215.25,
+  "claim_type": "water_damage",
+  "customer_age": 64,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 113,
+  "service_provider_id": "SP-089",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

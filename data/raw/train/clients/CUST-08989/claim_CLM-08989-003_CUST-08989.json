@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08989-003",
+  "customer_id": "CUST-08989",
+  "claim_date": "2020-01-28",
+  "policy_start_date": "2018-09-14",
+  "policy_age_days": 501,
+  "claim_amount": 5689.12,
+  "claim_type": "water_damage",
+  "customer_age": 21,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 174,
+  "service_provider_id": "SP-032",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07310-002",
+  "customer_id": "CUST-07310",
+  "claim_date": "2021-12-15",
+  "policy_start_date": "2020-11-16",
+  "policy_age_days": 394,
+  "claim_amount": 1270.67,
+  "claim_type": "windshield",
+  "customer_age": 19,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 274,
+  "service_provider_id": "SP-065",
+  "location": "Strasbourg",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

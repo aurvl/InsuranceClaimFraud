@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03477-002",
+  "customer_id": "CUST-03477",
+  "claim_date": "2022-07-21",
+  "policy_start_date": "2021-01-25",
+  "policy_age_days": 542,
+  "claim_amount": 4401.28,
+  "claim_type": "collision",
+  "customer_age": 67,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 428,
+  "service_provider_id": "SP-068",
+  "location": "Strasbourg",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

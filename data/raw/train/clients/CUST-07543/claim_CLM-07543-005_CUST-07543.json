@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07543-005",
+  "customer_id": "CUST-07543",
+  "claim_date": "2020-10-14",
+  "policy_start_date": "2018-01-04",
+  "policy_age_days": 1014,
+  "claim_amount": 18282.53,
+  "claim_type": "fire",
+  "customer_age": 85,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 117,
+  "service_provider_id": "SP-089",
+  "location": "Rennes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

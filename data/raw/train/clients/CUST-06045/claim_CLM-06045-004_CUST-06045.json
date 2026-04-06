@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06045-004",
+  "customer_id": "CUST-06045",
+  "claim_date": "2019-06-13",
+  "policy_start_date": "2018-08-01",
+  "policy_age_days": 316,
+  "claim_amount": 10246.31,
+  "claim_type": "collision",
+  "customer_age": 80,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-069",
+  "location": "Saint-Malo",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

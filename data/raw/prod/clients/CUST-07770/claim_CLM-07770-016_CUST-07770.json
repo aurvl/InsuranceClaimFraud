@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07770-016",
+  "customer_id": "CUST-07770",
+  "claim_date": "2025-08-27",
+  "policy_start_date": "2018-07-15",
+  "policy_age_days": 2600,
+  "claim_amount": 25433.58,
+  "claim_type": "fire",
+  "customer_age": 47,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 124,
+  "service_provider_id": "SP-061",
+  "location": "La Rochelle",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

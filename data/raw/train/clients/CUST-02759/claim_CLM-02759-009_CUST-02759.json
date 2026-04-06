@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02759-009",
+  "customer_id": "CUST-02759",
+  "claim_date": "2021-09-04",
+  "policy_start_date": "2019-03-11",
+  "policy_age_days": 908,
+  "claim_amount": 1833.14,
+  "claim_type": "hail_damage",
+  "customer_age": 53,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-042",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

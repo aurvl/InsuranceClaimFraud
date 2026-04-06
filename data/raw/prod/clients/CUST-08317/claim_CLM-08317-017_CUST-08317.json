@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08317-017",
+  "customer_id": "CUST-08317",
+  "claim_date": "2025-11-17",
+  "policy_start_date": "2018-10-05",
+  "policy_age_days": 2600,
+  "claim_amount": 45896.21,
+  "claim_type": "fire",
+  "customer_age": 28,
+  "num_previous_claims": 16,
+  "time_since_last_claim_days": 59,
+  "service_provider_id": "SP-106",
+  "location": "Amiens",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

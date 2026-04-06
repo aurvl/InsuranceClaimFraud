@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01719-007",
+  "customer_id": "CUST-01719",
+  "claim_date": "2024-05-14",
+  "policy_start_date": "2022-09-26",
+  "policy_age_days": 596,
+  "claim_amount": 8781.11,
+  "claim_type": "theft",
+  "customer_age": 38,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-035",
+  "location": "Dijon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

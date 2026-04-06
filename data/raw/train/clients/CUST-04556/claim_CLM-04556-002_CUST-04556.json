@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04556-002",
+  "customer_id": "CUST-04556",
+  "claim_date": "2019-09-21",
+  "policy_start_date": "2019-05-24",
+  "policy_age_days": 120,
+  "claim_amount": 1770.12,
+  "claim_type": "hail_damage",
+  "customer_age": 73,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-039",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01390-003",
+  "customer_id": "CUST-01390",
+  "claim_date": "2021-08-27",
+  "policy_start_date": "2020-04-22",
+  "policy_age_days": 492,
+  "claim_amount": 14530.77,
+  "claim_type": "fire",
+  "customer_age": 56,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 188,
+  "service_provider_id": "SP-068",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

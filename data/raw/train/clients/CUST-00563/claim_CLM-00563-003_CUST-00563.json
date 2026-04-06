@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00563-003",
+  "customer_id": "CUST-00563",
+  "claim_date": "2019-10-12",
+  "policy_start_date": "2019-02-05",
+  "policy_age_days": 249,
+  "claim_amount": 1475.04,
+  "claim_type": "hail_damage",
+  "customer_age": 49,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 148,
+  "service_provider_id": "SP-014",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

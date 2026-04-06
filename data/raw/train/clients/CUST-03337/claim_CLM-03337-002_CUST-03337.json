@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03337-002",
+  "customer_id": "CUST-03337",
+  "claim_date": "2019-11-26",
+  "policy_start_date": "2019-02-25",
+  "policy_age_days": 274,
+  "claim_amount": 4679.03,
+  "claim_type": "collision",
+  "customer_age": 34,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 211,
+  "service_provider_id": "SP-047",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08239-002",
+  "customer_id": "CUST-08239",
+  "claim_date": "2020-08-21",
+  "policy_start_date": "2019-11-01",
+  "policy_age_days": 294,
+  "claim_amount": 17692.9,
+  "claim_type": "fire",
+  "customer_age": 29,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 180,
+  "service_provider_id": "SP-090",
+  "location": "Brest",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

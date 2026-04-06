@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02106-008",
+  "customer_id": "CUST-02106",
+  "claim_date": "2021-07-09",
+  "policy_start_date": "2018-02-23",
+  "policy_age_days": 1232,
+  "claim_amount": 21787.48,
+  "claim_type": "fire",
+  "customer_age": 51,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-063",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

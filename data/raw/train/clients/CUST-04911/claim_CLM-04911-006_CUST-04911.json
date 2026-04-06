@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04911-006",
+  "customer_id": "CUST-04911",
+  "claim_date": "2023-08-19",
+  "policy_start_date": "2021-11-20",
+  "policy_age_days": 637,
+  "claim_amount": 8968.92,
+  "claim_type": "bodily_injury",
+  "customer_age": 83,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-084",
+  "location": "Brest",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06304-002",
+  "customer_id": "CUST-06304",
+  "claim_date": "2019-07-28",
+  "policy_start_date": "2018-12-16",
+  "policy_age_days": 224,
+  "claim_amount": 1271.23,
+  "claim_type": "windshield",
+  "customer_age": 74,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-107",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

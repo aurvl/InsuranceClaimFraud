@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00593-004",
+  "customer_id": "CUST-00593",
+  "claim_date": "2019-11-08",
+  "policy_start_date": "2018-07-03",
+  "policy_age_days": 493,
+  "claim_amount": 1896.21,
+  "claim_type": "hail_damage",
+  "customer_age": 20,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 203,
+  "service_provider_id": "SP-024",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

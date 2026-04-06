@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08263-004",
+  "customer_id": "CUST-08263",
+  "claim_date": "2024-03-10",
+  "policy_start_date": "2022-01-10",
+  "policy_age_days": 790,
+  "claim_amount": 3435.19,
+  "claim_type": "fire",
+  "customer_age": 74,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 126,
+  "service_provider_id": "SP-071",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

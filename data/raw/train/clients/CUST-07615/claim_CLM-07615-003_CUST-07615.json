@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07615-003",
+  "customer_id": "CUST-07615",
+  "claim_date": "2022-07-19",
+  "policy_start_date": "2021-08-04",
+  "policy_age_days": 349,
+  "claim_amount": 25362.38,
+  "claim_type": "bodily_injury",
+  "customer_age": 36,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 112,
+  "service_provider_id": "SP-065",
+  "location": "Montpellier",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

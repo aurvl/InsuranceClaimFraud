@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00528-005",
+  "customer_id": "CUST-00528",
+  "claim_date": "2021-01-12",
+  "policy_start_date": "2018-09-13",
+  "policy_age_days": 852,
+  "claim_amount": 1984.13,
+  "claim_type": "windshield",
+  "customer_age": 31,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 347,
+  "service_provider_id": "SP-052",
+  "location": "N\u00eemes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

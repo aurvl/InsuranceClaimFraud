@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01780-008",
+  "customer_id": "CUST-01780",
+  "claim_date": "2022-02-28",
+  "policy_start_date": "2018-02-09",
+  "policy_age_days": 1480,
+  "claim_amount": 18291.53,
+  "claim_type": "fire",
+  "customer_age": 62,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 221,
+  "service_provider_id": "SP-012",
+  "location": "Marseille",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

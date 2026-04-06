@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03095-004",
+  "customer_id": "CUST-03095",
+  "claim_date": "2022-07-05",
+  "policy_start_date": "2020-02-27",
+  "policy_age_days": 859,
+  "claim_amount": 30635.39,
+  "claim_type": "bodily_injury",
+  "customer_age": 48,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 177,
+  "service_provider_id": "SP-070",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

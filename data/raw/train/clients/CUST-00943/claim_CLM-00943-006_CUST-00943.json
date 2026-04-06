@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00943-006",
+  "customer_id": "CUST-00943",
+  "claim_date": "2023-09-20",
+  "policy_start_date": "2019-08-22",
+  "policy_age_days": 1490,
+  "claim_amount": 8336.21,
+  "claim_type": "bodily_injury",
+  "customer_age": 70,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-075",
+  "location": "Bordeaux",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

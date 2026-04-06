@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07393-007",
+  "customer_id": "CUST-07393",
+  "claim_date": "2024-12-19",
+  "policy_start_date": "2020-05-10",
+  "policy_age_days": 1684,
+  "claim_amount": 1906.33,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 248,
+  "service_provider_id": "SP-111",
+  "location": "Paris",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

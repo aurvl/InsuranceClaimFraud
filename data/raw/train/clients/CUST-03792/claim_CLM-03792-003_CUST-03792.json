@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03792-003",
+  "customer_id": "CUST-03792",
+  "claim_date": "2024-04-17",
+  "policy_start_date": "2022-07-07",
+  "policy_age_days": 650,
+  "claim_amount": 17443.61,
+  "claim_type": "theft",
+  "customer_age": 60,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 513,
+  "service_provider_id": "SP-003",
+  "location": "Tours",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

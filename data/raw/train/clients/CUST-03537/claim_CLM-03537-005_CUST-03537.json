@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03537-005",
+  "customer_id": "CUST-03537",
+  "claim_date": "2021-06-21",
+  "policy_start_date": "2019-07-14",
+  "policy_age_days": 708,
+  "claim_amount": 3489.87,
+  "claim_type": "hail_damage",
+  "customer_age": 79,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 156,
+  "service_provider_id": "SP-071",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

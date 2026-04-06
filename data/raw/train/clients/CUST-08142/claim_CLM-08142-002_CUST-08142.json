@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08142-002",
+  "customer_id": "CUST-08142",
+  "claim_date": "2020-08-18",
+  "policy_start_date": "2019-12-07",
+  "policy_age_days": 255,
+  "claim_amount": 3126.45,
+  "claim_type": "hail_damage",
+  "customer_age": 78,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 146,
+  "service_provider_id": "SP-047",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

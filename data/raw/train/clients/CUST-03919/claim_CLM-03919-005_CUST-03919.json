@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03919-005",
+  "customer_id": "CUST-03919",
+  "claim_date": "2021-12-14",
+  "policy_start_date": "2018-11-11",
+  "policy_age_days": 1129,
+  "claim_amount": 5678.81,
+  "claim_type": "collision",
+  "customer_age": 72,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 120,
+  "service_provider_id": "SP-017",
+  "location": "Metz",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

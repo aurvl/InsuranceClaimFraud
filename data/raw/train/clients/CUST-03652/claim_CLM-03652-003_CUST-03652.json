@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03652-003",
+  "customer_id": "CUST-03652",
+  "claim_date": "2023-03-25",
+  "policy_start_date": "2021-09-17",
+  "policy_age_days": 554,
+  "claim_amount": 15284.91,
+  "claim_type": "bodily_injury",
+  "customer_age": 25,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 225,
+  "service_provider_id": "SP-017",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

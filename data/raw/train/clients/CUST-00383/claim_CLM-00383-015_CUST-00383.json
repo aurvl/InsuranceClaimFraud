@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00383-015",
+  "customer_id": "CUST-00383",
+  "claim_date": "2024-08-09",
+  "policy_start_date": "2018-04-17",
+  "policy_age_days": 2306,
+  "claim_amount": 810.79,
+  "claim_type": "windshield",
+  "customer_age": 19,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 163,
+  "service_provider_id": "SP-016",
+  "location": "Perpignan",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

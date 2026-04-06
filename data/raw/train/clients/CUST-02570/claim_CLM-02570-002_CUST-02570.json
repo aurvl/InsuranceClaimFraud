@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02570-002",
+  "customer_id": "CUST-02570",
+  "claim_date": "2021-09-26",
+  "policy_start_date": "2019-12-29",
+  "policy_age_days": 637,
+  "claim_amount": 4084.65,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 496,
+  "service_provider_id": "SP-041",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

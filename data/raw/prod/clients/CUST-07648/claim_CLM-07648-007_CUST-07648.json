@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07648-007",
+  "customer_id": "CUST-07648",
+  "claim_date": "2025-08-01",
+  "policy_start_date": "2022-01-11",
+  "policy_age_days": 1298,
+  "claim_amount": 11144.42,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 290,
+  "service_provider_id": "SP-119",
+  "location": "Le Havre",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

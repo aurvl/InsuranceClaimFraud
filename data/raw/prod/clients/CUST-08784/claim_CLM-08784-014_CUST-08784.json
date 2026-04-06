@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08784-014",
+  "customer_id": "CUST-08784",
+  "claim_date": "2025-01-09",
+  "policy_start_date": "2018-07-23",
+  "policy_age_days": 2362,
+  "claim_amount": 707.52,
+  "claim_type": "hail_damage",
+  "customer_age": 22,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 297,
+  "service_provider_id": "SP-089",
+  "location": "Annecy",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

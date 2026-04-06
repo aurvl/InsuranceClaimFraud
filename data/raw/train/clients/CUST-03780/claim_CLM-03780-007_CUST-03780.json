@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03780-007",
+  "customer_id": "CUST-03780",
+  "claim_date": "2023-04-28",
+  "policy_start_date": "2021-03-12",
+  "policy_age_days": 777,
+  "claim_amount": 8050.46,
+  "claim_type": "fire",
+  "customer_age": 55,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 25,
+  "service_provider_id": "SP-081",
+  "location": "Ajaccio",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

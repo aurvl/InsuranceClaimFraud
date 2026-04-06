@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00512-006",
+  "customer_id": "CUST-00512",
+  "claim_date": "2020-12-23",
+  "policy_start_date": "2018-06-11",
+  "policy_age_days": 926,
+  "claim_amount": 2788.88,
+  "claim_type": "hail_damage",
+  "customer_age": 50,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 107,
+  "service_provider_id": "SP-089",
+  "location": "Amiens",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00799-008",
+  "customer_id": "CUST-00799",
+  "claim_date": "2022-03-10",
+  "policy_start_date": "2018-11-18",
+  "policy_age_days": 1208,
+  "claim_amount": 13712.13,
+  "claim_type": "fire",
+  "customer_age": 32,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 286,
+  "service_provider_id": "SP-040",
+  "location": "Toulouse",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

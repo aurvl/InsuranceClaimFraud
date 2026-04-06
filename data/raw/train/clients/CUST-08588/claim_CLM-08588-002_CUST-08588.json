@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08588-002",
+  "customer_id": "CUST-08588",
+  "claim_date": "2020-10-03",
+  "policy_start_date": "2019-12-07",
+  "policy_age_days": 301,
+  "claim_amount": 2164.9,
+  "claim_type": "theft",
+  "customer_age": 35,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-059",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02252-005",
+  "customer_id": "CUST-02252",
+  "claim_date": "2022-06-07",
+  "policy_start_date": "2018-06-16",
+  "policy_age_days": 1452,
+  "claim_amount": 758.64,
+  "claim_type": "windshield",
+  "customer_age": 50,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 390,
+  "service_provider_id": "SP-016",
+  "location": "Grenoble",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

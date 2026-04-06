@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06060-002",
+  "customer_id": "CUST-06060",
+  "claim_date": "2023-02-09",
+  "policy_start_date": "2022-12-03",
+  "policy_age_days": 68,
+  "claim_amount": 6012.27,
+  "claim_type": "hail_damage",
+  "customer_age": 37,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-080",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

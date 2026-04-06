@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05516-006",
+  "customer_id": "CUST-05516",
+  "claim_date": "2023-07-02",
+  "policy_start_date": "2021-12-10",
+  "policy_age_days": 569,
+  "claim_amount": 15211.12,
+  "claim_type": "theft",
+  "customer_age": 79,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 131,
+  "service_provider_id": "SP-054",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

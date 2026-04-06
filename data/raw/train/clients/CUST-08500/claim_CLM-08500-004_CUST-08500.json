@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08500-004",
+  "customer_id": "CUST-08500",
+  "claim_date": "2019-12-13",
+  "policy_start_date": "2018-06-29",
+  "policy_age_days": 532,
+  "claim_amount": 28891.56,
+  "claim_type": "bodily_injury",
+  "customer_age": 29,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 343,
+  "service_provider_id": "SP-084",
+  "location": "Lille",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

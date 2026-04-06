@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07465-016",
+  "customer_id": "CUST-07465",
+  "claim_date": "2025-04-23",
+  "policy_start_date": "2018-03-11",
+  "policy_age_days": 2600,
+  "claim_amount": 2159.54,
+  "claim_type": "collision",
+  "customer_age": 54,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 356,
+  "service_provider_id": "SP-101",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

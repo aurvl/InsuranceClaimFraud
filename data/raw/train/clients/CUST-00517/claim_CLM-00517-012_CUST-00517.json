@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00517-012",
+  "customer_id": "CUST-00517",
+  "claim_date": "2024-05-21",
+  "policy_start_date": "2018-12-12",
+  "policy_age_days": 1987,
+  "claim_amount": 2533.23,
+  "claim_type": "hail_damage",
+  "customer_age": 42,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-080",
+  "location": "Aix-en-Provence",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

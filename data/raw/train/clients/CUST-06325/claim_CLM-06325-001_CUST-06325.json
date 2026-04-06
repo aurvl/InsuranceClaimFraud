@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06325-001",
+  "customer_id": "CUST-06325",
+  "claim_date": "2018-06-26",
+  "policy_start_date": "2018-05-21",
+  "policy_age_days": 36,
+  "claim_amount": 15186.79,
+  "claim_type": "theft",
+  "customer_age": 65,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-055",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

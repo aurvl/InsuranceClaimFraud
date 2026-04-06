@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03704-013",
+  "customer_id": "CUST-03704",
+  "claim_date": "2025-06-30",
+  "policy_start_date": "2018-06-26",
+  "policy_age_days": 2561,
+  "claim_amount": 1240.32,
+  "claim_type": "windshield",
+  "customer_age": 49,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 192,
+  "service_provider_id": "SP-102",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

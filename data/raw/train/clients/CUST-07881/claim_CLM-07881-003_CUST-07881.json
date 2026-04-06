@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07881-003",
+  "customer_id": "CUST-07881",
+  "claim_date": "2022-06-25",
+  "policy_start_date": "2020-05-14",
+  "policy_age_days": 772,
+  "claim_amount": 4800.2,
+  "claim_type": "water_damage",
+  "customer_age": 45,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 580,
+  "service_provider_id": "SP-005",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08832-003",
+  "customer_id": "CUST-08832",
+  "claim_date": "2019-07-26",
+  "policy_start_date": "2018-01-10",
+  "policy_age_days": 562,
+  "claim_amount": 14330.23,
+  "claim_type": "fire",
+  "customer_age": 31,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 279,
+  "service_provider_id": "SP-029",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03520-002",
+  "customer_id": "CUST-03520",
+  "claim_date": "2022-12-03",
+  "policy_start_date": "2022-02-12",
+  "policy_age_days": 294,
+  "claim_amount": 13434.99,
+  "claim_type": "theft",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 268,
+  "service_provider_id": "SP-111",
+  "location": "Perpignan",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

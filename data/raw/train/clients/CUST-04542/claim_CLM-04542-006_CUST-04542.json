@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04542-006",
+  "customer_id": "CUST-04542",
+  "claim_date": "2023-01-18",
+  "policy_start_date": "2019-07-02",
+  "policy_age_days": 1296,
+  "claim_amount": 23202.79,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 332,
+  "service_provider_id": "SP-030",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

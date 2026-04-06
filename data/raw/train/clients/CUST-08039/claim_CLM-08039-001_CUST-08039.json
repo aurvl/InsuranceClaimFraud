@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08039-001",
+  "customer_id": "CUST-08039",
+  "claim_date": "2019-02-02",
+  "policy_start_date": "2018-11-13",
+  "policy_age_days": 81,
+  "claim_amount": 14499.01,
+  "claim_type": "bodily_injury",
+  "customer_age": 51,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-048",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

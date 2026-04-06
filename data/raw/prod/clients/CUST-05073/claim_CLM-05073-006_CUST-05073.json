@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05073-006",
+  "customer_id": "CUST-05073",
+  "claim_date": "2024-11-19",
+  "policy_start_date": "2021-07-02",
+  "policy_age_days": 1236,
+  "claim_amount": 6861.68,
+  "claim_type": "theft",
+  "customer_age": 69,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-037",
+  "location": "Angers",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

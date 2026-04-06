@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06210-001",
+  "customer_id": "CUST-06210",
+  "claim_date": "2019-03-19",
+  "policy_start_date": "2019-02-26",
+  "policy_age_days": 21,
+  "claim_amount": 1216.18,
+  "claim_type": "hail_damage",
+  "customer_age": 63,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-058",
+  "location": "Limoges",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

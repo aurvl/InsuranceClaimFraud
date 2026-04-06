@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03580-009",
+  "customer_id": "CUST-03580",
+  "claim_date": "2025-11-08",
+  "policy_start_date": "2020-02-13",
+  "policy_age_days": 2095,
+  "claim_amount": 13187.03,
+  "claim_type": "fire",
+  "customer_age": 47,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-061",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

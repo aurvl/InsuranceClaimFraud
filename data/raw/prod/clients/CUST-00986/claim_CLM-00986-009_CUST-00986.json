@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00986-009",
+  "customer_id": "CUST-00986",
+  "claim_date": "2024-12-03",
+  "policy_start_date": "2019-04-15",
+  "policy_age_days": 2059,
+  "claim_amount": 1674.98,
+  "claim_type": "hail_damage",
+  "customer_age": 39,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 371,
+  "service_provider_id": "SP-052",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

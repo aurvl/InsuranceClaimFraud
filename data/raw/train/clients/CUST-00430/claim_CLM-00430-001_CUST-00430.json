@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00430-001",
+  "customer_id": "CUST-00430",
+  "claim_date": "2020-08-27",
+  "policy_start_date": "2020-05-14",
+  "policy_age_days": 105,
+  "claim_amount": 4179.22,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-010",
+  "location": "Perpignan",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

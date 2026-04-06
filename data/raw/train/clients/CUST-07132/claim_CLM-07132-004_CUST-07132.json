@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07132-004",
+  "customer_id": "CUST-07132",
+  "claim_date": "2021-12-29",
+  "policy_start_date": "2019-12-10",
+  "policy_age_days": 750,
+  "claim_amount": 4457.14,
+  "claim_type": "fire",
+  "customer_age": 68,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-078",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

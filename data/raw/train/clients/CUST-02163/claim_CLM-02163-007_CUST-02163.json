@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02163-007",
+  "customer_id": "CUST-02163",
+  "claim_date": "2021-10-17",
+  "policy_start_date": "2018-06-10",
+  "policy_age_days": 1225,
+  "claim_amount": 3455.36,
+  "claim_type": "hail_damage",
+  "customer_age": 60,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 276,
+  "service_provider_id": "SP-041",
+  "location": "Cannes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

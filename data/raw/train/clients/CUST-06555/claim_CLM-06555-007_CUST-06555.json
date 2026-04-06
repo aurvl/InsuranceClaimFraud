@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06555-007",
+  "customer_id": "CUST-06555",
+  "claim_date": "2022-03-15",
+  "policy_start_date": "2019-10-13",
+  "policy_age_days": 884,
+  "claim_amount": 1915.53,
+  "claim_type": "hail_damage",
+  "customer_age": 65,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 58,
+  "service_provider_id": "SP-026",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

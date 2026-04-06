@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04880-008",
+  "customer_id": "CUST-04880",
+  "claim_date": "2024-11-15",
+  "policy_start_date": "2022-05-18",
+  "policy_age_days": 912,
+  "claim_amount": 21294.13,
+  "claim_type": "fire",
+  "customer_age": 64,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 216,
+  "service_provider_id": "SP-017",
+  "location": "Strasbourg",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

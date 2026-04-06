@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07606-008",
+  "customer_id": "CUST-07606",
+  "claim_date": "2021-08-10",
+  "policy_start_date": "2018-03-21",
+  "policy_age_days": 1238,
+  "claim_amount": 2294.19,
+  "claim_type": "hail_damage",
+  "customer_age": 22,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 123,
+  "service_provider_id": "SP-032",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

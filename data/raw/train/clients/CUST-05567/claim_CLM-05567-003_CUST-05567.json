@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05567-003",
+  "customer_id": "CUST-05567",
+  "claim_date": "2021-10-16",
+  "policy_start_date": "2020-08-06",
+  "policy_age_days": 436,
+  "claim_amount": 4619.34,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 92,
+  "service_provider_id": "SP-106",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

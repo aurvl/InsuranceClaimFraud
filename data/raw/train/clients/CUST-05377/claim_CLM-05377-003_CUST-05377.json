@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05377-003",
+  "customer_id": "CUST-05377",
+  "claim_date": "2020-12-31",
+  "policy_start_date": "2019-10-08",
+  "policy_age_days": 450,
+  "claim_amount": 10343.23,
+  "claim_type": "theft",
+  "customer_age": 19,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-080",
+  "location": "Ajaccio",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

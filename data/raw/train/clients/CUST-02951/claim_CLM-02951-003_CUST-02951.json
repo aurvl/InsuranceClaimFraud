@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02951-003",
+  "customer_id": "CUST-02951",
+  "claim_date": "2020-03-22",
+  "policy_start_date": "2019-02-04",
+  "policy_age_days": 412,
+  "claim_amount": 2668.89,
+  "claim_type": "theft",
+  "customer_age": 69,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 91,
+  "service_provider_id": "SP-089",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

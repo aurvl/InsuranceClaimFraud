@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00504-002",
+  "customer_id": "CUST-00504",
+  "claim_date": "2021-09-17",
+  "policy_start_date": "2021-03-13",
+  "policy_age_days": 188,
+  "claim_amount": 1382.4,
+  "claim_type": "water_damage",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 142,
+  "service_provider_id": "SP-022",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

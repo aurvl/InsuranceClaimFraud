@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03953-002",
+  "customer_id": "CUST-03953",
+  "claim_date": "2020-05-09",
+  "policy_start_date": "2019-09-29",
+  "policy_age_days": 223,
+  "claim_amount": 2213.4,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 131,
+  "service_provider_id": "SP-044",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

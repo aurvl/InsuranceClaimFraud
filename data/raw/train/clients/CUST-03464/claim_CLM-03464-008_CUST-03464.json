@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03464-008",
+  "customer_id": "CUST-03464",
+  "claim_date": "2020-10-04",
+  "policy_start_date": "2018-01-07",
+  "policy_age_days": 1001,
+  "claim_amount": 13528.03,
+  "claim_type": "theft",
+  "customer_age": 70,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-039",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

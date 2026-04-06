@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05196-001",
+  "customer_id": "CUST-05196",
+  "claim_date": "2019-01-14",
+  "policy_start_date": "2018-09-28",
+  "policy_age_days": 108,
+  "claim_amount": 1584.76,
+  "claim_type": "water_damage",
+  "customer_age": 62,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-110",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

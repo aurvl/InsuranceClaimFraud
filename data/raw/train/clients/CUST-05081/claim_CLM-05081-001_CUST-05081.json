@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05081-001",
+  "customer_id": "CUST-05081",
+  "claim_date": "2018-11-27",
+  "policy_start_date": "2018-10-05",
+  "policy_age_days": 53,
+  "claim_amount": 999.34,
+  "claim_type": "windshield",
+  "customer_age": 59,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-018",
+  "location": "Toulon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

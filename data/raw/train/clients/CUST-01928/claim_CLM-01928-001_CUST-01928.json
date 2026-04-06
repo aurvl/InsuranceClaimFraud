@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01928-001",
+  "customer_id": "CUST-01928",
+  "claim_date": "2023-02-22",
+  "policy_start_date": "2022-11-29",
+  "policy_age_days": 85,
+  "claim_amount": 16517.4,
+  "claim_type": "theft",
+  "customer_age": 53,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-026",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

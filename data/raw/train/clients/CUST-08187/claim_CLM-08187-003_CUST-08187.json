@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08187-003",
+  "customer_id": "CUST-08187",
+  "claim_date": "2024-01-20",
+  "policy_start_date": "2021-09-17",
+  "policy_age_days": 855,
+  "claim_amount": 4860.31,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 548,
+  "service_provider_id": "SP-055",
+  "location": "N\u00eemes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07178-002",
+  "customer_id": "CUST-07178",
+  "claim_date": "2020-08-17",
+  "policy_start_date": "2020-04-18",
+  "policy_age_days": 121,
+  "claim_amount": 1349.23,
+  "claim_type": "collision",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 98,
+  "service_provider_id": "SP-086",
+  "location": "Bordeaux",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

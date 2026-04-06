@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01663-006",
+  "customer_id": "CUST-01663",
+  "claim_date": "2021-03-11",
+  "policy_start_date": "2019-01-02",
+  "policy_age_days": 799,
+  "claim_amount": 23999.91,
+  "claim_type": "fire",
+  "customer_age": 62,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 74,
+  "service_provider_id": "SP-023",
+  "location": "Metz",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

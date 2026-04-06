@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06477-009",
+  "customer_id": "CUST-06477",
+  "claim_date": "2022-10-14",
+  "policy_start_date": "2019-07-09",
+  "policy_age_days": 1193,
+  "claim_amount": 3767.67,
+  "claim_type": "bodily_injury",
+  "customer_age": 56,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 134,
+  "service_provider_id": "SP-040",
+  "location": "Annecy",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

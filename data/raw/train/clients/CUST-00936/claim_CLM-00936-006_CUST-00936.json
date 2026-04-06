@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00936-006",
+  "customer_id": "CUST-00936",
+  "claim_date": "2020-01-05",
+  "policy_start_date": "2018-03-04",
+  "policy_age_days": 672,
+  "claim_amount": 2246.27,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-015",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

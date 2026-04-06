@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05395-004",
+  "customer_id": "CUST-05395",
+  "claim_date": "2024-08-09",
+  "policy_start_date": "2022-03-09",
+  "policy_age_days": 884,
+  "claim_amount": 2196.23,
+  "claim_type": "hail_damage",
+  "customer_age": 48,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 70,
+  "service_provider_id": "SP-024",
+  "location": "Grenoble",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

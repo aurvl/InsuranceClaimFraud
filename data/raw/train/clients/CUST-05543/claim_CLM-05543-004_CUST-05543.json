@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05543-004",
+  "customer_id": "CUST-05543",
+  "claim_date": "2023-03-20",
+  "policy_start_date": "2020-11-07",
+  "policy_age_days": 863,
+  "claim_amount": 4708.8,
+  "claim_type": "hail_damage",
+  "customer_age": 73,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-118",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

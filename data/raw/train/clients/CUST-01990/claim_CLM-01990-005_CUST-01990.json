@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01990-005",
+  "customer_id": "CUST-01990",
+  "claim_date": "2022-01-13",
+  "policy_start_date": "2018-05-05",
+  "policy_age_days": 1349,
+  "claim_amount": 15291.46,
+  "claim_type": "fire",
+  "customer_age": 66,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 245,
+  "service_provider_id": "SP-106",
+  "location": "Reims",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

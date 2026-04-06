@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04147-003",
+  "customer_id": "CUST-04147",
+  "claim_date": "2020-07-21",
+  "policy_start_date": "2019-08-09",
+  "policy_age_days": 347,
+  "claim_amount": 4528.72,
+  "claim_type": "fire",
+  "customer_age": 22,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 153,
+  "service_provider_id": "SP-104",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

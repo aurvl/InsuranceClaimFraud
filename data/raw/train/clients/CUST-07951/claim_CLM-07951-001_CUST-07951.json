@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07951-001",
+  "customer_id": "CUST-07951",
+  "claim_date": "2022-07-31",
+  "policy_start_date": "2022-05-08",
+  "policy_age_days": 84,
+  "claim_amount": 671.19,
+  "claim_type": "windshield",
+  "customer_age": 27,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-094",
+  "location": "Rennes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

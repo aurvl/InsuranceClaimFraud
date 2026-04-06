@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05803-004",
+  "customer_id": "CUST-05803",
+  "claim_date": "2020-07-08",
+  "policy_start_date": "2019-12-16",
+  "policy_age_days": 205,
+  "claim_amount": 11290.96,
+  "claim_type": "bodily_injury",
+  "customer_age": 79,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-088",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03374-004",
+  "customer_id": "CUST-03374",
+  "claim_date": "2022-06-24",
+  "policy_start_date": "2021-05-31",
+  "policy_age_days": 389,
+  "claim_amount": 12394.6,
+  "claim_type": "collision",
+  "customer_age": 38,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 139,
+  "service_provider_id": "SP-100",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

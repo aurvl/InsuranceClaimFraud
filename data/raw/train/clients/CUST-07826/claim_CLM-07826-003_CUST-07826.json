@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07826-003",
+  "customer_id": "CUST-07826",
+  "claim_date": "2023-10-29",
+  "policy_start_date": "2022-09-17",
+  "policy_age_days": 407,
+  "claim_amount": 2487.1,
+  "claim_type": "water_damage",
+  "customer_age": 63,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-003",
+  "location": "Grenoble",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

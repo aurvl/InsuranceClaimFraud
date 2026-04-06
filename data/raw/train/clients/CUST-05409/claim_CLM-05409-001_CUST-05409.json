@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05409-001",
+  "customer_id": "CUST-05409",
+  "claim_date": "2019-05-10",
+  "policy_start_date": "2018-12-16",
+  "policy_age_days": 145,
+  "claim_amount": 8114.73,
+  "claim_type": "collision",
+  "customer_age": 39,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-029",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

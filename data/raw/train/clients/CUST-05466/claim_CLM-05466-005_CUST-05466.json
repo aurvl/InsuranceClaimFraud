@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05466-005",
+  "customer_id": "CUST-05466",
+  "claim_date": "2020-08-06",
+  "policy_start_date": "2018-03-21",
+  "policy_age_days": 869,
+  "claim_amount": 7284.36,
+  "claim_type": "theft",
+  "customer_age": 64,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-003",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

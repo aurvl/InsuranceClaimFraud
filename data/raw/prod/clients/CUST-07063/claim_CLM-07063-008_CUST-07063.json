@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07063-008",
+  "customer_id": "CUST-07063",
+  "claim_date": "2025-03-29",
+  "policy_start_date": "2019-05-06",
+  "policy_age_days": 2154,
+  "claim_amount": 4733.33,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 244,
+  "service_provider_id": "SP-017",
+  "location": "Villeurbanne",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

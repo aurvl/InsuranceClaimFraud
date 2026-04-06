@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02347-002",
+  "customer_id": "CUST-02347",
+  "claim_date": "2021-02-13",
+  "policy_start_date": "2020-07-11",
+  "policy_age_days": 217,
+  "claim_amount": 1540.71,
+  "claim_type": "windshield",
+  "customer_age": 36,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 151,
+  "service_provider_id": "SP-009",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

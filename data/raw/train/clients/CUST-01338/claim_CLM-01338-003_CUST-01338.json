@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01338-003",
+  "customer_id": "CUST-01338",
+  "claim_date": "2023-03-13",
+  "policy_start_date": "2021-12-30",
+  "policy_age_days": 438,
+  "claim_amount": 2037.12,
+  "claim_type": "windshield",
+  "customer_age": 30,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 144,
+  "service_provider_id": "SP-051",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

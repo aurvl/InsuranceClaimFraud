@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03695-001",
+  "customer_id": "CUST-03695",
+  "claim_date": "2023-05-30",
+  "policy_start_date": "2023-02-19",
+  "policy_age_days": 100,
+  "claim_amount": 18880.63,
+  "claim_type": "bodily_injury",
+  "customer_age": 66,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-038",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

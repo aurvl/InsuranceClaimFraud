@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01750-008",
+  "customer_id": "CUST-01750",
+  "claim_date": "2024-04-12",
+  "policy_start_date": "2020-11-10",
+  "policy_age_days": 1249,
+  "claim_amount": 4694.36,
+  "claim_type": "water_damage",
+  "customer_age": 22,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 163,
+  "service_provider_id": "SP-004",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

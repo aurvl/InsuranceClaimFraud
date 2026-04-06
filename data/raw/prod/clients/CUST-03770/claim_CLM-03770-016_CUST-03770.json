@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03770-016",
+  "customer_id": "CUST-03770",
+  "claim_date": "2024-12-02",
+  "policy_start_date": "2018-02-04",
+  "policy_age_days": 2493,
+  "claim_amount": 1469.48,
+  "claim_type": "hail_damage",
+  "customer_age": 60,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 287,
+  "service_provider_id": "SP-040",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

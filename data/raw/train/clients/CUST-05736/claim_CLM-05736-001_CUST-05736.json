@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05736-001",
+  "customer_id": "CUST-05736",
+  "claim_date": "2019-09-05",
+  "policy_start_date": "2019-04-16",
+  "policy_age_days": 142,
+  "claim_amount": 4030.5,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-082",
+  "location": "Lille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

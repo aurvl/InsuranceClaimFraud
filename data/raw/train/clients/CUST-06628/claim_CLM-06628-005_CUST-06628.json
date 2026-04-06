@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06628-005",
+  "customer_id": "CUST-06628",
+  "claim_date": "2022-11-14",
+  "policy_start_date": "2020-03-31",
+  "policy_age_days": 958,
+  "claim_amount": 6457.12,
+  "claim_type": "fire",
+  "customer_age": 51,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 195,
+  "service_provider_id": "SP-058",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

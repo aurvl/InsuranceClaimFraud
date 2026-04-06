@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07391-001",
+  "customer_id": "CUST-07391",
+  "claim_date": "2023-01-01",
+  "policy_start_date": "2022-11-25",
+  "policy_age_days": 37,
+  "claim_amount": 4426.68,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-074",
+  "location": "Le Mans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

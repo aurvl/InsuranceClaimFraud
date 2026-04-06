@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05894-010",
+  "customer_id": "CUST-05894",
+  "claim_date": "2022-03-16",
+  "policy_start_date": "2019-04-15",
+  "policy_age_days": 1066,
+  "claim_amount": 2062.37,
+  "claim_type": "hail_damage",
+  "customer_age": 64,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 375,
+  "service_provider_id": "SP-031",
+  "location": "Dijon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

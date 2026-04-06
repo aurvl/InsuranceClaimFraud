@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04334-006",
+  "customer_id": "CUST-04334",
+  "claim_date": "2021-12-12",
+  "policy_start_date": "2018-06-06",
+  "policy_age_days": 1285,
+  "claim_amount": 7023.2,
+  "claim_type": "collision",
+  "customer_age": 73,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 419,
+  "service_provider_id": "SP-097",
+  "location": "Brest",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

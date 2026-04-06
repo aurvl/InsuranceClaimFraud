@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01981-004",
+  "customer_id": "CUST-01981",
+  "claim_date": "2024-07-14",
+  "policy_start_date": "2020-12-30",
+  "policy_age_days": 1292,
+  "claim_amount": 531.88,
+  "claim_type": "windshield",
+  "customer_age": 76,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 660,
+  "service_provider_id": "SP-117",
+  "location": "Limoges",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

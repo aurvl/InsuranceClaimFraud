@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02823-003",
+  "customer_id": "CUST-02823",
+  "claim_date": "2019-09-04",
+  "policy_start_date": "2019-01-26",
+  "policy_age_days": 221,
+  "claim_amount": 7759.41,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 66,
+  "service_provider_id": "SP-012",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

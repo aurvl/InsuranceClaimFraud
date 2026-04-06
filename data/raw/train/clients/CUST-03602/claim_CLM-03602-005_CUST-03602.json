@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03602-005",
+  "customer_id": "CUST-03602",
+  "claim_date": "2019-11-02",
+  "policy_start_date": "2018-02-21",
+  "policy_age_days": 619,
+  "claim_amount": 4925.41,
+  "claim_type": "hail_damage",
+  "customer_age": 46,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 263,
+  "service_provider_id": "SP-002",
+  "location": "Limoges",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

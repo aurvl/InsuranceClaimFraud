@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06351-002",
+  "customer_id": "CUST-06351",
+  "claim_date": "2022-03-14",
+  "policy_start_date": "2021-07-25",
+  "policy_age_days": 232,
+  "claim_amount": 15331.29,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 213,
+  "service_provider_id": "SP-044",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

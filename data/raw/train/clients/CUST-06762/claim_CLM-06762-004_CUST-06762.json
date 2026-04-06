@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06762-004",
+  "customer_id": "CUST-06762",
+  "claim_date": "2021-06-07",
+  "policy_start_date": "2019-11-14",
+  "policy_age_days": 571,
+  "claim_amount": 3227.19,
+  "claim_type": "hail_damage",
+  "customer_age": 27,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-044",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

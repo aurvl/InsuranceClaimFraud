@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04789-007",
+  "customer_id": "CUST-04789",
+  "claim_date": "2021-12-28",
+  "policy_start_date": "2018-03-01",
+  "policy_age_days": 1398,
+  "claim_amount": 3045.67,
+  "claim_type": "windshield",
+  "customer_age": 49,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-069",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

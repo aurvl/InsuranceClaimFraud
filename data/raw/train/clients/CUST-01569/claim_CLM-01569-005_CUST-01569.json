@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01569-005",
+  "customer_id": "CUST-01569",
+  "claim_date": "2021-12-02",
+  "policy_start_date": "2019-04-22",
+  "policy_age_days": 955,
+  "claim_amount": 3271.93,
+  "claim_type": "collision",
+  "customer_age": 44,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 52,
+  "service_provider_id": "SP-029",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

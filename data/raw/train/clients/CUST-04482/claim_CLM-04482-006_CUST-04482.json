@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04482-006",
+  "customer_id": "CUST-04482",
+  "claim_date": "2022-09-07",
+  "policy_start_date": "2020-09-07",
+  "policy_age_days": 730,
+  "claim_amount": 3006.3,
+  "claim_type": "water_damage",
+  "customer_age": 25,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 196,
+  "service_provider_id": "SP-114",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

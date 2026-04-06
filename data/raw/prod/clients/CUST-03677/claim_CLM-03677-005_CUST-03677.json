@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03677-005",
+  "customer_id": "CUST-03677",
+  "claim_date": "2024-11-20",
+  "policy_start_date": "2023-07-29",
+  "policy_age_days": 480,
+  "claim_amount": 4270.96,
+  "claim_type": "collision",
+  "customer_age": 84,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 149,
+  "service_provider_id": "SP-058",
+  "location": "Dijon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

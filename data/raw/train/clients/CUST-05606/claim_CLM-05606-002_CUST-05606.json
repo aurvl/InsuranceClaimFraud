@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05606-002",
+  "customer_id": "CUST-05606",
+  "claim_date": "2019-05-29",
+  "policy_start_date": "2018-06-29",
+  "policy_age_days": 334,
+  "claim_amount": 1709.36,
+  "claim_type": "hail_damage",
+  "customer_age": 37,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 206,
+  "service_provider_id": "SP-012",
+  "location": "Perpignan",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

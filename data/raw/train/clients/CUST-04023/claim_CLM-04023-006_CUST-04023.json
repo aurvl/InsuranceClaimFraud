@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04023-006",
+  "customer_id": "CUST-04023",
+  "claim_date": "2022-03-27",
+  "policy_start_date": "2020-03-09",
+  "policy_age_days": 748,
+  "claim_amount": 1406.52,
+  "claim_type": "collision",
+  "customer_age": 41,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-071",
+  "location": "Bordeaux",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

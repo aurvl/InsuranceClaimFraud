@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01976-007",
+  "customer_id": "CUST-01976",
+  "claim_date": "2021-12-23",
+  "policy_start_date": "2018-03-06",
+  "policy_age_days": 1388,
+  "claim_amount": 10988.25,
+  "claim_type": "collision",
+  "customer_age": 19,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 246,
+  "service_provider_id": "SP-046",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

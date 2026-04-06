@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05504-005",
+  "customer_id": "CUST-05504",
+  "claim_date": "2022-02-24",
+  "policy_start_date": "2018-11-26",
+  "policy_age_days": 1186,
+  "claim_amount": 7156.97,
+  "claim_type": "water_damage",
+  "customer_age": 30,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 433,
+  "service_provider_id": "SP-067",
+  "location": "Saint-Malo",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

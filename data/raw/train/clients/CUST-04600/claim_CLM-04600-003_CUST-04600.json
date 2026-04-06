@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04600-003",
+  "customer_id": "CUST-04600",
+  "claim_date": "2021-11-23",
+  "policy_start_date": "2020-07-04",
+  "policy_age_days": 507,
+  "claim_amount": 10130.47,
+  "claim_type": "collision",
+  "customer_age": 39,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 161,
+  "service_provider_id": "SP-003",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

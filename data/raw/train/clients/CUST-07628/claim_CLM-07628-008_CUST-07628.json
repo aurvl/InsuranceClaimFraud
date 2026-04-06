@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07628-008",
+  "customer_id": "CUST-07628",
+  "claim_date": "2023-11-10",
+  "policy_start_date": "2021-07-06",
+  "policy_age_days": 857,
+  "claim_amount": 8304.85,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 61,
+  "service_provider_id": "SP-047",
+  "location": "Angers",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

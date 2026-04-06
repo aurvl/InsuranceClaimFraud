@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05422-004",
+  "customer_id": "CUST-05422",
+  "claim_date": "2025-01-10",
+  "policy_start_date": "2022-10-15",
+  "policy_age_days": 818,
+  "claim_amount": 4422.93,
+  "claim_type": "collision",
+  "customer_age": 31,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 295,
+  "service_provider_id": "SP-002",
+  "location": "Le Havre",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

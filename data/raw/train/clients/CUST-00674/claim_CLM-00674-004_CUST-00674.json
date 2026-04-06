@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00674-004",
+  "customer_id": "CUST-00674",
+  "claim_date": "2021-07-19",
+  "policy_start_date": "2019-12-09",
+  "policy_age_days": 588,
+  "claim_amount": 3835.97,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-031",
+  "location": "Toulouse",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

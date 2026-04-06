@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00779-006",
+  "customer_id": "CUST-00779",
+  "claim_date": "2021-02-15",
+  "policy_start_date": "2018-10-30",
+  "policy_age_days": 839,
+  "claim_amount": 10003.6,
+  "claim_type": "theft",
+  "customer_age": 65,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 240,
+  "service_provider_id": "SP-072",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

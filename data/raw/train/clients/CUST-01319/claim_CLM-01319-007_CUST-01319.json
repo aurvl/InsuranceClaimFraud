@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01319-007",
+  "customer_id": "CUST-01319",
+  "claim_date": "2023-01-22",
+  "policy_start_date": "2020-07-24",
+  "policy_age_days": 912,
+  "claim_amount": 11525.15,
+  "claim_type": "fire",
+  "customer_age": 51,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 86,
+  "service_provider_id": "SP-057",
+  "location": "La Rochelle",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

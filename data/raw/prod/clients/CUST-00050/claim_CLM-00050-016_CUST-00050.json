@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00050-016",
+  "customer_id": "CUST-00050",
+  "claim_date": "2025-06-09",
+  "policy_start_date": "2018-06-11",
+  "policy_age_days": 2555,
+  "claim_amount": 5835.02,
+  "claim_type": "theft",
+  "customer_age": 57,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-031",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

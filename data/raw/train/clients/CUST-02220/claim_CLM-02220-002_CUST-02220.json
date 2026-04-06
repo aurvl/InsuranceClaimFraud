@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02220-002",
+  "customer_id": "CUST-02220",
+  "claim_date": "2022-05-23",
+  "policy_start_date": "2021-07-21",
+  "policy_age_days": 306,
+  "claim_amount": 1237.19,
+  "claim_type": "hail_damage",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 216,
+  "service_provider_id": "SP-056",
+  "location": "Villeurbanne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

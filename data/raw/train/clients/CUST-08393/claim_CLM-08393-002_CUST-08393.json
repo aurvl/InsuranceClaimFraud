@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08393-002",
+  "customer_id": "CUST-08393",
+  "claim_date": "2019-01-14",
+  "policy_start_date": "2018-06-16",
+  "policy_age_days": 212,
+  "claim_amount": 571.21,
+  "claim_type": "windshield",
+  "customer_age": 79,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 134,
+  "service_provider_id": "SP-075",
+  "location": "Le Mans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

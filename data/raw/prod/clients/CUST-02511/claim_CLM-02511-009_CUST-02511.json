@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02511-009",
+  "customer_id": "CUST-02511",
+  "claim_date": "2025-07-03",
+  "policy_start_date": "2021-04-08",
+  "policy_age_days": 1547,
+  "claim_amount": 1267.68,
+  "claim_type": "windshield",
+  "customer_age": 36,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 232,
+  "service_provider_id": "SP-106",
+  "location": "Tours",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

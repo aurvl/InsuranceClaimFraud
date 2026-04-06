@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02111-005",
+  "customer_id": "CUST-02111",
+  "claim_date": "2020-02-29",
+  "policy_start_date": "2019-01-17",
+  "policy_age_days": 408,
+  "claim_amount": 10202.64,
+  "claim_type": "water_damage",
+  "customer_age": 40,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-058",
+  "location": "Saint-Malo",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

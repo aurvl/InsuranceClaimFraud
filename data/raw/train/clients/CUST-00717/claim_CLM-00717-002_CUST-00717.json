@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00717-002",
+  "customer_id": "CUST-00717",
+  "claim_date": "2022-12-22",
+  "policy_start_date": "2021-07-16",
+  "policy_age_days": 524,
+  "claim_amount": 1763.99,
+  "claim_type": "windshield",
+  "customer_age": 36,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 420,
+  "service_provider_id": "SP-032",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

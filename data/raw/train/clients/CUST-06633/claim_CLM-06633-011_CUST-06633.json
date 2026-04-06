@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06633-011",
+  "customer_id": "CUST-06633",
+  "claim_date": "2023-06-19",
+  "policy_start_date": "2018-01-13",
+  "policy_age_days": 1983,
+  "claim_amount": 5071.35,
+  "claim_type": "collision",
+  "customer_age": 36,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-049",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

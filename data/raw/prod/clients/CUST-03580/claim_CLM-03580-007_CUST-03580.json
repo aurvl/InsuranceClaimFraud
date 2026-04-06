@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03580-007",
+  "customer_id": "CUST-03580",
+  "claim_date": "2024-12-08",
+  "policy_start_date": "2020-02-13",
+  "policy_age_days": 1760,
+  "claim_amount": 6549.41,
+  "claim_type": "water_damage",
+  "customer_age": 47,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 754,
+  "service_provider_id": "SP-058",
+  "location": "La Rochelle",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

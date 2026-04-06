@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08713-007",
+  "customer_id": "CUST-08713",
+  "claim_date": "2022-07-08",
+  "policy_start_date": "2018-08-19",
+  "policy_age_days": 1419,
+  "claim_amount": 4427.35,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-016",
+  "location": "Toulon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

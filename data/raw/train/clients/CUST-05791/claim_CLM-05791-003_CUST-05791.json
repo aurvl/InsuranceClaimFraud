@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05791-003",
+  "customer_id": "CUST-05791",
+  "claim_date": "2022-07-07",
+  "policy_start_date": "2021-09-04",
+  "policy_age_days": 306,
+  "claim_amount": 1439.51,
+  "claim_type": "hail_damage",
+  "customer_age": 43,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 254,
+  "service_provider_id": "SP-053",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

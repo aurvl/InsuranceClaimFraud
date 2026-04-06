@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07476-004",
+  "customer_id": "CUST-07476",
+  "claim_date": "2022-03-22",
+  "policy_start_date": "2020-11-25",
+  "policy_age_days": 482,
+  "claim_amount": 29702.02,
+  "claim_type": "fire",
+  "customer_age": 64,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-044",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

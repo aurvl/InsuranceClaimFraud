@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05782-005",
+  "customer_id": "CUST-05782",
+  "claim_date": "2022-02-15",
+  "policy_start_date": "2019-02-02",
+  "policy_age_days": 1109,
+  "claim_amount": 5485.62,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 666,
+  "service_provider_id": "SP-078",
+  "location": "Le Mans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07334-006",
+  "customer_id": "CUST-07334",
+  "claim_date": "2023-09-03",
+  "policy_start_date": "2021-05-09",
+  "policy_age_days": 847,
+  "claim_amount": 8155.01,
+  "claim_type": "theft",
+  "customer_age": 26,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-101",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

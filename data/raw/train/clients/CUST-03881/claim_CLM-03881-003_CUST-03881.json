@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03881-003",
+  "customer_id": "CUST-03881",
+  "claim_date": "2020-08-12",
+  "policy_start_date": "2018-11-01",
+  "policy_age_days": 650,
+  "claim_amount": 17267.89,
+  "claim_type": "theft",
+  "customer_age": 21,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 269,
+  "service_provider_id": "SP-102",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

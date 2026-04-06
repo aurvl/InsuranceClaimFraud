@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03739-003",
+  "customer_id": "CUST-03739",
+  "claim_date": "2023-01-17",
+  "policy_start_date": "2021-02-09",
+  "policy_age_days": 707,
+  "claim_amount": 4623.08,
+  "claim_type": "collision",
+  "customer_age": 44,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 210,
+  "service_provider_id": "SP-089",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

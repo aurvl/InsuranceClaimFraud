@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07442-008",
+  "customer_id": "CUST-07442",
+  "claim_date": "2022-07-25",
+  "policy_start_date": "2018-12-08",
+  "policy_age_days": 1325,
+  "claim_amount": 14481.91,
+  "claim_type": "theft",
+  "customer_age": 35,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 233,
+  "service_provider_id": "SP-003",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

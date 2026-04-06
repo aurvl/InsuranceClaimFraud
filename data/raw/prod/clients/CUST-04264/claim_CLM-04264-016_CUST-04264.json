@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04264-016",
+  "customer_id": "CUST-04264",
+  "claim_date": "2025-04-17",
+  "policy_start_date": "2018-03-25",
+  "policy_age_days": 2580,
+  "claim_amount": 1942.58,
+  "claim_type": "hail_damage",
+  "customer_age": 82,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-051",
+  "location": "La Rochelle",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

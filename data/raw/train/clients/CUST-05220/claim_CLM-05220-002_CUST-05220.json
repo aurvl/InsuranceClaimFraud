@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05220-002",
+  "customer_id": "CUST-05220",
+  "claim_date": "2022-06-24",
+  "policy_start_date": "2022-02-20",
+  "policy_age_days": 124,
+  "claim_amount": 1227.24,
+  "claim_type": "hail_damage",
+  "customer_age": 60,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 104,
+  "service_provider_id": "SP-010",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

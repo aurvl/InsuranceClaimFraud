@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06778-007",
+  "customer_id": "CUST-06778",
+  "claim_date": "2025-06-09",
+  "policy_start_date": "2022-04-17",
+  "policy_age_days": 1149,
+  "claim_amount": 11004.24,
+  "claim_type": "bodily_injury",
+  "customer_age": 41,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 131,
+  "service_provider_id": "SP-017",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

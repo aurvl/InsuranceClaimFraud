@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01779-003",
+  "customer_id": "CUST-01779",
+  "claim_date": "2020-07-15",
+  "policy_start_date": "2019-08-03",
+  "policy_age_days": 347,
+  "claim_amount": 40091.96,
+  "claim_type": "bodily_injury",
+  "customer_age": 31,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 178,
+  "service_provider_id": "SP-020",
+  "location": "Dijon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

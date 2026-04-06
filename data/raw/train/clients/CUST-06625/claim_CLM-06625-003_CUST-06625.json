@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06625-003",
+  "customer_id": "CUST-06625",
+  "claim_date": "2023-06-10",
+  "policy_start_date": "2022-03-25",
+  "policy_age_days": 442,
+  "claim_amount": 5092.3,
+  "claim_type": "theft",
+  "customer_age": 58,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 168,
+  "service_provider_id": "SP-062",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

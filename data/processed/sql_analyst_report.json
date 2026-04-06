@@ -1,0 +1,541 @@
+{
+  "overview": {
+    "historical_claims": 54248,
+    "fraud_rate": "0.0702",
+    "average_customer_age": "51.61",
+    "average_policy_age_days": "710.99",
+    "min_claim_date": "2018-01-15",
+    "max_claim_date": "2024-10-02"
+  },
+  "fraud_by_claim_type": [
+    {
+      "claim_type": "bodily_injury",
+      "claim_count": 6011,
+      "fraud_rate": "0.1565",
+      "average_claim_amount": "18213.73"
+    },
+    {
+      "claim_type": "fire",
+      "claim_count": 3021,
+      "fraud_rate": "0.1284",
+      "average_claim_amount": "16394.69"
+    },
+    {
+      "claim_type": "theft",
+      "claim_count": 6503,
+      "fraud_rate": "0.0903",
+      "average_claim_amount": "11628.09"
+    },
+    {
+      "claim_type": "hail_damage",
+      "claim_count": 6524,
+      "fraud_rate": "0.0582",
+      "average_claim_amount": "2512.22"
+    },
+    {
+      "claim_type": "water_damage",
+      "claim_count": 6990,
+      "fraud_rate": "0.0536",
+      "average_claim_amount": "4769.53"
+    },
+    {
+      "claim_type": "collision",
+      "claim_count": 15456,
+      "fraud_rate": "0.0483",
+      "average_claim_amount": "5212.46"
+    },
+    {
+      "claim_type": "windshield",
+      "claim_count": 9743,
+      "fraud_rate": "0.0398",
+      "average_claim_amount": "1462.79"
+    }
+  ],
+  "suspicious_providers": [
+    {
+      "service_provider_id": "SP-017",
+      "claim_count": 1673,
+      "fraud_rate": "0.1297",
+      "average_claim_amount": "7236.06"
+    },
+    {
+      "service_provider_id": "SP-003",
+      "claim_count": 1492,
+      "fraud_rate": "0.1294",
+      "average_claim_amount": "7427.72"
+    },
+    {
+      "service_provider_id": "SP-071",
+      "claim_count": 1751,
+      "fraud_rate": "0.1279",
+      "average_claim_amount": "7443.21"
+    },
+    {
+      "service_provider_id": "SP-058",
+      "claim_count": 1729,
+      "fraud_rate": "0.1267",
+      "average_claim_amount": "7061.85"
+    },
+    {
+      "service_provider_id": "SP-111",
+      "claim_count": 1508,
+      "fraud_rate": "0.1253",
+      "average_claim_amount": "7110.46"
+    },
+    {
+      "service_provider_id": "SP-044",
+      "claim_count": 1771,
+      "fraud_rate": "0.1242",
+      "average_claim_amount": "6708.80"
+    },
+    {
+      "service_provider_id": "SP-089",
+      "claim_count": 1666,
+      "fraud_rate": "0.1152",
+      "average_claim_amount": "7047.25"
+    },
+    {
+      "service_provider_id": "SP-115",
+      "claim_count": 270,
+      "fraud_rate": "0.0963",
+      "average_claim_amount": "7102.99"
+    },
+    {
+      "service_provider_id": "SP-013",
+      "claim_count": 418,
+      "fraud_rate": "0.0861",
+      "average_claim_amount": "7450.30"
+    },
+    {
+      "service_provider_id": "SP-109",
+      "claim_count": 317,
+      "fraud_rate": "0.0852",
+      "average_claim_amount": "7669.46"
+    }
+  ],
+  "monthly_trend": [
+    {
+      "claim_month": "2018-01-01",
+      "claim_count": 13,
+      "fraud_rate": "0.3077"
+    },
+    {
+      "claim_month": "2018-02-01",
+      "claim_count": 48,
+      "fraud_rate": "0.1250"
+    },
+    {
+      "claim_month": "2018-03-01",
+      "claim_count": 120,
+      "fraud_rate": "0.1500"
+    },
+    {
+      "claim_month": "2018-04-01",
+      "claim_count": 183,
+      "fraud_rate": "0.0710"
+    },
+    {
+      "claim_month": "2018-05-01",
+      "claim_count": 187,
+      "fraud_rate": "0.0695"
+    },
+    {
+      "claim_month": "2018-06-01",
+      "claim_count": 242,
+      "fraud_rate": "0.1074"
+    },
+    {
+      "claim_month": "2018-07-01",
+      "claim_count": 293,
+      "fraud_rate": "0.0819"
+    },
+    {
+      "claim_month": "2018-08-01",
+      "claim_count": 321,
+      "fraud_rate": "0.0810"
+    },
+    {
+      "claim_month": "2018-09-01",
+      "claim_count": 308,
+      "fraud_rate": "0.0649"
+    },
+    {
+      "claim_month": "2018-10-01",
+      "claim_count": 371,
+      "fraud_rate": "0.0701"
+    },
+    {
+      "claim_month": "2018-11-01",
+      "claim_count": 385,
+      "fraud_rate": "0.0649"
+    },
+    {
+      "claim_month": "2018-12-01",
+      "claim_count": 403,
+      "fraud_rate": "0.0744"
+    },
+    {
+      "claim_month": "2019-01-01",
+      "claim_count": 418,
+      "fraud_rate": "0.0502"
+    },
+    {
+      "claim_month": "2019-02-01",
+      "claim_count": 443,
+      "fraud_rate": "0.0813"
+    },
+    {
+      "claim_month": "2019-03-01",
+      "claim_count": 469,
+      "fraud_rate": "0.0874"
+    },
+    {
+      "claim_month": "2019-04-01",
+      "claim_count": 499,
+      "fraud_rate": "0.0541"
+    },
+    {
+      "claim_month": "2019-05-01",
+      "claim_count": 506,
+      "fraud_rate": "0.0672"
+    },
+    {
+      "claim_month": "2019-06-01",
+      "claim_count": 542,
+      "fraud_rate": "0.0683"
+    },
+    {
+      "claim_month": "2019-07-01",
+      "claim_count": 543,
+      "fraud_rate": "0.0442"
+    },
+    {
+      "claim_month": "2019-08-01",
+      "claim_count": 614,
+      "fraud_rate": "0.0603"
+    },
+    {
+      "claim_month": "2019-09-01",
+      "claim_count": 583,
+      "fraud_rate": "0.0446"
+    },
+    {
+      "claim_month": "2019-10-01",
+      "claim_count": 629,
+      "fraud_rate": "0.0588"
+    },
+    {
+      "claim_month": "2019-11-01",
+      "claim_count": 630,
+      "fraud_rate": "0.0667"
+    },
+    {
+      "claim_month": "2019-12-01",
+      "claim_count": 679,
+      "fraud_rate": "0.0633"
+    },
+    {
+      "claim_month": "2020-01-01",
+      "claim_count": 656,
+      "fraud_rate": "0.0838"
+    },
+    {
+      "claim_month": "2020-02-01",
+      "claim_count": 632,
+      "fraud_rate": "0.0791"
+    },
+    {
+      "claim_month": "2020-03-01",
+      "claim_count": 668,
+      "fraud_rate": "0.0704"
+    },
+    {
+      "claim_month": "2020-04-01",
+      "claim_count": 702,
+      "fraud_rate": "0.0741"
+    },
+    {
+      "claim_month": "2020-05-01",
+      "claim_count": 737,
+      "fraud_rate": "0.0706"
+    },
+    {
+      "claim_month": "2020-06-01",
+      "claim_count": 775,
+      "fraud_rate": "0.0671"
+    },
+    {
+      "claim_month": "2020-07-01",
+      "claim_count": 795,
+      "fraud_rate": "0.0654"
+    },
+    {
+      "claim_month": "2020-08-01",
+      "claim_count": 771,
+      "fraud_rate": "0.0636"
+    },
+    {
+      "claim_month": "2020-09-01",
+      "claim_count": 775,
+      "fraud_rate": "0.0594"
+    },
+    {
+      "claim_month": "2020-10-01",
+      "claim_count": 810,
+      "fraud_rate": "0.0519"
+    },
+    {
+      "claim_month": "2020-11-01",
+      "claim_count": 728,
+      "fraud_rate": "0.0591"
+    },
+    {
+      "claim_month": "2020-12-01",
+      "claim_count": 887,
+      "fraud_rate": "0.0586"
+    },
+    {
+      "claim_month": "2021-01-01",
+      "claim_count": 817,
+      "fraud_rate": "0.0698"
+    },
+    {
+      "claim_month": "2021-02-01",
+      "claim_count": 733,
+      "fraud_rate": "0.0682"
+    },
+    {
+      "claim_month": "2021-03-01",
+      "claim_count": 860,
+      "fraud_rate": "0.0721"
+    },
+    {
+      "claim_month": "2021-04-01",
+      "claim_count": 847,
+      "fraud_rate": "0.0744"
+    },
+    {
+      "claim_month": "2021-05-01",
+      "claim_count": 860,
+      "fraud_rate": "0.0826"
+    },
+    {
+      "claim_month": "2021-06-01",
+      "claim_count": 851,
+      "fraud_rate": "0.0682"
+    },
+    {
+      "claim_month": "2021-07-01",
+      "claim_count": 831,
+      "fraud_rate": "0.0590"
+    },
+    {
+      "claim_month": "2021-08-01",
+      "claim_count": 898,
+      "fraud_rate": "0.0579"
+    },
+    {
+      "claim_month": "2021-09-01",
+      "claim_count": 887,
+      "fraud_rate": "0.0643"
+    },
+    {
+      "claim_month": "2021-10-01",
+      "claim_count": 904,
+      "fraud_rate": "0.0653"
+    },
+    {
+      "claim_month": "2021-11-01",
+      "claim_count": 831,
+      "fraud_rate": "0.0686"
+    },
+    {
+      "claim_month": "2021-12-01",
+      "claim_count": 868,
+      "fraud_rate": "0.0876"
+    },
+    {
+      "claim_month": "2022-01-01",
+      "claim_count": 908,
+      "fraud_rate": "0.0848"
+    },
+    {
+      "claim_month": "2022-02-01",
+      "claim_count": 773,
+      "fraud_rate": "0.0673"
+    },
+    {
+      "claim_month": "2022-03-01",
+      "claim_count": 931,
+      "fraud_rate": "0.0763"
+    },
+    {
+      "claim_month": "2022-04-01",
+      "claim_count": 875,
+      "fraud_rate": "0.0731"
+    },
+    {
+      "claim_month": "2022-05-01",
+      "claim_count": 875,
+      "fraud_rate": "0.0606"
+    },
+    {
+      "claim_month": "2022-06-01",
+      "claim_count": 901,
+      "fraud_rate": "0.0622"
+    },
+    {
+      "claim_month": "2022-07-01",
+      "claim_count": 875,
+      "fraud_rate": "0.0777"
+    },
+    {
+      "claim_month": "2022-08-01",
+      "claim_count": 854,
+      "fraud_rate": "0.0738"
+    },
+    {
+      "claim_month": "2022-09-01",
+      "claim_count": 865,
+      "fraud_rate": "0.0855"
+    },
+    {
+      "claim_month": "2022-10-01",
+      "claim_count": 907,
+      "fraud_rate": "0.0452"
+    },
+    {
+      "claim_month": "2022-11-01",
+      "claim_count": 792,
+      "fraud_rate": "0.0682"
+    },
+    {
+      "claim_month": "2022-12-01",
+      "claim_count": 843,
+      "fraud_rate": "0.0961"
+    },
+    {
+      "claim_month": "2023-01-01",
+      "claim_count": 870,
+      "fraud_rate": "0.0690"
+    },
+    {
+      "claim_month": "2023-02-01",
+      "claim_count": 785,
+      "fraud_rate": "0.0573"
+    },
+    {
+      "claim_month": "2023-03-01",
+      "claim_count": 803,
+      "fraud_rate": "0.0610"
+    },
+    {
+      "claim_month": "2023-04-01",
+      "claim_count": 792,
+      "fraud_rate": "0.0808"
+    },
+    {
+      "claim_month": "2023-05-01",
+      "claim_count": 822,
+      "fraud_rate": "0.0779"
+    },
+    {
+      "claim_month": "2023-06-01",
+      "claim_count": 790,
+      "fraud_rate": "0.0747"
+    },
+    {
+      "claim_month": "2023-07-01",
+      "claim_count": 811,
+      "fraud_rate": "0.0814"
+    },
+    {
+      "claim_month": "2023-08-01",
+      "claim_count": 782,
+      "fraud_rate": "0.0729"
+    },
+    {
+      "claim_month": "2023-09-01",
+      "claim_count": 768,
+      "fraud_rate": "0.0612"
+    },
+    {
+      "claim_month": "2023-10-01",
+      "claim_count": 748,
+      "fraud_rate": "0.0869"
+    },
+    {
+      "claim_month": "2023-11-01",
+      "claim_count": 746,
+      "fraud_rate": "0.0643"
+    },
+    {
+      "claim_month": "2023-12-01",
+      "claim_count": 722,
+      "fraud_rate": "0.0679"
+    },
+    {
+      "claim_month": "2024-01-01",
+      "claim_count": 722,
+      "fraud_rate": "0.0873"
+    },
+    {
+      "claim_month": "2024-02-01",
+      "claim_count": 738,
+      "fraud_rate": "0.0556"
+    },
+    {
+      "claim_month": "2024-03-01",
+      "claim_count": 698,
+      "fraud_rate": "0.0917"
+    },
+    {
+      "claim_month": "2024-04-01",
+      "claim_count": 660,
+      "fraud_rate": "0.0636"
+    },
+    {
+      "claim_month": "2024-05-01",
+      "claim_count": 629,
+      "fraud_rate": "0.0795"
+    },
+    {
+      "claim_month": "2024-06-01",
+      "claim_count": 618,
+      "fraud_rate": "0.0890"
+    },
+    {
+      "claim_month": "2024-07-01",
+      "claim_count": 586,
+      "fraud_rate": "0.0734"
+    },
+    {
+      "claim_month": "2024-08-01",
+      "claim_count": 591,
+      "fraud_rate": "0.0643"
+    },
+    {
+      "claim_month": "2024-09-01",
+      "claim_count": 565,
+      "fraud_rate": "0.0708"
+    },
+    {
+      "claim_month": "2024-10-01",
+      "claim_count": 51,
+      "fraud_rate": "0.0784"
+    }
+  ],
+  "production_decisions_overview": {
+    "production_claims_scored": 6026,
+    "average_fraud_probability": "0.3569",
+    "predicted_fraud_rate": "0.1324",
+    "min_claim_date": "2024-10-03",
+    "max_claim_date": "2025-12-30"
+  },
+  "production_intake_overview": {
+    "production_claims_received": 6026,
+    "average_claim_amount": "7357.65",
+    "min_claim_date": "2024-10-03",
+    "max_claim_date": "2025-12-30"
+  }
+}

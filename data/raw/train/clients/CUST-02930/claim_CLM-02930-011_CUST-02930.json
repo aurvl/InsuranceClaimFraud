@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02930-011",
+  "customer_id": "CUST-02930",
+  "claim_date": "2022-08-19",
+  "policy_start_date": "2018-08-03",
+  "policy_age_days": 1477,
+  "claim_amount": 45919.98,
+  "claim_type": "bodily_injury",
+  "customer_age": 51,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 62,
+  "service_provider_id": "SP-075",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

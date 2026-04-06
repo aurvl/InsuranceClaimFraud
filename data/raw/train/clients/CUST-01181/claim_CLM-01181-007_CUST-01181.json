@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01181-007",
+  "customer_id": "CUST-01181",
+  "claim_date": "2021-09-27",
+  "policy_start_date": "2018-12-03",
+  "policy_age_days": 1029,
+  "claim_amount": 19676.39,
+  "claim_type": "bodily_injury",
+  "customer_age": 77,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 94,
+  "service_provider_id": "SP-033",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

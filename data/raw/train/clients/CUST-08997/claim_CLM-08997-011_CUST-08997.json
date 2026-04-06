@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08997-011",
+  "customer_id": "CUST-08997",
+  "claim_date": "2023-08-23",
+  "policy_start_date": "2019-08-24",
+  "policy_age_days": 1460,
+  "claim_amount": 4135.22,
+  "claim_type": "hail_damage",
+  "customer_age": 77,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 16,
+  "service_provider_id": "SP-097",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

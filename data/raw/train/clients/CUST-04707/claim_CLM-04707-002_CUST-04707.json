@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04707-002",
+  "customer_id": "CUST-04707",
+  "claim_date": "2020-08-21",
+  "policy_start_date": "2020-01-26",
+  "policy_age_days": 208,
+  "claim_amount": 3714.76,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 150,
+  "service_provider_id": "SP-095",
+  "location": "Lille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

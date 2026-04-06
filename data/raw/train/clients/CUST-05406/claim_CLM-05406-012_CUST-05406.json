@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05406-012",
+  "customer_id": "CUST-05406",
+  "claim_date": "2024-03-05",
+  "policy_start_date": "2019-04-21",
+  "policy_age_days": 1780,
+  "claim_amount": 5714.67,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-037",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

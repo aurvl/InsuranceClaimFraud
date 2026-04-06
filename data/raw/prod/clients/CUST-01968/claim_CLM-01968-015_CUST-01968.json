@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01968-015",
+  "customer_id": "CUST-01968",
+  "claim_date": "2025-04-09",
+  "policy_start_date": "2019-08-11",
+  "policy_age_days": 2068,
+  "claim_amount": 3076.98,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 147,
+  "service_provider_id": "SP-030",
+  "location": "Lyon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

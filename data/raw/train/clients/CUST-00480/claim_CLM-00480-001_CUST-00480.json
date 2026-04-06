@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00480-001",
+  "customer_id": "CUST-00480",
+  "claim_date": "2018-02-20",
+  "policy_start_date": "2018-01-10",
+  "policy_age_days": 41,
+  "claim_amount": 7868.97,
+  "claim_type": "theft",
+  "customer_age": 63,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-077",
+  "location": "Bordeaux",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

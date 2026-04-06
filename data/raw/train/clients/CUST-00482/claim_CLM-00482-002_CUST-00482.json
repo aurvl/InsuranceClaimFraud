@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00482-002",
+  "customer_id": "CUST-00482",
+  "claim_date": "2024-05-28",
+  "policy_start_date": "2023-09-19",
+  "policy_age_days": 252,
+  "claim_amount": 1568.52,
+  "claim_type": "collision",
+  "customer_age": 31,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 221,
+  "service_provider_id": "SP-024",
+  "location": "Grenoble",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

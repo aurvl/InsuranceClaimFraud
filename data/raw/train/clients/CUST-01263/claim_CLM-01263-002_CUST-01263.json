@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01263-002",
+  "customer_id": "CUST-01263",
+  "claim_date": "2023-03-13",
+  "policy_start_date": "2022-01-28",
+  "policy_age_days": 409,
+  "claim_amount": 6261.4,
+  "claim_type": "theft",
+  "customer_age": 43,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 262,
+  "service_provider_id": "SP-117",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05600-003",
+  "customer_id": "CUST-05600",
+  "claim_date": "2022-06-27",
+  "policy_start_date": "2020-08-13",
+  "policy_age_days": 683,
+  "claim_amount": 14059.95,
+  "claim_type": "bodily_injury",
+  "customer_age": 42,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 338,
+  "service_provider_id": "SP-050",
+  "location": "N\u00eemes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

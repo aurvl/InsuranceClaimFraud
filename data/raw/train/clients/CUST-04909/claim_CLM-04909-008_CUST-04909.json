@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04909-008",
+  "customer_id": "CUST-04909",
+  "claim_date": "2024-05-14",
+  "policy_start_date": "2020-04-14",
+  "policy_age_days": 1491,
+  "claim_amount": 7261.98,
+  "claim_type": "theft",
+  "customer_age": 23,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 136,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

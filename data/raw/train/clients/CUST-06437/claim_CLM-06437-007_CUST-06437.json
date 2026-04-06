@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06437-007",
+  "customer_id": "CUST-06437",
+  "claim_date": "2023-08-30",
+  "policy_start_date": "2020-06-17",
+  "policy_age_days": 1169,
+  "claim_amount": 15924.17,
+  "claim_type": "bodily_injury",
+  "customer_age": 66,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 271,
+  "service_provider_id": "SP-053",
+  "location": "Nantes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02594-002",
+  "customer_id": "CUST-02594",
+  "claim_date": "2018-11-11",
+  "policy_start_date": "2018-05-25",
+  "policy_age_days": 170,
+  "claim_amount": 14792.79,
+  "claim_type": "bodily_injury",
+  "customer_age": 42,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 92,
+  "service_provider_id": "SP-032",
+  "location": "Toulouse",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02203-007",
+  "customer_id": "CUST-02203",
+  "claim_date": "2022-12-28",
+  "policy_start_date": "2018-05-28",
+  "policy_age_days": 1675,
+  "claim_amount": 2172.57,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-095",
+  "location": "Rennes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

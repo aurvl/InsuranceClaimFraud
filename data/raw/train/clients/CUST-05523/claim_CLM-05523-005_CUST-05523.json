@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05523-005",
+  "customer_id": "CUST-05523",
+  "claim_date": "2021-05-26",
+  "policy_start_date": "2019-05-16",
+  "policy_age_days": 741,
+  "claim_amount": 22701.82,
+  "claim_type": "fire",
+  "customer_age": 30,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 194,
+  "service_provider_id": "SP-075",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

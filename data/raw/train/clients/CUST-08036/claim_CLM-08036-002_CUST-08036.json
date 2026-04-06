@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08036-002",
+  "customer_id": "CUST-08036",
+  "claim_date": "2019-07-03",
+  "policy_start_date": "2018-02-04",
+  "policy_age_days": 514,
+  "claim_amount": 6867.47,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 387,
+  "service_provider_id": "SP-022",
+  "location": "Marseille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

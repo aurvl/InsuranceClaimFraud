@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00625-004",
+  "customer_id": "CUST-00625",
+  "claim_date": "2025-03-20",
+  "policy_start_date": "2023-10-18",
+  "policy_age_days": 519,
+  "claim_amount": 4791.21,
+  "claim_type": "hail_damage",
+  "customer_age": 50,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-070",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

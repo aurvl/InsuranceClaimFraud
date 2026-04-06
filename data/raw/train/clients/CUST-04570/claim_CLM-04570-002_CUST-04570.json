@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04570-002",
+  "customer_id": "CUST-04570",
+  "claim_date": "2021-03-20",
+  "policy_start_date": "2020-02-24",
+  "policy_age_days": 390,
+  "claim_amount": 49630.07,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 253,
+  "service_provider_id": "SP-022",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

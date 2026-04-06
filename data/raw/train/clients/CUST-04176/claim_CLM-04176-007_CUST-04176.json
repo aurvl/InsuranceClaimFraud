@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04176-007",
+  "customer_id": "CUST-04176",
+  "claim_date": "2023-08-15",
+  "policy_start_date": "2021-01-28",
+  "policy_age_days": 929,
+  "claim_amount": 1918.98,
+  "claim_type": "water_damage",
+  "customer_age": 36,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 179,
+  "service_provider_id": "SP-032",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

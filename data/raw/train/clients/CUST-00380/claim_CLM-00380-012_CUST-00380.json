@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00380-012",
+  "customer_id": "CUST-00380",
+  "claim_date": "2022-07-30",
+  "policy_start_date": "2018-03-03",
+  "policy_age_days": 1610,
+  "claim_amount": 3414.0,
+  "claim_type": "collision",
+  "customer_age": 38,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 124,
+  "service_provider_id": "SP-071",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

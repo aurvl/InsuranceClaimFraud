@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03636-003",
+  "customer_id": "CUST-03636",
+  "claim_date": "2020-08-05",
+  "policy_start_date": "2019-04-21",
+  "policy_age_days": 472,
+  "claim_amount": 18537.1,
+  "claim_type": "theft",
+  "customer_age": 32,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 140,
+  "service_provider_id": "SP-033",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03247-006",
+  "customer_id": "CUST-03247",
+  "claim_date": "2021-10-30",
+  "policy_start_date": "2018-08-21",
+  "policy_age_days": 1166,
+  "claim_amount": 15636.2,
+  "claim_type": "water_damage",
+  "customer_age": 24,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 55,
+  "service_provider_id": "SP-075",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

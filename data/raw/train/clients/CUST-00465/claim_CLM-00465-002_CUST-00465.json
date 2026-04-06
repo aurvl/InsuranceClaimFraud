@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00465-002",
+  "customer_id": "CUST-00465",
+  "claim_date": "2022-10-07",
+  "policy_start_date": "2021-10-12",
+  "policy_age_days": 360,
+  "claim_amount": 1844.11,
+  "claim_type": "hail_damage",
+  "customer_age": 76,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 219,
+  "service_provider_id": "SP-111",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

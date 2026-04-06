@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05492-002",
+  "customer_id": "CUST-05492",
+  "claim_date": "2020-07-12",
+  "policy_start_date": "2018-06-03",
+  "policy_age_days": 770,
+  "claim_amount": 1215.19,
+  "claim_type": "windshield",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 648,
+  "service_provider_id": "SP-102",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

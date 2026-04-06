@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07103-009",
+  "customer_id": "CUST-07103",
+  "claim_date": "2022-06-16",
+  "policy_start_date": "2019-03-13",
+  "policy_age_days": 1191,
+  "claim_amount": 3891.35,
+  "claim_type": "water_damage",
+  "customer_age": 75,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 123,
+  "service_provider_id": "SP-103",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

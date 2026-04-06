@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03328-011",
+  "customer_id": "CUST-03328",
+  "claim_date": "2025-11-08",
+  "policy_start_date": "2021-09-04",
+  "policy_age_days": 1526,
+  "claim_amount": 2798.23,
+  "claim_type": "hail_damage",
+  "customer_age": 58,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 226,
+  "service_provider_id": "SP-049",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

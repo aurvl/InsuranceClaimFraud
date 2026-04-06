@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08839-002",
+  "customer_id": "CUST-08839",
+  "claim_date": "2018-12-31",
+  "policy_start_date": "2018-01-12",
+  "policy_age_days": 353,
+  "claim_amount": 38231.51,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 247,
+  "service_provider_id": "SP-097",
+  "location": "Tours",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08438-002",
+  "customer_id": "CUST-08438",
+  "claim_date": "2018-11-06",
+  "policy_start_date": "2018-03-12",
+  "policy_age_days": 239,
+  "claim_amount": 4626.15,
+  "claim_type": "water_damage",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 170,
+  "service_provider_id": "SP-024",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

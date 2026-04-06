@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01002-002",
+  "customer_id": "CUST-01002",
+  "claim_date": "2021-09-09",
+  "policy_start_date": "2020-10-25",
+  "policy_age_days": 319,
+  "claim_amount": 5607.77,
+  "claim_type": "collision",
+  "customer_age": 37,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 171,
+  "service_provider_id": "SP-046",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

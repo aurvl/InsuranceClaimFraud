@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03529-007",
+  "customer_id": "CUST-03529",
+  "claim_date": "2025-11-11",
+  "policy_start_date": "2023-05-18",
+  "policy_age_days": 908,
+  "claim_amount": 25137.04,
+  "claim_type": "bodily_injury",
+  "customer_age": 40,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-111",
+  "location": "Metz",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

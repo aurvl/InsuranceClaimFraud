@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05432-001",
+  "customer_id": "CUST-05432",
+  "claim_date": "2019-12-26",
+  "policy_start_date": "2019-09-24",
+  "policy_age_days": 93,
+  "claim_amount": 12397.69,
+  "claim_type": "bodily_injury",
+  "customer_age": 48,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-091",
+  "location": "Lille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

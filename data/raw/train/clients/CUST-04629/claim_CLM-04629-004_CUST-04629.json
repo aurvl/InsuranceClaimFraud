@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04629-004",
+  "customer_id": "CUST-04629",
+  "claim_date": "2021-07-11",
+  "policy_start_date": "2020-03-10",
+  "policy_age_days": 488,
+  "claim_amount": 16911.4,
+  "claim_type": "theft",
+  "customer_age": 85,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 258,
+  "service_provider_id": "SP-092",
+  "location": "Brest",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

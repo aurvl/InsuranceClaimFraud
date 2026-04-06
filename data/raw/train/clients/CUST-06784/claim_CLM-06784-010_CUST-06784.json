@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06784-010",
+  "customer_id": "CUST-06784",
+  "claim_date": "2023-08-31",
+  "policy_start_date": "2018-05-31",
+  "policy_age_days": 1918,
+  "claim_amount": 29212.44,
+  "claim_type": "bodily_injury",
+  "customer_age": 84,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 68,
+  "service_provider_id": "SP-038",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

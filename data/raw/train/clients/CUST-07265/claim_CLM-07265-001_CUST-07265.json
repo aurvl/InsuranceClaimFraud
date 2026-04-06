@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07265-001",
+  "customer_id": "CUST-07265",
+  "claim_date": "2023-09-04",
+  "policy_start_date": "2023-05-22",
+  "policy_age_days": 105,
+  "claim_amount": 2406.32,
+  "claim_type": "collision",
+  "customer_age": 60,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-007",
+  "location": "Paris",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07739-004",
+  "customer_id": "CUST-07739",
+  "claim_date": "2024-03-25",
+  "policy_start_date": "2021-11-07",
+  "policy_age_days": 869,
+  "claim_amount": 5856.54,
+  "claim_type": "collision",
+  "customer_age": 23,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 352,
+  "service_provider_id": "SP-097",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

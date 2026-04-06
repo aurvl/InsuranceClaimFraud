@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08614-011",
+  "customer_id": "CUST-08614",
+  "claim_date": "2023-02-12",
+  "policy_start_date": "2018-12-24",
+  "policy_age_days": 1511,
+  "claim_amount": 5335.05,
+  "claim_type": "collision",
+  "customer_age": 75,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-087",
+  "location": "Lille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

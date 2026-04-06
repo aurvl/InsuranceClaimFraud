@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00871-004",
+  "customer_id": "CUST-00871",
+  "claim_date": "2021-09-01",
+  "policy_start_date": "2018-11-17",
+  "policy_age_days": 1019,
+  "claim_amount": 3823.98,
+  "claim_type": "collision",
+  "customer_age": 45,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 289,
+  "service_provider_id": "SP-074",
+  "location": "Montpellier",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

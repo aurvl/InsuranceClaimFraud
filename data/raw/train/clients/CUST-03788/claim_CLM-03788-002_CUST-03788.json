@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03788-002",
+  "customer_id": "CUST-03788",
+  "claim_date": "2018-12-11",
+  "policy_start_date": "2018-08-16",
+  "policy_age_days": 117,
+  "claim_amount": 2141.29,
+  "claim_type": "collision",
+  "customer_age": 71,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-021",
+  "location": "Lyon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

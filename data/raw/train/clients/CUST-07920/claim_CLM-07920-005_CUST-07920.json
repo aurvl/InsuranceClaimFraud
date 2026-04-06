@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07920-005",
+  "customer_id": "CUST-07920",
+  "claim_date": "2023-09-25",
+  "policy_start_date": "2020-04-14",
+  "policy_age_days": 1259,
+  "claim_amount": 14797.28,
+  "claim_type": "fire",
+  "customer_age": 53,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 262,
+  "service_provider_id": "SP-005",
+  "location": "Perpignan",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

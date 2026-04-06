@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05365-004",
+  "customer_id": "CUST-05365",
+  "claim_date": "2022-10-24",
+  "policy_start_date": "2021-06-11",
+  "policy_age_days": 500,
+  "claim_amount": 1918.7,
+  "claim_type": "windshield",
+  "customer_age": 66,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 182,
+  "service_provider_id": "SP-106",
+  "location": "Amiens",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

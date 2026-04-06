@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06442-016",
+  "customer_id": "CUST-06442",
+  "claim_date": "2025-09-26",
+  "policy_start_date": "2018-08-14",
+  "policy_age_days": 2600,
+  "claim_amount": 5402.26,
+  "claim_type": "water_damage",
+  "customer_age": 82,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-006",
+  "location": "Perpignan",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

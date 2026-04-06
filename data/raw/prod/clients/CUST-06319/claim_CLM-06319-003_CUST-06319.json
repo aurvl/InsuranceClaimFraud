@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06319-003",
+  "customer_id": "CUST-06319",
+  "claim_date": "2025-04-14",
+  "policy_start_date": "2024-07-19",
+  "policy_age_days": 269,
+  "claim_amount": 770.55,
+  "claim_type": "windshield",
+  "customer_age": 32,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02114-004",
+  "customer_id": "CUST-02114",
+  "claim_date": "2025-07-26",
+  "policy_start_date": "2024-05-10",
+  "policy_age_days": 442,
+  "claim_amount": 7547.62,
+  "claim_type": "theft",
+  "customer_age": 60,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 25,
+  "service_provider_id": "SP-076",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

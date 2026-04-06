@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01582-002",
+  "customer_id": "CUST-01582",
+  "claim_date": "2018-07-23",
+  "policy_start_date": "2018-01-04",
+  "policy_age_days": 200,
+  "claim_amount": 3944.26,
+  "claim_type": "collision",
+  "customer_age": 56,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 84,
+  "service_provider_id": "SP-098",
+  "location": "Rennes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

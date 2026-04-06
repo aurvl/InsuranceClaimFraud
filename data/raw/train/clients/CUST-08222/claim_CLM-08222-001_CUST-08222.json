@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08222-001",
+  "customer_id": "CUST-08222",
+  "claim_date": "2018-10-29",
+  "policy_start_date": "2018-06-02",
+  "policy_age_days": 149,
+  "claim_amount": 7932.93,
+  "claim_type": "bodily_injury",
+  "customer_age": 65,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-006",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

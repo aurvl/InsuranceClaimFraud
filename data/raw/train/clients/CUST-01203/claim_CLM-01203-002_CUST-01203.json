@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01203-002",
+  "customer_id": "CUST-01203",
+  "claim_date": "2023-01-26",
+  "policy_start_date": "2022-01-18",
+  "policy_age_days": 373,
+  "claim_amount": 2543.93,
+  "claim_type": "hail_damage",
+  "customer_age": 22,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 229,
+  "service_provider_id": "SP-050",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

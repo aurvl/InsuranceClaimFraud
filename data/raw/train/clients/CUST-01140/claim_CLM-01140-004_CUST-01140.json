@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01140-004",
+  "customer_id": "CUST-01140",
+  "claim_date": "2020-04-05",
+  "policy_start_date": "2018-10-01",
+  "policy_age_days": 552,
+  "claim_amount": 4006.86,
+  "claim_type": "theft",
+  "customer_age": 81,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 180,
+  "service_provider_id": "SP-017",
+  "location": "Perpignan",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04353-003",
+  "customer_id": "CUST-04353",
+  "claim_date": "2020-06-06",
+  "policy_start_date": "2019-10-05",
+  "policy_age_days": 245,
+  "claim_amount": 2955.81,
+  "claim_type": "theft",
+  "customer_age": 71,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-038",
+  "location": "Toulouse",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

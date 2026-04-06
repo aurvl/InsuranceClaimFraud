@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05803-005",
+  "customer_id": "CUST-05803",
+  "claim_date": "2020-11-13",
+  "policy_start_date": "2019-12-16",
+  "policy_age_days": 333,
+  "claim_amount": 2257.09,
+  "claim_type": "hail_damage",
+  "customer_age": 79,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-081",
+  "location": "Ajaccio",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

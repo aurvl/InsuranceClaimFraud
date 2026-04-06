@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05553-001",
+  "customer_id": "CUST-05553",
+  "claim_date": "2022-05-29",
+  "policy_start_date": "2022-01-08",
+  "policy_age_days": 141,
+  "claim_amount": 1681.79,
+  "claim_type": "collision",
+  "customer_age": 54,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

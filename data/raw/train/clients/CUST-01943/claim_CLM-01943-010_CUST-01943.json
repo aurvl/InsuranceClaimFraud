@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01943-010",
+  "customer_id": "CUST-01943",
+  "claim_date": "2024-08-05",
+  "policy_start_date": "2021-09-28",
+  "policy_age_days": 1042,
+  "claim_amount": 21683.51,
+  "claim_type": "theft",
+  "customer_age": 28,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 110,
+  "service_provider_id": "SP-014",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

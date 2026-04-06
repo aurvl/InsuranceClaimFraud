@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02729-004",
+  "customer_id": "CUST-02729",
+  "claim_date": "2019-03-23",
+  "policy_start_date": "2018-02-25",
+  "policy_age_days": 391,
+  "claim_amount": 8837.78,
+  "claim_type": "water_damage",
+  "customer_age": 49,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 163,
+  "service_provider_id": "SP-021",
+  "location": "Metz",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

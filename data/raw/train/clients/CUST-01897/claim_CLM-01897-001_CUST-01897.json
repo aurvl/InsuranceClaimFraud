@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01897-001",
+  "customer_id": "CUST-01897",
+  "claim_date": "2023-05-19",
+  "policy_start_date": "2023-02-18",
+  "policy_age_days": 90,
+  "claim_amount": 6186.63,
+  "claim_type": "water_damage",
+  "customer_age": 31,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-118",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

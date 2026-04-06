@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06877-003",
+  "customer_id": "CUST-06877",
+  "claim_date": "2022-05-01",
+  "policy_start_date": "2020-09-17",
+  "policy_age_days": 591,
+  "claim_amount": 4036.49,
+  "claim_type": "water_damage",
+  "customer_age": 61,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 271,
+  "service_provider_id": "SP-017",
+  "location": "Bordeaux",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

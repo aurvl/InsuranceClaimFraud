@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07463-003",
+  "customer_id": "CUST-07463",
+  "claim_date": "2020-07-19",
+  "policy_start_date": "2019-10-13",
+  "policy_age_days": 280,
+  "claim_amount": 1326.81,
+  "claim_type": "hail_damage",
+  "customer_age": 20,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 68,
+  "service_provider_id": "SP-110",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

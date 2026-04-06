@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08739-002",
+  "customer_id": "CUST-08739",
+  "claim_date": "2021-07-16",
+  "policy_start_date": "2021-04-11",
+  "policy_age_days": 96,
+  "claim_amount": 3452.13,
+  "claim_type": "collision",
+  "customer_age": 76,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-070",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

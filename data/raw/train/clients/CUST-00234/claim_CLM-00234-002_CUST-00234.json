@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00234-002",
+  "customer_id": "CUST-00234",
+  "claim_date": "2020-06-01",
+  "policy_start_date": "2020-01-25",
+  "policy_age_days": 128,
+  "claim_amount": 11260.13,
+  "claim_type": "fire",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-105",
+  "location": "Tours",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02598-008",
+  "customer_id": "CUST-02598",
+  "claim_date": "2021-07-05",
+  "policy_start_date": "2018-07-22",
+  "policy_age_days": 1079,
+  "claim_amount": 14231.56,
+  "claim_type": "bodily_injury",
+  "customer_age": 60,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 100,
+  "service_provider_id": "SP-006",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

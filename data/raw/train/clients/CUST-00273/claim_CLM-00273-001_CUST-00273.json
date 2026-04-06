@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00273-001",
+  "customer_id": "CUST-00273",
+  "claim_date": "2019-09-11",
+  "policy_start_date": "2019-06-21",
+  "policy_age_days": 82,
+  "claim_amount": 15441.32,
+  "claim_type": "fire",
+  "customer_age": 68,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-088",
+  "location": "Ajaccio",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

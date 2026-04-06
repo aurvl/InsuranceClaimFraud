@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02326-005",
+  "customer_id": "CUST-02326",
+  "claim_date": "2021-03-03",
+  "policy_start_date": "2018-05-11",
+  "policy_age_days": 1027,
+  "claim_amount": 933.96,
+  "claim_type": "windshield",
+  "customer_age": 45,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 503,
+  "service_provider_id": "SP-003",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

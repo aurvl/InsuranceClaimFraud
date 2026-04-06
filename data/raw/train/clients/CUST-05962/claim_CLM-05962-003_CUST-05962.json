@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05962-003",
+  "customer_id": "CUST-05962",
+  "claim_date": "2023-07-30",
+  "policy_start_date": "2021-10-22",
+  "policy_age_days": 646,
+  "claim_amount": 1255.63,
+  "claim_type": "windshield",
+  "customer_age": 64,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 238,
+  "service_provider_id": "SP-090",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04153-001",
+  "customer_id": "CUST-04153",
+  "claim_date": "2024-12-21",
+  "policy_start_date": "2024-11-14",
+  "policy_age_days": 37,
+  "claim_amount": 2410.26,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-089",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

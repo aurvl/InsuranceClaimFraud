@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04450-003",
+  "customer_id": "CUST-04450",
+  "claim_date": "2019-02-27",
+  "policy_start_date": "2018-03-09",
+  "policy_age_days": 355,
+  "claim_amount": 2855.05,
+  "claim_type": "collision",
+  "customer_age": 24,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-024",
+  "location": "Grenoble",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

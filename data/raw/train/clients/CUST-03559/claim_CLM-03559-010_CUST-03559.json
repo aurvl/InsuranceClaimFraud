@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03559-010",
+  "customer_id": "CUST-03559",
+  "claim_date": "2022-12-23",
+  "policy_start_date": "2018-03-08",
+  "policy_age_days": 1751,
+  "claim_amount": 9530.74,
+  "claim_type": "bodily_injury",
+  "customer_age": 73,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 107,
+  "service_provider_id": "SP-075",
+  "location": "Le Mans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

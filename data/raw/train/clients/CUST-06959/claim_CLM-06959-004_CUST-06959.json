@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06959-004",
+  "customer_id": "CUST-06959",
+  "claim_date": "2021-09-07",
+  "policy_start_date": "2020-07-23",
+  "policy_age_days": 411,
+  "claim_amount": 6159.37,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-002",
+  "location": "Limoges",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

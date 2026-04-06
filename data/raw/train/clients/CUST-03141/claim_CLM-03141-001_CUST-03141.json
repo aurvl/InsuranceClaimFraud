@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03141-001",
+  "customer_id": "CUST-03141",
+  "claim_date": "2022-05-18",
+  "policy_start_date": "2022-04-18",
+  "policy_age_days": 30,
+  "claim_amount": 7316.49,
+  "claim_type": "water_damage",
+  "customer_age": 35,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-055",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

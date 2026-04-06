@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04644-016",
+  "customer_id": "CUST-04644",
+  "claim_date": "2024-08-30",
+  "policy_start_date": "2018-11-29",
+  "policy_age_days": 2101,
+  "claim_amount": 3097.79,
+  "claim_type": "hail_damage",
+  "customer_age": 43,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 218,
+  "service_provider_id": "SP-119",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

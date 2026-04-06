@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07251-009",
+  "customer_id": "CUST-07251",
+  "claim_date": "2022-10-11",
+  "policy_start_date": "2018-05-14",
+  "policy_age_days": 1611,
+  "claim_amount": 18492.47,
+  "claim_type": "bodily_injury",
+  "customer_age": 77,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-088",
+  "location": "Lille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

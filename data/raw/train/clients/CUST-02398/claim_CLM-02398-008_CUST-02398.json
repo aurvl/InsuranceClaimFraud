@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02398-008",
+  "customer_id": "CUST-02398",
+  "claim_date": "2021-08-16",
+  "policy_start_date": "2018-01-25",
+  "policy_age_days": 1299,
+  "claim_amount": 13286.53,
+  "claim_type": "bodily_injury",
+  "customer_age": 78,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 14,
+  "service_provider_id": "SP-060",
+  "location": "Villeurbanne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

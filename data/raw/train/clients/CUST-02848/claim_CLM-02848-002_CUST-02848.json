@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02848-002",
+  "customer_id": "CUST-02848",
+  "claim_date": "2024-04-03",
+  "policy_start_date": "2023-08-28",
+  "policy_age_days": 219,
+  "claim_amount": 21338.82,
+  "claim_type": "fire",
+  "customer_age": 43,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 119,
+  "service_provider_id": "SP-054",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

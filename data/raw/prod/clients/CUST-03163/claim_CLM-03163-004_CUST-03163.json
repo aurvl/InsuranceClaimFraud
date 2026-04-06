@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03163-004",
+  "customer_id": "CUST-03163",
+  "claim_date": "2025-03-05",
+  "policy_start_date": "2023-04-25",
+  "policy_age_days": 680,
+  "claim_amount": 1450.21,
+  "claim_type": "windshield",
+  "customer_age": 54,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 275,
+  "service_provider_id": "SP-013",
+  "location": "Paris",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

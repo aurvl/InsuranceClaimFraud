@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06241-003",
+  "customer_id": "CUST-06241",
+  "claim_date": "2023-06-26",
+  "policy_start_date": "2020-09-16",
+  "policy_age_days": 1013,
+  "claim_amount": 8779.6,
+  "claim_type": "fire",
+  "customer_age": 50,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 441,
+  "service_provider_id": "SP-023",
+  "location": "Metz",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

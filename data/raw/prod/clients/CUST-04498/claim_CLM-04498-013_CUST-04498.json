@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04498-013",
+  "customer_id": "CUST-04498",
+  "claim_date": "2024-12-31",
+  "policy_start_date": "2018-08-06",
+  "policy_age_days": 2339,
+  "claim_amount": 10040.66,
+  "claim_type": "collision",
+  "customer_age": 82,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-017",
+  "location": "Brest",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

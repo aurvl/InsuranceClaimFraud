@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04993-003",
+  "customer_id": "CUST-04993",
+  "claim_date": "2023-03-30",
+  "policy_start_date": "2021-09-25",
+  "policy_age_days": 551,
+  "claim_amount": 8050.12,
+  "claim_type": "theft",
+  "customer_age": 19,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-053",
+  "location": "La Rochelle",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

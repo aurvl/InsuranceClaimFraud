@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01699-007",
+  "customer_id": "CUST-01699",
+  "claim_date": "2023-11-22",
+  "policy_start_date": "2019-12-03",
+  "policy_age_days": 1450,
+  "claim_amount": 11700.13,
+  "claim_type": "bodily_injury",
+  "customer_age": 53,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 241,
+  "service_provider_id": "SP-052",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

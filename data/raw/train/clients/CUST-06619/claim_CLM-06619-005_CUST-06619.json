@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06619-005",
+  "customer_id": "CUST-06619",
+  "claim_date": "2024-03-01",
+  "policy_start_date": "2021-11-21",
+  "policy_age_days": 831,
+  "claim_amount": 14961.56,
+  "claim_type": "fire",
+  "customer_age": 27,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 285,
+  "service_provider_id": "SP-039",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

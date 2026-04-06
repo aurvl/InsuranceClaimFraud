@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05755-006",
+  "customer_id": "CUST-05755",
+  "claim_date": "2021-10-05",
+  "policy_start_date": "2019-10-14",
+  "policy_age_days": 722,
+  "claim_amount": 28635.55,
+  "claim_type": "theft",
+  "customer_age": 51,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 210,
+  "service_provider_id": "SP-096",
+  "location": "Brest",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08509-003",
+  "customer_id": "CUST-08509",
+  "claim_date": "2023-08-14",
+  "policy_start_date": "2021-09-18",
+  "policy_age_days": 695,
+  "claim_amount": 7067.12,
+  "claim_type": "theft",
+  "customer_age": 71,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 315,
+  "service_provider_id": "SP-017",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

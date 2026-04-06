@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08878-002",
+  "customer_id": "CUST-08878",
+  "claim_date": "2020-02-03",
+  "policy_start_date": "2019-03-02",
+  "policy_age_days": 338,
+  "claim_amount": 3683.26,
+  "claim_type": "water_damage",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 289,
+  "service_provider_id": "SP-115",
+  "location": "Limoges",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

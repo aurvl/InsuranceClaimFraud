@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03476-005",
+  "customer_id": "CUST-03476",
+  "claim_date": "2020-08-15",
+  "policy_start_date": "2018-08-06",
+  "policy_age_days": 740,
+  "claim_amount": 15254.38,
+  "claim_type": "theft",
+  "customer_age": 40,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-089",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

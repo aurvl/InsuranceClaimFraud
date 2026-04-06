@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02629-009",
+  "customer_id": "CUST-02629",
+  "claim_date": "2022-05-20",
+  "policy_start_date": "2018-01-14",
+  "policy_age_days": 1587,
+  "claim_amount": 8149.79,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 467,
+  "service_provider_id": "SP-071",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

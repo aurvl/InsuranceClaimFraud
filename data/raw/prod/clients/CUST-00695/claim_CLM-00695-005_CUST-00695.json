@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00695-005",
+  "customer_id": "CUST-00695",
+  "claim_date": "2024-11-25",
+  "policy_start_date": "2022-01-31",
+  "policy_age_days": 1029,
+  "claim_amount": 5236.75,
+  "claim_type": "collision",
+  "customer_age": 46,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 441,
+  "service_provider_id": "SP-020",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03146-002",
+  "customer_id": "CUST-03146",
+  "claim_date": "2018-11-06",
+  "policy_start_date": "2018-05-24",
+  "policy_age_days": 166,
+  "claim_amount": 1460.82,
+  "claim_type": "windshield",
+  "customer_age": 34,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-106",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

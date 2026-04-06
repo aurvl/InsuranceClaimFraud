@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06491-003",
+  "customer_id": "CUST-06491",
+  "claim_date": "2020-10-07",
+  "policy_start_date": "2018-07-13",
+  "policy_age_days": 817,
+  "claim_amount": 2553.81,
+  "claim_type": "hail_damage",
+  "customer_age": 38,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 662,
+  "service_provider_id": "SP-079",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

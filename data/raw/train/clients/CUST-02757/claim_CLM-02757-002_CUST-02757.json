@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02757-002",
+  "customer_id": "CUST-02757",
+  "claim_date": "2019-04-10",
+  "policy_start_date": "2018-09-19",
+  "policy_age_days": 203,
+  "claim_amount": 11227.81,
+  "claim_type": "bodily_injury",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 189,
+  "service_provider_id": "SP-118",
+  "location": "Limoges",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07438-007",
+  "customer_id": "CUST-07438",
+  "claim_date": "2022-04-17",
+  "policy_start_date": "2018-08-29",
+  "policy_age_days": 1327,
+  "claim_amount": 4300.35,
+  "claim_type": "water_damage",
+  "customer_age": 23,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 395,
+  "service_provider_id": "SP-070",
+  "location": "Montpellier",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00633-003",
+  "customer_id": "CUST-00633",
+  "claim_date": "2019-03-09",
+  "policy_start_date": "2018-01-09",
+  "policy_age_days": 424,
+  "claim_amount": 3318.92,
+  "claim_type": "collision",
+  "customer_age": 43,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 202,
+  "service_provider_id": "SP-058",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

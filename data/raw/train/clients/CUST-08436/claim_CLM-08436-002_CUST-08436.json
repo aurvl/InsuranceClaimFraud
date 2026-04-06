@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08436-002",
+  "customer_id": "CUST-08436",
+  "claim_date": "2023-05-07",
+  "policy_start_date": "2023-03-27",
+  "policy_age_days": 41,
+  "claim_amount": 3342.94,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-016",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

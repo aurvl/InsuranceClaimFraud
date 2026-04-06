@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07334-005",
+  "customer_id": "CUST-07334",
+  "claim_date": "2023-08-15",
+  "policy_start_date": "2021-05-09",
+  "policy_age_days": 828,
+  "claim_amount": 4764.72,
+  "claim_type": "bodily_injury",
+  "customer_age": 26,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 268,
+  "service_provider_id": "SP-092",
+  "location": "Rennes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

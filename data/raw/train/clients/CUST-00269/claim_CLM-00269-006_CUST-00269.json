@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00269-006",
+  "customer_id": "CUST-00269",
+  "claim_date": "2022-07-28",
+  "policy_start_date": "2019-08-06",
+  "policy_age_days": 1087,
+  "claim_amount": 2998.61,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 326,
+  "service_provider_id": "SP-069",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

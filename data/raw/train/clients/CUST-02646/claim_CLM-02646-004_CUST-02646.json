@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02646-004",
+  "customer_id": "CUST-02646",
+  "claim_date": "2020-08-27",
+  "policy_start_date": "2019-05-13",
+  "policy_age_days": 472,
+  "claim_amount": 16226.3,
+  "claim_type": "bodily_injury",
+  "customer_age": 28,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 130,
+  "service_provider_id": "SP-093",
+  "location": "Brest",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

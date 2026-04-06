@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04268-007",
+  "customer_id": "CUST-04268",
+  "claim_date": "2023-03-19",
+  "policy_start_date": "2018-02-18",
+  "policy_age_days": 1855,
+  "claim_amount": 2156.09,
+  "claim_type": "hail_damage",
+  "customer_age": 30,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 133,
+  "service_provider_id": "SP-094",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

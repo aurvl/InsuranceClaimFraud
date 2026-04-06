@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05960-004",
+  "customer_id": "CUST-05960",
+  "claim_date": "2020-04-14",
+  "policy_start_date": "2019-01-29",
+  "policy_age_days": 441,
+  "claim_amount": 17069.09,
+  "claim_type": "fire",
+  "customer_age": 20,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 251,
+  "service_provider_id": "SP-052",
+  "location": "Nantes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

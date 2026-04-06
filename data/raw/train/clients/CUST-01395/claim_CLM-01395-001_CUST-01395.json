@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01395-001",
+  "customer_id": "CUST-01395",
+  "claim_date": "2022-01-12",
+  "policy_start_date": "2021-10-26",
+  "policy_age_days": 78,
+  "claim_amount": 14179.95,
+  "claim_type": "fire",
+  "customer_age": 83,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-055",
+  "location": "Nantes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

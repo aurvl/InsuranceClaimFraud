@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04357-002",
+  "customer_id": "CUST-04357",
+  "claim_date": "2020-12-06",
+  "policy_start_date": "2019-09-18",
+  "policy_age_days": 445,
+  "claim_amount": 4172.84,
+  "claim_type": "water_damage",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 362,
+  "service_provider_id": "SP-061",
+  "location": "Villeurbanne",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

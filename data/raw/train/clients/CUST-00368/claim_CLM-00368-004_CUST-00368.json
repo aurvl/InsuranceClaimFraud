@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00368-004",
+  "customer_id": "CUST-00368",
+  "claim_date": "2024-05-23",
+  "policy_start_date": "2022-08-25",
+  "policy_age_days": 637,
+  "claim_amount": 2423.29,
+  "claim_type": "hail_damage",
+  "customer_age": 30,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 174,
+  "service_provider_id": "SP-003",
+  "location": "Perpignan",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

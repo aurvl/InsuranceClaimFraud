@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08861-012",
+  "customer_id": "CUST-08861",
+  "claim_date": "2025-07-17",
+  "policy_start_date": "2018-06-29",
+  "policy_age_days": 2575,
+  "claim_amount": 4516.09,
+  "claim_type": "collision",
+  "customer_age": 64,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 259,
+  "service_provider_id": "SP-050",
+  "location": "Nantes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

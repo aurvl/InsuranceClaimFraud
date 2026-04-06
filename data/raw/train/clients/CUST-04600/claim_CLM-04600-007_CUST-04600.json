@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04600-007",
+  "customer_id": "CUST-04600",
+  "claim_date": "2023-06-07",
+  "policy_start_date": "2020-07-04",
+  "policy_age_days": 1068,
+  "claim_amount": 1614.76,
+  "claim_type": "water_damage",
+  "customer_age": 39,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05429-009",
+  "customer_id": "CUST-05429",
+  "claim_date": "2024-10-27",
+  "policy_start_date": "2018-11-08",
+  "policy_age_days": 2180,
+  "claim_amount": 3191.71,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 671,
+  "service_provider_id": "SP-051",
+  "location": "Annecy",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03951-001",
+  "customer_id": "CUST-03951",
+  "claim_date": "2020-12-10",
+  "policy_start_date": "2020-09-06",
+  "policy_age_days": 95,
+  "claim_amount": 15231.26,
+  "claim_type": "fire",
+  "customer_age": 22,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-117",
+  "location": "Le Havre",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

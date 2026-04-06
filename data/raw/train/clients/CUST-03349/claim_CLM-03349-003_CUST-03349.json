@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03349-003",
+  "customer_id": "CUST-03349",
+  "claim_date": "2022-11-08",
+  "policy_start_date": "2022-01-09",
+  "policy_age_days": 303,
+  "claim_amount": 20044.46,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 239,
+  "service_provider_id": "SP-039",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

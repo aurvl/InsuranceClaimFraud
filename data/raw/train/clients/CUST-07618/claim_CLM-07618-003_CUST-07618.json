@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07618-003",
+  "customer_id": "CUST-07618",
+  "claim_date": "2020-03-09",
+  "policy_start_date": "2019-03-24",
+  "policy_age_days": 351,
+  "claim_amount": 3931.35,
+  "claim_type": "hail_damage",
+  "customer_age": 34,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 134,
+  "service_provider_id": "SP-082",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

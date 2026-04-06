@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04723-011",
+  "customer_id": "CUST-04723",
+  "claim_date": "2023-02-23",
+  "policy_start_date": "2018-05-31",
+  "policy_age_days": 1729,
+  "claim_amount": 828.61,
+  "claim_type": "windshield",
+  "customer_age": 53,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-054",
+  "location": "La Rochelle",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05515-003",
+  "customer_id": "CUST-05515",
+  "claim_date": "2024-01-23",
+  "policy_start_date": "2020-04-17",
+  "policy_age_days": 1376,
+  "claim_amount": 6988.32,
+  "claim_type": "theft",
+  "customer_age": 42,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 958,
+  "service_provider_id": "SP-043",
+  "location": "Nice",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07466-002",
+  "customer_id": "CUST-07466",
+  "claim_date": "2019-07-31",
+  "policy_start_date": "2018-06-23",
+  "policy_age_days": 403,
+  "claim_amount": 8907.79,
+  "claim_type": "bodily_injury",
+  "customer_age": 62,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 294,
+  "service_provider_id": "SP-072",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

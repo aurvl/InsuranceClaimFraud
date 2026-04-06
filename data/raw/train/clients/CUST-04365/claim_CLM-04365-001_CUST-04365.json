@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04365-001",
+  "customer_id": "CUST-04365",
+  "claim_date": "2019-09-20",
+  "policy_start_date": "2019-05-23",
+  "policy_age_days": 120,
+  "claim_amount": 14419.25,
+  "claim_type": "fire",
+  "customer_age": 80,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-051",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

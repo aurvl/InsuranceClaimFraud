@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05429-006",
+  "customer_id": "CUST-05429",
+  "claim_date": "2021-05-02",
+  "policy_start_date": "2018-11-08",
+  "policy_age_days": 906,
+  "claim_amount": 8120.34,
+  "claim_type": "theft",
+  "customer_age": 27,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 122,
+  "service_provider_id": "SP-040",
+  "location": "Annecy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03928-003",
+  "customer_id": "CUST-03928",
+  "claim_date": "2020-10-28",
+  "policy_start_date": "2019-12-04",
+  "policy_age_days": 329,
+  "claim_amount": 4943.4,
+  "claim_type": "collision",
+  "customer_age": 70,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 102,
+  "service_provider_id": "SP-058",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

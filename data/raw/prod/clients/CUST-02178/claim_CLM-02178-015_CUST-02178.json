@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02178-015",
+  "customer_id": "CUST-02178",
+  "claim_date": "2025-05-11",
+  "policy_start_date": "2019-04-16",
+  "policy_age_days": 2217,
+  "claim_amount": 3523.28,
+  "claim_type": "collision",
+  "customer_age": 48,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-111",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06036-002",
+  "customer_id": "CUST-06036",
+  "claim_date": "2020-02-02",
+  "policy_start_date": "2019-02-09",
+  "policy_age_days": 358,
+  "claim_amount": 6306.3,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 288,
+  "service_provider_id": "SP-058",
+  "location": "Le Havre",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

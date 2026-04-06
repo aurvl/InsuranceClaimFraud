@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07259-001",
+  "customer_id": "CUST-07259",
+  "claim_date": "2023-05-03",
+  "policy_start_date": "2023-01-22",
+  "policy_age_days": 101,
+  "claim_amount": 10330.42,
+  "claim_type": "bodily_injury",
+  "customer_age": 26,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-069",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

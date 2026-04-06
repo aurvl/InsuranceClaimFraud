@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06562-001",
+  "customer_id": "CUST-06562",
+  "claim_date": "2018-12-28",
+  "policy_start_date": "2018-10-08",
+  "policy_age_days": 81,
+  "claim_amount": 795.08,
+  "claim_type": "windshield",
+  "customer_age": 46,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-099",
+  "location": "Reims",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

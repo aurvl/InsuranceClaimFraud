@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08217-002",
+  "customer_id": "CUST-08217",
+  "claim_date": "2019-06-27",
+  "policy_start_date": "2018-08-11",
+  "policy_age_days": 320,
+  "claim_amount": 2710.28,
+  "claim_type": "hail_damage",
+  "customer_age": 22,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 206,
+  "service_provider_id": "SP-094",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

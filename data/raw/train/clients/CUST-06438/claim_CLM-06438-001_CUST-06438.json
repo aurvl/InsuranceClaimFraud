@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06438-001",
+  "customer_id": "CUST-06438",
+  "claim_date": "2023-09-23",
+  "policy_start_date": "2023-05-08",
+  "policy_age_days": 138,
+  "claim_amount": 12315.0,
+  "claim_type": "collision",
+  "customer_age": 41,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-003",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

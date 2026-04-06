@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06518-015",
+  "customer_id": "CUST-06518",
+  "claim_date": "2024-10-10",
+  "policy_start_date": "2018-10-05",
+  "policy_age_days": 2197,
+  "claim_amount": 17138.77,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-047",
+  "location": "Angers",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

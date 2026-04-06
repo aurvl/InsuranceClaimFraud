@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05222-001",
+  "customer_id": "CUST-05222",
+  "claim_date": "2023-06-02",
+  "policy_start_date": "2023-04-25",
+  "policy_age_days": 38,
+  "claim_amount": 7020.77,
+  "claim_type": "water_damage",
+  "customer_age": 50,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-111",
+  "location": "Reims",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

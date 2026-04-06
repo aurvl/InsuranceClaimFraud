@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08365-003",
+  "customer_id": "CUST-08365",
+  "claim_date": "2021-08-09",
+  "policy_start_date": "2019-10-30",
+  "policy_age_days": 649,
+  "claim_amount": 9185.61,
+  "claim_type": "collision",
+  "customer_age": 71,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 430,
+  "service_provider_id": "SP-068",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

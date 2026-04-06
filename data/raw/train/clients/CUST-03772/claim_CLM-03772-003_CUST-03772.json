@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03772-003",
+  "customer_id": "CUST-03772",
+  "claim_date": "2020-10-05",
+  "policy_start_date": "2019-12-02",
+  "policy_age_days": 308,
+  "claim_amount": 1412.83,
+  "claim_type": "windshield",
+  "customer_age": 44,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-058",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

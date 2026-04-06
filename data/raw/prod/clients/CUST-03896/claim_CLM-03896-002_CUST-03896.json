@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03896-002",
+  "customer_id": "CUST-03896",
+  "claim_date": "2024-11-13",
+  "policy_start_date": "2024-02-08",
+  "policy_age_days": 279,
+  "claim_amount": 7887.2,
+  "claim_type": "bodily_injury",
+  "customer_age": 75,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 198,
+  "service_provider_id": "SP-005",
+  "location": "Limoges",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

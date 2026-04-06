@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07126-002",
+  "customer_id": "CUST-07126",
+  "claim_date": "2022-11-18",
+  "policy_start_date": "2022-10-12",
+  "policy_age_days": 37,
+  "claim_amount": 6631.93,
+  "claim_type": "collision",
+  "customer_age": 73,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-031",
+  "location": "Toulouse",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

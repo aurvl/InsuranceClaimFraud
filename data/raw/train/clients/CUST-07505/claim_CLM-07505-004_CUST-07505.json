@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07505-004",
+  "customer_id": "CUST-07505",
+  "claim_date": "2023-06-02",
+  "policy_start_date": "2021-08-20",
+  "policy_age_days": 651,
+  "claim_amount": 4263.81,
+  "claim_type": "collision",
+  "customer_age": 38,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 65,
+  "service_provider_id": "SP-078",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

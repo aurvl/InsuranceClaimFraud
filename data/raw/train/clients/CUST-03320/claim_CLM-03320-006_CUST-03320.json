@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03320-006",
+  "customer_id": "CUST-03320",
+  "claim_date": "2022-01-29",
+  "policy_start_date": "2020-09-26",
+  "policy_age_days": 490,
+  "claim_amount": 6303.47,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 192,
+  "service_provider_id": "SP-080",
+  "location": "Aix-en-Provence",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

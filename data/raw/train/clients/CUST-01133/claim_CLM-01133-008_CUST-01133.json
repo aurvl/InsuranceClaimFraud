@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01133-008",
+  "customer_id": "CUST-01133",
+  "claim_date": "2022-08-14",
+  "policy_start_date": "2020-12-26",
+  "policy_age_days": 596,
+  "claim_amount": 25197.19,
+  "claim_type": "fire",
+  "customer_age": 64,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 274,
+  "service_provider_id": "SP-028",
+  "location": "Grenoble",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

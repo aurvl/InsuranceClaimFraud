@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00783-003",
+  "customer_id": "CUST-00783",
+  "claim_date": "2023-03-21",
+  "policy_start_date": "2020-10-20",
+  "policy_age_days": 882,
+  "claim_amount": 3668.6,
+  "claim_type": "fire",
+  "customer_age": 62,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 198,
+  "service_provider_id": "SP-043",
+  "location": "Angers",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

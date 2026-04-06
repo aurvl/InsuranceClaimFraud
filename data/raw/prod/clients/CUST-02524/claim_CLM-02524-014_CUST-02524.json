@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02524-014",
+  "customer_id": "CUST-02524",
+  "claim_date": "2025-01-03",
+  "policy_start_date": "2019-08-22",
+  "policy_age_days": 1961,
+  "claim_amount": 32383.08,
+  "claim_type": "fire",
+  "customer_age": 58,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-011",
+  "location": "Perpignan",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

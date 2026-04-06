@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06986-005",
+  "customer_id": "CUST-06986",
+  "claim_date": "2021-09-20",
+  "policy_start_date": "2018-09-12",
+  "policy_age_days": 1104,
+  "claim_amount": 1424.57,
+  "claim_type": "windshield",
+  "customer_age": 27,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 178,
+  "service_provider_id": "SP-092",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

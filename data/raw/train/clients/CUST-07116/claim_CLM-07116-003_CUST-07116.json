@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07116-003",
+  "customer_id": "CUST-07116",
+  "claim_date": "2019-02-16",
+  "policy_start_date": "2018-09-16",
+  "policy_age_days": 153,
+  "claim_amount": 4540.19,
+  "claim_type": "collision",
+  "customer_age": 69,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-074",
+  "location": "Ajaccio",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

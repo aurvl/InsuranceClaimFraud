@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08111-001",
+  "customer_id": "CUST-08111",
+  "claim_date": "2020-04-25",
+  "policy_start_date": "2019-12-07",
+  "policy_age_days": 140,
+  "claim_amount": 3119.8,
+  "claim_type": "fire",
+  "customer_age": 42,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-017",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

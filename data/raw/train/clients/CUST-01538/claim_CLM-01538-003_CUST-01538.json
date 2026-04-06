@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01538-003",
+  "customer_id": "CUST-01538",
+  "claim_date": "2021-11-29",
+  "policy_start_date": "2020-01-15",
+  "policy_age_days": 684,
+  "claim_amount": 4058.46,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 284,
+  "service_provider_id": "SP-101",
+  "location": "Brest",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08370-010",
+  "customer_id": "CUST-08370",
+  "claim_date": "2022-09-24",
+  "policy_start_date": "2019-01-19",
+  "policy_age_days": 1344,
+  "claim_amount": 3657.59,
+  "claim_type": "water_damage",
+  "customer_age": 40,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-071",
+  "location": "Paris",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

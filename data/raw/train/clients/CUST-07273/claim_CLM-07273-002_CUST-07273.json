@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07273-002",
+  "customer_id": "CUST-07273",
+  "claim_date": "2020-02-02",
+  "policy_start_date": "2019-01-26",
+  "policy_age_days": 372,
+  "claim_amount": 1789.91,
+  "claim_type": "theft",
+  "customer_age": 29,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 327,
+  "service_provider_id": "SP-101",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

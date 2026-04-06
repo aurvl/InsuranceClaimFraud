@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01858-002",
+  "customer_id": "CUST-01858",
+  "claim_date": "2019-12-09",
+  "policy_start_date": "2019-11-09",
+  "policy_age_days": 30,
+  "claim_amount": 9603.42,
+  "claim_type": "bodily_injury",
+  "customer_age": 82,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-018",
+  "location": "Toulon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

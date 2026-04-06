@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06372-003",
+  "customer_id": "CUST-06372",
+  "claim_date": "2020-02-19",
+  "policy_start_date": "2018-12-16",
+  "policy_age_days": 430,
+  "claim_amount": 1746.36,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 175,
+  "service_provider_id": "SP-016",
+  "location": "Metz",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

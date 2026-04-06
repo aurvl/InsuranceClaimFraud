@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01683-002",
+  "customer_id": "CUST-01683",
+  "claim_date": "2023-04-14",
+  "policy_start_date": "2022-10-27",
+  "policy_age_days": 169,
+  "claim_amount": 5494.38,
+  "claim_type": "collision",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 25,
+  "service_provider_id": "SP-007",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

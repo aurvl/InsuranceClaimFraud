@@ -1,0 +1,105 @@
+{
+  "random_state": 42,
+  "test_size": 0.2,
+  "validation_size_within_development": 0.2,
+  "decision_threshold": 0.83,
+  "historical_rows": 54248,
+  "development_rows": 43398,
+  "validation_rows": 8680,
+  "test_rows": 10850,
+  "final_training_rows_after_strategy": 80706,
+  "historical_positive_rate": 0.070159,
+  "historical_date_min": "2018-01-15",
+  "historical_date_max": "2024-10-02",
+  "suspicious_providers": [
+    "SP-003",
+    "SP-013",
+    "SP-017",
+    "SP-044",
+    "SP-058",
+    "SP-071",
+    "SP-089",
+    "SP-098",
+    "SP-109",
+    "SP-111",
+    "SP-115",
+    "SP-116"
+  ],
+  "safe_providers": [
+    "SP-105",
+    "SP-108",
+    "SP-067",
+    "SP-032",
+    "SP-095"
+  ],
+  "high_amount_threshold": 28593.39,
+  "training_source": "postgres",
+  "historical_source_stage": "extracted_client_packages_loaded_to_postgres",
+  "development_cutoff_date": "2024-10-02",
+  "production_start_date": "2024-10-03",
+  "production_data_used_in_training": false,
+  "classifier": "xgb",
+  "selected_imbalance_strategy": "oversample",
+  "training_accuracy": 0.864075,
+  "validation_strategy_benchmark": [
+    {
+      "classifier": "xgb",
+      "imbalance_strategy": "weighted",
+      "decision_threshold": 0.83,
+      "training_rows_after_strategy": 34718,
+      "training_accuracy": 0.87819,
+      "validation_metrics": {
+        "threshold": 0.83,
+        "precision": 0.460967,
+        "recall": 0.203612,
+        "f1": 0.28246,
+        "deployment_score": 0.390605,
+        "roc_auc": 0.744326
+      },
+      "threshold_selection_policy": {
+        "objective": "maximize_precision_subject_to_minimum_recall",
+        "minimum_recall": 0.2
+      }
+    },
+    {
+      "classifier": "xgb",
+      "imbalance_strategy": "oversample",
+      "decision_threshold": 0.83,
+      "training_rows_after_strategy": 64564,
+      "training_accuracy": 0.885617,
+      "validation_metrics": {
+        "threshold": 0.83,
+        "precision": 0.520661,
+        "recall": 0.206897,
+        "f1": 0.296122,
+        "deployment_score": 0.43315,
+        "roc_auc": 0.747908
+      },
+      "threshold_selection_policy": {
+        "objective": "maximize_precision_subject_to_minimum_recall",
+        "minimum_recall": 0.2
+      }
+    }
+  ],
+  "selected_validation_metrics": {
+    "threshold": 0.83,
+    "precision": 0.520661,
+    "recall": 0.206897,
+    "f1": 0.296122,
+    "deployment_score": 0.43315,
+    "roc_auc": 0.747908
+  },
+  "holdout_test_metrics": {
+    "threshold": 0.83,
+    "precision": 0.52514,
+    "recall": 0.247043,
+    "f1": 0.336014,
+    "deployment_score": 0.450049,
+    "roc_auc": 0.764572
+  },
+  "threshold_selection_policy": {
+    "objective": "maximize_precision_subject_to_minimum_recall",
+    "minimum_recall": 0.2
+  },
+  "model_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\models\\fraud_model_rf_xgb.pkl"
+}

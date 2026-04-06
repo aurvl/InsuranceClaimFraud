@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03554-004",
+  "customer_id": "CUST-03554",
+  "claim_date": "2023-06-19",
+  "policy_start_date": "2020-04-15",
+  "policy_age_days": 1160,
+  "claim_amount": 4523.31,
+  "claim_type": "collision",
+  "customer_age": 75,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 536,
+  "service_provider_id": "SP-089",
+  "location": "Lille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03570-001",
+  "customer_id": "CUST-03570",
+  "claim_date": "2021-01-06",
+  "policy_start_date": "2020-10-25",
+  "policy_age_days": 73,
+  "claim_amount": 3121.22,
+  "claim_type": "water_damage",
+  "customer_age": 54,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-028",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

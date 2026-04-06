@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06487-014",
+  "customer_id": "CUST-06487",
+  "claim_date": "2025-03-10",
+  "policy_start_date": "2019-09-17",
+  "policy_age_days": 2001,
+  "claim_amount": 4019.36,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-038",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

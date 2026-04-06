@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03677-002",
+  "customer_id": "CUST-03677",
+  "claim_date": "2024-01-10",
+  "policy_start_date": "2023-07-29",
+  "policy_age_days": 165,
+  "claim_amount": 5255.01,
+  "claim_type": "water_damage",
+  "customer_age": 84,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-028",
+  "location": "Dijon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

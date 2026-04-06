@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06244-007",
+  "customer_id": "CUST-06244",
+  "claim_date": "2020-11-11",
+  "policy_start_date": "2018-09-04",
+  "policy_age_days": 799,
+  "claim_amount": 3566.31,
+  "claim_type": "hail_damage",
+  "customer_age": 73,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-059",
+  "location": "Strasbourg",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06168-002",
+  "customer_id": "CUST-06168",
+  "claim_date": "2022-08-21",
+  "policy_start_date": "2022-03-10",
+  "policy_age_days": 164,
+  "claim_amount": 43205.96,
+  "claim_type": "fire",
+  "customer_age": 40,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 55,
+  "service_provider_id": "SP-050",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

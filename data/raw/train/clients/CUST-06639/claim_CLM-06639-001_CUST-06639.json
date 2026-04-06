@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06639-001",
+  "customer_id": "CUST-06639",
+  "claim_date": "2020-10-03",
+  "policy_start_date": "2020-07-13",
+  "policy_age_days": 82,
+  "claim_amount": 16675.96,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-012",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

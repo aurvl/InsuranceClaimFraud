@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05436-007",
+  "customer_id": "CUST-05436",
+  "claim_date": "2021-07-17",
+  "policy_start_date": "2018-10-13",
+  "policy_age_days": 1008,
+  "claim_amount": 2709.52,
+  "claim_type": "fire",
+  "customer_age": 85,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 462,
+  "service_provider_id": "SP-079",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

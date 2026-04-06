@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02642-001",
+  "customer_id": "CUST-02642",
+  "claim_date": "2018-09-01",
+  "policy_start_date": "2018-08-08",
+  "policy_age_days": 24,
+  "claim_amount": 13394.21,
+  "claim_type": "bodily_injury",
+  "customer_age": 80,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-008",
+  "location": "Perpignan",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

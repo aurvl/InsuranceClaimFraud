@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06702-002",
+  "customer_id": "CUST-06702",
+  "claim_date": "2019-03-24",
+  "policy_start_date": "2018-08-22",
+  "policy_age_days": 214,
+  "claim_amount": 1246.79,
+  "claim_type": "hail_damage",
+  "customer_age": 48,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 187,
+  "service_provider_id": "SP-050",
+  "location": "Nantes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

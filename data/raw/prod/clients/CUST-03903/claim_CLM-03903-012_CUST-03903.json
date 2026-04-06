@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03903-012",
+  "customer_id": "CUST-03903",
+  "claim_date": "2025-05-14",
+  "policy_start_date": "2018-05-06",
+  "policy_age_days": 2565,
+  "claim_amount": 3027.18,
+  "claim_type": "hail_damage",
+  "customer_age": 58,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 231,
+  "service_provider_id": "SP-085",
+  "location": "Lille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

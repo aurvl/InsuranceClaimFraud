@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00997-007",
+  "customer_id": "CUST-00997",
+  "claim_date": "2022-01-13",
+  "policy_start_date": "2018-03-17",
+  "policy_age_days": 1398,
+  "claim_amount": 6924.65,
+  "claim_type": "theft",
+  "customer_age": 72,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 278,
+  "service_provider_id": "SP-111",
+  "location": "La Rochelle",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

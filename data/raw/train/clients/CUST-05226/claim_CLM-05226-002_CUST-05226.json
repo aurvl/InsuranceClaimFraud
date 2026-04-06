@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05226-002",
+  "customer_id": "CUST-05226",
+  "claim_date": "2018-12-21",
+  "policy_start_date": "2018-11-22",
+  "policy_age_days": 29,
+  "claim_amount": 45862.79,
+  "claim_type": "bodily_injury",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-090",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

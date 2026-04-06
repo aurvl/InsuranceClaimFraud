@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02979-005",
+  "customer_id": "CUST-02979",
+  "claim_date": "2020-12-11",
+  "policy_start_date": "2019-01-09",
+  "policy_age_days": 702,
+  "claim_amount": 16061.4,
+  "claim_type": "theft",
+  "customer_age": 80,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-089",
+  "location": "Perpignan",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

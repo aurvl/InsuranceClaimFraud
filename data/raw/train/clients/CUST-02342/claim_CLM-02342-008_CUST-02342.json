@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02342-008",
+  "customer_id": "CUST-02342",
+  "claim_date": "2022-01-22",
+  "policy_start_date": "2018-08-09",
+  "policy_age_days": 1262,
+  "claim_amount": 1795.61,
+  "claim_type": "hail_damage",
+  "customer_age": 59,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 62,
+  "service_provider_id": "SP-098",
+  "location": "Tours",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

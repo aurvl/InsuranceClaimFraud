@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02570-001",
+  "customer_id": "CUST-02570",
+  "claim_date": "2020-05-18",
+  "policy_start_date": "2019-12-29",
+  "policy_age_days": 141,
+  "claim_amount": 747.59,
+  "claim_type": "hail_damage",
+  "customer_age": 27,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-039",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

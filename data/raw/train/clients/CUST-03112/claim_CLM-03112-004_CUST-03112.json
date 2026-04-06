@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03112-004",
+  "customer_id": "CUST-03112",
+  "claim_date": "2023-03-08",
+  "policy_start_date": "2021-12-01",
+  "policy_age_days": 462,
+  "claim_amount": 1969.27,
+  "claim_type": "windshield",
+  "customer_age": 43,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 87,
+  "service_provider_id": "SP-079",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

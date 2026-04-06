@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05036-004",
+  "customer_id": "CUST-05036",
+  "claim_date": "2019-09-09",
+  "policy_start_date": "2018-04-29",
+  "policy_age_days": 498,
+  "claim_amount": 4347.74,
+  "claim_type": "theft",
+  "customer_age": 22,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 144,
+  "service_provider_id": "SP-062",
+  "location": "Saint-Malo",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

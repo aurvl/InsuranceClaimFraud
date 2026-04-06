@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01013-007",
+  "customer_id": "CUST-01013",
+  "claim_date": "2021-03-07",
+  "policy_start_date": "2018-04-19",
+  "policy_age_days": 1053,
+  "claim_amount": 1620.57,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 133,
+  "service_provider_id": "SP-027",
+  "location": "Lyon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

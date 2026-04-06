@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01125-001",
+  "customer_id": "CUST-01125",
+  "claim_date": "2022-04-30",
+  "policy_start_date": "2021-12-16",
+  "policy_age_days": 135,
+  "claim_amount": 3821.49,
+  "claim_type": "hail_damage",
+  "customer_age": 69,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-040",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

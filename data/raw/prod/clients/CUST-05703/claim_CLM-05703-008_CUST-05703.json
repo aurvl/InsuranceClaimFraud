@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05703-008",
+  "customer_id": "CUST-05703",
+  "claim_date": "2024-11-19",
+  "policy_start_date": "2022-12-13",
+  "policy_age_days": 707,
+  "claim_amount": 6362.21,
+  "claim_type": "water_damage",
+  "customer_age": 41,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-003",
+  "location": "Ajaccio",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

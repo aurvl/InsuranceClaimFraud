@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05860-003",
+  "customer_id": "CUST-05860",
+  "claim_date": "2021-12-23",
+  "policy_start_date": "2020-08-30",
+  "policy_age_days": 480,
+  "claim_amount": 5568.4,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 73,
+  "service_provider_id": "SP-043",
+  "location": "N\u00eemes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

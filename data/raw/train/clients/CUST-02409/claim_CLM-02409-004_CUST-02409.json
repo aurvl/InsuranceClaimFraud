@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02409-004",
+  "customer_id": "CUST-02409",
+  "claim_date": "2022-06-11",
+  "policy_start_date": "2021-02-20",
+  "policy_age_days": 476,
+  "claim_amount": 15879.42,
+  "claim_type": "bodily_injury",
+  "customer_age": 20,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 239,
+  "service_provider_id": "SP-046",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

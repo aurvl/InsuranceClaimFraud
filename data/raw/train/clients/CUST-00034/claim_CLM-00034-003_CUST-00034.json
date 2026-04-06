@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00034-003",
+  "customer_id": "CUST-00034",
+  "claim_date": "2020-07-13",
+  "policy_start_date": "2019-10-08",
+  "policy_age_days": 279,
+  "claim_amount": 85000.0,
+  "claim_type": "bodily_injury",
+  "customer_age": 65,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 54,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

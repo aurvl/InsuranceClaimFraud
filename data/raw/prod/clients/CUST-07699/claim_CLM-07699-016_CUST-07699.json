@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07699-016",
+  "customer_id": "CUST-07699",
+  "claim_date": "2025-07-10",
+  "policy_start_date": "2018-05-28",
+  "policy_age_days": 2600,
+  "claim_amount": 2460.94,
+  "claim_type": "water_damage",
+  "customer_age": 20,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-017",
+  "location": "Angers",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

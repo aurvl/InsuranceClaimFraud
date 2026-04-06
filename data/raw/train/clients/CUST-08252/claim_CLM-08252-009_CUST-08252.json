@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08252-009",
+  "customer_id": "CUST-08252",
+  "claim_date": "2021-12-05",
+  "policy_start_date": "2018-01-01",
+  "policy_age_days": 1434,
+  "claim_amount": 11328.8,
+  "claim_type": "collision",
+  "customer_age": 43,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 97,
+  "service_provider_id": "SP-071",
+  "location": "Limoges",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

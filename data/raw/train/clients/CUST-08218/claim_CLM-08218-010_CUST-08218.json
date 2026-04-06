@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08218-010",
+  "customer_id": "CUST-08218",
+  "claim_date": "2024-09-25",
+  "policy_start_date": "2020-06-12",
+  "policy_age_days": 1566,
+  "claim_amount": 31989.79,
+  "claim_type": "bodily_injury",
+  "customer_age": 78,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 333,
+  "service_provider_id": "SP-044",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

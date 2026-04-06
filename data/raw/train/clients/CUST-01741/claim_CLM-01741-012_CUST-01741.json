@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01741-012",
+  "customer_id": "CUST-01741",
+  "claim_date": "2023-11-05",
+  "policy_start_date": "2020-03-17",
+  "policy_age_days": 1328,
+  "claim_amount": 9261.11,
+  "claim_type": "hail_damage",
+  "customer_age": 33,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 31,
+  "service_provider_id": "SP-097",
+  "location": "Rennes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

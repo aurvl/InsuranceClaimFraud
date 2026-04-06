@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02934-009",
+  "customer_id": "CUST-02934",
+  "claim_date": "2022-11-15",
+  "policy_start_date": "2019-04-19",
+  "policy_age_days": 1306,
+  "claim_amount": 19961.19,
+  "claim_type": "bodily_injury",
+  "customer_age": 27,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-113",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

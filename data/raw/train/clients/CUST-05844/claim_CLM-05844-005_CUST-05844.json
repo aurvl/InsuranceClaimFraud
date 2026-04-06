@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05844-005",
+  "customer_id": "CUST-05844",
+  "claim_date": "2024-04-16",
+  "policy_start_date": "2022-07-02",
+  "policy_age_days": 654,
+  "claim_amount": 2559.31,
+  "claim_type": "hail_damage",
+  "customer_age": 27,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 181,
+  "service_provider_id": "SP-013",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

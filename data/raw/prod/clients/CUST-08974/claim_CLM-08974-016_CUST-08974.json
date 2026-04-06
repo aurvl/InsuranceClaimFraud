@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08974-016",
+  "customer_id": "CUST-08974",
+  "claim_date": "2025-06-26",
+  "policy_start_date": "2018-05-14",
+  "policy_age_days": 2600,
+  "claim_amount": 4048.41,
+  "claim_type": "collision",
+  "customer_age": 37,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-069",
+  "location": "Le Mans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

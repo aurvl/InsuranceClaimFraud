@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06661-002",
+  "customer_id": "CUST-06661",
+  "claim_date": "2019-06-15",
+  "policy_start_date": "2018-11-26",
+  "policy_age_days": 201,
+  "claim_amount": 2514.52,
+  "claim_type": "water_damage",
+  "customer_age": 44,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 57,
+  "service_provider_id": "SP-089",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

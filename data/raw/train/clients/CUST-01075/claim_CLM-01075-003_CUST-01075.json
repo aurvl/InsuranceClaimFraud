@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01075-003",
+  "customer_id": "CUST-01075",
+  "claim_date": "2023-07-19",
+  "policy_start_date": "2022-01-02",
+  "policy_age_days": 563,
+  "claim_amount": 22479.72,
+  "claim_type": "bodily_injury",
+  "customer_age": 54,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 362,
+  "service_provider_id": "SP-095",
+  "location": "Brest",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

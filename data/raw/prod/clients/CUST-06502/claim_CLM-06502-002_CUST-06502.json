@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06502-002",
+  "customer_id": "CUST-06502",
+  "claim_date": "2025-07-27",
+  "policy_start_date": "2024-11-28",
+  "policy_age_days": 241,
+  "claim_amount": 7564.49,
+  "claim_type": "theft",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 177,
+  "service_provider_id": "SP-046",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

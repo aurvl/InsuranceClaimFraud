@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07868-002",
+  "customer_id": "CUST-07868",
+  "claim_date": "2023-06-25",
+  "policy_start_date": "2023-01-26",
+  "policy_age_days": 150,
+  "claim_amount": 9980.42,
+  "claim_type": "bodily_injury",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-003",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

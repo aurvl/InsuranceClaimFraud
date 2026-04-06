@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01968-002",
+  "customer_id": "CUST-01968",
+  "claim_date": "2019-10-15",
+  "policy_start_date": "2019-08-11",
+  "policy_age_days": 65,
+  "claim_amount": 4585.36,
+  "claim_type": "theft",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-027",
+  "location": "Lyon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

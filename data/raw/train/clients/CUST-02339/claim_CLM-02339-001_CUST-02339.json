@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02339-001",
+  "customer_id": "CUST-02339",
+  "claim_date": "2020-06-22",
+  "policy_start_date": "2020-03-28",
+  "policy_age_days": 86,
+  "claim_amount": 13597.3,
+  "claim_type": "bodily_injury",
+  "customer_age": 18,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

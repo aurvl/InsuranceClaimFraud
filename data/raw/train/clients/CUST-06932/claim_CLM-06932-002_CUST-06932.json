@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06932-002",
+  "customer_id": "CUST-06932",
+  "claim_date": "2020-11-05",
+  "policy_start_date": "2020-02-23",
+  "policy_age_days": 256,
+  "claim_amount": 5506.59,
+  "claim_type": "water_damage",
+  "customer_age": 23,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 218,
+  "service_provider_id": "SP-083",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

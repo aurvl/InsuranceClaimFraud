@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07178-004",
+  "customer_id": "CUST-07178",
+  "claim_date": "2022-01-07",
+  "policy_start_date": "2020-04-18",
+  "policy_age_days": 629,
+  "claim_amount": 709.04,
+  "claim_type": "windshield",
+  "customer_age": 81,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 227,
+  "service_provider_id": "SP-080",
+  "location": "Bordeaux",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

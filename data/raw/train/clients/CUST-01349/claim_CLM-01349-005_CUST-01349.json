@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01349-005",
+  "customer_id": "CUST-01349",
+  "claim_date": "2021-10-27",
+  "policy_start_date": "2019-05-07",
+  "policy_age_days": 904,
+  "claim_amount": 6640.84,
+  "claim_type": "collision",
+  "customer_age": 21,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-086",
+  "location": "Ajaccio",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

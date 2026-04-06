@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06001-010",
+  "customer_id": "CUST-06001",
+  "claim_date": "2024-01-24",
+  "policy_start_date": "2020-01-15",
+  "policy_age_days": 1470,
+  "claim_amount": 1460.82,
+  "claim_type": "hail_damage",
+  "customer_age": 31,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 106,
+  "service_provider_id": "SP-075",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

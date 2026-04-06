@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08257-002",
+  "customer_id": "CUST-08257",
+  "claim_date": "2022-06-25",
+  "policy_start_date": "2021-08-28",
+  "policy_age_days": 301,
+  "claim_amount": 9544.75,
+  "claim_type": "fire",
+  "customer_age": 85,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 227,
+  "service_provider_id": "SP-071",
+  "location": "Saint-Malo",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

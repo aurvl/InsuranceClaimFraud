@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05344-011",
+  "customer_id": "CUST-05344",
+  "claim_date": "2025-04-05",
+  "policy_start_date": "2018-07-27",
+  "policy_age_days": 2444,
+  "claim_amount": 5150.79,
+  "claim_type": "hail_damage",
+  "customer_age": 24,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 198,
+  "service_provider_id": "SP-078",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

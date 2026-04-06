@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03297-005",
+  "customer_id": "CUST-03297",
+  "claim_date": "2021-12-12",
+  "policy_start_date": "2018-09-16",
+  "policy_age_days": 1183,
+  "claim_amount": 2182.18,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 320,
+  "service_provider_id": "SP-103",
+  "location": "Tours",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

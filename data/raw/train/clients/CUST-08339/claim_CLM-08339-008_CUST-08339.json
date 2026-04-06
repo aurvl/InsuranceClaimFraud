@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08339-008",
+  "customer_id": "CUST-08339",
+  "claim_date": "2021-10-12",
+  "policy_start_date": "2018-02-19",
+  "policy_age_days": 1331,
+  "claim_amount": 28379.17,
+  "claim_type": "bodily_injury",
+  "customer_age": 66,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 201,
+  "service_provider_id": "SP-062",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04516-003",
+  "customer_id": "CUST-04516",
+  "claim_date": "2024-03-23",
+  "policy_start_date": "2023-06-30",
+  "policy_age_days": 267,
+  "claim_amount": 2860.17,
+  "claim_type": "water_damage",
+  "customer_age": 31,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 134,
+  "service_provider_id": "SP-018",
+  "location": "Toulon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

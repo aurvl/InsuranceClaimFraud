@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05900-009",
+  "customer_id": "CUST-05900",
+  "claim_date": "2025-10-06",
+  "policy_start_date": "2019-07-31",
+  "policy_age_days": 2259,
+  "claim_amount": 12303.5,
+  "claim_type": "fire",
+  "customer_age": 34,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 292,
+  "service_provider_id": "SP-109",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

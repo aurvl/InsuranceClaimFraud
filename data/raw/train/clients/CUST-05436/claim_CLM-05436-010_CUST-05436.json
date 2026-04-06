@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05436-010",
+  "customer_id": "CUST-05436",
+  "claim_date": "2023-01-22",
+  "policy_start_date": "2018-10-13",
+  "policy_age_days": 1562,
+  "claim_amount": 733.5,
+  "claim_type": "windshield",
+  "customer_age": 85,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 191,
+  "service_provider_id": "SP-083",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

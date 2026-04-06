@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04066-002",
+  "customer_id": "CUST-04066",
+  "claim_date": "2024-12-08",
+  "policy_start_date": "2024-01-23",
+  "policy_age_days": 320,
+  "claim_amount": 1818.14,
+  "claim_type": "hail_damage",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 171,
+  "service_provider_id": "SP-046",
+  "location": "Angers",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

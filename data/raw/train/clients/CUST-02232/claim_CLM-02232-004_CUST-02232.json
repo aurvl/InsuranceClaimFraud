@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02232-004",
+  "customer_id": "CUST-02232",
+  "claim_date": "2024-08-30",
+  "policy_start_date": "2024-01-16",
+  "policy_age_days": 227,
+  "claim_amount": 18611.2,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 117,
+  "service_provider_id": "SP-003",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

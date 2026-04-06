@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01504-004",
+  "customer_id": "CUST-01504",
+  "claim_date": "2021-05-04",
+  "policy_start_date": "2020-01-21",
+  "policy_age_days": 469,
+  "claim_amount": 10998.08,
+  "claim_type": "theft",
+  "customer_age": 29,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-095",
+  "location": "Tours",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

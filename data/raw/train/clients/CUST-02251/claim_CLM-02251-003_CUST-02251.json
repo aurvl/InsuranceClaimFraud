@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02251-003",
+  "customer_id": "CUST-02251",
+  "claim_date": "2021-11-02",
+  "policy_start_date": "2020-04-13",
+  "policy_age_days": 568,
+  "claim_amount": 1891.56,
+  "claim_type": "collision",
+  "customer_age": 54,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 344,
+  "service_provider_id": "SP-068",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

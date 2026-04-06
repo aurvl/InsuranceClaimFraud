@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05031-003",
+  "customer_id": "CUST-05031",
+  "claim_date": "2024-06-05",
+  "policy_start_date": "2023-09-08",
+  "policy_age_days": 271,
+  "claim_amount": 8553.64,
+  "claim_type": "theft",
+  "customer_age": 41,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-088",
+  "location": "Aix-en-Provence",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

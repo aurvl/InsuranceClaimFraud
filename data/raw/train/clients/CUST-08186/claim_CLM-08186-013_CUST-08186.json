@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08186-013",
+  "customer_id": "CUST-08186",
+  "claim_date": "2023-06-10",
+  "policy_start_date": "2018-04-23",
+  "policy_age_days": 1874,
+  "claim_amount": 5738.52,
+  "claim_type": "collision",
+  "customer_age": 82,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 225,
+  "service_provider_id": "SP-107",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01955-015",
+  "customer_id": "CUST-01955",
+  "claim_date": "2024-12-08",
+  "policy_start_date": "2018-03-15",
+  "policy_age_days": 2460,
+  "claim_amount": 1354.29,
+  "claim_type": "hail_damage",
+  "customer_age": 54,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 277,
+  "service_provider_id": "SP-108",
+  "location": "Le Havre",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

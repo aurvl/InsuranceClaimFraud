@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02839-002",
+  "customer_id": "CUST-02839",
+  "claim_date": "2023-11-26",
+  "policy_start_date": "2023-02-25",
+  "policy_age_days": 274,
+  "claim_amount": 2729.98,
+  "claim_type": "hail_damage",
+  "customer_age": 45,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 227,
+  "service_provider_id": "SP-031",
+  "location": "Cannes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

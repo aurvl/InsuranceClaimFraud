@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06724-003",
+  "customer_id": "CUST-06724",
+  "claim_date": "2023-12-14",
+  "policy_start_date": "2022-07-18",
+  "policy_age_days": 514,
+  "claim_amount": 5229.5,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-116",
+  "location": "Le Havre",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

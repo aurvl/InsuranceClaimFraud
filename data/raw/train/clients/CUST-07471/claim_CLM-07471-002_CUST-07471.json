@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07471-002",
+  "customer_id": "CUST-07471",
+  "claim_date": "2024-09-17",
+  "policy_start_date": "2023-01-25",
+  "policy_age_days": 601,
+  "claim_amount": 1327.8,
+  "claim_type": "hail_damage",
+  "customer_age": 64,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 530,
+  "service_provider_id": "SP-083",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

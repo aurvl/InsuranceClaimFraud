@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01255-003",
+  "customer_id": "CUST-01255",
+  "claim_date": "2021-10-06",
+  "policy_start_date": "2020-04-09",
+  "policy_age_days": 545,
+  "claim_amount": 2298.16,
+  "claim_type": "collision",
+  "customer_age": 31,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 347,
+  "service_provider_id": "SP-075",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06506-010",
+  "customer_id": "CUST-06506",
+  "claim_date": "2025-11-09",
+  "policy_start_date": "2019-11-07",
+  "policy_age_days": 2194,
+  "claim_amount": 9705.07,
+  "claim_type": "fire",
+  "customer_age": 30,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 127,
+  "service_provider_id": "SP-001",
+  "location": "Paris",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03076-002",
+  "customer_id": "CUST-03076",
+  "claim_date": "2019-08-16",
+  "policy_start_date": "2018-11-22",
+  "policy_age_days": 267,
+  "claim_amount": 1590.7,
+  "claim_type": "windshield",
+  "customer_age": 36,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 175,
+  "service_provider_id": "SP-075",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

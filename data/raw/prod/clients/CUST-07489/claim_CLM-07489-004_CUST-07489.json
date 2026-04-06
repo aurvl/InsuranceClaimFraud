@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07489-004",
+  "customer_id": "CUST-07489",
+  "claim_date": "2024-11-12",
+  "policy_start_date": "2023-05-04",
+  "policy_age_days": 558,
+  "claim_amount": 4079.65,
+  "claim_type": "collision",
+  "customer_age": 84,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-111",
+  "location": "Toulouse",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

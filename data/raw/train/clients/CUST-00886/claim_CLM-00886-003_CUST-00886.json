@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00886-003",
+  "customer_id": "CUST-00886",
+  "claim_date": "2020-05-18",
+  "policy_start_date": "2018-03-21",
+  "policy_age_days": 789,
+  "claim_amount": 3729.44,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 264,
+  "service_provider_id": "SP-095",
+  "location": "Rennes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

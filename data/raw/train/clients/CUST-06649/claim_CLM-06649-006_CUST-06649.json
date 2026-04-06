@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06649-006",
+  "customer_id": "CUST-06649",
+  "claim_date": "2022-11-05",
+  "policy_start_date": "2021-02-11",
+  "policy_age_days": 632,
+  "claim_amount": 6540.81,
+  "claim_type": "collision",
+  "customer_age": 74,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-102",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02488-007",
+  "customer_id": "CUST-02488",
+  "claim_date": "2023-09-08",
+  "policy_start_date": "2018-08-01",
+  "policy_age_days": 1864,
+  "claim_amount": 2530.75,
+  "claim_type": "windshield",
+  "customer_age": 35,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 293,
+  "service_provider_id": "SP-115",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

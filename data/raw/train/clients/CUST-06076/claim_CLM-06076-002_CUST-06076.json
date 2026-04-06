@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06076-002",
+  "customer_id": "CUST-06076",
+  "claim_date": "2018-06-12",
+  "policy_start_date": "2018-03-16",
+  "policy_age_days": 88,
+  "claim_amount": 55133.84,
+  "claim_type": "bodily_injury",
+  "customer_age": 48,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-102",
+  "location": "Rennes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

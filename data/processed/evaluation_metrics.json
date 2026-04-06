@@ -1,0 +1,159 @@
+{
+  "development_policy": {
+    "production_data_used_in_training": false,
+    "production_data_used_in_evaluation": false,
+    "notes": "Pseudo-production claims are reserved for post-development scoring only. Historical evaluation is performed on extracted client-package data loaded from PostgreSQL."
+  },
+  "model_selection_policy": {
+    "objective": "maximize_precision_subject_to_minimum_recall",
+    "minimum_recall": 0.2
+  },
+  "historical_holdout": {
+    "roc_auc": 0.764572,
+    "precision": 0.52514,
+    "recall": 0.247043,
+    "f1": 0.336014,
+    "decision_threshold": 0.83,
+    "deployment_score": 0.450049,
+    "top_k": [
+      {
+        "fraction": 0.01,
+        "records": 108,
+        "precision": 0.777778,
+        "recall": 0.110381
+      },
+      {
+        "fraction": 0.05,
+        "records": 542,
+        "precision": 0.431734,
+        "recall": 0.30749
+      },
+      {
+        "fraction": 0.1,
+        "records": 1085,
+        "precision": 0.302304,
+        "recall": 0.431012
+      }
+    ]
+  },
+  "deployment_champion_metadata": {
+    "classifier": "xgb",
+    "selected_imbalance_strategy": "oversample",
+    "decision_threshold": 0.83
+  },
+  "multi_model": {
+    "rf": {
+      "roc_auc": 0.777548,
+      "precision": 0.481959,
+      "recall": 0.245729,
+      "f1": 0.3255,
+      "decision_threshold": 0.76,
+      "deployment_score": 0.419221,
+      "top_k": [
+        {
+          "fraction": 0.01,
+          "records": 108,
+          "precision": 0.657407,
+          "recall": 0.093298
+        },
+        {
+          "fraction": 0.05,
+          "records": 542,
+          "precision": 0.433579,
+          "recall": 0.308804
+        },
+        {
+          "fraction": 0.1,
+          "records": 1085,
+          "precision": 0.306912,
+          "recall": 0.437582
+        }
+      ],
+      "selected_imbalance_strategy": "weighted",
+      "validation_metrics": {
+        "threshold": 0.76,
+        "precision": 0.5,
+        "recall": 0.206897,
+        "f1": 0.292683,
+        "deployment_score": 0.41886,
+        "roc_auc": 0.756481
+      }
+    },
+    "xgb": {
+      "roc_auc": 0.764572,
+      "precision": 0.52514,
+      "recall": 0.247043,
+      "f1": 0.336014,
+      "decision_threshold": 0.83,
+      "deployment_score": 0.450049,
+      "top_k": [
+        {
+          "fraction": 0.01,
+          "records": 108,
+          "precision": 0.777778,
+          "recall": 0.110381
+        },
+        {
+          "fraction": 0.05,
+          "records": 542,
+          "precision": 0.431734,
+          "recall": 0.30749
+        },
+        {
+          "fraction": 0.1,
+          "records": 1085,
+          "precision": 0.302304,
+          "recall": 0.431012
+        }
+      ],
+      "selected_imbalance_strategy": "oversample",
+      "validation_metrics": {
+        "threshold": 0.83,
+        "precision": 0.520661,
+        "recall": 0.206897,
+        "f1": 0.296122,
+        "deployment_score": 0.43315,
+        "roc_auc": 0.747908
+      }
+    }
+  },
+  "best_model": "xgb",
+  "best_model_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\models\\candidate_xgb.pkl",
+  "best_model_metrics": {
+    "roc_auc": 0.764572,
+    "precision": 0.52514,
+    "recall": 0.247043,
+    "f1": 0.336014,
+    "decision_threshold": 0.83,
+    "deployment_score": 0.450049,
+    "top_k": [
+      {
+        "fraction": 0.01,
+        "records": 108,
+        "precision": 0.777778,
+        "recall": 0.110381
+      },
+      {
+        "fraction": 0.05,
+        "records": 542,
+        "precision": 0.431734,
+        "recall": 0.30749
+      },
+      {
+        "fraction": 0.1,
+        "records": 1085,
+        "precision": 0.302304,
+        "recall": 0.431012
+      }
+    ],
+    "selected_imbalance_strategy": "oversample",
+    "validation_metrics": {
+      "threshold": 0.83,
+      "precision": 0.520661,
+      "recall": 0.206897,
+      "f1": 0.296122,
+      "deployment_score": 0.43315,
+      "roc_auc": 0.747908
+    }
+  }
+}

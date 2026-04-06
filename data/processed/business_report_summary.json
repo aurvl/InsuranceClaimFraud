@@ -1,0 +1,614 @@
+{
+  "historical": {
+    "overview": {
+      "historical_claims": 54248,
+      "fraud_rate": 0.07015926854446247,
+      "average_claim_amount": 6989.621370188762,
+      "median_claim_amount": 4173.105,
+      "average_fraud_amount": 15643.649887020494,
+      "average_non_fraud_amount": 6336.64899528171,
+      "average_customer_age": 51.60601312490783,
+      "average_annual_fraud_loss": 8505675.924285714
+    },
+    "behavior_summary": {
+      "baseline_fraud_rate": 0.07015926854446247,
+      "suspicious_provider_fraud_rate": 0.12006964948141419,
+      "non_suspicious_provider_fraud_rate": 0.054094885352956944,
+      "high_amount_fraud_rate": 0.4993197278911565,
+      "non_high_amount_fraud_rate": 0.05820607071128121,
+      "recent_claim_fraud_rate": 0.13511133475908918,
+      "non_recent_claim_fraud_rate": 0.059007753947169485,
+      "new_policy_fraud_rate": 0.09940600978336828,
+      "mature_policy_fraud_rate": 0.06670925727475063
+    },
+    "claim_type_summary": [
+      {
+        "claim_type": "bodily_injury",
+        "claim_count": 6011,
+        "fraud_rate": 0.15654633172517052,
+        "average_claim_amount": 18213.731177840626
+      },
+      {
+        "claim_type": "fire",
+        "claim_count": 3021,
+        "fraud_rate": 0.12843429328037073,
+        "average_claim_amount": 16394.694677259184
+      },
+      {
+        "claim_type": "theft",
+        "claim_count": 6503,
+        "fraud_rate": 0.0902660310625865,
+        "average_claim_amount": 11628.08786406274
+      },
+      {
+        "claim_type": "hail_damage",
+        "claim_count": 6524,
+        "fraud_rate": 0.05824647455548743,
+        "average_claim_amount": 2512.2217918454935
+      },
+      {
+        "claim_type": "water_damage",
+        "claim_count": 6990,
+        "fraud_rate": 0.0536480686695279,
+        "average_claim_amount": 4769.526246065809
+      },
+      {
+        "claim_type": "collision",
+        "claim_count": 15456,
+        "fraud_rate": 0.048330745341614904,
+        "average_claim_amount": 5212.456041666666
+      },
+      {
+        "claim_type": "windshield",
+        "claim_count": 9743,
+        "fraud_rate": 0.03982346299907626,
+        "average_claim_amount": 1462.7907184645387
+      }
+    ],
+    "provider_summary": [
+      {
+        "service_provider_id": "SP-017",
+        "claim_count": 1673,
+        "fraud_rate": 0.1297071129707113,
+        "average_claim_amount": 7236.056933652122
+      },
+      {
+        "service_provider_id": "SP-003",
+        "claim_count": 1492,
+        "fraud_rate": 0.12935656836461126,
+        "average_claim_amount": 7427.719256032172
+      },
+      {
+        "service_provider_id": "SP-071",
+        "claim_count": 1751,
+        "fraud_rate": 0.12792689891490577,
+        "average_claim_amount": 7443.21118218161
+      },
+      {
+        "service_provider_id": "SP-058",
+        "claim_count": 1729,
+        "fraud_rate": 0.1266628108733372,
+        "average_claim_amount": 7061.853279352227
+      },
+      {
+        "service_provider_id": "SP-111",
+        "claim_count": 1508,
+        "fraud_rate": 0.1253315649867374,
+        "average_claim_amount": 7110.45576923077
+      },
+      {
+        "service_provider_id": "SP-044",
+        "claim_count": 1771,
+        "fraud_rate": 0.12422360248447205,
+        "average_claim_amount": 6708.799672501412
+      },
+      {
+        "service_provider_id": "SP-089",
+        "claim_count": 1666,
+        "fraud_rate": 0.11524609843937575,
+        "average_claim_amount": 7047.247436974791
+      },
+      {
+        "service_provider_id": "SP-115",
+        "claim_count": 270,
+        "fraud_rate": 0.0962962962962963,
+        "average_claim_amount": 7102.988370370371
+      },
+      {
+        "service_provider_id": "SP-013",
+        "claim_count": 418,
+        "fraud_rate": 0.0861244019138756,
+        "average_claim_amount": 7450.300861244019
+      },
+      {
+        "service_provider_id": "SP-109",
+        "claim_count": 317,
+        "fraud_rate": 0.08517350157728706,
+        "average_claim_amount": 7669.457854889591
+      }
+    ],
+    "high_amount_threshold": 28593.39,
+    "annual_fraud_loss_by_year": [
+      {
+        "claim_year": 2018,
+        "claim_amount": 2945188.49
+      },
+      {
+        "claim_year": 2019,
+        "claim_amount": 5958743.69
+      },
+      {
+        "claim_year": 2020,
+        "claim_amount": 9096728.84
+      },
+      {
+        "claim_year": 2021,
+        "claim_amount": 11065501.92
+      },
+      {
+        "claim_year": 2022,
+        "claim_amount": 12602393.03
+      },
+      {
+        "claim_year": 2023,
+        "claim_amount": 10895091.72
+      },
+      {
+        "claim_year": 2024,
+        "claim_amount": 6976083.78
+      }
+    ]
+  },
+  "production": {
+    "overview": {
+      "production_claims_scored": 6026,
+      "average_fraud_probability": 0.2837472046833483,
+      "predicted_fraud_rate": 0.032027879190175905,
+      "min_claim_date": "2024-10-03",
+      "max_claim_date": "2025-12-30"
+    },
+    "first100_summary": {
+      "files_reviewed": 100,
+      "average_score": 0.2982700950466096,
+      "predicted_fraud_rate": 0.04,
+      "suspicious_provider_share": 0.34,
+      "high_amount_share": 0.04,
+      "share_above_50_score": 0.17,
+      "share_above_threshold": 0.04
+    },
+    "first100_top_risk": [
+      {
+        "claim_id": "CLM-03452-003",
+        "claim_date": "2024-10-07",
+        "claim_type": "bodily_injury",
+        "location": "Rennes",
+        "service_provider_id": "SP-098",
+        "claim_amount": 52507.91,
+        "fraud_probability": 0.934664249420166,
+        "model_decision": "fraud"
+      },
+      {
+        "claim_id": "CLM-02612-008",
+        "claim_date": "2024-10-08",
+        "claim_type": "bodily_injury",
+        "location": "Metz",
+        "service_provider_id": "SP-016",
+        "claim_amount": 39794.96,
+        "fraud_probability": 0.915062427520752,
+        "model_decision": "fraud"
+      },
+      {
+        "claim_id": "CLM-08154-010",
+        "claim_date": "2024-10-07",
+        "claim_type": "bodily_injury",
+        "location": "Saint-\u00c9tienne",
+        "service_provider_id": "SP-007",
+        "claim_amount": 40223.23,
+        "fraud_probability": 0.8979944586753845,
+        "model_decision": "fraud"
+      },
+      {
+        "claim_id": "CLM-05314-013",
+        "claim_date": "2024-10-04",
+        "claim_type": "windshield",
+        "location": "N\u00eemes",
+        "service_provider_id": "SP-071",
+        "claim_amount": 1658.48,
+        "fraud_probability": 0.8385347723960876,
+        "model_decision": "fraud"
+      },
+      {
+        "claim_id": "CLM-06755-005",
+        "claim_date": "2024-10-06",
+        "claim_type": "theft",
+        "location": "Villeurbanne",
+        "service_provider_id": "SP-058",
+        "claim_amount": 23075.82,
+        "fraud_probability": 0.8037477731704712,
+        "model_decision": "non_fraud"
+      },
+      {
+        "claim_id": "CLM-02424-011",
+        "claim_date": "2024-10-05",
+        "claim_type": "collision",
+        "location": "Dijon",
+        "service_provider_id": "SP-003",
+        "claim_amount": 6835.47,
+        "fraud_probability": 0.7824335694313049,
+        "model_decision": "non_fraud"
+      },
+      {
+        "claim_id": "CLM-03043-006",
+        "claim_date": "2024-10-08",
+        "claim_type": "bodily_injury",
+        "location": "Caen",
+        "service_provider_id": "SP-074",
+        "claim_amount": 29962.38,
+        "fraud_probability": 0.7635857462882996,
+        "model_decision": "non_fraud"
+      },
+      {
+        "claim_id": "CLM-00858-010",
+        "claim_date": "2024-10-08",
+        "claim_type": "windshield",
+        "location": "Paris",
+        "service_provider_id": "SP-003",
+        "claim_amount": 1838.41,
+        "fraud_probability": 0.7231069803237915,
+        "model_decision": "non_fraud"
+      },
+      {
+        "claim_id": "CLM-01797-006",
+        "claim_date": "2024-10-03",
+        "claim_type": "collision",
+        "location": "Marseille",
+        "service_provider_id": "SP-012",
+        "claim_amount": 3716.22,
+        "fraud_probability": 0.6938101053237915,
+        "model_decision": "non_fraud"
+      },
+      {
+        "claim_id": "CLM-02191-005",
+        "claim_date": "2024-10-05",
+        "claim_type": "water_damage",
+        "location": "Rennes",
+        "service_provider_id": "SP-098",
+        "claim_amount": 8672.16,
+        "fraud_probability": 0.6849690675735474,
+        "model_decision": "non_fraud"
+      }
+    ],
+    "first100_type_mix": [
+      {
+        "claim_type": "collision",
+        "files": 29,
+        "average_score": 0.30358231979711303
+      },
+      {
+        "claim_type": "windshield",
+        "files": 18,
+        "average_score": 0.2787925981813007
+      },
+      {
+        "claim_type": "water_damage",
+        "files": 17,
+        "average_score": 0.2063677134540151
+      },
+      {
+        "claim_type": "hail_damage",
+        "files": 14,
+        "average_score": 0.24369525324021066
+      },
+      {
+        "claim_type": "bodily_injury",
+        "files": 12,
+        "average_score": 0.5435303188860416
+      },
+      {
+        "claim_type": "theft",
+        "files": 8,
+        "average_score": 0.2781668580137193
+      },
+      {
+        "claim_type": "fire",
+        "files": 2,
+        "average_score": 0.16858604922890663
+      }
+    ]
+  },
+  "model": {
+    "development_policy": {
+      "production_data_used_in_training": false,
+      "production_data_used_in_evaluation": false,
+      "notes": "Pseudo-production claims are reserved for post-development scoring only. Historical evaluation is performed on extracted client-package data loaded from PostgreSQL."
+    },
+    "model_selection_policy": {
+      "objective": "maximize_precision_subject_to_minimum_recall",
+      "minimum_recall": 0.2
+    },
+    "historical_holdout": {
+      "roc_auc": 0.764572,
+      "precision": 0.52514,
+      "recall": 0.247043,
+      "f1": 0.336014,
+      "decision_threshold": 0.83,
+      "deployment_score": 0.450049,
+      "top_k": [
+        {
+          "fraction": 0.01,
+          "records": 108,
+          "precision": 0.777778,
+          "recall": 0.110381
+        },
+        {
+          "fraction": 0.05,
+          "records": 542,
+          "precision": 0.431734,
+          "recall": 0.30749
+        },
+        {
+          "fraction": 0.1,
+          "records": 1085,
+          "precision": 0.302304,
+          "recall": 0.431012
+        }
+      ]
+    },
+    "deployment_champion_metadata": {
+      "classifier": "xgb",
+      "selected_imbalance_strategy": "oversample",
+      "decision_threshold": 0.83
+    },
+    "multi_model": {
+      "rf": {
+        "roc_auc": 0.777548,
+        "precision": 0.481959,
+        "recall": 0.245729,
+        "f1": 0.3255,
+        "decision_threshold": 0.76,
+        "deployment_score": 0.419221,
+        "top_k": [
+          {
+            "fraction": 0.01,
+            "records": 108,
+            "precision": 0.657407,
+            "recall": 0.093298
+          },
+          {
+            "fraction": 0.05,
+            "records": 542,
+            "precision": 0.433579,
+            "recall": 0.308804
+          },
+          {
+            "fraction": 0.1,
+            "records": 1085,
+            "precision": 0.306912,
+            "recall": 0.437582
+          }
+        ],
+        "selected_imbalance_strategy": "weighted",
+        "validation_metrics": {
+          "threshold": 0.76,
+          "precision": 0.5,
+          "recall": 0.206897,
+          "f1": 0.292683,
+          "deployment_score": 0.41886,
+          "roc_auc": 0.756481
+        }
+      },
+      "xgb": {
+        "roc_auc": 0.764572,
+        "precision": 0.52514,
+        "recall": 0.247043,
+        "f1": 0.336014,
+        "decision_threshold": 0.83,
+        "deployment_score": 0.450049,
+        "top_k": [
+          {
+            "fraction": 0.01,
+            "records": 108,
+            "precision": 0.777778,
+            "recall": 0.110381
+          },
+          {
+            "fraction": 0.05,
+            "records": 542,
+            "precision": 0.431734,
+            "recall": 0.30749
+          },
+          {
+            "fraction": 0.1,
+            "records": 1085,
+            "precision": 0.302304,
+            "recall": 0.431012
+          }
+        ],
+        "selected_imbalance_strategy": "oversample",
+        "validation_metrics": {
+          "threshold": 0.83,
+          "precision": 0.520661,
+          "recall": 0.206897,
+          "f1": 0.296122,
+          "deployment_score": 0.43315,
+          "roc_auc": 0.747908
+        }
+      }
+    },
+    "best_model": "xgb",
+    "best_model_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\models\\candidate_xgb.pkl",
+    "best_model_metrics": {
+      "roc_auc": 0.764572,
+      "precision": 0.52514,
+      "recall": 0.247043,
+      "f1": 0.336014,
+      "decision_threshold": 0.83,
+      "deployment_score": 0.450049,
+      "top_k": [
+        {
+          "fraction": 0.01,
+          "records": 108,
+          "precision": 0.777778,
+          "recall": 0.110381
+        },
+        {
+          "fraction": 0.05,
+          "records": 542,
+          "precision": 0.431734,
+          "recall": 0.30749
+        },
+        {
+          "fraction": 0.1,
+          "records": 1085,
+          "precision": 0.302304,
+          "recall": 0.431012
+        }
+      ],
+      "selected_imbalance_strategy": "oversample",
+      "validation_metrics": {
+        "threshold": 0.83,
+        "precision": 0.520661,
+        "recall": 0.206897,
+        "f1": 0.296122,
+        "deployment_score": 0.43315,
+        "roc_auc": 0.747908
+      }
+    }
+  },
+  "top_feature_signals": [
+    {
+      "feature_name": "numeric__high_amount_flag",
+      "importance": 0.103587784
+    },
+    {
+      "feature_name": "numeric__suspicious_provider_flag",
+      "importance": 0.046175033
+    },
+    {
+      "feature_name": "numeric__claim_amount",
+      "importance": 0.016243655
+    },
+    {
+      "feature_name": "numeric__time_since_last_claim_days_filled",
+      "importance": 0.009365361
+    },
+    {
+      "feature_name": "numeric__recent_claim_flag",
+      "importance": 0.008877282
+    },
+    {
+      "feature_name": "numeric__policy_recent_flag",
+      "importance": 0.0077501833
+    },
+    {
+      "feature_name": "categorical__service_provider_id_SP-017",
+      "importance": 0.0075375014
+    },
+    {
+      "feature_name": "categorical__location_Cannes",
+      "importance": 0.0070425672
+    },
+    {
+      "feature_name": "categorical__service_provider_id_SP-058",
+      "importance": 0.0065829633
+    },
+    {
+      "feature_name": "categorical__service_provider_id_SP-074",
+      "importance": 0.0065518003
+    }
+  ],
+  "counterfactual_examples": [
+    {
+      "claim_id": "CLM-03452-003",
+      "claim_type": "bodily_injury",
+      "location": "Rennes",
+      "service_provider_id": "SP-098",
+      "claim_amount": 52507.91,
+      "fraud_probability": 0.934664249420166,
+      "counterfactual": {
+        "status": "found",
+        "heuristic": true,
+        "original_probability": 0.934664,
+        "counterfactual_probability": 0.445412,
+        "decision_threshold": 0.83,
+        "changes": {
+          "original_values": {
+            "claim_amount": 52507.91
+          },
+          "proposed_values": {
+            "claim_amount": 36755.54
+          }
+        }
+      }
+    },
+    {
+      "claim_id": "CLM-02612-008",
+      "claim_type": "bodily_injury",
+      "location": "Metz",
+      "service_provider_id": "SP-016",
+      "claim_amount": 39794.96,
+      "fraud_probability": 0.915062427520752,
+      "counterfactual": {
+        "status": "found",
+        "heuristic": true,
+        "original_probability": 0.915062,
+        "counterfactual_probability": 0.35052,
+        "decision_threshold": 0.83,
+        "changes": {
+          "original_values": {
+            "claim_amount": 39794.96
+          },
+          "proposed_values": {
+            "claim_amount": 19897.48
+          }
+        }
+      }
+    },
+    {
+      "claim_id": "CLM-08154-010",
+      "claim_type": "bodily_injury",
+      "location": "Saint-\u00c9tienne",
+      "service_provider_id": "SP-007",
+      "claim_amount": 40223.23,
+      "fraud_probability": 0.8979944586753845,
+      "counterfactual": {
+        "status": "found",
+        "heuristic": true,
+        "original_probability": 0.897994,
+        "counterfactual_probability": 0.266371,
+        "decision_threshold": 0.83,
+        "changes": {
+          "original_values": {
+            "claim_amount": 40223.23
+          },
+          "proposed_values": {
+            "claim_amount": 20111.62
+          }
+        }
+      }
+    },
+    {
+      "claim_id": "CLM-05314-013",
+      "claim_type": "windshield",
+      "location": "N\u00eemes",
+      "service_provider_id": "SP-071",
+      "claim_amount": 1658.48,
+      "fraud_probability": 0.8385347723960876,
+      "counterfactual": {
+        "status": "found",
+        "heuristic": true,
+        "original_probability": 0.838535,
+        "counterfactual_probability": 0.332708,
+        "decision_threshold": 0.83,
+        "changes": {
+          "original_values": {
+            "time_since_last_claim_days": 8
+          },
+          "proposed_values": {
+            "time_since_last_claim_days": 180
+          }
+        }
+      }
+    }
+  ]
+}

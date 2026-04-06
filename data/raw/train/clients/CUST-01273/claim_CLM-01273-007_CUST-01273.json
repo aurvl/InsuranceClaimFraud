@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01273-007",
+  "customer_id": "CUST-01273",
+  "claim_date": "2022-10-14",
+  "policy_start_date": "2020-12-31",
+  "policy_age_days": 652,
+  "claim_amount": 2926.19,
+  "claim_type": "water_damage",
+  "customer_age": 29,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 142,
+  "service_provider_id": "SP-006",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

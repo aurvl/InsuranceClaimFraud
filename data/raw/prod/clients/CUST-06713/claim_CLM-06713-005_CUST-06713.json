@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06713-005",
+  "customer_id": "CUST-06713",
+  "claim_date": "2025-05-11",
+  "policy_start_date": "2023-06-11",
+  "policy_age_days": 700,
+  "claim_amount": 9596.73,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-044",
+  "location": "Amiens",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

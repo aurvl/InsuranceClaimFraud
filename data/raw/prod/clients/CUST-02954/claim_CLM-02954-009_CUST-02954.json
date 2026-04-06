@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02954-009",
+  "customer_id": "CUST-02954",
+  "claim_date": "2025-03-29",
+  "policy_start_date": "2020-10-02",
+  "policy_age_days": 1639,
+  "claim_amount": 2656.74,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 31,
+  "service_provider_id": "SP-023",
+  "location": "Grenoble",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

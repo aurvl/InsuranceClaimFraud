@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06167-001",
+  "customer_id": "CUST-06167",
+  "claim_date": "2023-09-12",
+  "policy_start_date": "2023-05-03",
+  "policy_age_days": 132,
+  "claim_amount": 4017.23,
+  "claim_type": "collision",
+  "customer_age": 52,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-009",
+  "location": "Perpignan",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06776-002",
+  "customer_id": "CUST-06776",
+  "claim_date": "2019-07-31",
+  "policy_start_date": "2018-09-29",
+  "policy_age_days": 305,
+  "claim_amount": 15629.21,
+  "claim_type": "theft",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 227,
+  "service_provider_id": "SP-007",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

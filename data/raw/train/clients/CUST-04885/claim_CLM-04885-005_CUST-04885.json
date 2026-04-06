@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04885-005",
+  "customer_id": "CUST-04885",
+  "claim_date": "2021-03-14",
+  "policy_start_date": "2018-07-17",
+  "policy_age_days": 971,
+  "claim_amount": 7396.68,
+  "claim_type": "collision",
+  "customer_age": 63,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 262,
+  "service_provider_id": "SP-037",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

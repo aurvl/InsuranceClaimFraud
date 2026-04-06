@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03419-005",
+  "customer_id": "CUST-03419",
+  "claim_date": "2020-03-21",
+  "policy_start_date": "2018-07-13",
+  "policy_age_days": 617,
+  "claim_amount": 5170.22,
+  "claim_type": "theft",
+  "customer_age": 47,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-001",
+  "location": "Le Havre",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

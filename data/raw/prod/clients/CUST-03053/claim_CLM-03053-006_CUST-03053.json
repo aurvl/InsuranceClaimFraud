@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03053-006",
+  "customer_id": "CUST-03053",
+  "claim_date": "2024-10-14",
+  "policy_start_date": "2022-12-21",
+  "policy_age_days": 663,
+  "claim_amount": 990.86,
+  "claim_type": "windshield",
+  "customer_age": 52,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-087",
+  "location": "Lille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

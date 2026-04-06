@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03561-004",
+  "customer_id": "CUST-03561",
+  "claim_date": "2025-12-18",
+  "policy_start_date": "2023-09-20",
+  "policy_age_days": 820,
+  "claim_amount": 24581.96,
+  "claim_type": "theft",
+  "customer_age": 76,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 376,
+  "service_provider_id": "SP-013",
+  "location": "Metz",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

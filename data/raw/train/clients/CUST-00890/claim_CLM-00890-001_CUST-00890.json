@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00890-001",
+  "customer_id": "CUST-00890",
+  "claim_date": "2019-10-20",
+  "policy_start_date": "2019-06-01",
+  "policy_age_days": 141,
+  "claim_amount": 37152.71,
+  "claim_type": "bodily_injury",
+  "customer_age": 36,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-118",
+  "location": "Amiens",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

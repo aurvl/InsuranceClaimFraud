@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07683-003",
+  "customer_id": "CUST-07683",
+  "claim_date": "2019-09-26",
+  "policy_start_date": "2018-09-12",
+  "policy_age_days": 379,
+  "claim_amount": 1140.8,
+  "claim_type": "hail_damage",
+  "customer_age": 80,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 14,
+  "service_provider_id": "SP-019",
+  "location": "Metz",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

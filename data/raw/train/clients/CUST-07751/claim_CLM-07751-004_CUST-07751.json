@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07751-004",
+  "customer_id": "CUST-07751",
+  "claim_date": "2021-05-04",
+  "policy_start_date": "2019-03-15",
+  "policy_age_days": 781,
+  "claim_amount": 3341.36,
+  "claim_type": "hail_damage",
+  "customer_age": 70,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 395,
+  "service_provider_id": "SP-045",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

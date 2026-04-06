@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05381-002",
+  "customer_id": "CUST-05381",
+  "claim_date": "2024-03-03",
+  "policy_start_date": "2023-10-19",
+  "policy_age_days": 136,
+  "claim_amount": 1170.27,
+  "claim_type": "hail_damage",
+  "customer_age": 84,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 53,
+  "service_provider_id": "SP-079",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

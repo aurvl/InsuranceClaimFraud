@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07436-003",
+  "customer_id": "CUST-07436",
+  "claim_date": "2021-03-06",
+  "policy_start_date": "2019-12-11",
+  "policy_age_days": 451,
+  "claim_amount": 1366.7,
+  "claim_type": "hail_damage",
+  "customer_age": 63,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 324,
+  "service_provider_id": "SP-067",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04624-003",
+  "customer_id": "CUST-04624",
+  "claim_date": "2020-02-23",
+  "policy_start_date": "2019-04-23",
+  "policy_age_days": 306,
+  "claim_amount": 20272.3,
+  "claim_type": "bodily_injury",
+  "customer_age": 85,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 192,
+  "service_provider_id": "SP-089",
+  "location": "Toulon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

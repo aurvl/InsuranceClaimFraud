@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01498-001",
+  "customer_id": "CUST-01498",
+  "claim_date": "2018-08-09",
+  "policy_start_date": "2018-07-18",
+  "policy_age_days": 22,
+  "claim_amount": 4112.76,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-007",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

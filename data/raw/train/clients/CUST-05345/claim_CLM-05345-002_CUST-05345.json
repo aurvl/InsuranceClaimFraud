@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05345-002",
+  "customer_id": "CUST-05345",
+  "claim_date": "2021-04-04",
+  "policy_start_date": "2020-06-09",
+  "policy_age_days": 299,
+  "claim_amount": 17676.09,
+  "claim_type": "fire",
+  "customer_age": 83,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 220,
+  "service_provider_id": "SP-077",
+  "location": "Montpellier",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

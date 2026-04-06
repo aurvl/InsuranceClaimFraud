@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00367-003",
+  "customer_id": "CUST-00367",
+  "claim_date": "2018-12-21",
+  "policy_start_date": "2018-06-23",
+  "policy_age_days": 181,
+  "claim_amount": 6523.58,
+  "claim_type": "water_damage",
+  "customer_age": 41,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 142,
+  "service_provider_id": "SP-048",
+  "location": "Nice",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

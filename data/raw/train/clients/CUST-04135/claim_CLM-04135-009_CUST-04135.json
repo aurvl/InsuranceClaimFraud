@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04135-009",
+  "customer_id": "CUST-04135",
+  "claim_date": "2023-05-16",
+  "policy_start_date": "2019-02-03",
+  "policy_age_days": 1563,
+  "claim_amount": 25039.15,
+  "claim_type": "fire",
+  "customer_age": 55,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-083",
+  "location": "Ajaccio",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

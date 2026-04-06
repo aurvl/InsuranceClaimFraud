@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05888-006",
+  "customer_id": "CUST-05888",
+  "claim_date": "2022-12-09",
+  "policy_start_date": "2018-04-12",
+  "policy_age_days": 1702,
+  "claim_amount": 7662.86,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 289,
+  "service_provider_id": "SP-103",
+  "location": "Tours",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

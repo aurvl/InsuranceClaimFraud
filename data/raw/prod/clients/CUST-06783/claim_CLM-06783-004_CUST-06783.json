@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06783-004",
+  "customer_id": "CUST-06783",
+  "claim_date": "2024-10-29",
+  "policy_start_date": "2021-07-01",
+  "policy_age_days": 1216,
+  "claim_amount": 4424.31,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 658,
+  "service_provider_id": "SP-071",
+  "location": "Montpellier",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

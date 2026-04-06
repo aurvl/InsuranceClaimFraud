@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05329-004",
+  "customer_id": "CUST-05329",
+  "claim_date": "2020-05-19",
+  "policy_start_date": "2019-03-27",
+  "policy_age_days": 419,
+  "claim_amount": 6078.69,
+  "claim_type": "water_damage",
+  "customer_age": 77,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 139,
+  "service_provider_id": "SP-034",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

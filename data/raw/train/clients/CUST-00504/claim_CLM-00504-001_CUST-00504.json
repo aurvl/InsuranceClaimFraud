@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00504-001",
+  "customer_id": "CUST-00504",
+  "claim_date": "2021-04-28",
+  "policy_start_date": "2021-03-13",
+  "policy_age_days": 46,
+  "claim_amount": 6645.6,
+  "claim_type": "collision",
+  "customer_age": 50,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-058",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

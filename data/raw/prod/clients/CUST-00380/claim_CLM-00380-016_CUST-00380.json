@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00380-016",
+  "customer_id": "CUST-00380",
+  "claim_date": "2025-04-07",
+  "policy_start_date": "2018-03-03",
+  "policy_age_days": 2592,
+  "claim_amount": 733.59,
+  "claim_type": "windshield",
+  "customer_age": 38,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 239,
+  "service_provider_id": "SP-040",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

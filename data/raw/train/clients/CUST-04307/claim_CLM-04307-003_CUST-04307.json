@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04307-003",
+  "customer_id": "CUST-04307",
+  "claim_date": "2019-02-19",
+  "policy_start_date": "2018-01-24",
+  "policy_age_days": 391,
+  "claim_amount": 6199.4,
+  "claim_type": "theft",
+  "customer_age": 62,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 200,
+  "service_provider_id": "SP-005",
+  "location": "Paris",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06327-001",
+  "customer_id": "CUST-06327",
+  "claim_date": "2019-02-21",
+  "policy_start_date": "2019-01-23",
+  "policy_age_days": 29,
+  "claim_amount": 10959.49,
+  "claim_type": "fire",
+  "customer_age": 71,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-063",
+  "location": "Montpellier",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

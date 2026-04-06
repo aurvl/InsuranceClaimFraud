@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08608-003",
+  "customer_id": "CUST-08608",
+  "claim_date": "2019-08-17",
+  "policy_start_date": "2019-01-20",
+  "policy_age_days": 209,
+  "claim_amount": 20427.37,
+  "claim_type": "bodily_injury",
+  "customer_age": 26,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 159,
+  "service_provider_id": "SP-047",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02090-006",
+  "customer_id": "CUST-02090",
+  "claim_date": "2022-09-27",
+  "policy_start_date": "2020-02-25",
+  "policy_age_days": 945,
+  "claim_amount": 17783.53,
+  "claim_type": "bodily_injury",
+  "customer_age": 79,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-062",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

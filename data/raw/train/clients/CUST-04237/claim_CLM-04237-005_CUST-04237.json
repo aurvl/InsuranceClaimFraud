@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04237-005",
+  "customer_id": "CUST-04237",
+  "claim_date": "2023-07-22",
+  "policy_start_date": "2020-10-16",
+  "policy_age_days": 1009,
+  "claim_amount": 16153.86,
+  "claim_type": "water_damage",
+  "customer_age": 70,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-068",
+  "location": "Montpellier",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

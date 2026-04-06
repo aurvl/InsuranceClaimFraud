@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02035-004",
+  "customer_id": "CUST-02035",
+  "claim_date": "2021-10-19",
+  "policy_start_date": "2019-07-19",
+  "policy_age_days": 823,
+  "claim_amount": 1708.25,
+  "claim_type": "water_damage",
+  "customer_age": 32,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 16,
+  "service_provider_id": "SP-111",
+  "location": "Angers",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

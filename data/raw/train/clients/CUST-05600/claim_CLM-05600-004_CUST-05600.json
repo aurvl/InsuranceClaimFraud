@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05600-004",
+  "customer_id": "CUST-05600",
+  "claim_date": "2022-12-05",
+  "policy_start_date": "2020-08-13",
+  "policy_age_days": 844,
+  "claim_amount": 10916.24,
+  "claim_type": "theft",
+  "customer_age": 42,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 161,
+  "service_provider_id": "SP-111",
+  "location": "N\u00eemes",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08210-003",
+  "customer_id": "CUST-08210",
+  "claim_date": "2019-06-17",
+  "policy_start_date": "2018-08-30",
+  "policy_age_days": 291,
+  "claim_amount": 12818.03,
+  "claim_type": "theft",
+  "customer_age": 76,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-114",
+  "location": "Limoges",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

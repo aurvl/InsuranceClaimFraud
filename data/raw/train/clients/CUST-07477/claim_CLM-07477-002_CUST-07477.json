@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07477-002",
+  "customer_id": "CUST-07477",
+  "claim_date": "2021-09-03",
+  "policy_start_date": "2020-10-05",
+  "policy_age_days": 333,
+  "claim_amount": 4690.71,
+  "claim_type": "theft",
+  "customer_age": 53,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 271,
+  "service_provider_id": "SP-038",
+  "location": "Angers",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

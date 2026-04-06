@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02177-002",
+  "customer_id": "CUST-02177",
+  "claim_date": "2021-08-17",
+  "policy_start_date": "2020-10-05",
+  "policy_age_days": 316,
+  "claim_amount": 3168.69,
+  "claim_type": "collision",
+  "customer_age": 45,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 248,
+  "service_provider_id": "SP-085",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

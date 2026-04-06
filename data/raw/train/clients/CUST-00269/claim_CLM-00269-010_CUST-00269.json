@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00269-010",
+  "customer_id": "CUST-00269",
+  "claim_date": "2023-07-03",
+  "policy_start_date": "2019-08-06",
+  "policy_age_days": 1427,
+  "claim_amount": 10185.41,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-076",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

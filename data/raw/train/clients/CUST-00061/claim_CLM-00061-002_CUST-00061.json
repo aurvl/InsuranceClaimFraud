@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00061-002",
+  "customer_id": "CUST-00061",
+  "claim_date": "2023-05-03",
+  "policy_start_date": "2022-02-17",
+  "policy_age_days": 440,
+  "claim_amount": 4232.82,
+  "claim_type": "hail_damage",
+  "customer_age": 67,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 306,
+  "service_provider_id": "SP-090",
+  "location": "Lille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

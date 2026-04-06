@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05356-004",
+  "customer_id": "CUST-05356",
+  "claim_date": "2022-11-10",
+  "policy_start_date": "2020-09-01",
+  "policy_age_days": 800,
+  "claim_amount": 2024.13,
+  "claim_type": "collision",
+  "customer_age": 65,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-079",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

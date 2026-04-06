@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06780-007",
+  "customer_id": "CUST-06780",
+  "claim_date": "2021-02-12",
+  "policy_start_date": "2018-03-01",
+  "policy_age_days": 1079,
+  "claim_amount": 4232.02,
+  "claim_type": "water_damage",
+  "customer_age": 85,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 140,
+  "service_provider_id": "SP-098",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

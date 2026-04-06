@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04629-003",
+  "customer_id": "CUST-04629",
+  "claim_date": "2020-10-26",
+  "policy_start_date": "2020-03-10",
+  "policy_age_days": 230,
+  "claim_amount": 32480.09,
+  "claim_type": "fire",
+  "customer_age": 85,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 148,
+  "service_provider_id": "SP-095",
+  "location": "Brest",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

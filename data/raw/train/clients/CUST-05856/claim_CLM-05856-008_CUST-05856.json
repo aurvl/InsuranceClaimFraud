@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05856-008",
+  "customer_id": "CUST-05856",
+  "claim_date": "2022-01-02",
+  "policy_start_date": "2018-01-13",
+  "policy_age_days": 1450,
+  "claim_amount": 1972.6,
+  "claim_type": "collision",
+  "customer_age": 23,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 137,
+  "service_provider_id": "SP-040",
+  "location": "Toulouse",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07826-004",
+  "customer_id": "CUST-07826",
+  "claim_date": "2023-12-03",
+  "policy_start_date": "2022-09-17",
+  "policy_age_days": 442,
+  "claim_amount": 27285.97,
+  "claim_type": "bodily_injury",
+  "customer_age": 63,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 35,
+  "service_provider_id": "SP-011",
+  "location": "Grenoble",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

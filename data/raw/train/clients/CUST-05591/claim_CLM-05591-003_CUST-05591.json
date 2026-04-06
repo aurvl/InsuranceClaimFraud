@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05591-003",
+  "customer_id": "CUST-05591",
+  "claim_date": "2020-08-18",
+  "policy_start_date": "2018-09-28",
+  "policy_age_days": 690,
+  "claim_amount": 4344.33,
+  "claim_type": "collision",
+  "customer_age": 55,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 188,
+  "service_provider_id": "SP-065",
+  "location": "Saint-Malo",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

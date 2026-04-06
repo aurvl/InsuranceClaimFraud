@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02191-004",
+  "customer_id": "CUST-02191",
+  "claim_date": "2024-09-05",
+  "policy_start_date": "2023-06-18",
+  "policy_age_days": 445,
+  "claim_amount": 4840.15,
+  "claim_type": "hail_damage",
+  "customer_age": 21,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 159,
+  "service_provider_id": "SP-100",
+  "location": "Rennes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

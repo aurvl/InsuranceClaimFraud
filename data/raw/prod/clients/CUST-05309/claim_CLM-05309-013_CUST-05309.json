@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05309-013",
+  "customer_id": "CUST-05309",
+  "claim_date": "2025-06-26",
+  "policy_start_date": "2019-11-22",
+  "policy_age_days": 2043,
+  "claim_amount": 8137.28,
+  "claim_type": "collision",
+  "customer_age": 36,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 111,
+  "service_provider_id": "SP-088",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

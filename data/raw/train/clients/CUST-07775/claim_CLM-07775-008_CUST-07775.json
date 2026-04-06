@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07775-008",
+  "customer_id": "CUST-07775",
+  "claim_date": "2023-12-23",
+  "policy_start_date": "2019-07-03",
+  "policy_age_days": 1634,
+  "claim_amount": 1726.86,
+  "claim_type": "water_damage",
+  "customer_age": 73,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 207,
+  "service_provider_id": "SP-012",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

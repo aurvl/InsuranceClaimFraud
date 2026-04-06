@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04135-005",
+  "customer_id": "CUST-04135",
+  "claim_date": "2023-01-21",
+  "policy_start_date": "2019-02-03",
+  "policy_age_days": 1448,
+  "claim_amount": 19573.3,
+  "claim_type": "bodily_injury",
+  "customer_age": 55,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 316,
+  "service_provider_id": "SP-076",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

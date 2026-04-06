@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03224-001",
+  "customer_id": "CUST-03224",
+  "claim_date": "2023-05-17",
+  "policy_start_date": "2023-02-21",
+  "policy_age_days": 85,
+  "claim_amount": 12732.54,
+  "claim_type": "theft",
+  "customer_age": 28,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-017",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

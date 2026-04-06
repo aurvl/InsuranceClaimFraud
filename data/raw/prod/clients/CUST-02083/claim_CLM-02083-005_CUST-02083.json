@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02083-005",
+  "customer_id": "CUST-02083",
+  "claim_date": "2025-03-25",
+  "policy_start_date": "2022-09-15",
+  "policy_age_days": 922,
+  "claim_amount": 2052.31,
+  "claim_type": "water_damage",
+  "customer_age": 18,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-054",
+  "location": "N\u00eemes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

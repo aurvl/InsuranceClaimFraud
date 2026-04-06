@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07700-008",
+  "customer_id": "CUST-07700",
+  "claim_date": "2023-01-01",
+  "policy_start_date": "2018-08-26",
+  "policy_age_days": 1589,
+  "claim_amount": 41403.25,
+  "claim_type": "fire",
+  "customer_age": 74,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 238,
+  "service_provider_id": "SP-026",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

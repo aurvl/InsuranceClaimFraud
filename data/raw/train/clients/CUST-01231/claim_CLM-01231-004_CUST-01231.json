@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01231-004",
+  "customer_id": "CUST-01231",
+  "claim_date": "2021-06-12",
+  "policy_start_date": "2018-07-27",
+  "policy_age_days": 1051,
+  "claim_amount": 4397.5,
+  "claim_type": "water_damage",
+  "customer_age": 78,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 330,
+  "service_provider_id": "SP-100",
+  "location": "Rennes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

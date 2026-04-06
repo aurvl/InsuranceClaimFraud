@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01967-002",
+  "customer_id": "CUST-01967",
+  "claim_date": "2023-12-03",
+  "policy_start_date": "2022-07-14",
+  "policy_age_days": 507,
+  "claim_amount": 10627.3,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 403,
+  "service_provider_id": "SP-047",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

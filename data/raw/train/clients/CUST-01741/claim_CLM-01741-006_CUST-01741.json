@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01741-006",
+  "customer_id": "CUST-01741",
+  "claim_date": "2021-05-08",
+  "policy_start_date": "2020-03-17",
+  "policy_age_days": 417,
+  "claim_amount": 11087.58,
+  "claim_type": "bodily_injury",
+  "customer_age": 33,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-058",
+  "location": "Rennes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

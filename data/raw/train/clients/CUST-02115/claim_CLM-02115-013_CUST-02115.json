@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02115-013",
+  "customer_id": "CUST-02115",
+  "claim_date": "2023-09-23",
+  "policy_start_date": "2018-02-21",
+  "policy_age_days": 2040,
+  "claim_amount": 33237.69,
+  "claim_type": "fire",
+  "customer_age": 63,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 309,
+  "service_provider_id": "SP-058",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

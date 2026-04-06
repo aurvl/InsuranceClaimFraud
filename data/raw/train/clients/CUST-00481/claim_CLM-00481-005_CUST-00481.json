@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00481-005",
+  "customer_id": "CUST-00481",
+  "claim_date": "2021-02-03",
+  "policy_start_date": "2018-01-22",
+  "policy_age_days": 1108,
+  "claim_amount": 5066.09,
+  "claim_type": "water_damage",
+  "customer_age": 74,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 201,
+  "service_provider_id": "SP-111",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

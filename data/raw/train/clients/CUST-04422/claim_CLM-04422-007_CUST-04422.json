@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04422-007",
+  "customer_id": "CUST-04422",
+  "claim_date": "2022-01-22",
+  "policy_start_date": "2018-06-19",
+  "policy_age_days": 1313,
+  "claim_amount": 1372.84,
+  "claim_type": "windshield",
+  "customer_age": 23,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 251,
+  "service_provider_id": "SP-058",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

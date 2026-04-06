@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01660-003",
+  "customer_id": "CUST-01660",
+  "claim_date": "2021-10-08",
+  "policy_start_date": "2020-06-15",
+  "policy_age_days": 480,
+  "claim_amount": 2545.1,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 281,
+  "service_provider_id": "SP-006",
+  "location": "Paris",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

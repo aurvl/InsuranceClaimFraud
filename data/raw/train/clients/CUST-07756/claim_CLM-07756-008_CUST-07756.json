@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07756-008",
+  "customer_id": "CUST-07756",
+  "claim_date": "2024-03-18",
+  "policy_start_date": "2020-02-27",
+  "policy_age_days": 1481,
+  "claim_amount": 4409.38,
+  "claim_type": "water_damage",
+  "customer_age": 54,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 78,
+  "service_provider_id": "SP-051",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

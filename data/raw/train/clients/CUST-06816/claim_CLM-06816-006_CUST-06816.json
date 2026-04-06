@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06816-006",
+  "customer_id": "CUST-06816",
+  "claim_date": "2020-09-21",
+  "policy_start_date": "2018-07-07",
+  "policy_age_days": 807,
+  "claim_amount": 3774.15,
+  "claim_type": "hail_damage",
+  "customer_age": 25,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-042",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

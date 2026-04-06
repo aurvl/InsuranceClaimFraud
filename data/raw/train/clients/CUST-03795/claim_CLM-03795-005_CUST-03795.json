@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03795-005",
+  "customer_id": "CUST-03795",
+  "claim_date": "2023-08-20",
+  "policy_start_date": "2020-04-15",
+  "policy_age_days": 1222,
+  "claim_amount": 2972.82,
+  "claim_type": "collision",
+  "customer_age": 79,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-042",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

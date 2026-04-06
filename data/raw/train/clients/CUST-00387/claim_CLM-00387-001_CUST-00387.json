@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00387-001",
+  "customer_id": "CUST-00387",
+  "claim_date": "2023-03-16",
+  "policy_start_date": "2022-11-06",
+  "policy_age_days": 130,
+  "claim_amount": 7506.74,
+  "claim_type": "water_damage",
+  "customer_age": 75,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-025",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

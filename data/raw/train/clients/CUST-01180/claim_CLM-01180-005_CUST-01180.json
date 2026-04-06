@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01180-005",
+  "customer_id": "CUST-01180",
+  "claim_date": "2020-09-27",
+  "policy_start_date": "2018-06-14",
+  "policy_age_days": 836,
+  "claim_amount": 2960.0,
+  "claim_type": "fire",
+  "customer_age": 57,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 11,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

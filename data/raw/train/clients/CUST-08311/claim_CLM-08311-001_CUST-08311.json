@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08311-001",
+  "customer_id": "CUST-08311",
+  "claim_date": "2018-11-02",
+  "policy_start_date": "2018-08-08",
+  "policy_age_days": 86,
+  "claim_amount": 1455.08,
+  "claim_type": "windshield",
+  "customer_age": 27,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-059",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04182-005",
+  "customer_id": "CUST-04182",
+  "claim_date": "2023-11-20",
+  "policy_start_date": "2021-07-16",
+  "policy_age_days": 857,
+  "claim_amount": 5696.18,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 185,
+  "service_provider_id": "SP-104",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

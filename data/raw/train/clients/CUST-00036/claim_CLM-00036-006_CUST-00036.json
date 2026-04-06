@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00036-006",
+  "customer_id": "CUST-00036",
+  "claim_date": "2021-05-22",
+  "policy_start_date": "2019-04-20",
+  "policy_age_days": 763,
+  "claim_amount": 23377.17,
+  "claim_type": "bodily_injury",
+  "customer_age": 72,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-008",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

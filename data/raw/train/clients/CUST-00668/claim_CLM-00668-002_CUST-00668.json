@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00668-002",
+  "customer_id": "CUST-00668",
+  "claim_date": "2020-09-06",
+  "policy_start_date": "2019-09-26",
+  "policy_age_days": 346,
+  "claim_amount": 2856.71,
+  "claim_type": "hail_damage",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-103",
+  "location": "Reims",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

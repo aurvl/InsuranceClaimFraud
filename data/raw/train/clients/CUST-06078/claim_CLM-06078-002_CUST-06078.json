@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06078-002",
+  "customer_id": "CUST-06078",
+  "claim_date": "2021-01-29",
+  "policy_start_date": "2020-11-02",
+  "policy_age_days": 88,
+  "claim_amount": 1945.81,
+  "claim_type": "water_damage",
+  "customer_age": 30,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-110",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

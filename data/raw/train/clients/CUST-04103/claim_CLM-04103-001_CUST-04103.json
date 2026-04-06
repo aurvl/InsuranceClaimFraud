@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04103-001",
+  "customer_id": "CUST-04103",
+  "claim_date": "2019-05-01",
+  "policy_start_date": "2019-01-05",
+  "policy_age_days": 116,
+  "claim_amount": 3405.78,
+  "claim_type": "collision",
+  "customer_age": 78,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-058",
+  "location": "La Rochelle",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

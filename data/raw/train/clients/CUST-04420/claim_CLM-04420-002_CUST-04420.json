@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04420-002",
+  "customer_id": "CUST-04420",
+  "claim_date": "2023-10-26",
+  "policy_start_date": "2023-01-13",
+  "policy_age_days": 286,
+  "claim_amount": 4973.27,
+  "claim_type": "fire",
+  "customer_age": 34,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-017",
+  "location": "Amiens",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

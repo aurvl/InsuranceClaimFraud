@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02353-006",
+  "customer_id": "CUST-02353",
+  "claim_date": "2020-07-10",
+  "policy_start_date": "2018-02-28",
+  "policy_age_days": 863,
+  "claim_amount": 9870.54,
+  "claim_type": "theft",
+  "customer_age": 28,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-117",
+  "location": "Limoges",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

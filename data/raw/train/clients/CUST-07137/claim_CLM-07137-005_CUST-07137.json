@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07137-005",
+  "customer_id": "CUST-07137",
+  "claim_date": "2020-08-13",
+  "policy_start_date": "2018-08-10",
+  "policy_age_days": 734,
+  "claim_amount": 2275.02,
+  "claim_type": "hail_damage",
+  "customer_age": 82,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 210,
+  "service_provider_id": "SP-094",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

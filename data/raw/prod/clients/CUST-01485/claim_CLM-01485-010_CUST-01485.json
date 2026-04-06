@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01485-010",
+  "customer_id": "CUST-01485",
+  "claim_date": "2024-11-02",
+  "policy_start_date": "2018-07-27",
+  "policy_age_days": 2290,
+  "claim_amount": 6784.4,
+  "claim_type": "theft",
+  "customer_age": 58,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-114",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

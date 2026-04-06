@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07333-005",
+  "customer_id": "CUST-07333",
+  "claim_date": "2024-09-15",
+  "policy_start_date": "2023-07-25",
+  "policy_age_days": 418,
+  "claim_amount": 2210.71,
+  "claim_type": "collision",
+  "customer_age": 60,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 138,
+  "service_provider_id": "SP-039",
+  "location": "N\u00eemes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

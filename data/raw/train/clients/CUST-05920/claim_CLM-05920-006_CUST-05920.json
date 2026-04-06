@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05920-006",
+  "customer_id": "CUST-05920",
+  "claim_date": "2022-01-22",
+  "policy_start_date": "2018-11-16",
+  "policy_age_days": 1163,
+  "claim_amount": 6787.36,
+  "claim_type": "fire",
+  "customer_age": 21,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 654,
+  "service_provider_id": "SP-009",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

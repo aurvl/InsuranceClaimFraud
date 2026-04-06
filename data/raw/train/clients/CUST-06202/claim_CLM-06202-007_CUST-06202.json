@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06202-007",
+  "customer_id": "CUST-06202",
+  "claim_date": "2021-04-06",
+  "policy_start_date": "2018-01-22",
+  "policy_age_days": 1170,
+  "claim_amount": 10400.33,
+  "claim_type": "bodily_injury",
+  "customer_age": 36,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-118",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

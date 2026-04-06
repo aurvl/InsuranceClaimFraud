@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07306-008",
+  "customer_id": "CUST-07306",
+  "claim_date": "2022-03-15",
+  "policy_start_date": "2018-08-09",
+  "policy_age_days": 1314,
+  "claim_amount": 43502.34,
+  "claim_type": "fire",
+  "customer_age": 65,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-074",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

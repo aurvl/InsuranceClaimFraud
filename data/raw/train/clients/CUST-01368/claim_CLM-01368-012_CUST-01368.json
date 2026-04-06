@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01368-012",
+  "customer_id": "CUST-01368",
+  "claim_date": "2024-03-29",
+  "policy_start_date": "2018-04-26",
+  "policy_age_days": 2164,
+  "claim_amount": 25137.41,
+  "claim_type": "bodily_injury",
+  "customer_age": 28,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-037",
+  "location": "Nice",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

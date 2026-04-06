@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01617-003",
+  "customer_id": "CUST-01617",
+  "claim_date": "2019-11-07",
+  "policy_start_date": "2018-01-01",
+  "policy_age_days": 675,
+  "claim_amount": 2931.14,
+  "claim_type": "collision",
+  "customer_age": 77,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-113",
+  "location": "Le Havre",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

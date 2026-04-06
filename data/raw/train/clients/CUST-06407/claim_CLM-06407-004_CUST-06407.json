@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06407-004",
+  "customer_id": "CUST-06407",
+  "claim_date": "2024-06-09",
+  "policy_start_date": "2022-04-10",
+  "policy_age_days": 791,
+  "claim_amount": 4310.7,
+  "claim_type": "water_damage",
+  "customer_age": 51,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 157,
+  "service_provider_id": "SP-026",
+  "location": "Grenoble",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

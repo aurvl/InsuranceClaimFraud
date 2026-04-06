@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00986-005",
+  "customer_id": "CUST-00986",
+  "claim_date": "2022-03-25",
+  "policy_start_date": "2019-04-15",
+  "policy_age_days": 1075,
+  "claim_amount": 22774.23,
+  "claim_type": "theft",
+  "customer_age": 39,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 340,
+  "service_provider_id": "SP-059",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

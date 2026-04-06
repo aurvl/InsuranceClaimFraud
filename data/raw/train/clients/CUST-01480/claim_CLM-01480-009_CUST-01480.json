@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01480-009",
+  "customer_id": "CUST-01480",
+  "claim_date": "2021-10-20",
+  "policy_start_date": "2018-06-17",
+  "policy_age_days": 1221,
+  "claim_amount": 2973.26,
+  "claim_type": "collision",
+  "customer_age": 56,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 112,
+  "service_provider_id": "SP-111",
+  "location": "Grenoble",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

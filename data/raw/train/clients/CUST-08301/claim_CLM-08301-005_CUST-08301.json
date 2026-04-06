@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08301-005",
+  "customer_id": "CUST-08301",
+  "claim_date": "2024-02-04",
+  "policy_start_date": "2021-09-12",
+  "policy_age_days": 875,
+  "claim_amount": 2982.29,
+  "claim_type": "collision",
+  "customer_age": 51,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 347,
+  "service_provider_id": "SP-002",
+  "location": "Toulon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

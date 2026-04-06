@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04362-001",
+  "customer_id": "CUST-04362",
+  "claim_date": "2020-05-30",
+  "policy_start_date": "2020-03-30",
+  "policy_age_days": 61,
+  "claim_amount": 7351.96,
+  "claim_type": "theft",
+  "customer_age": 64,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-094",
+  "location": "Lille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

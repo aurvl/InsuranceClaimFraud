@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07792-007",
+  "customer_id": "CUST-07792",
+  "claim_date": "2023-02-07",
+  "policy_start_date": "2020-09-02",
+  "policy_age_days": 888,
+  "claim_amount": 21133.66,
+  "claim_type": "fire",
+  "customer_age": 45,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 242,
+  "service_provider_id": "SP-041",
+  "location": "Toulouse",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

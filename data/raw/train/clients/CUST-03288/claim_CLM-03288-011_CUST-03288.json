@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03288-011",
+  "customer_id": "CUST-03288",
+  "claim_date": "2024-04-14",
+  "policy_start_date": "2018-10-15",
+  "policy_age_days": 2008,
+  "claim_amount": 6443.74,
+  "claim_type": "fire",
+  "customer_age": 81,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 179,
+  "service_provider_id": "SP-118",
+  "location": "Le Havre",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

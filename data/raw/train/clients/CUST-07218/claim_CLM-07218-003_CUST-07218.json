@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07218-003",
+  "customer_id": "CUST-07218",
+  "claim_date": "2021-03-23",
+  "policy_start_date": "2020-07-02",
+  "policy_age_days": 264,
+  "claim_amount": 40573.95,
+  "claim_type": "fire",
+  "customer_age": 31,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-072",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02118-007",
+  "customer_id": "CUST-02118",
+  "claim_date": "2022-10-26",
+  "policy_start_date": "2019-02-19",
+  "policy_age_days": 1345,
+  "claim_amount": 2255.42,
+  "claim_type": "water_damage",
+  "customer_age": 59,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 219,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

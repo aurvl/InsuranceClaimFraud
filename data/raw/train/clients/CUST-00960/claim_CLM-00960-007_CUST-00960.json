@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00960-007",
+  "customer_id": "CUST-00960",
+  "claim_date": "2023-03-24",
+  "policy_start_date": "2021-08-31",
+  "policy_age_days": 570,
+  "claim_amount": 5050.44,
+  "claim_type": "collision",
+  "customer_age": 66,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-086",
+  "location": "Bordeaux",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08161-005",
+  "customer_id": "CUST-08161",
+  "claim_date": "2023-07-27",
+  "policy_start_date": "2022-04-25",
+  "policy_age_days": 458,
+  "claim_amount": 9145.15,
+  "claim_type": "theft",
+  "customer_age": 40,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 181,
+  "service_provider_id": "SP-028",
+  "location": "Toulouse",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

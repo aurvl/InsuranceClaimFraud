@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03537-002",
+  "customer_id": "CUST-03537",
+  "claim_date": "2020-01-03",
+  "policy_start_date": "2019-07-14",
+  "policy_age_days": 173,
+  "claim_amount": 14841.09,
+  "claim_type": "fire",
+  "customer_age": 79,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 120,
+  "service_provider_id": "SP-002",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01744-007",
+  "customer_id": "CUST-01744",
+  "claim_date": "2021-09-04",
+  "policy_start_date": "2019-04-11",
+  "policy_age_days": 877,
+  "claim_amount": 5296.16,
+  "claim_type": "collision",
+  "customer_age": 48,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-083",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

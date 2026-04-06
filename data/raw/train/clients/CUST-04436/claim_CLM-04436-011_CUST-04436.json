@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04436-011",
+  "customer_id": "CUST-04436",
+  "claim_date": "2022-03-30",
+  "policy_start_date": "2019-05-06",
+  "policy_age_days": 1059,
+  "claim_amount": 16728.59,
+  "claim_type": "bodily_injury",
+  "customer_age": 18,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 99,
+  "service_provider_id": "SP-040",
+  "location": "Annecy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

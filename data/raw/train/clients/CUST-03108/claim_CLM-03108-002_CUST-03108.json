@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03108-002",
+  "customer_id": "CUST-03108",
+  "claim_date": "2020-11-25",
+  "policy_start_date": "2020-04-16",
+  "policy_age_days": 223,
+  "claim_amount": 2728.99,
+  "claim_type": "collision",
+  "customer_age": 41,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-087",
+  "location": "Lille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

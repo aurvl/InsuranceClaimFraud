@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05576-006",
+  "customer_id": "CUST-05576",
+  "claim_date": "2022-06-14",
+  "policy_start_date": "2019-03-08",
+  "policy_age_days": 1194,
+  "claim_amount": 2137.37,
+  "claim_type": "hail_damage",
+  "customer_age": 61,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 226,
+  "service_provider_id": "SP-074",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

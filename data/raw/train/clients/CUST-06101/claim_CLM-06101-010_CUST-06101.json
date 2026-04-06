@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06101-010",
+  "customer_id": "CUST-06101",
+  "claim_date": "2023-05-13",
+  "policy_start_date": "2018-05-17",
+  "policy_age_days": 1822,
+  "claim_amount": 1369.81,
+  "claim_type": "water_damage",
+  "customer_age": 84,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 368,
+  "service_provider_id": "SP-078",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

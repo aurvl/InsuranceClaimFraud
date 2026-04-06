@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05402-007",
+  "customer_id": "CUST-05402",
+  "claim_date": "2023-10-29",
+  "policy_start_date": "2021-12-21",
+  "policy_age_days": 677,
+  "claim_amount": 4844.66,
+  "claim_type": "water_damage",
+  "customer_age": 59,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-018",
+  "location": "Toulon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

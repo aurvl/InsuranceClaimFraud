@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07554-002",
+  "customer_id": "CUST-07554",
+  "claim_date": "2018-06-21",
+  "policy_start_date": "2018-03-14",
+  "policy_age_days": 99,
+  "claim_amount": 1407.15,
+  "claim_type": "collision",
+  "customer_age": 57,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 29,
+  "service_provider_id": "SP-043",
+  "location": "Cannes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

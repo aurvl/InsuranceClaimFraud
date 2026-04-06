@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06204-003",
+  "customer_id": "CUST-06204",
+  "claim_date": "2020-02-16",
+  "policy_start_date": "2019-01-19",
+  "policy_age_days": 393,
+  "claim_amount": 2106.92,
+  "claim_type": "windshield",
+  "customer_age": 42,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 216,
+  "service_provider_id": "SP-075",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00678-003",
+  "customer_id": "CUST-00678",
+  "claim_date": "2019-11-14",
+  "policy_start_date": "2018-07-27",
+  "policy_age_days": 475,
+  "claim_amount": 2769.09,
+  "claim_type": "collision",
+  "customer_age": 46,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 120,
+  "service_provider_id": "SP-076",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

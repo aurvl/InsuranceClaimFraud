@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04320-005",
+  "customer_id": "CUST-04320",
+  "claim_date": "2022-06-13",
+  "policy_start_date": "2020-08-13",
+  "policy_age_days": 669,
+  "claim_amount": 8315.22,
+  "claim_type": "theft",
+  "customer_age": 36,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-017",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

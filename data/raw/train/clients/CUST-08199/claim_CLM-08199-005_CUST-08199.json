@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08199-005",
+  "customer_id": "CUST-08199",
+  "claim_date": "2021-10-03",
+  "policy_start_date": "2019-01-10",
+  "policy_age_days": 997,
+  "claim_amount": 11867.64,
+  "claim_type": "theft",
+  "customer_age": 67,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 199,
+  "service_provider_id": "SP-113",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

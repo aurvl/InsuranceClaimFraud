@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04688-002",
+  "customer_id": "CUST-04688",
+  "claim_date": "2021-08-17",
+  "policy_start_date": "2021-01-09",
+  "policy_age_days": 220,
+  "claim_amount": 2039.12,
+  "claim_type": "windshield",
+  "customer_age": 39,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 115,
+  "service_provider_id": "SP-076",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02489-001",
+  "customer_id": "CUST-02489",
+  "claim_date": "2021-07-13",
+  "policy_start_date": "2021-06-15",
+  "policy_age_days": 28,
+  "claim_amount": 2872.37,
+  "claim_type": "hail_damage",
+  "customer_age": 41,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-028",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

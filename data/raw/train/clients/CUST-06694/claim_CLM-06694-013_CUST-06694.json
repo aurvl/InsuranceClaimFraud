@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06694-013",
+  "customer_id": "CUST-06694",
+  "claim_date": "2024-08-24",
+  "policy_start_date": "2018-07-06",
+  "policy_age_days": 2241,
+  "claim_amount": 6545.18,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 114,
+  "service_provider_id": "SP-076",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

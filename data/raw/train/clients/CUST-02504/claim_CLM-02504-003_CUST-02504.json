@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02504-003",
+  "customer_id": "CUST-02504",
+  "claim_date": "2021-10-24",
+  "policy_start_date": "2021-05-15",
+  "policy_age_days": 162,
+  "claim_amount": 17415.11,
+  "claim_type": "fire",
+  "customer_age": 80,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 70,
+  "service_provider_id": "SP-102",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

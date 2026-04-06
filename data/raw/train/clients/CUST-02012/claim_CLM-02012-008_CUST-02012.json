@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02012-008",
+  "customer_id": "CUST-02012",
+  "claim_date": "2022-12-10",
+  "policy_start_date": "2018-01-29",
+  "policy_age_days": 1776,
+  "claim_amount": 11289.14,
+  "claim_type": "bodily_injury",
+  "customer_age": 57,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-071",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

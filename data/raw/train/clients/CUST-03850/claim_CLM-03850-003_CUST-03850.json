@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03850-003",
+  "customer_id": "CUST-03850",
+  "claim_date": "2023-08-30",
+  "policy_start_date": "2022-09-25",
+  "policy_age_days": 339,
+  "claim_amount": 2793.21,
+  "claim_type": "collision",
+  "customer_age": 37,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 153,
+  "service_provider_id": "SP-041",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

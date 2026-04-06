@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08429-002",
+  "customer_id": "CUST-08429",
+  "claim_date": "2021-11-29",
+  "policy_start_date": "2021-03-14",
+  "policy_age_days": 260,
+  "claim_amount": 6226.65,
+  "claim_type": "fire",
+  "customer_age": 39,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 168,
+  "service_provider_id": "SP-104",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

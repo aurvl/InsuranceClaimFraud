@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00069-003",
+  "customer_id": "CUST-00069",
+  "claim_date": "2024-12-23",
+  "policy_start_date": "2023-03-26",
+  "policy_age_days": 638,
+  "claim_amount": 26559.19,
+  "claim_type": "bodily_injury",
+  "customer_age": 55,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 205,
+  "service_provider_id": "SP-090",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

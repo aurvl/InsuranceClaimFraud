@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05087-010",
+  "customer_id": "CUST-05087",
+  "claim_date": "2024-04-05",
+  "policy_start_date": "2018-10-28",
+  "policy_age_days": 1986,
+  "claim_amount": 3939.77,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 351,
+  "service_provider_id": "SP-058",
+  "location": "Bordeaux",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

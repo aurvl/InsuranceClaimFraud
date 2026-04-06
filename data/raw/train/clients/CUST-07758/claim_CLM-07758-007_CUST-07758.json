@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07758-007",
+  "customer_id": "CUST-07758",
+  "claim_date": "2024-02-08",
+  "policy_start_date": "2019-08-18",
+  "policy_age_days": 1635,
+  "claim_amount": 1871.51,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 150,
+  "service_provider_id": "SP-030",
+  "location": "Toulouse",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

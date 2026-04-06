@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03295-009",
+  "customer_id": "CUST-03295",
+  "claim_date": "2022-09-18",
+  "policy_start_date": "2018-06-06",
+  "policy_age_days": 1565,
+  "claim_amount": 2038.32,
+  "claim_type": "hail_damage",
+  "customer_age": 46,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-032",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

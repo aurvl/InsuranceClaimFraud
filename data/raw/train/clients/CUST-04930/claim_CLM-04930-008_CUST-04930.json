@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04930-008",
+  "customer_id": "CUST-04930",
+  "claim_date": "2023-06-17",
+  "policy_start_date": "2019-12-04",
+  "policy_age_days": 1291,
+  "claim_amount": 22090.65,
+  "claim_type": "fire",
+  "customer_age": 59,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 321,
+  "service_provider_id": "SP-105",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

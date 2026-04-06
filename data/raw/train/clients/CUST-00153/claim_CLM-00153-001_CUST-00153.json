@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00153-001",
+  "customer_id": "CUST-00153",
+  "claim_date": "2021-08-07",
+  "policy_start_date": "2021-03-18",
+  "policy_age_days": 142,
+  "claim_amount": 3891.04,
+  "claim_type": "collision",
+  "customer_age": 31,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-108",
+  "location": "Tours",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

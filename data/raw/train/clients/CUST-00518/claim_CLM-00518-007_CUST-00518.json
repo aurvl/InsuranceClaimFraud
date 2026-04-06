@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00518-007",
+  "customer_id": "CUST-00518",
+  "claim_date": "2020-03-21",
+  "policy_start_date": "2018-02-17",
+  "policy_age_days": 763,
+  "claim_amount": 3774.93,
+  "claim_type": "fire",
+  "customer_age": 78,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 14,
+  "service_provider_id": "SP-074",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

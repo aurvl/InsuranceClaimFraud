@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06745-001",
+  "customer_id": "CUST-06745",
+  "claim_date": "2023-07-04",
+  "policy_start_date": "2023-02-14",
+  "policy_age_days": 140,
+  "claim_amount": 35030.46,
+  "claim_type": "bodily_injury",
+  "customer_age": 50,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-068",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

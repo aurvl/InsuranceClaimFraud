@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07345-009",
+  "customer_id": "CUST-07345",
+  "claim_date": "2023-01-03",
+  "policy_start_date": "2018-04-06",
+  "policy_age_days": 1733,
+  "claim_amount": 6735.77,
+  "claim_type": "bodily_injury",
+  "customer_age": 73,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 281,
+  "service_provider_id": "SP-104",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

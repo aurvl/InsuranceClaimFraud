@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04034-007",
+  "customer_id": "CUST-04034",
+  "claim_date": "2021-11-23",
+  "policy_start_date": "2019-08-19",
+  "policy_age_days": 827,
+  "claim_amount": 3693.1,
+  "claim_type": "water_damage",
+  "customer_age": 23,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 128,
+  "service_provider_id": "SP-090",
+  "location": "Brest",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

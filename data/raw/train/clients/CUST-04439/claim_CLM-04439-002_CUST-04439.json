@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04439-002",
+  "customer_id": "CUST-04439",
+  "claim_date": "2022-08-15",
+  "policy_start_date": "2022-04-25",
+  "policy_age_days": 112,
+  "claim_amount": 8474.55,
+  "claim_type": "fire",
+  "customer_age": 48,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 85,
+  "service_provider_id": "SP-080",
+  "location": "Bordeaux",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

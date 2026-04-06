@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07332-006",
+  "customer_id": "CUST-07332",
+  "claim_date": "2022-01-28",
+  "policy_start_date": "2019-10-10",
+  "policy_age_days": 841,
+  "claim_amount": 1348.07,
+  "claim_type": "hail_damage",
+  "customer_age": 76,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 173,
+  "service_provider_id": "SP-095",
+  "location": "Nancy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07954-001",
+  "customer_id": "CUST-07954",
+  "claim_date": "2021-10-26",
+  "policy_start_date": "2021-10-04",
+  "policy_age_days": 22,
+  "claim_amount": 19128.96,
+  "claim_type": "bodily_injury",
+  "customer_age": 19,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-108",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

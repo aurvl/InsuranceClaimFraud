@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03690-002",
+  "customer_id": "CUST-03690",
+  "claim_date": "2022-04-18",
+  "policy_start_date": "2021-10-08",
+  "policy_age_days": 192,
+  "claim_amount": 1034.72,
+  "claim_type": "windshield",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-001",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

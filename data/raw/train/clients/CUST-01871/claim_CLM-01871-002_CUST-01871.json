@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01871-002",
+  "customer_id": "CUST-01871",
+  "claim_date": "2021-07-25",
+  "policy_start_date": "2020-11-09",
+  "policy_age_days": 258,
+  "claim_amount": 14898.7,
+  "claim_type": "collision",
+  "customer_age": 69,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 109,
+  "service_provider_id": "SP-082",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

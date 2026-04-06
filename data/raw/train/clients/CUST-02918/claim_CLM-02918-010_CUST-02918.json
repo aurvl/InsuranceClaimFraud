@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02918-010",
+  "customer_id": "CUST-02918",
+  "claim_date": "2023-09-12",
+  "policy_start_date": "2019-05-11",
+  "policy_age_days": 1585,
+  "claim_amount": 13395.58,
+  "claim_type": "theft",
+  "customer_age": 37,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-058",
+  "location": "Cannes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

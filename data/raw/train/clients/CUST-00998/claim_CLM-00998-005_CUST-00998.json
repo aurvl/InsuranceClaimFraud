@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00998-005",
+  "customer_id": "CUST-00998",
+  "claim_date": "2022-01-30",
+  "policy_start_date": "2020-02-23",
+  "policy_age_days": 707,
+  "claim_amount": 1007.07,
+  "claim_type": "hail_damage",
+  "customer_age": 22,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-083",
+  "location": "Lille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

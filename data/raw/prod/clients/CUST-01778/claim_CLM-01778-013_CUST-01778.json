@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01778-013",
+  "customer_id": "CUST-01778",
+  "claim_date": "2025-11-18",
+  "policy_start_date": "2019-07-27",
+  "policy_age_days": 2306,
+  "claim_amount": 4961.39,
+  "claim_type": "bodily_injury",
+  "customer_age": 84,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 59,
+  "service_provider_id": "SP-014",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

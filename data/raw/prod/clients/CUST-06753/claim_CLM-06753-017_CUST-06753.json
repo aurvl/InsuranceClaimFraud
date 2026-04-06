@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06753-017",
+  "customer_id": "CUST-06753",
+  "claim_date": "2025-03-28",
+  "policy_start_date": "2018-02-23",
+  "policy_age_days": 2590,
+  "claim_amount": 7121.88,
+  "claim_type": "fire",
+  "customer_age": 53,
+  "num_previous_claims": 16,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-003",
+  "location": "Caen",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

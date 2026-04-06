@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05722-002",
+  "customer_id": "CUST-05722",
+  "claim_date": "2021-02-22",
+  "policy_start_date": "2020-03-21",
+  "policy_age_days": 338,
+  "claim_amount": 2204.89,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-055",
+  "location": "Villeurbanne",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

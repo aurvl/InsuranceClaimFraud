@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07747-005",
+  "customer_id": "CUST-07747",
+  "claim_date": "2020-04-18",
+  "policy_start_date": "2018-08-26",
+  "policy_age_days": 601,
+  "claim_amount": 4769.73,
+  "claim_type": "hail_damage",
+  "customer_age": 70,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 90,
+  "service_provider_id": "SP-089",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

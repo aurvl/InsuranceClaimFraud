@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07975-002",
+  "customer_id": "CUST-07975",
+  "claim_date": "2025-10-31",
+  "policy_start_date": "2025-06-06",
+  "policy_age_days": 147,
+  "claim_amount": 5455.23,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-111",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

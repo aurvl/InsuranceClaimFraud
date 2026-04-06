@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08550-003",
+  "customer_id": "CUST-08550",
+  "claim_date": "2022-07-12",
+  "policy_start_date": "2021-08-02",
+  "policy_age_days": 344,
+  "claim_amount": 11184.29,
+  "claim_type": "bodily_injury",
+  "customer_age": 58,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 252,
+  "service_provider_id": "SP-107",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

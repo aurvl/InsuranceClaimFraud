@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08709-003",
+  "customer_id": "CUST-08709",
+  "claim_date": "2022-01-14",
+  "policy_start_date": "2021-04-10",
+  "policy_age_days": 279,
+  "claim_amount": 16828.06,
+  "claim_type": "fire",
+  "customer_age": 83,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 178,
+  "service_provider_id": "SP-079",
+  "location": "Aix-en-Provence",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

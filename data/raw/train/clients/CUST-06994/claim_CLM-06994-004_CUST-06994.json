@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06994-004",
+  "customer_id": "CUST-06994",
+  "claim_date": "2021-12-06",
+  "policy_start_date": "2021-01-05",
+  "policy_age_days": 335,
+  "claim_amount": 4904.58,
+  "claim_type": "collision",
+  "customer_age": 82,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-032",
+  "location": "Lyon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

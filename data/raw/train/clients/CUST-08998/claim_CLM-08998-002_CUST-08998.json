@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08998-002",
+  "customer_id": "CUST-08998",
+  "claim_date": "2020-06-22",
+  "policy_start_date": "2019-11-22",
+  "policy_age_days": 213,
+  "claim_amount": 8212.9,
+  "claim_type": "collision",
+  "customer_age": 75,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 170,
+  "service_provider_id": "SP-079",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

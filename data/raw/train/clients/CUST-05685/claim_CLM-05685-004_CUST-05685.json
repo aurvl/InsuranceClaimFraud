@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05685-004",
+  "customer_id": "CUST-05685",
+  "claim_date": "2024-09-23",
+  "policy_start_date": "2023-03-10",
+  "policy_age_days": 563,
+  "claim_amount": 2542.25,
+  "claim_type": "hail_damage",
+  "customer_age": 47,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-071",
+  "location": "Limoges",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

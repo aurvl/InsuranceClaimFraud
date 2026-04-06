@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07754-008",
+  "customer_id": "CUST-07754",
+  "claim_date": "2023-11-02",
+  "policy_start_date": "2020-07-11",
+  "policy_age_days": 1209,
+  "claim_amount": 4429.87,
+  "claim_type": "collision",
+  "customer_age": 75,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 194,
+  "service_provider_id": "SP-042",
+  "location": "Nice",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04901-008",
+  "customer_id": "CUST-04901",
+  "claim_date": "2024-11-01",
+  "policy_start_date": "2020-07-06",
+  "policy_age_days": 1579,
+  "claim_amount": 3404.04,
+  "claim_type": "fire",
+  "customer_age": 27,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-019",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

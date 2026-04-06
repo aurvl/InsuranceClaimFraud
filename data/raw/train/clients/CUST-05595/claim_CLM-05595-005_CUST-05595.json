@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05595-005",
+  "customer_id": "CUST-05595",
+  "claim_date": "2022-01-08",
+  "policy_start_date": "2020-05-20",
+  "policy_age_days": 598,
+  "claim_amount": 5227.29,
+  "claim_type": "bodily_injury",
+  "customer_age": 19,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 124,
+  "service_provider_id": "SP-060",
+  "location": "Montpellier",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07080-002",
+  "customer_id": "CUST-07080",
+  "claim_date": "2022-04-15",
+  "policy_start_date": "2020-08-03",
+  "policy_age_days": 620,
+  "claim_amount": 23561.44,
+  "claim_type": "fire",
+  "customer_age": 53,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 489,
+  "service_provider_id": "SP-021",
+  "location": "Metz",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06704-005",
+  "customer_id": "CUST-06704",
+  "claim_date": "2020-02-17",
+  "policy_start_date": "2018-04-08",
+  "policy_age_days": 680,
+  "claim_amount": 1709.41,
+  "claim_type": "hail_damage",
+  "customer_age": 72,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 130,
+  "service_provider_id": "SP-086",
+  "location": "Lille",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

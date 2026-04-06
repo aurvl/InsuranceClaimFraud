@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08981-002",
+  "customer_id": "CUST-08981",
+  "claim_date": "2022-06-13",
+  "policy_start_date": "2021-01-23",
+  "policy_age_days": 506,
+  "claim_amount": 3839.92,
+  "claim_type": "water_damage",
+  "customer_age": 26,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 358,
+  "service_provider_id": "SP-072",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

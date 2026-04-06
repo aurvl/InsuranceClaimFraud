@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05558-006",
+  "customer_id": "CUST-05558",
+  "claim_date": "2021-10-25",
+  "policy_start_date": "2018-06-04",
+  "policy_age_days": 1239,
+  "claim_amount": 2922.73,
+  "claim_type": "hail_damage",
+  "customer_age": 45,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 157,
+  "service_provider_id": "SP-087",
+  "location": "Ajaccio",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

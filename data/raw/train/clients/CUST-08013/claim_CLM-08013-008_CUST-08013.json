@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08013-008",
+  "customer_id": "CUST-08013",
+  "claim_date": "2022-03-26",
+  "policy_start_date": "2019-07-31",
+  "policy_age_days": 969,
+  "claim_amount": 62865.5,
+  "claim_type": "bodily_injury",
+  "customer_age": 31,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 155,
+  "service_provider_id": "SP-032",
+  "location": "Toulouse",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

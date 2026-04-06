@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05516-005",
+  "customer_id": "CUST-05516",
+  "claim_date": "2023-02-21",
+  "policy_start_date": "2021-12-10",
+  "policy_age_days": 438,
+  "claim_amount": 3815.21,
+  "claim_type": "water_damage",
+  "customer_age": 79,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-044",
+  "location": "Annecy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

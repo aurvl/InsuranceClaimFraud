@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04888-004",
+  "customer_id": "CUST-04888",
+  "claim_date": "2020-04-20",
+  "policy_start_date": "2019-01-18",
+  "policy_age_days": 458,
+  "claim_amount": 8456.25,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-120",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03128-007",
+  "customer_id": "CUST-03128",
+  "claim_date": "2022-07-25",
+  "policy_start_date": "2019-11-28",
+  "policy_age_days": 970,
+  "claim_amount": 2916.14,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-057",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

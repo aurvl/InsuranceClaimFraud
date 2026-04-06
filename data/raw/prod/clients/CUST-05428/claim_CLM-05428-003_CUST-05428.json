@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05428-003",
+  "customer_id": "CUST-05428",
+  "claim_date": "2025-04-14",
+  "policy_start_date": "2023-10-28",
+  "policy_age_days": 534,
+  "claim_amount": 2786.09,
+  "claim_type": "hail_damage",
+  "customer_age": 64,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 203,
+  "service_provider_id": "SP-089",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

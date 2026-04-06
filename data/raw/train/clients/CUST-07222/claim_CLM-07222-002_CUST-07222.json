@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07222-002",
+  "customer_id": "CUST-07222",
+  "claim_date": "2021-01-26",
+  "policy_start_date": "2020-02-02",
+  "policy_age_days": 359,
+  "claim_amount": 4444.61,
+  "claim_type": "collision",
+  "customer_age": 39,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 210,
+  "service_provider_id": "SP-003",
+  "location": "Ajaccio",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

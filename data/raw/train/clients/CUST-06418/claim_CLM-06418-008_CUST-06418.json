@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06418-008",
+  "customer_id": "CUST-06418",
+  "claim_date": "2023-02-27",
+  "policy_start_date": "2018-12-26",
+  "policy_age_days": 1524,
+  "claim_amount": 1790.03,
+  "claim_type": "water_damage",
+  "customer_age": 59,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 317,
+  "service_provider_id": "SP-072",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

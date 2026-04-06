@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01298-008",
+  "customer_id": "CUST-01298",
+  "claim_date": "2023-04-09",
+  "policy_start_date": "2019-04-14",
+  "policy_age_days": 1456,
+  "claim_amount": 8195.48,
+  "claim_type": "fire",
+  "customer_age": 51,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 136,
+  "service_provider_id": "SP-044",
+  "location": "Angers",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

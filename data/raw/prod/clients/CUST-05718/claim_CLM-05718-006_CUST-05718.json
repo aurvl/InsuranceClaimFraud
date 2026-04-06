@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05718-006",
+  "customer_id": "CUST-05718",
+  "claim_date": "2025-12-27",
+  "policy_start_date": "2022-06-10",
+  "policy_age_days": 1296,
+  "claim_amount": 3193.19,
+  "claim_type": "collision",
+  "customer_age": 52,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 340,
+  "service_provider_id": "SP-094",
+  "location": "Nancy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

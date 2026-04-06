@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05706-006",
+  "customer_id": "CUST-05706",
+  "claim_date": "2020-12-20",
+  "policy_start_date": "2018-04-18",
+  "policy_age_days": 977,
+  "claim_amount": 23514.45,
+  "claim_type": "bodily_injury",
+  "customer_age": 48,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 234,
+  "service_provider_id": "SP-010",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

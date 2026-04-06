@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00913-011",
+  "customer_id": "CUST-00913",
+  "claim_date": "2023-03-13",
+  "policy_start_date": "2018-08-28",
+  "policy_age_days": 1658,
+  "claim_amount": 3125.62,
+  "claim_type": "water_damage",
+  "customer_age": 18,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 157,
+  "service_provider_id": "SP-003",
+  "location": "Reims",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

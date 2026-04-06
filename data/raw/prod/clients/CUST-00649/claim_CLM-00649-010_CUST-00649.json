@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00649-010",
+  "customer_id": "CUST-00649",
+  "claim_date": "2025-06-22",
+  "policy_start_date": "2021-03-16",
+  "policy_age_days": 1559,
+  "claim_amount": 2800.6,
+  "claim_type": "water_damage",
+  "customer_age": 72,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-017",
+  "location": "Lille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

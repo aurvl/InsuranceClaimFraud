@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07760-006",
+  "customer_id": "CUST-07760",
+  "claim_date": "2021-08-06",
+  "policy_start_date": "2019-01-29",
+  "policy_age_days": 920,
+  "claim_amount": 4991.79,
+  "claim_type": "water_damage",
+  "customer_age": 20,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 123,
+  "service_provider_id": "SP-101",
+  "location": "Tours",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

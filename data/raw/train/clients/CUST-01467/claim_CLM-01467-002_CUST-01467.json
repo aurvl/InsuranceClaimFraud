@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01467-002",
+  "customer_id": "CUST-01467",
+  "claim_date": "2021-03-30",
+  "policy_start_date": "2019-03-24",
+  "policy_age_days": 737,
+  "claim_amount": 3536.76,
+  "claim_type": "water_damage",
+  "customer_age": 69,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 623,
+  "service_provider_id": "SP-051",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

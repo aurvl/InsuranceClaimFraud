@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04826-002",
+  "customer_id": "CUST-04826",
+  "claim_date": "2020-08-05",
+  "policy_start_date": "2020-01-11",
+  "policy_age_days": 207,
+  "claim_amount": 3051.5,
+  "claim_type": "collision",
+  "customer_age": 48,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 186,
+  "service_provider_id": "SP-065",
+  "location": "Saint-Malo",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

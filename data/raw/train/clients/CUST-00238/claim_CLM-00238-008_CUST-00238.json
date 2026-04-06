@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00238-008",
+  "customer_id": "CUST-00238",
+  "claim_date": "2022-10-26",
+  "policy_start_date": "2020-08-10",
+  "policy_age_days": 807,
+  "claim_amount": 4521.4,
+  "claim_type": "water_damage",
+  "customer_age": 80,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-030",
+  "location": "Grenoble",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

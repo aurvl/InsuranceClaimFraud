@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07385-001",
+  "customer_id": "CUST-07385",
+  "claim_date": "2018-04-07",
+  "policy_start_date": "2018-01-30",
+  "policy_age_days": 67,
+  "claim_amount": 23383.04,
+  "claim_type": "fire",
+  "customer_age": 68,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-093",
+  "location": "Brest",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

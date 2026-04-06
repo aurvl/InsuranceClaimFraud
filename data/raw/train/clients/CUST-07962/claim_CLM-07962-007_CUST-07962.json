@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07962-007",
+  "customer_id": "CUST-07962",
+  "claim_date": "2023-10-14",
+  "policy_start_date": "2021-04-20",
+  "policy_age_days": 907,
+  "claim_amount": 15287.62,
+  "claim_type": "bodily_injury",
+  "customer_age": 47,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-042",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07237-006",
+  "customer_id": "CUST-07237",
+  "claim_date": "2025-03-16",
+  "policy_start_date": "2022-12-24",
+  "policy_age_days": 813,
+  "claim_amount": 16517.3,
+  "claim_type": "bodily_injury",
+  "customer_age": 64,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 224,
+  "service_provider_id": "SP-096",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

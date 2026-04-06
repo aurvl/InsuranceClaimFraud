@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02375-009",
+  "customer_id": "CUST-02375",
+  "claim_date": "2025-02-15",
+  "policy_start_date": "2020-07-09",
+  "policy_age_days": 1682,
+  "claim_amount": 25492.0,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 203,
+  "service_provider_id": "SP-027",
+  "location": "Grenoble",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

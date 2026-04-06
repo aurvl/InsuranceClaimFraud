@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05268-010",
+  "customer_id": "CUST-05268",
+  "claim_date": "2022-08-30",
+  "policy_start_date": "2018-07-16",
+  "policy_age_days": 1506,
+  "claim_amount": 16980.19,
+  "claim_type": "theft",
+  "customer_age": 67,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 132,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

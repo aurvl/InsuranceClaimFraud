@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00856-003",
+  "customer_id": "CUST-00856",
+  "claim_date": "2021-08-12",
+  "policy_start_date": "2020-09-22",
+  "policy_age_days": 324,
+  "claim_amount": 4466.4,
+  "claim_type": "collision",
+  "customer_age": 77,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 126,
+  "service_provider_id": "SP-008",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

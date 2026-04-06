@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04927-004",
+  "customer_id": "CUST-04927",
+  "claim_date": "2022-04-17",
+  "policy_start_date": "2021-05-12",
+  "policy_age_days": 340,
+  "claim_amount": 2480.23,
+  "claim_type": "hail_damage",
+  "customer_age": 80,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 20,
+  "service_provider_id": "SP-058",
+  "location": "Lille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

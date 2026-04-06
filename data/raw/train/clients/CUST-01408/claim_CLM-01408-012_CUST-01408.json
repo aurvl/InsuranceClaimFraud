@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01408-012",
+  "customer_id": "CUST-01408",
+  "claim_date": "2023-10-30",
+  "policy_start_date": "2018-07-23",
+  "policy_age_days": 1925,
+  "claim_amount": 10447.65,
+  "claim_type": "fire",
+  "customer_age": 73,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 94,
+  "service_provider_id": "SP-071",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

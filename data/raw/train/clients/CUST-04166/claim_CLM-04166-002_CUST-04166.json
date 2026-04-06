@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04166-002",
+  "customer_id": "CUST-04166",
+  "claim_date": "2019-05-17",
+  "policy_start_date": "2018-07-26",
+  "policy_age_days": 295,
+  "claim_amount": 5919.05,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 191,
+  "service_provider_id": "SP-097",
+  "location": "Nancy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04990-007",
+  "customer_id": "CUST-04990",
+  "claim_date": "2025-02-03",
+  "policy_start_date": "2022-11-16",
+  "policy_age_days": 810,
+  "claim_amount": 8928.85,
+  "claim_type": "theft",
+  "customer_age": 48,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-022",
+  "location": "Metz",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

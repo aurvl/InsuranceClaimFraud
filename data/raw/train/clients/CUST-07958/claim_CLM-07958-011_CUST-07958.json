@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07958-011",
+  "customer_id": "CUST-07958",
+  "claim_date": "2023-09-12",
+  "policy_start_date": "2018-11-03",
+  "policy_age_days": 1774,
+  "claim_amount": 1949.5,
+  "claim_type": "theft",
+  "customer_age": 57,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 237,
+  "service_provider_id": "SP-119",
+  "location": "Amiens",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

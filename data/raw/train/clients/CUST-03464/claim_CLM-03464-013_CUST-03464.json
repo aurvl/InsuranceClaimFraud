@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03464-013",
+  "customer_id": "CUST-03464",
+  "claim_date": "2024-04-02",
+  "policy_start_date": "2018-01-07",
+  "policy_age_days": 2277,
+  "claim_amount": 10751.63,
+  "claim_type": "collision",
+  "customer_age": 70,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-034",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

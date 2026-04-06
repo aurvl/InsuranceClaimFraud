@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07700-004",
+  "customer_id": "CUST-07700",
+  "claim_date": "2020-09-27",
+  "policy_start_date": "2018-08-26",
+  "policy_age_days": 763,
+  "claim_amount": 2922.37,
+  "claim_type": "hail_damage",
+  "customer_age": 74,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-025",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

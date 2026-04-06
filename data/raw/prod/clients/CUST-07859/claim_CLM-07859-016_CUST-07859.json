@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07859-016",
+  "customer_id": "CUST-07859",
+  "claim_date": "2025-04-25",
+  "policy_start_date": "2018-03-13",
+  "policy_age_days": 2600,
+  "claim_amount": 21392.15,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 214,
+  "service_provider_id": "SP-110",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

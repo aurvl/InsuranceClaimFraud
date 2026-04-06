@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07105-001",
+  "customer_id": "CUST-07105",
+  "claim_date": "2025-02-26",
+  "policy_start_date": "2024-12-19",
+  "policy_age_days": 69,
+  "claim_amount": 1397.77,
+  "claim_type": "windshield",
+  "customer_age": 24,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-003",
+  "location": "Bordeaux",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03401-008",
+  "customer_id": "CUST-03401",
+  "claim_date": "2025-06-01",
+  "policy_start_date": "2021-08-04",
+  "policy_age_days": 1397,
+  "claim_amount": 9782.08,
+  "claim_type": "bodily_injury",
+  "customer_age": 26,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-018",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

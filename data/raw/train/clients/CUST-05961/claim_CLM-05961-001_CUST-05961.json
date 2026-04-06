@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05961-001",
+  "customer_id": "CUST-05961",
+  "claim_date": "2018-06-08",
+  "policy_start_date": "2018-03-10",
+  "policy_age_days": 90,
+  "claim_amount": 14570.5,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-050",
+  "location": "N\u00eemes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

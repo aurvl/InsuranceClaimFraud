@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03760-003",
+  "customer_id": "CUST-03760",
+  "claim_date": "2022-04-30",
+  "policy_start_date": "2020-10-12",
+  "policy_age_days": 565,
+  "claim_amount": 7707.49,
+  "claim_type": "theft",
+  "customer_age": 19,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-074",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

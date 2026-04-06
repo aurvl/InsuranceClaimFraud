@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05522-004",
+  "customer_id": "CUST-05522",
+  "claim_date": "2023-11-13",
+  "policy_start_date": "2022-02-13",
+  "policy_age_days": 638,
+  "claim_amount": 5105.18,
+  "claim_type": "collision",
+  "customer_age": 52,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-119",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

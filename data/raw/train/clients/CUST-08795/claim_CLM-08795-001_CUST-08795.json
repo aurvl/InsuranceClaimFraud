@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08795-001",
+  "customer_id": "CUST-08795",
+  "claim_date": "2018-08-21",
+  "policy_start_date": "2018-07-03",
+  "policy_age_days": 49,
+  "claim_amount": 1104.63,
+  "claim_type": "hail_damage",
+  "customer_age": 76,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-073",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

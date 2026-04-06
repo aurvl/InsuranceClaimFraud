@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02256-002",
+  "customer_id": "CUST-02256",
+  "claim_date": "2019-07-25",
+  "policy_start_date": "2018-10-31",
+  "policy_age_days": 267,
+  "claim_amount": 4568.78,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 145,
+  "service_provider_id": "SP-111",
+  "location": "Grenoble",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04418-001",
+  "customer_id": "CUST-04418",
+  "claim_date": "2022-11-13",
+  "policy_start_date": "2022-10-18",
+  "policy_age_days": 26,
+  "claim_amount": 2218.22,
+  "claim_type": "collision",
+  "customer_age": 83,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-046",
+  "location": "Annecy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

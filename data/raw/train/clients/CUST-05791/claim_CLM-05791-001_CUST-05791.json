@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05791-001",
+  "customer_id": "CUST-05791",
+  "claim_date": "2021-10-11",
+  "policy_start_date": "2021-09-04",
+  "policy_age_days": 37,
+  "claim_amount": 21980.03,
+  "claim_type": "bodily_injury",
+  "customer_age": 43,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-050",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

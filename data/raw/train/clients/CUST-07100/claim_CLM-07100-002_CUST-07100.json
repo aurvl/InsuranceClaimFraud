@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07100-002",
+  "customer_id": "CUST-07100",
+  "claim_date": "2019-09-09",
+  "policy_start_date": "2018-07-03",
+  "policy_age_days": 433,
+  "claim_amount": 9274.41,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 286,
+  "service_provider_id": "SP-007",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

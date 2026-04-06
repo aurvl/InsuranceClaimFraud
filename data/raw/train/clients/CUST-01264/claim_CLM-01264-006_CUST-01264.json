@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01264-006",
+  "customer_id": "CUST-01264",
+  "claim_date": "2021-08-16",
+  "policy_start_date": "2019-10-09",
+  "policy_age_days": 677,
+  "claim_amount": 6073.75,
+  "claim_type": "collision",
+  "customer_age": 66,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-089",
+  "location": "Metz",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

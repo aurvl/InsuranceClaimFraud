@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06631-001",
+  "customer_id": "CUST-06631",
+  "claim_date": "2021-01-24",
+  "policy_start_date": "2020-10-26",
+  "policy_age_days": 90,
+  "claim_amount": 6388.24,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-031",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

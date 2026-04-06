@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05586-005",
+  "customer_id": "CUST-05586",
+  "claim_date": "2023-04-16",
+  "policy_start_date": "2020-03-10",
+  "policy_age_days": 1132,
+  "claim_amount": 1497.03,
+  "claim_type": "hail_damage",
+  "customer_age": 54,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-043",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

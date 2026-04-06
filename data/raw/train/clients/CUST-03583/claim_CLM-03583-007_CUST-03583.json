@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03583-007",
+  "customer_id": "CUST-03583",
+  "claim_date": "2023-08-08",
+  "policy_start_date": "2021-10-13",
+  "policy_age_days": 664,
+  "claim_amount": 1946.44,
+  "claim_type": "windshield",
+  "customer_age": 82,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 14,
+  "service_provider_id": "SP-003",
+  "location": "Limoges",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

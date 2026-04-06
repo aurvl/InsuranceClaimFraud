@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08172-011",
+  "customer_id": "CUST-08172",
+  "claim_date": "2024-07-21",
+  "policy_start_date": "2018-02-19",
+  "policy_age_days": 2344,
+  "claim_amount": 2033.24,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 174,
+  "service_provider_id": "SP-046",
+  "location": "Angers",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07651-004",
+  "customer_id": "CUST-07651",
+  "claim_date": "2025-08-27",
+  "policy_start_date": "2023-11-28",
+  "policy_age_days": 638,
+  "claim_amount": 4804.97,
+  "claim_type": "collision",
+  "customer_age": 71,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-014",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

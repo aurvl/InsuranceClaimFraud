@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08738-007",
+  "customer_id": "CUST-08738",
+  "claim_date": "2024-08-09",
+  "policy_start_date": "2021-05-14",
+  "policy_age_days": 1183,
+  "claim_amount": 3319.48,
+  "claim_type": "theft",
+  "customer_age": 73,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 191,
+  "service_provider_id": "SP-005",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

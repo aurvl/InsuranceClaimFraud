@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02395-004",
+  "customer_id": "CUST-02395",
+  "claim_date": "2019-10-06",
+  "policy_start_date": "2018-06-25",
+  "policy_age_days": 468,
+  "claim_amount": 4044.47,
+  "claim_type": "collision",
+  "customer_age": 29,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 182,
+  "service_provider_id": "SP-110",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

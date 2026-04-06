@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08929-010",
+  "customer_id": "CUST-08929",
+  "claim_date": "2022-12-09",
+  "policy_start_date": "2019-11-05",
+  "policy_age_days": 1130,
+  "claim_amount": 1263.4,
+  "claim_type": "collision",
+  "customer_age": 72,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 20,
+  "service_provider_id": "SP-044",
+  "location": "Le Havre",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02720-002",
+  "customer_id": "CUST-02720",
+  "claim_date": "2020-04-02",
+  "policy_start_date": "2018-09-16",
+  "policy_age_days": 564,
+  "claim_amount": 1267.63,
+  "claim_type": "hail_damage",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 471,
+  "service_provider_id": "SP-083",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02130-001",
+  "customer_id": "CUST-02130",
+  "claim_date": "2023-03-29",
+  "policy_start_date": "2022-12-11",
+  "policy_age_days": 108,
+  "claim_amount": 4129.52,
+  "claim_type": "water_damage",
+  "customer_age": 42,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-115",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

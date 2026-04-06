@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08478-002",
+  "customer_id": "CUST-08478",
+  "claim_date": "2019-08-14",
+  "policy_start_date": "2018-01-09",
+  "policy_age_days": 582,
+  "claim_amount": 20594.35,
+  "claim_type": "bodily_injury",
+  "customer_age": 35,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 460,
+  "service_provider_id": "SP-058",
+  "location": "Saint-Malo",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

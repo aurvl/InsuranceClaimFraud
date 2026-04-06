@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04030-014",
+  "customer_id": "CUST-04030",
+  "claim_date": "2024-10-01",
+  "policy_start_date": "2018-07-22",
+  "policy_age_days": 2263,
+  "claim_amount": 3966.21,
+  "claim_type": "collision",
+  "customer_age": 64,
+  "num_previous_claims": 13,
+  "time_since_last_claim_days": 150,
+  "service_provider_id": "SP-104",
+  "location": "Tours",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

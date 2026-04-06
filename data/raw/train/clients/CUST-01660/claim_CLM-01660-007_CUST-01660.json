@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01660-007",
+  "customer_id": "CUST-01660",
+  "claim_date": "2024-01-09",
+  "policy_start_date": "2020-06-15",
+  "policy_age_days": 1303,
+  "claim_amount": 13049.37,
+  "claim_type": "fire",
+  "customer_age": 49,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 94,
+  "service_provider_id": "SP-017",
+  "location": "Paris",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

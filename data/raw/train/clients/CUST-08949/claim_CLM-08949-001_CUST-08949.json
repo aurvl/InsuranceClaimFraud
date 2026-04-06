@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08949-001",
+  "customer_id": "CUST-08949",
+  "claim_date": "2021-10-06",
+  "policy_start_date": "2021-09-09",
+  "policy_age_days": 27,
+  "claim_amount": 6900.99,
+  "claim_type": "water_damage",
+  "customer_age": 71,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-111",
+  "location": "Nice",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

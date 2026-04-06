@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02171-001",
+  "customer_id": "CUST-02171",
+  "claim_date": "2018-02-16",
+  "policy_start_date": "2018-01-22",
+  "policy_age_days": 25,
+  "claim_amount": 11040.16,
+  "claim_type": "water_damage",
+  "customer_age": 51,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07915-002",
+  "customer_id": "CUST-07915",
+  "claim_date": "2019-11-13",
+  "policy_start_date": "2019-07-01",
+  "policy_age_days": 135,
+  "claim_amount": 12310.22,
+  "claim_type": "theft",
+  "customer_age": 60,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 92,
+  "service_provider_id": "SP-055",
+  "location": "Villeurbanne",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

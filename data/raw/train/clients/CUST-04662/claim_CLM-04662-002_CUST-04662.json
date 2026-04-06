@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04662-002",
+  "customer_id": "CUST-04662",
+  "claim_date": "2022-02-23",
+  "policy_start_date": "2021-08-15",
+  "policy_age_days": 192,
+  "claim_amount": 880.7,
+  "claim_type": "hail_damage",
+  "customer_age": 31,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 138,
+  "service_provider_id": "SP-010",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

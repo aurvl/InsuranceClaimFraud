@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04820-003",
+  "customer_id": "CUST-04820",
+  "claim_date": "2023-12-30",
+  "policy_start_date": "2023-04-23",
+  "policy_age_days": 251,
+  "claim_amount": 1869.31,
+  "claim_type": "collision",
+  "customer_age": 52,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-014",
+  "location": "Metz",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

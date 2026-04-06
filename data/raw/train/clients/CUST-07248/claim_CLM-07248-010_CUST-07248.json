@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07248-010",
+  "customer_id": "CUST-07248",
+  "claim_date": "2023-08-30",
+  "policy_start_date": "2018-07-12",
+  "policy_age_days": 1875,
+  "claim_amount": 19167.27,
+  "claim_type": "bodily_injury",
+  "customer_age": 70,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 138,
+  "service_provider_id": "SP-074",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

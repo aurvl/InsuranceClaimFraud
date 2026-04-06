@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01320-011",
+  "customer_id": "CUST-01320",
+  "claim_date": "2024-11-10",
+  "policy_start_date": "2019-10-22",
+  "policy_age_days": 1846,
+  "claim_amount": 915.85,
+  "claim_type": "windshield",
+  "customer_age": 38,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-066",
+  "location": "Caen",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

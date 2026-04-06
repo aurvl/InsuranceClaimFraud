@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07110-004",
+  "customer_id": "CUST-07110",
+  "claim_date": "2021-11-19",
+  "policy_start_date": "2019-08-25",
+  "policy_age_days": 817,
+  "claim_amount": 1999.41,
+  "claim_type": "hail_damage",
+  "customer_age": 36,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 329,
+  "service_provider_id": "SP-075",
+  "location": "Caen",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

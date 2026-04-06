@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00435-007",
+  "customer_id": "CUST-00435",
+  "claim_date": "2022-01-06",
+  "policy_start_date": "2018-01-19",
+  "policy_age_days": 1448,
+  "claim_amount": 8588.18,
+  "claim_type": "theft",
+  "customer_age": 70,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 54,
+  "service_provider_id": "SP-115",
+  "location": "Limoges",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06209-012",
+  "customer_id": "CUST-06209",
+  "claim_date": "2022-07-31",
+  "policy_start_date": "2019-04-28",
+  "policy_age_days": 1190,
+  "claim_amount": 9083.74,
+  "claim_type": "water_damage",
+  "customer_age": 69,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-059",
+  "location": "Nantes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03138-001",
+  "customer_id": "CUST-03138",
+  "claim_date": "2019-11-22",
+  "policy_start_date": "2019-09-08",
+  "policy_age_days": 75,
+  "claim_amount": 676.33,
+  "claim_type": "windshield",
+  "customer_age": 42,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-023",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01693-008",
+  "customer_id": "CUST-01693",
+  "claim_date": "2025-04-10",
+  "policy_start_date": "2020-02-15",
+  "policy_age_days": 1881,
+  "claim_amount": 15445.68,
+  "claim_type": "bodily_injury",
+  "customer_age": 85,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-010",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

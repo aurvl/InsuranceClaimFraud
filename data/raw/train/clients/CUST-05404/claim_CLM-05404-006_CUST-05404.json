@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05404-006",
+  "customer_id": "CUST-05404",
+  "claim_date": "2023-01-19",
+  "policy_start_date": "2020-05-21",
+  "policy_age_days": 973,
+  "claim_amount": 538.81,
+  "claim_type": "hail_damage",
+  "customer_age": 72,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-090",
+  "location": "Brest",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

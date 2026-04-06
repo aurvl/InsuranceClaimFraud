@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07716-002",
+  "customer_id": "CUST-07716",
+  "claim_date": "2021-06-17",
+  "policy_start_date": "2021-02-14",
+  "policy_age_days": 123,
+  "claim_amount": 10660.34,
+  "claim_type": "theft",
+  "customer_age": 32,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 111,
+  "service_provider_id": "SP-030",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

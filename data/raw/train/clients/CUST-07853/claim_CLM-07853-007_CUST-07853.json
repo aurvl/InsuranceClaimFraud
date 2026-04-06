@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07853-007",
+  "customer_id": "CUST-07853",
+  "claim_date": "2020-12-12",
+  "policy_start_date": "2018-06-12",
+  "policy_age_days": 914,
+  "claim_amount": 7320.98,
+  "claim_type": "collision",
+  "customer_age": 51,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 82,
+  "service_provider_id": "SP-100",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

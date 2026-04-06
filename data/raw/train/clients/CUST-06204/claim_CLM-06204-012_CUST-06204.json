@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06204-012",
+  "customer_id": "CUST-06204",
+  "claim_date": "2022-02-06",
+  "policy_start_date": "2019-01-19",
+  "policy_age_days": 1114,
+  "claim_amount": 9531.99,
+  "claim_type": "collision",
+  "customer_age": 42,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 50,
+  "service_provider_id": "SP-111",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04601-003",
+  "customer_id": "CUST-04601",
+  "claim_date": "2019-12-21",
+  "policy_start_date": "2018-08-01",
+  "policy_age_days": 507,
+  "claim_amount": 49346.08,
+  "claim_type": "fire",
+  "customer_age": 26,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 189,
+  "service_provider_id": "SP-030",
+  "location": "Toulouse",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

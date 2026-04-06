@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05778-011",
+  "customer_id": "CUST-05778",
+  "claim_date": "2024-09-15",
+  "policy_start_date": "2018-03-08",
+  "policy_age_days": 2383,
+  "claim_amount": 5436.04,
+  "claim_type": "collision",
+  "customer_age": 76,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 307,
+  "service_provider_id": "SP-058",
+  "location": "La Rochelle",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

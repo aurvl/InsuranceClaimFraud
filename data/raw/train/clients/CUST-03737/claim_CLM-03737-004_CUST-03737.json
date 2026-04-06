@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03737-004",
+  "customer_id": "CUST-03737",
+  "claim_date": "2021-12-22",
+  "policy_start_date": "2020-11-18",
+  "policy_age_days": 399,
+  "claim_amount": 15782.33,
+  "claim_type": "fire",
+  "customer_age": 82,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 211,
+  "service_provider_id": "SP-106",
+  "location": "Reims",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

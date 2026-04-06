@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04875-007",
+  "customer_id": "CUST-04875",
+  "claim_date": "2022-08-19",
+  "policy_start_date": "2018-09-08",
+  "policy_age_days": 1441,
+  "claim_amount": 5367.79,
+  "claim_type": "water_damage",
+  "customer_age": 68,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 183,
+  "service_provider_id": "SP-096",
+  "location": "Nancy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

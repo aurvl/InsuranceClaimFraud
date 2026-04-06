@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00197-006",
+  "customer_id": "CUST-00197",
+  "claim_date": "2022-07-06",
+  "policy_start_date": "2020-03-30",
+  "policy_age_days": 828,
+  "claim_amount": 5048.8,
+  "claim_type": "theft",
+  "customer_age": 78,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 197,
+  "service_provider_id": "SP-072",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

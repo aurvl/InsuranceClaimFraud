@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05598-005",
+  "customer_id": "CUST-05598",
+  "claim_date": "2020-03-15",
+  "policy_start_date": "2018-07-23",
+  "policy_age_days": 601,
+  "claim_amount": 7524.59,
+  "claim_type": "collision",
+  "customer_age": 50,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-019",
+  "location": "Metz",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

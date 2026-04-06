@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00972-004",
+  "customer_id": "CUST-00972",
+  "claim_date": "2020-12-05",
+  "policy_start_date": "2018-11-11",
+  "policy_age_days": 755,
+  "claim_amount": 5483.17,
+  "claim_type": "theft",
+  "customer_age": 70,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 15,
+  "service_provider_id": "SP-042",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

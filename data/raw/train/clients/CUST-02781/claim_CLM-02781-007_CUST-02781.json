@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02781-007",
+  "customer_id": "CUST-02781",
+  "claim_date": "2019-01-03",
+  "policy_start_date": "2018-01-11",
+  "policy_age_days": 357,
+  "claim_amount": 2664.83,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-080",
+  "location": "Ajaccio",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

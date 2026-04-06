@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04152-010",
+  "customer_id": "CUST-04152",
+  "claim_date": "2024-01-30",
+  "policy_start_date": "2018-01-14",
+  "policy_age_days": 2207,
+  "claim_amount": 33780.3,
+  "claim_type": "fire",
+  "customer_age": 44,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 196,
+  "service_provider_id": "SP-029",
+  "location": "Lyon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

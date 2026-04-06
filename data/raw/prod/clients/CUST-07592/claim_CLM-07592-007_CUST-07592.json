@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07592-007",
+  "customer_id": "CUST-07592",
+  "claim_date": "2024-11-11",
+  "policy_start_date": "2020-07-08",
+  "policy_age_days": 1587,
+  "claim_amount": 5371.48,
+  "claim_type": "bodily_injury",
+  "customer_age": 72,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 221,
+  "service_provider_id": "SP-106",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

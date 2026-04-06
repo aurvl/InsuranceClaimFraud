@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04169-005",
+  "customer_id": "CUST-04169",
+  "claim_date": "2019-09-04",
+  "policy_start_date": "2018-06-07",
+  "policy_age_days": 454,
+  "claim_amount": 25968.79,
+  "claim_type": "bodily_injury",
+  "customer_age": 80,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-069",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

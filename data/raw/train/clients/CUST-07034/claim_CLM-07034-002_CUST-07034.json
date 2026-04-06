@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07034-002",
+  "customer_id": "CUST-07034",
+  "claim_date": "2019-03-09",
+  "policy_start_date": "2018-02-24",
+  "policy_age_days": 378,
+  "claim_amount": 6124.07,
+  "claim_type": "collision",
+  "customer_age": 50,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 287,
+  "service_provider_id": "SP-103",
+  "location": "Tours",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

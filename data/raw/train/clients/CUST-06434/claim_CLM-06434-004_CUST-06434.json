@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06434-004",
+  "customer_id": "CUST-06434",
+  "claim_date": "2022-01-17",
+  "policy_start_date": "2019-07-15",
+  "policy_age_days": 917,
+  "claim_amount": 8098.65,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 322,
+  "service_provider_id": "SP-058",
+  "location": "Aix-en-Provence",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

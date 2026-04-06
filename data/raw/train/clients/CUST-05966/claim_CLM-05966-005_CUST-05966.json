@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05966-005",
+  "customer_id": "CUST-05966",
+  "claim_date": "2023-02-03",
+  "policy_start_date": "2021-03-22",
+  "policy_age_days": 683,
+  "claim_amount": 2871.19,
+  "claim_type": "collision",
+  "customer_age": 60,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 70,
+  "service_provider_id": "SP-089",
+  "location": "La Rochelle",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

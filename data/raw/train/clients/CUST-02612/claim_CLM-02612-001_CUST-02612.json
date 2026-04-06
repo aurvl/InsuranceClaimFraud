@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02612-001",
+  "customer_id": "CUST-02612",
+  "claim_date": "2021-12-26",
+  "policy_start_date": "2021-10-10",
+  "policy_age_days": 77,
+  "claim_amount": 879.7,
+  "claim_type": "windshield",
+  "customer_age": 29,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-014",
+  "location": "Metz",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

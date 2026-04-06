@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07740-004",
+  "customer_id": "CUST-07740",
+  "claim_date": "2021-04-03",
+  "policy_start_date": "2019-02-24",
+  "policy_age_days": 769,
+  "claim_amount": 26691.85,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 156,
+  "service_provider_id": "SP-098",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

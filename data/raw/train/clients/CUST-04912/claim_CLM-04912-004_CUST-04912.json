@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04912-004",
+  "customer_id": "CUST-04912",
+  "claim_date": "2019-11-21",
+  "policy_start_date": "2019-01-16",
+  "policy_age_days": 309,
+  "claim_amount": 6444.77,
+  "claim_type": "hail_damage",
+  "customer_age": 59,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 91,
+  "service_provider_id": "SP-097",
+  "location": "Brest",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

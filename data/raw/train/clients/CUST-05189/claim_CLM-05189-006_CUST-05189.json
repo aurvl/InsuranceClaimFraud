@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05189-006",
+  "customer_id": "CUST-05189",
+  "claim_date": "2022-02-28",
+  "policy_start_date": "2019-03-06",
+  "policy_age_days": 1090,
+  "claim_amount": 14262.81,
+  "claim_type": "bodily_injury",
+  "customer_age": 72,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-076",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

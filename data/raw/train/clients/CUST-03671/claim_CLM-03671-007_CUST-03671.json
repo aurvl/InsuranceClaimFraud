@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03671-007",
+  "customer_id": "CUST-03671",
+  "claim_date": "2021-08-13",
+  "policy_start_date": "2019-03-15",
+  "policy_age_days": 882,
+  "claim_amount": 2483.66,
+  "claim_type": "collision",
+  "customer_age": 72,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-110",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

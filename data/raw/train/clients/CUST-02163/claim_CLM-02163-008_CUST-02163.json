@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02163-008",
+  "customer_id": "CUST-02163",
+  "claim_date": "2022-06-09",
+  "policy_start_date": "2018-06-10",
+  "policy_age_days": 1460,
+  "claim_amount": 66617.85,
+  "claim_type": "fire",
+  "customer_age": 60,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 235,
+  "service_provider_id": "SP-043",
+  "location": "Cannes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

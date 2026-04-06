@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04136-003",
+  "customer_id": "CUST-04136",
+  "claim_date": "2021-03-28",
+  "policy_start_date": "2019-09-07",
+  "policy_age_days": 568,
+  "claim_amount": 2493.99,
+  "claim_type": "collision",
+  "customer_age": 55,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 203,
+  "service_provider_id": "SP-091",
+  "location": "Lille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

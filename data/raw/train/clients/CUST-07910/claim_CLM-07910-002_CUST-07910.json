@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07910-002",
+  "customer_id": "CUST-07910",
+  "claim_date": "2018-10-31",
+  "policy_start_date": "2018-06-17",
+  "policy_age_days": 136,
+  "claim_amount": 5681.95,
+  "claim_type": "collision",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-003",
+  "location": "Strasbourg",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

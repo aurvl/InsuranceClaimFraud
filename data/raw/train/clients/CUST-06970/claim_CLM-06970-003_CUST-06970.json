@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06970-003",
+  "customer_id": "CUST-06970",
+  "claim_date": "2019-09-20",
+  "policy_start_date": "2019-05-24",
+  "policy_age_days": 119,
+  "claim_amount": 9133.52,
+  "claim_type": "collision",
+  "customer_age": 55,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 14,
+  "service_provider_id": "SP-072",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

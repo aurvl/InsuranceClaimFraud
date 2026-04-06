@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07430-007",
+  "customer_id": "CUST-07430",
+  "claim_date": "2020-07-28",
+  "policy_start_date": "2018-04-28",
+  "policy_age_days": 822,
+  "claim_amount": 6382.35,
+  "claim_type": "hail_damage",
+  "customer_age": 18,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 259,
+  "service_provider_id": "SP-011",
+  "location": "Marseille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

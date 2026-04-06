@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06109-006",
+  "customer_id": "CUST-06109",
+  "claim_date": "2021-10-04",
+  "policy_start_date": "2019-10-20",
+  "policy_age_days": 715,
+  "claim_amount": 8249.81,
+  "claim_type": "fire",
+  "customer_age": 75,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 20,
+  "service_provider_id": "SP-029",
+  "location": "Angers",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06381-004",
+  "customer_id": "CUST-06381",
+  "claim_date": "2020-06-12",
+  "policy_start_date": "2018-09-25",
+  "policy_age_days": 626,
+  "claim_amount": 45468.36,
+  "claim_type": "bodily_injury",
+  "customer_age": 65,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 162,
+  "service_provider_id": "SP-107",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

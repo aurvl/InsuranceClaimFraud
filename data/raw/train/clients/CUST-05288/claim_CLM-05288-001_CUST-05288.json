@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05288-001",
+  "customer_id": "CUST-05288",
+  "claim_date": "2018-10-13",
+  "policy_start_date": "2018-08-26",
+  "policy_age_days": 48,
+  "claim_amount": 2083.7,
+  "claim_type": "hail_damage",
+  "customer_age": 23,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-067",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

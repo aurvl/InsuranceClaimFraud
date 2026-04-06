@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06373-007",
+  "customer_id": "CUST-06373",
+  "claim_date": "2021-10-09",
+  "policy_start_date": "2020-01-05",
+  "policy_age_days": 643,
+  "claim_amount": 10844.27,
+  "claim_type": "theft",
+  "customer_age": 75,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 66,
+  "service_provider_id": "SP-087",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

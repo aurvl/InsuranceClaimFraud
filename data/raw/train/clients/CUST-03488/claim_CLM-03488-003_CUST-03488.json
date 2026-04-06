@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03488-003",
+  "customer_id": "CUST-03488",
+  "claim_date": "2024-05-17",
+  "policy_start_date": "2023-02-11",
+  "policy_age_days": 461,
+  "claim_amount": 2232.8,
+  "claim_type": "hail_damage",
+  "customer_age": 47,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 171,
+  "service_provider_id": "SP-074",
+  "location": "Aix-en-Provence",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

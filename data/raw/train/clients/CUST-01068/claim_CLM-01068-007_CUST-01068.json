@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01068-007",
+  "customer_id": "CUST-01068",
+  "claim_date": "2022-01-08",
+  "policy_start_date": "2018-08-09",
+  "policy_age_days": 1248,
+  "claim_amount": 4515.11,
+  "claim_type": "water_damage",
+  "customer_age": 80,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 205,
+  "service_provider_id": "SP-039",
+  "location": "Cannes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

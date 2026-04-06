@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06923-003",
+  "customer_id": "CUST-06923",
+  "claim_date": "2020-02-24",
+  "policy_start_date": "2018-06-11",
+  "policy_age_days": 623,
+  "claim_amount": 4591.99,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 273,
+  "service_provider_id": "SP-097",
+  "location": "Tours",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07959-001",
+  "customer_id": "CUST-07959",
+  "claim_date": "2019-01-17",
+  "policy_start_date": "2018-09-22",
+  "policy_age_days": 117,
+  "claim_amount": 2851.96,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-024",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

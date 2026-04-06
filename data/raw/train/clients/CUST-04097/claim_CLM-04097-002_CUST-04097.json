@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04097-002",
+  "customer_id": "CUST-04097",
+  "claim_date": "2024-04-04",
+  "policy_start_date": "2023-04-16",
+  "policy_age_days": 354,
+  "claim_amount": 1632.13,
+  "claim_type": "hail_damage",
+  "customer_age": 40,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 275,
+  "service_provider_id": "SP-047",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

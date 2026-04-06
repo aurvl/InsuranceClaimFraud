@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06316-005",
+  "customer_id": "CUST-06316",
+  "claim_date": "2022-10-28",
+  "policy_start_date": "2020-02-24",
+  "policy_age_days": 977,
+  "claim_amount": 1023.32,
+  "claim_type": "collision",
+  "customer_age": 67,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 553,
+  "service_provider_id": "SP-031",
+  "location": "Dijon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07400-004",
+  "customer_id": "CUST-07400",
+  "claim_date": "2024-09-25",
+  "policy_start_date": "2023-02-17",
+  "policy_age_days": 586,
+  "claim_amount": 5376.9,
+  "claim_type": "theft",
+  "customer_age": 76,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 8,
+  "service_provider_id": "SP-089",
+  "location": "Nantes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

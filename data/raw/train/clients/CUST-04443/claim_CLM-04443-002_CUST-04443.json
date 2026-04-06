@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04443-002",
+  "customer_id": "CUST-04443",
+  "claim_date": "2019-09-10",
+  "policy_start_date": "2018-12-19",
+  "policy_age_days": 265,
+  "claim_amount": 15548.83,
+  "claim_type": "collision",
+  "customer_age": 65,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 200,
+  "service_provider_id": "SP-014",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

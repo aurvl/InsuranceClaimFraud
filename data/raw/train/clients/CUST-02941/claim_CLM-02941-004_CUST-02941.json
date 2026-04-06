@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02941-004",
+  "customer_id": "CUST-02941",
+  "claim_date": "2022-12-28",
+  "policy_start_date": "2021-09-18",
+  "policy_age_days": 466,
+  "claim_amount": 7895.43,
+  "claim_type": "bodily_injury",
+  "customer_age": 50,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-011",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

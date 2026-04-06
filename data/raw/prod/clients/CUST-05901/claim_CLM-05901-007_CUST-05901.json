@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05901-007",
+  "customer_id": "CUST-05901",
+  "claim_date": "2025-10-17",
+  "policy_start_date": "2023-09-15",
+  "policy_age_days": 763,
+  "claim_amount": 6357.27,
+  "claim_type": "collision",
+  "customer_age": 65,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-044",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

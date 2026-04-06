@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00850-004",
+  "customer_id": "CUST-00850",
+  "claim_date": "2020-09-22",
+  "policy_start_date": "2019-03-19",
+  "policy_age_days": 553,
+  "claim_amount": 4404.58,
+  "claim_type": "collision",
+  "customer_age": 60,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 272,
+  "service_provider_id": "SP-044",
+  "location": "Nice",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

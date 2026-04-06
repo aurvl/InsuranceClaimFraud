@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05841-009",
+  "customer_id": "CUST-05841",
+  "claim_date": "2022-11-06",
+  "policy_start_date": "2018-04-30",
+  "policy_age_days": 1651,
+  "claim_amount": 5254.18,
+  "claim_type": "water_damage",
+  "customer_age": 38,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 207,
+  "service_provider_id": "SP-071",
+  "location": "Grenoble",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

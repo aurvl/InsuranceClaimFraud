@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05370-003",
+  "customer_id": "CUST-05370",
+  "claim_date": "2020-05-16",
+  "policy_start_date": "2018-07-10",
+  "policy_age_days": 676,
+  "claim_amount": 2492.48,
+  "claim_type": "collision",
+  "customer_age": 28,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-035",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05269-009",
+  "customer_id": "CUST-05269",
+  "claim_date": "2023-02-19",
+  "policy_start_date": "2020-03-25",
+  "policy_age_days": 1061,
+  "claim_amount": 4013.79,
+  "claim_type": "water_damage",
+  "customer_age": 83,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-014",
+  "location": "Metz",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

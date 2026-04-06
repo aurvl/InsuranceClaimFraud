@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07315-001",
+  "customer_id": "CUST-07315",
+  "claim_date": "2021-04-23",
+  "policy_start_date": "2021-01-02",
+  "policy_age_days": 111,
+  "claim_amount": 4704.83,
+  "claim_type": "theft",
+  "customer_age": 70,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-045",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

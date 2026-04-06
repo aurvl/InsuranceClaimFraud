@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04322-002",
+  "customer_id": "CUST-04322",
+  "claim_date": "2021-08-24",
+  "policy_start_date": "2020-12-25",
+  "policy_age_days": 242,
+  "claim_amount": 13588.38,
+  "claim_type": "theft",
+  "customer_age": 21,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 212,
+  "service_provider_id": "SP-089",
+  "location": "Le Mans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

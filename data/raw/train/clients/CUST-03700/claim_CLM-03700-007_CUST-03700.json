@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03700-007",
+  "customer_id": "CUST-03700",
+  "claim_date": "2022-12-13",
+  "policy_start_date": "2018-05-31",
+  "policy_age_days": 1657,
+  "claim_amount": 4164.06,
+  "claim_type": "water_damage",
+  "customer_age": 59,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 276,
+  "service_provider_id": "SP-118",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

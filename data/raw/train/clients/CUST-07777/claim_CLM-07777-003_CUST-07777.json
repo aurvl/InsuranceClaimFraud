@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07777-003",
+  "customer_id": "CUST-07777",
+  "claim_date": "2021-07-20",
+  "policy_start_date": "2020-10-14",
+  "policy_age_days": 279,
+  "claim_amount": 2949.26,
+  "claim_type": "hail_damage",
+  "customer_age": 67,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 91,
+  "service_provider_id": "SP-047",
+  "location": "Nantes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

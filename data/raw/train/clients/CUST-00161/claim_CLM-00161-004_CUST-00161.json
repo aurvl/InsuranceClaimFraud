@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00161-004",
+  "customer_id": "CUST-00161",
+  "claim_date": "2022-02-15",
+  "policy_start_date": "2020-03-04",
+  "policy_age_days": 713,
+  "claim_amount": 35525.47,
+  "claim_type": "bodily_injury",
+  "customer_age": 30,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 161,
+  "service_provider_id": "SP-058",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

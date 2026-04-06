@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06309-001",
+  "customer_id": "CUST-06309",
+  "claim_date": "2019-03-20",
+  "policy_start_date": "2019-02-24",
+  "policy_age_days": 24,
+  "claim_amount": 1597.96,
+  "claim_type": "hail_damage",
+  "customer_age": 57,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-016",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

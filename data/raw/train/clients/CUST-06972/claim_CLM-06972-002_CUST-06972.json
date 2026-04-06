@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06972-002",
+  "customer_id": "CUST-06972",
+  "claim_date": "2022-07-17",
+  "policy_start_date": "2021-12-15",
+  "policy_age_days": 214,
+  "claim_amount": 13836.08,
+  "claim_type": "theft",
+  "customer_age": 23,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 92,
+  "service_provider_id": "SP-037",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

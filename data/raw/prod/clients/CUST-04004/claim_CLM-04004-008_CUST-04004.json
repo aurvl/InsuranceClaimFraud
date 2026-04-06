@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04004-008",
+  "customer_id": "CUST-04004",
+  "claim_date": "2025-06-04",
+  "policy_start_date": "2022-02-22",
+  "policy_age_days": 1198,
+  "claim_amount": 9141.34,
+  "claim_type": "theft",
+  "customer_age": 43,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 17,
+  "service_provider_id": "SP-037",
+  "location": "Angers",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

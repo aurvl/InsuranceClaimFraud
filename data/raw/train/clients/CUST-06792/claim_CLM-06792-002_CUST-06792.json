@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06792-002",
+  "customer_id": "CUST-06792",
+  "claim_date": "2021-08-18",
+  "policy_start_date": "2020-06-06",
+  "policy_age_days": 438,
+  "claim_amount": 9479.34,
+  "claim_type": "theft",
+  "customer_age": 76,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 397,
+  "service_provider_id": "SP-056",
+  "location": "Strasbourg",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

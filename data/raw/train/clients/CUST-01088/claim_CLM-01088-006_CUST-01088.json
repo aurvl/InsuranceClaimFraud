@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01088-006",
+  "customer_id": "CUST-01088",
+  "claim_date": "2020-11-08",
+  "policy_start_date": "2018-07-24",
+  "policy_age_days": 838,
+  "claim_amount": 20112.15,
+  "claim_type": "bodily_injury",
+  "customer_age": 48,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-061",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

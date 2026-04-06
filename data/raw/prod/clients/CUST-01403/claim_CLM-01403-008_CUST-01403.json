@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01403-008",
+  "customer_id": "CUST-01403",
+  "claim_date": "2025-07-15",
+  "policy_start_date": "2020-11-30",
+  "policy_age_days": 1688,
+  "claim_amount": 3641.3,
+  "claim_type": "hail_damage",
+  "customer_age": 48,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 258,
+  "service_provider_id": "SP-107",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

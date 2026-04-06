@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08895-007",
+  "customer_id": "CUST-08895",
+  "claim_date": "2020-02-07",
+  "policy_start_date": "2018-10-24",
+  "policy_age_days": 471,
+  "claim_amount": 16527.12,
+  "claim_type": "fire",
+  "customer_age": 37,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-044",
+  "location": "Nice",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

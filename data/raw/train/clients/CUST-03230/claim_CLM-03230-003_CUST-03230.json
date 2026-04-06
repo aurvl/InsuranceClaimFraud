@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03230-003",
+  "customer_id": "CUST-03230",
+  "claim_date": "2019-06-10",
+  "policy_start_date": "2018-08-24",
+  "policy_age_days": 290,
+  "claim_amount": 13263.71,
+  "claim_type": "water_damage",
+  "customer_age": 60,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 86,
+  "service_provider_id": "SP-001",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05067-004",
+  "customer_id": "CUST-05067",
+  "claim_date": "2024-03-09",
+  "policy_start_date": "2021-05-20",
+  "policy_age_days": 1024,
+  "claim_amount": 22068.86,
+  "claim_type": "bodily_injury",
+  "customer_age": 62,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 271,
+  "service_provider_id": "SP-116",
+  "location": "Amiens",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

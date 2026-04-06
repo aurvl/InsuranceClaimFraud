@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03378-007",
+  "customer_id": "CUST-03378",
+  "claim_date": "2021-04-01",
+  "policy_start_date": "2018-06-02",
+  "policy_age_days": 1034,
+  "claim_amount": 9741.25,
+  "claim_type": "collision",
+  "customer_age": 80,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 56,
+  "service_provider_id": "SP-044",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

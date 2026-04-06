@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06133-004",
+  "customer_id": "CUST-06133",
+  "claim_date": "2024-05-08",
+  "policy_start_date": "2021-08-02",
+  "policy_age_days": 1010,
+  "claim_amount": 31808.89,
+  "claim_type": "theft",
+  "customer_age": 42,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 266,
+  "service_provider_id": "SP-047",
+  "location": "N\u00eemes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

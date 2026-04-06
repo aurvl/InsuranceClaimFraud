@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07673-004",
+  "customer_id": "CUST-07673",
+  "claim_date": "2021-07-16",
+  "policy_start_date": "2020-02-27",
+  "policy_age_days": 505,
+  "claim_amount": 3570.5,
+  "claim_type": "collision",
+  "customer_age": 70,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 149,
+  "service_provider_id": "SP-090",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

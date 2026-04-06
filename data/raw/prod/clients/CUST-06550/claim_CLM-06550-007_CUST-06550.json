@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06550-007",
+  "customer_id": "CUST-06550",
+  "claim_date": "2024-11-25",
+  "policy_start_date": "2022-04-25",
+  "policy_age_days": 945,
+  "claim_amount": 6727.75,
+  "claim_type": "water_damage",
+  "customer_age": 48,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-055",
+  "location": "N\u00eemes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

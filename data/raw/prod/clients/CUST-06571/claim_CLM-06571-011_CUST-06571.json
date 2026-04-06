@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06571-011",
+  "customer_id": "CUST-06571",
+  "claim_date": "2025-12-21",
+  "policy_start_date": "2018-12-20",
+  "policy_age_days": 2558,
+  "claim_amount": 2443.05,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-008",
+  "location": "Perpignan",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

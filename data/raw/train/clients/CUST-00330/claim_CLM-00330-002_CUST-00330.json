@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00330-002",
+  "customer_id": "CUST-00330",
+  "claim_date": "2020-09-29",
+  "policy_start_date": "2020-04-08",
+  "policy_age_days": 174,
+  "claim_amount": 7141.28,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 75,
+  "service_provider_id": "SP-071",
+  "location": "Limoges",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

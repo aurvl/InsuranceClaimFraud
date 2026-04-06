@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00161-003",
+  "customer_id": "CUST-00161",
+  "claim_date": "2021-09-07",
+  "policy_start_date": "2020-03-04",
+  "policy_age_days": 552,
+  "claim_amount": 15419.07,
+  "claim_type": "theft",
+  "customer_age": 30,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 301,
+  "service_provider_id": "SP-058",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

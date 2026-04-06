@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08823-010",
+  "customer_id": "CUST-08823",
+  "claim_date": "2023-03-30",
+  "policy_start_date": "2018-02-28",
+  "policy_age_days": 1856,
+  "claim_amount": 1210.55,
+  "claim_type": "windshield",
+  "customer_age": 32,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 192,
+  "service_provider_id": "SP-058",
+  "location": "Nantes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

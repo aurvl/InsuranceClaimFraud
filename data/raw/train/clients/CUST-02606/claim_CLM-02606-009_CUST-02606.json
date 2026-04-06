@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02606-009",
+  "customer_id": "CUST-02606",
+  "claim_date": "2022-07-11",
+  "policy_start_date": "2018-09-13",
+  "policy_age_days": 1397,
+  "claim_amount": 5450.15,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-030",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

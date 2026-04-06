@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00800-004",
+  "customer_id": "CUST-00800",
+  "claim_date": "2021-06-11",
+  "policy_start_date": "2018-01-25",
+  "policy_age_days": 1233,
+  "claim_amount": 31402.51,
+  "claim_type": "fire",
+  "customer_age": 23,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 219,
+  "service_provider_id": "SP-100",
+  "location": "Rennes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

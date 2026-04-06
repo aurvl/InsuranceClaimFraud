@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05664-005",
+  "customer_id": "CUST-05664",
+  "claim_date": "2024-11-06",
+  "policy_start_date": "2023-06-08",
+  "policy_age_days": 517,
+  "claim_amount": 3163.62,
+  "claim_type": "water_damage",
+  "customer_age": 63,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-052",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

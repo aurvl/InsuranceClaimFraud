@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03335-003",
+  "customer_id": "CUST-03335",
+  "claim_date": "2023-07-08",
+  "policy_start_date": "2021-09-21",
+  "policy_age_days": 655,
+  "claim_amount": 24690.37,
+  "claim_type": "theft",
+  "customer_age": 63,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 316,
+  "service_provider_id": "SP-017",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

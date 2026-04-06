@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05627-007",
+  "customer_id": "CUST-05627",
+  "claim_date": "2022-04-08",
+  "policy_start_date": "2018-03-12",
+  "policy_age_days": 1488,
+  "claim_amount": 4806.91,
+  "claim_type": "collision",
+  "customer_age": 38,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 255,
+  "service_provider_id": "SP-008",
+  "location": "Perpignan",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07776-002",
+  "customer_id": "CUST-07776",
+  "claim_date": "2022-01-13",
+  "policy_start_date": "2021-09-14",
+  "policy_age_days": 121,
+  "claim_amount": 7315.91,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 105,
+  "service_provider_id": "SP-102",
+  "location": "Tours",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

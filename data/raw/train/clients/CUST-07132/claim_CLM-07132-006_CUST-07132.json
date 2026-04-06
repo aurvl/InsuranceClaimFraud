@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07132-006",
+  "customer_id": "CUST-07132",
+  "claim_date": "2023-03-09",
+  "policy_start_date": "2019-12-10",
+  "policy_age_days": 1185,
+  "claim_amount": 1975.78,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 133,
+  "service_provider_id": "SP-082",
+  "location": "Le Mans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

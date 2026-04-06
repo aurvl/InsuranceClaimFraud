@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02365-003",
+  "customer_id": "CUST-02365",
+  "claim_date": "2019-02-10",
+  "policy_start_date": "2018-03-13",
+  "policy_age_days": 334,
+  "claim_amount": 6136.28,
+  "claim_type": "water_damage",
+  "customer_age": 66,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 219,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05794-004",
+  "customer_id": "CUST-05794",
+  "claim_date": "2020-11-29",
+  "policy_start_date": "2018-10-10",
+  "policy_age_days": 781,
+  "claim_amount": 12243.19,
+  "claim_type": "bodily_injury",
+  "customer_age": 25,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 382,
+  "service_provider_id": "SP-011",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

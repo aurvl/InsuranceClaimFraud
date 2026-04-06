@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02480-012",
+  "customer_id": "CUST-02480",
+  "claim_date": "2024-01-16",
+  "policy_start_date": "2019-04-13",
+  "policy_age_days": 1739,
+  "claim_amount": 1578.13,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-111",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

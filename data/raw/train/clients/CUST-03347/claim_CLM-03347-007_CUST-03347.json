@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03347-007",
+  "customer_id": "CUST-03347",
+  "claim_date": "2024-06-14",
+  "policy_start_date": "2022-02-14",
+  "policy_age_days": 851,
+  "claim_amount": 3191.77,
+  "claim_type": "collision",
+  "customer_age": 77,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-071",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

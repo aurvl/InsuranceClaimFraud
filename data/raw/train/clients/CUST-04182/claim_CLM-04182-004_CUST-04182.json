@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04182-004",
+  "customer_id": "CUST-04182",
+  "claim_date": "2023-05-19",
+  "policy_start_date": "2021-07-16",
+  "policy_age_days": 672,
+  "claim_amount": 8445.8,
+  "claim_type": "collision",
+  "customer_age": 54,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 225,
+  "service_provider_id": "SP-071",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

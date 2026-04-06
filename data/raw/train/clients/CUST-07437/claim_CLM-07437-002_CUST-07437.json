@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07437-002",
+  "customer_id": "CUST-07437",
+  "claim_date": "2018-11-22",
+  "policy_start_date": "2018-05-28",
+  "policy_age_days": 178,
+  "claim_amount": 7759.54,
+  "claim_type": "theft",
+  "customer_age": 77,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 158,
+  "service_provider_id": "SP-026",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

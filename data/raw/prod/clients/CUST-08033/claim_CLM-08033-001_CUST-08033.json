@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08033-001",
+  "customer_id": "CUST-08033",
+  "claim_date": "2025-06-29",
+  "policy_start_date": "2025-05-26",
+  "policy_age_days": 34,
+  "claim_amount": 13761.8,
+  "claim_type": "bodily_injury",
+  "customer_age": 62,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-023",
+  "location": "Lyon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

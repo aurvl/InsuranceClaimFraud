@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08046-001",
+  "customer_id": "CUST-08046",
+  "claim_date": "2018-08-18",
+  "policy_start_date": "2018-08-03",
+  "policy_age_days": 15,
+  "claim_amount": 8086.53,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-049",
+  "location": "Nantes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

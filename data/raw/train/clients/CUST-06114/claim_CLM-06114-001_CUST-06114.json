@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06114-001",
+  "customer_id": "CUST-06114",
+  "claim_date": "2022-08-20",
+  "policy_start_date": "2022-04-07",
+  "policy_age_days": 135,
+  "claim_amount": 9477.13,
+  "claim_type": "collision",
+  "customer_age": 64,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-030",
+  "location": "Toulouse",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

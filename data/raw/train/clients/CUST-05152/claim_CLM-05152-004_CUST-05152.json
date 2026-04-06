@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05152-004",
+  "customer_id": "CUST-05152",
+  "claim_date": "2021-06-02",
+  "policy_start_date": "2019-07-16",
+  "policy_age_days": 687,
+  "claim_amount": 684.48,
+  "claim_type": "windshield",
+  "customer_age": 27,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 227,
+  "service_provider_id": "SP-052",
+  "location": "Nantes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

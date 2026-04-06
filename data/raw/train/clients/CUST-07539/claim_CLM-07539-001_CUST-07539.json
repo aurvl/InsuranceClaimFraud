@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07539-001",
+  "customer_id": "CUST-07539",
+  "claim_date": "2023-07-28",
+  "policy_start_date": "2023-04-02",
+  "policy_age_days": 117,
+  "claim_amount": 13532.15,
+  "claim_type": "fire",
+  "customer_age": 22,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-039",
+  "location": "Nice",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

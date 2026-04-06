@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06869-005",
+  "customer_id": "CUST-06869",
+  "claim_date": "2020-07-26",
+  "policy_start_date": "2018-02-23",
+  "policy_age_days": 884,
+  "claim_amount": 2942.89,
+  "claim_type": "collision",
+  "customer_age": 31,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 94,
+  "service_provider_id": "SP-077",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

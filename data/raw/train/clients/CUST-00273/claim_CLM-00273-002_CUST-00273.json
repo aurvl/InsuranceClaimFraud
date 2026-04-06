@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00273-002",
+  "customer_id": "CUST-00273",
+  "claim_date": "2020-05-29",
+  "policy_start_date": "2019-06-21",
+  "policy_age_days": 343,
+  "claim_amount": 20119.21,
+  "claim_type": "bodily_injury",
+  "customer_age": 68,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 261,
+  "service_provider_id": "SP-079",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

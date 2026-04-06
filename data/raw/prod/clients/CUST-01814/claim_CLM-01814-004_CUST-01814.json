@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01814-004",
+  "customer_id": "CUST-01814",
+  "claim_date": "2025-02-25",
+  "policy_start_date": "2023-07-05",
+  "policy_age_days": 601,
+  "claim_amount": 7238.87,
+  "claim_type": "theft",
+  "customer_age": 63,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 100,
+  "service_provider_id": "SP-119",
+  "location": "Le Havre",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

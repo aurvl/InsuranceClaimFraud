@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04885-003",
+  "customer_id": "CUST-04885",
+  "claim_date": "2019-07-13",
+  "policy_start_date": "2018-07-17",
+  "policy_age_days": 361,
+  "claim_amount": 8368.07,
+  "claim_type": "bodily_injury",
+  "customer_age": 63,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 185,
+  "service_provider_id": "SP-041",
+  "location": "Nice",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

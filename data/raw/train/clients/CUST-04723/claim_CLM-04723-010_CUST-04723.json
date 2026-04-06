@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04723-010",
+  "customer_id": "CUST-04723",
+  "claim_date": "2023-02-05",
+  "policy_start_date": "2018-05-31",
+  "policy_age_days": 1711,
+  "claim_amount": 1277.83,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 220,
+  "service_provider_id": "SP-055",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

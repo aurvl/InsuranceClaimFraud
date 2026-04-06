@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07178-007",
+  "customer_id": "CUST-07178",
+  "claim_date": "2024-08-06",
+  "policy_start_date": "2020-04-18",
+  "policy_age_days": 1571,
+  "claim_amount": 17236.63,
+  "claim_type": "bodily_injury",
+  "customer_age": 81,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 101,
+  "service_provider_id": "SP-075",
+  "location": "Bordeaux",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

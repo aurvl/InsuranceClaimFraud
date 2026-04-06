@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07281-002",
+  "customer_id": "CUST-07281",
+  "claim_date": "2019-06-11",
+  "policy_start_date": "2019-01-14",
+  "policy_age_days": 148,
+  "claim_amount": 1525.19,
+  "claim_type": "water_damage",
+  "customer_age": 72,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 48,
+  "service_provider_id": "SP-084",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08069-010",
+  "customer_id": "CUST-08069",
+  "claim_date": "2024-02-24",
+  "policy_start_date": "2019-05-01",
+  "policy_age_days": 1760,
+  "claim_amount": 4069.74,
+  "claim_type": "water_damage",
+  "customer_age": 60,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 114,
+  "service_provider_id": "SP-062",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

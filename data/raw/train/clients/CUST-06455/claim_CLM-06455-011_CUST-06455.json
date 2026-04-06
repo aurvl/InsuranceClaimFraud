@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06455-011",
+  "customer_id": "CUST-06455",
+  "claim_date": "2024-03-01",
+  "policy_start_date": "2018-05-04",
+  "policy_age_days": 2128,
+  "claim_amount": 3438.01,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 69,
+  "service_provider_id": "SP-068",
+  "location": "Bordeaux",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

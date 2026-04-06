@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08767-002",
+  "customer_id": "CUST-08767",
+  "claim_date": "2024-05-15",
+  "policy_start_date": "2023-10-19",
+  "policy_age_days": 209,
+  "claim_amount": 8165.92,
+  "claim_type": "collision",
+  "customer_age": 42,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 182,
+  "service_provider_id": "SP-036",
+  "location": "Cannes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

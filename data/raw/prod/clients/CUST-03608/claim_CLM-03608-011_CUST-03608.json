@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03608-011",
+  "customer_id": "CUST-03608",
+  "claim_date": "2024-11-06",
+  "policy_start_date": "2018-02-27",
+  "policy_age_days": 2444,
+  "claim_amount": 8818.1,
+  "claim_type": "fire",
+  "customer_age": 36,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 100,
+  "service_provider_id": "SP-041",
+  "location": "Cannes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06324-007",
+  "customer_id": "CUST-06324",
+  "claim_date": "2022-06-26",
+  "policy_start_date": "2018-04-23",
+  "policy_age_days": 1525,
+  "claim_amount": 3305.0,
+  "claim_type": "hail_damage",
+  "customer_age": 53,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 458,
+  "service_provider_id": "SP-089",
+  "location": "Caen",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

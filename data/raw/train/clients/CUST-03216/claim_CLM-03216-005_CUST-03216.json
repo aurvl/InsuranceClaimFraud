@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03216-005",
+  "customer_id": "CUST-03216",
+  "claim_date": "2024-03-21",
+  "policy_start_date": "2022-08-22",
+  "policy_age_days": 577,
+  "claim_amount": 5067.88,
+  "claim_type": "collision",
+  "customer_age": 56,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-100",
+  "location": "Brest",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

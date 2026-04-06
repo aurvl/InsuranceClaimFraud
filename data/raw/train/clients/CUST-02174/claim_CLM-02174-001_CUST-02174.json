@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02174-001",
+  "customer_id": "CUST-02174",
+  "claim_date": "2019-03-27",
+  "policy_start_date": "2019-02-24",
+  "policy_age_days": 31,
+  "claim_amount": 10351.7,
+  "claim_type": "theft",
+  "customer_age": 20,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-017",
+  "location": "Marseille",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

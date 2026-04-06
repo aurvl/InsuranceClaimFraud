@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03204-004",
+  "customer_id": "CUST-03204",
+  "claim_date": "2022-03-07",
+  "policy_start_date": "2021-03-15",
+  "policy_age_days": 357,
+  "claim_amount": 6687.85,
+  "claim_type": "collision",
+  "customer_age": 59,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 154,
+  "service_provider_id": "SP-014",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04234-004",
+  "customer_id": "CUST-04234",
+  "claim_date": "2024-07-23",
+  "policy_start_date": "2023-05-16",
+  "policy_age_days": 434,
+  "claim_amount": 5860.58,
+  "claim_type": "theft",
+  "customer_age": 56,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 33,
+  "service_provider_id": "SP-106",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

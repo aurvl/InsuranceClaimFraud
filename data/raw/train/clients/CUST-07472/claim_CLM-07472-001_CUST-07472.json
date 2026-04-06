@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07472-001",
+  "customer_id": "CUST-07472",
+  "claim_date": "2021-03-05",
+  "policy_start_date": "2021-02-06",
+  "policy_age_days": 27,
+  "claim_amount": 1608.08,
+  "claim_type": "water_damage",
+  "customer_age": 57,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-055",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

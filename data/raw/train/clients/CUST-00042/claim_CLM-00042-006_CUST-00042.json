@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00042-006",
+  "customer_id": "CUST-00042",
+  "claim_date": "2019-12-30",
+  "policy_start_date": "2018-03-02",
+  "policy_age_days": 668,
+  "claim_amount": 5735.48,
+  "claim_type": "collision",
+  "customer_age": 70,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 117,
+  "service_provider_id": "SP-017",
+  "location": "Rennes",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

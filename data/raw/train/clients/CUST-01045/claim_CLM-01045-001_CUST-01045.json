@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01045-001",
+  "customer_id": "CUST-01045",
+  "claim_date": "2021-10-31",
+  "policy_start_date": "2021-08-21",
+  "policy_age_days": 71,
+  "claim_amount": 2541.01,
+  "claim_type": "collision",
+  "customer_age": 79,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-112",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08175-007",
+  "customer_id": "CUST-08175",
+  "claim_date": "2020-08-28",
+  "policy_start_date": "2018-01-01",
+  "policy_age_days": 970,
+  "claim_amount": 26256.3,
+  "claim_type": "bodily_injury",
+  "customer_age": 24,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 201,
+  "service_provider_id": "SP-032",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

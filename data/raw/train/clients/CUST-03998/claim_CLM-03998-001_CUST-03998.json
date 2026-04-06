@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03998-001",
+  "customer_id": "CUST-03998",
+  "claim_date": "2018-07-24",
+  "policy_start_date": "2018-03-13",
+  "policy_age_days": 133,
+  "claim_amount": 2441.55,
+  "claim_type": "water_damage",
+  "customer_age": 43,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-088",
+  "location": "Lille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

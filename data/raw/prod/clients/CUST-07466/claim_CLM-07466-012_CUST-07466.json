@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07466-012",
+  "customer_id": "CUST-07466",
+  "claim_date": "2025-02-04",
+  "policy_start_date": "2018-06-23",
+  "policy_age_days": 2418,
+  "claim_amount": 17868.2,
+  "claim_type": "fire",
+  "customer_age": 62,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-075",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

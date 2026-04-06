@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03220-006",
+  "customer_id": "CUST-03220",
+  "claim_date": "2021-06-21",
+  "policy_start_date": "2018-12-20",
+  "policy_age_days": 914,
+  "claim_amount": 11283.23,
+  "claim_type": "theft",
+  "customer_age": 51,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 199,
+  "service_provider_id": "SP-081",
+  "location": "Ajaccio",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

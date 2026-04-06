@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07280-004",
+  "customer_id": "CUST-07280",
+  "claim_date": "2021-06-18",
+  "policy_start_date": "2020-05-13",
+  "policy_age_days": 401,
+  "claim_amount": 16818.11,
+  "claim_type": "bodily_injury",
+  "customer_age": 79,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-092",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05030-005",
+  "customer_id": "CUST-05030",
+  "claim_date": "2023-01-19",
+  "policy_start_date": "2022-02-16",
+  "policy_age_days": 337,
+  "claim_amount": 50971.63,
+  "claim_type": "bodily_injury",
+  "customer_age": 52,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 48,
+  "service_provider_id": "SP-014",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

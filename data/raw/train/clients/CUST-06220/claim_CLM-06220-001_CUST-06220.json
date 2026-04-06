@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06220-001",
+  "customer_id": "CUST-06220",
+  "claim_date": "2018-07-02",
+  "policy_start_date": "2018-03-26",
+  "policy_age_days": 98,
+  "claim_amount": 4614.19,
+  "claim_type": "water_damage",
+  "customer_age": 57,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-096",
+  "location": "Brest",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

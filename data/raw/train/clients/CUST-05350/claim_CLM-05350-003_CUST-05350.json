@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05350-003",
+  "customer_id": "CUST-05350",
+  "claim_date": "2020-05-15",
+  "policy_start_date": "2019-06-15",
+  "policy_age_days": 335,
+  "claim_amount": 15145.88,
+  "claim_type": "theft",
+  "customer_age": 74,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 160,
+  "service_provider_id": "SP-044",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

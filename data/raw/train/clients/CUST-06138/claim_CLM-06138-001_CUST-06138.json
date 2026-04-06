@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06138-001",
+  "customer_id": "CUST-06138",
+  "claim_date": "2020-01-06",
+  "policy_start_date": "2019-08-18",
+  "policy_age_days": 141,
+  "claim_amount": 675.54,
+  "claim_type": "windshield",
+  "customer_age": 53,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-026",
+  "location": "Lyon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

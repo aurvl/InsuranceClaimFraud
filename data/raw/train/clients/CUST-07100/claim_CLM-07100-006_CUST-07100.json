@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07100-006",
+  "customer_id": "CUST-07100",
+  "claim_date": "2022-04-07",
+  "policy_start_date": "2018-07-03",
+  "policy_age_days": 1374,
+  "claim_amount": 5992.19,
+  "claim_type": "theft",
+  "customer_age": 58,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 411,
+  "service_provider_id": "SP-119",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06828-005",
+  "customer_id": "CUST-06828",
+  "claim_date": "2021-11-11",
+  "policy_start_date": "2019-01-25",
+  "policy_age_days": 1021,
+  "claim_amount": 16857.69,
+  "claim_type": "water_damage",
+  "customer_age": 19,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 157,
+  "service_provider_id": "SP-003",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

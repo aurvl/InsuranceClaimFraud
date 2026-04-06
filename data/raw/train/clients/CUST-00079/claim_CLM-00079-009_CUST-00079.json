@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00079-009",
+  "customer_id": "CUST-00079",
+  "claim_date": "2024-06-30",
+  "policy_start_date": "2020-03-06",
+  "policy_age_days": 1577,
+  "claim_amount": 7859.22,
+  "claim_type": "fire",
+  "customer_age": 50,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 23,
+  "service_provider_id": "SP-065",
+  "location": "Strasbourg",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

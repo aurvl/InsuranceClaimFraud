@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07483-001",
+  "customer_id": "CUST-07483",
+  "claim_date": "2021-05-21",
+  "policy_start_date": "2021-04-16",
+  "policy_age_days": 35,
+  "claim_amount": 3571.39,
+  "claim_type": "collision",
+  "customer_age": 43,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-086",
+  "location": "Nancy",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

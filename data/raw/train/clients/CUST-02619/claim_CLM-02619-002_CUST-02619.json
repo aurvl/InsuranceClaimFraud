@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02619-002",
+  "customer_id": "CUST-02619",
+  "claim_date": "2024-01-02",
+  "policy_start_date": "2022-06-29",
+  "policy_age_days": 552,
+  "claim_amount": 1252.74,
+  "claim_type": "windshield",
+  "customer_age": 63,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 459,
+  "service_provider_id": "SP-010",
+  "location": "Toulon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

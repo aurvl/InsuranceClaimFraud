@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00915-001",
+  "customer_id": "CUST-00915",
+  "claim_date": "2022-11-24",
+  "policy_start_date": "2022-08-10",
+  "policy_age_days": 106,
+  "claim_amount": 7888.21,
+  "claim_type": "water_damage",
+  "customer_age": 60,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-091",
+  "location": "Aix-en-Provence",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

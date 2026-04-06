@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01441-001",
+  "customer_id": "CUST-01441",
+  "claim_date": "2021-07-18",
+  "policy_start_date": "2021-06-27",
+  "policy_age_days": 21,
+  "claim_amount": 21085.18,
+  "claim_type": "bodily_injury",
+  "customer_age": 54,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-042",
+  "location": "Nice",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08363-009",
+  "customer_id": "CUST-08363",
+  "claim_date": "2024-04-18",
+  "policy_start_date": "2018-11-05",
+  "policy_age_days": 1991,
+  "claim_amount": 5729.66,
+  "claim_type": "collision",
+  "customer_age": 72,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 180,
+  "service_provider_id": "SP-076",
+  "location": "Ajaccio",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

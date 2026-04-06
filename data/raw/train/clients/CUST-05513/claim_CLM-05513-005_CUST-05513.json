@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05513-005",
+  "customer_id": "CUST-05513",
+  "claim_date": "2021-12-31",
+  "policy_start_date": "2019-02-28",
+  "policy_age_days": 1037,
+  "claim_amount": 29886.29,
+  "claim_type": "bodily_injury",
+  "customer_age": 41,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 260,
+  "service_provider_id": "SP-111",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

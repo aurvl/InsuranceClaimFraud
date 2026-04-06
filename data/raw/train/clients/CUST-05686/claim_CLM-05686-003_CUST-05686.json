@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05686-003",
+  "customer_id": "CUST-05686",
+  "claim_date": "2020-07-12",
+  "policy_start_date": "2019-05-07",
+  "policy_age_days": 432,
+  "claim_amount": 2079.84,
+  "claim_type": "windshield",
+  "customer_age": 55,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 247,
+  "service_provider_id": "SP-095",
+  "location": "Lille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

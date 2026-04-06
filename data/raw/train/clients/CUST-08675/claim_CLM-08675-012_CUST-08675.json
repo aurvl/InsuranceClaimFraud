@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08675-012",
+  "customer_id": "CUST-08675",
+  "claim_date": "2023-10-09",
+  "policy_start_date": "2020-03-01",
+  "policy_age_days": 1317,
+  "claim_amount": 20674.04,
+  "claim_type": "bodily_injury",
+  "customer_age": 35,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-050",
+  "location": "Villeurbanne",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05727-009",
+  "customer_id": "CUST-05727",
+  "claim_date": "2023-07-27",
+  "policy_start_date": "2020-06-01",
+  "policy_age_days": 1151,
+  "claim_amount": 1325.42,
+  "claim_type": "hail_damage",
+  "customer_age": 47,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 210,
+  "service_provider_id": "SP-034",
+  "location": "Angers",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

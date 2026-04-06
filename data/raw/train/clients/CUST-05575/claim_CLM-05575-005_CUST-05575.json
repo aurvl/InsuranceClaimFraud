@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05575-005",
+  "customer_id": "CUST-05575",
+  "claim_date": "2021-09-05",
+  "policy_start_date": "2020-08-09",
+  "policy_age_days": 392,
+  "claim_amount": 7709.19,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 40,
+  "service_provider_id": "SP-052",
+  "location": "N\u00eemes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

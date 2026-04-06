@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07306-001",
+  "customer_id": "CUST-07306",
+  "claim_date": "2018-09-28",
+  "policy_start_date": "2018-08-09",
+  "policy_age_days": 50,
+  "claim_amount": 599.04,
+  "claim_type": "windshield",
+  "customer_age": 65,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-070",
+  "location": "Montpellier",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

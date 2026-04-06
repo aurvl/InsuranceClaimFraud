@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07162-002",
+  "customer_id": "CUST-07162",
+  "claim_date": "2020-12-26",
+  "policy_start_date": "2019-10-18",
+  "policy_age_days": 435,
+  "claim_amount": 822.34,
+  "claim_type": "windshield",
+  "customer_age": 56,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 299,
+  "service_provider_id": "SP-054",
+  "location": "Villeurbanne",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03844-007",
+  "customer_id": "CUST-03844",
+  "claim_date": "2022-10-19",
+  "policy_start_date": "2020-03-17",
+  "policy_age_days": 946,
+  "claim_amount": 1859.41,
+  "claim_type": "hail_damage",
+  "customer_age": 49,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-096",
+  "location": "Nancy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

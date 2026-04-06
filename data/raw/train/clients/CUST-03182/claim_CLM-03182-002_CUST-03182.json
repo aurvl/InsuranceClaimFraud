@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03182-002",
+  "customer_id": "CUST-03182",
+  "claim_date": "2022-02-14",
+  "policy_start_date": "2021-03-05",
+  "policy_age_days": 346,
+  "claim_amount": 4930.73,
+  "claim_type": "collision",
+  "customer_age": 82,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-009",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

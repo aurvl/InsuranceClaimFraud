@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00481-001",
+  "customer_id": "CUST-00481",
+  "claim_date": "2018-06-17",
+  "policy_start_date": "2018-01-22",
+  "policy_age_days": 146,
+  "claim_amount": 17358.75,
+  "claim_type": "theft",
+  "customer_age": 74,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-044",
+  "location": "Amiens",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

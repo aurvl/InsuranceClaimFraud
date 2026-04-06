@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01963-005",
+  "customer_id": "CUST-01963",
+  "claim_date": "2019-09-01",
+  "policy_start_date": "2018-03-03",
+  "policy_age_days": 547,
+  "claim_amount": 2357.32,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 109,
+  "service_provider_id": "SP-044",
+  "location": "Angers",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

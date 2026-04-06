@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06195-004",
+  "customer_id": "CUST-06195",
+  "claim_date": "2023-02-15",
+  "policy_start_date": "2019-05-13",
+  "policy_age_days": 1374,
+  "claim_amount": 18054.51,
+  "claim_type": "theft",
+  "customer_age": 27,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-106",
+  "location": "Tours",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

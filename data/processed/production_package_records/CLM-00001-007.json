@@ -1,0 +1,293 @@
+{
+  "claim_payload": {
+    "claim_id": "CLM-00001-007",
+    "customer_id": "CUST-00001",
+    "claim_date": "2024-10-31",
+    "policy_start_date": "2022-12-05",
+    "policy_age_days": 696,
+    "claim_amount": 2764.59,
+    "claim_type": "collision",
+    "customer_age": 44,
+    "num_previous_claims": 6,
+    "time_since_last_claim_days": 31,
+    "service_provider_id": "SP-055",
+    "location": "Toulouse",
+    "weather_condition": "clear"
+  },
+  "structured_claim": {
+    "claim_id": "CLM-00001-007",
+    "customer_id": "CUST-00001",
+    "claim_date": "2024-10-31",
+    "policy_start_date": "2022-12-05",
+    "policy_age_days": 696,
+    "claim_amount": 2764.59,
+    "claim_type": "collision",
+    "customer_age": 44,
+    "num_previous_claims": 6,
+    "time_since_last_claim_days": 31,
+    "service_provider_id": "SP-055",
+    "location": "Toulouse",
+    "weather_condition": "clear"
+  },
+  "document_extraction": {
+    "json_fields": {
+      "claim_id": "CLM-00001-007",
+      "customer_id": "CUST-00001",
+      "claim_date": "2024-10-31",
+      "policy_start_date": "2022-12-05",
+      "policy_age_days": 696,
+      "claim_amount": 2764.59,
+      "claim_type": "collision",
+      "customer_age": 44,
+      "num_previous_claims": 6,
+      "time_since_last_claim_days": 31,
+      "service_provider_id": "SP-055",
+      "location": "Toulouse",
+      "weather_condition": "clear"
+    },
+    "pdf_fields": {
+      "claim_id": "CLM-00001-007",
+      "customer_id": "CUST-00001",
+      "claim_date": "2024-10-31",
+      "policy_start_date": "2022-12-05",
+      "policy_age_days": 696,
+      "claim_type": "collision",
+      "claim_amount": 2764.59,
+      "customer_age": 44,
+      "num_previous_claims": 6,
+      "time_since_last_claim_days": 31,
+      "service_provider_id": "SP-055",
+      "location": "Toulouse",
+      "weather_condition": "clear"
+    },
+    "image_fields": {
+      "claim_id": "CLM-00001-007",
+      "customer_id": "CUST-00001"
+    },
+    "pdf_text_excerpt": "Insurance Claim Summary\nClaim ID: CLM-00001-007\nCustomer ID: CUST-00001\nClaim Date: 2024-10-31\nPolicy Start Date: 2022-12-05\nPolicy Age (days): 696\nClaim Type: collision\nClaim Amount: EUR 2,764.59\nCustomer Age: 44\nPrevious Claims: 6\nTime Since Last Claim: 31 days\nService Provider: SP-055\nLocation: Toulouse\nWeather: clear\nSynthetic adjuster note:\nThe customer reported a collision incident in Toulouse under clear conditions. The requested amount is EUR 2,764.59. This package is generated locally to emulate a claim intake workflow with CRM data and attachments.\n",
+    "image_metadata": {
+      "width": 640,
+      "height": 360,
+      "format": "PNG"
+    },
+    "source_map": {
+      "claim_id": [
+        {
+          "source": "json",
+          "value": "CLM-00001-007"
+        },
+        {
+          "source": "pdf",
+          "value": "CLM-00001-007"
+        },
+        {
+          "source": "image",
+          "value": "CLM-00001-007"
+        }
+      ],
+      "customer_id": [
+        {
+          "source": "json",
+          "value": "CUST-00001"
+        },
+        {
+          "source": "pdf",
+          "value": "CUST-00001"
+        },
+        {
+          "source": "image",
+          "value": "CUST-00001"
+        }
+      ],
+      "claim_date": [
+        {
+          "source": "json",
+          "value": "2024-10-31"
+        },
+        {
+          "source": "pdf",
+          "value": "2024-10-31"
+        }
+      ],
+      "policy_start_date": [
+        {
+          "source": "json",
+          "value": "2022-12-05"
+        },
+        {
+          "source": "pdf",
+          "value": "2022-12-05"
+        }
+      ],
+      "policy_age_days": [
+        {
+          "source": "json",
+          "value": 696
+        },
+        {
+          "source": "pdf",
+          "value": 696
+        }
+      ],
+      "claim_amount": [
+        {
+          "source": "json",
+          "value": 2764.59
+        },
+        {
+          "source": "pdf",
+          "value": 2764.59
+        }
+      ],
+      "claim_type": [
+        {
+          "source": "json",
+          "value": "collision"
+        },
+        {
+          "source": "pdf",
+          "value": "collision"
+        }
+      ],
+      "customer_age": [
+        {
+          "source": "json",
+          "value": 44
+        },
+        {
+          "source": "pdf",
+          "value": 44
+        }
+      ],
+      "num_previous_claims": [
+        {
+          "source": "json",
+          "value": 6
+        },
+        {
+          "source": "pdf",
+          "value": 6
+        }
+      ],
+      "time_since_last_claim_days": [
+        {
+          "source": "json",
+          "value": 31
+        },
+        {
+          "source": "pdf",
+          "value": 31
+        }
+      ],
+      "service_provider_id": [
+        {
+          "source": "json",
+          "value": "SP-055"
+        },
+        {
+          "source": "pdf",
+          "value": "SP-055"
+        }
+      ],
+      "location": [
+        {
+          "source": "json",
+          "value": "Toulouse"
+        },
+        {
+          "source": "pdf",
+          "value": "Toulouse"
+        }
+      ],
+      "weather_condition": [
+        {
+          "source": "json",
+          "value": "clear"
+        },
+        {
+          "source": "pdf",
+          "value": "clear"
+        }
+      ]
+    },
+    "chosen_sources": {
+      "claim_id": "json",
+      "customer_id": "json",
+      "claim_date": "json",
+      "policy_start_date": "json",
+      "policy_age_days": "json",
+      "claim_amount": "json",
+      "claim_type": "json",
+      "customer_age": "json",
+      "num_previous_claims": "json",
+      "time_since_last_claim_days": "json",
+      "service_provider_id": "json",
+      "location": "json",
+      "weather_condition": "json"
+    },
+    "mismatches": [],
+    "missing_fields": [],
+    "structured_claim": {
+      "claim_id": "CLM-00001-007",
+      "customer_id": "CUST-00001",
+      "claim_date": "2024-10-31",
+      "policy_start_date": "2022-12-05",
+      "policy_age_days": 696,
+      "claim_amount": 2764.59,
+      "claim_type": "collision",
+      "customer_age": 44,
+      "num_previous_claims": 6,
+      "time_since_last_claim_days": 31,
+      "service_provider_id": "SP-055",
+      "location": "Toulouse",
+      "weather_condition": "clear"
+    },
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  },
+  "package_metadata": {
+    "claim_id": "CLM-00001-007",
+    "package_directory": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00001-007",
+    "stored_files": {
+      "claim_json": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00001-007\\claim_payload.json",
+      "pdf": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00001-007\\pdf_claim_CLM-00001-007_CUST-00001.pdf",
+      "image": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00001-007\\image_claim_CLM-00001-007_CUST-00001.png"
+    },
+    "attachments": [
+      {
+        "kind": "pdf",
+        "filename": "claim_CLM-00001-007_CUST-00001.pdf",
+        "content_type": "application/pdf",
+        "size_bytes": 1917,
+        "sha256": "84f2c75a856ac40308038f34a9ebdfe47c8c0cbe6d3ac070345d926a8d25797d",
+        "stored_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00001-007\\pdf_claim_CLM-00001-007_CUST-00001.pdf"
+      },
+      {
+        "kind": "image",
+        "filename": "claim_CLM-00001-007_CUST-00001.png",
+        "content_type": "image/png",
+        "size_bytes": 7859,
+        "sha256": "82b9eaaa8c8bc1ed30585f5c881c6fcd470d162ac55c0ad6706d08e472044595",
+        "image_width": 640,
+        "image_height": 360,
+        "image_format": "PNG",
+        "stored_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00001-007\\image_claim_CLM-00001-007_CUST-00001.png"
+      }
+    ],
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  },
+  "prediction": {
+    "claim_id": "CLM-00001-007",
+    "fraud_probability": 0.271939,
+    "model_decision": "non_fraud",
+    "decision_threshold": 0.5,
+    "risk_flags": []
+  },
+  "policy": {
+    "development_cutoff_date": "2024-10-02",
+    "production_start_date": "2024-10-03",
+    "production_data_used_in_training": false,
+    "production_data_used_in_evaluation": false,
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction",
+    "historical_analytics_source": "postgres_from_extracted_client_packages"
+  }
+}

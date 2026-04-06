@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07839-004",
+  "customer_id": "CUST-07839",
+  "claim_date": "2024-07-05",
+  "policy_start_date": "2022-04-20",
+  "policy_age_days": 807,
+  "claim_amount": 4649.63,
+  "claim_type": "water_damage",
+  "customer_age": 19,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 271,
+  "service_provider_id": "SP-022",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

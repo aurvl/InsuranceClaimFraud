@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01575-001",
+  "customer_id": "CUST-01575",
+  "claim_date": "2019-09-29",
+  "policy_start_date": "2019-05-22",
+  "policy_age_days": 130,
+  "claim_amount": 16587.83,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-087",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

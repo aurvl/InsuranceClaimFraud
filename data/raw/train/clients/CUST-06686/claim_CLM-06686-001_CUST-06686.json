@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06686-001",
+  "customer_id": "CUST-06686",
+  "claim_date": "2018-02-24",
+  "policy_start_date": "2018-01-25",
+  "policy_age_days": 30,
+  "claim_amount": 2218.68,
+  "claim_type": "water_damage",
+  "customer_age": 43,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-115",
+  "location": "Limoges",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

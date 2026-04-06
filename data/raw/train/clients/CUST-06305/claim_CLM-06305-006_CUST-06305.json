@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06305-006",
+  "customer_id": "CUST-06305",
+  "claim_date": "2021-10-10",
+  "policy_start_date": "2018-05-21",
+  "policy_age_days": 1238,
+  "claim_amount": 2736.3,
+  "claim_type": "water_damage",
+  "customer_age": 34,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 236,
+  "service_provider_id": "SP-002",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

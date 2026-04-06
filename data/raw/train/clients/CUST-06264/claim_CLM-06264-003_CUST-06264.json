@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06264-003",
+  "customer_id": "CUST-06264",
+  "claim_date": "2024-01-29",
+  "policy_start_date": "2023-02-14",
+  "policy_age_days": 349,
+  "claim_amount": 23261.65,
+  "claim_type": "fire",
+  "customer_age": 40,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 62,
+  "service_provider_id": "SP-080",
+  "location": "Bordeaux",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

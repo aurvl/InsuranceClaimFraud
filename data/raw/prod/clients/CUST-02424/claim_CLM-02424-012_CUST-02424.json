@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02424-012",
+  "customer_id": "CUST-02424",
+  "claim_date": "2024-10-15",
+  "policy_start_date": "2019-11-23",
+  "policy_age_days": 1788,
+  "claim_amount": 7087.39,
+  "claim_type": "fire",
+  "customer_age": 24,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 10,
+  "service_provider_id": "SP-058",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

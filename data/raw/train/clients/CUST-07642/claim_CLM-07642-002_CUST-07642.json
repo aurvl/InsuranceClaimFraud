@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07642-002",
+  "customer_id": "CUST-07642",
+  "claim_date": "2022-12-24",
+  "policy_start_date": "2022-04-05",
+  "policy_age_days": 263,
+  "claim_amount": 10088.62,
+  "claim_type": "theft",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 252,
+  "service_provider_id": "SP-071",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

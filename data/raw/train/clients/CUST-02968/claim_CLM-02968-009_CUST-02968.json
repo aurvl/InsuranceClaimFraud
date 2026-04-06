@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02968-009",
+  "customer_id": "CUST-02968",
+  "claim_date": "2024-06-19",
+  "policy_start_date": "2019-02-20",
+  "policy_age_days": 1946,
+  "claim_amount": 2216.75,
+  "claim_type": "windshield",
+  "customer_age": 69,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 50,
+  "service_provider_id": "SP-111",
+  "location": "Dijon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05476-001",
+  "customer_id": "CUST-05476",
+  "claim_date": "2020-10-14",
+  "policy_start_date": "2020-09-21",
+  "policy_age_days": 23,
+  "claim_amount": 21308.0,
+  "claim_type": "theft",
+  "customer_age": 62,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-059",
+  "location": "Villeurbanne",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

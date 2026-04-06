@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02044-002",
+  "customer_id": "CUST-02044",
+  "claim_date": "2020-03-17",
+  "policy_start_date": "2018-11-25",
+  "policy_age_days": 478,
+  "claim_amount": 13286.08,
+  "claim_type": "bodily_injury",
+  "customer_age": 51,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 335,
+  "service_provider_id": "SP-017",
+  "location": "Lyon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

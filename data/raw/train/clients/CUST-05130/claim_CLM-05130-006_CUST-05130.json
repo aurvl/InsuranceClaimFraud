@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05130-006",
+  "customer_id": "CUST-05130",
+  "claim_date": "2021-12-23",
+  "policy_start_date": "2019-11-21",
+  "policy_age_days": 763,
+  "claim_amount": 10876.66,
+  "claim_type": "collision",
+  "customer_age": 50,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-019",
+  "location": "Lyon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

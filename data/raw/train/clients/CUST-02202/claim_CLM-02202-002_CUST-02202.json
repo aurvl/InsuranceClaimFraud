@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02202-002",
+  "customer_id": "CUST-02202",
+  "claim_date": "2020-11-14",
+  "policy_start_date": "2020-06-02",
+  "policy_age_days": 165,
+  "claim_amount": 2812.84,
+  "claim_type": "collision",
+  "customer_age": 60,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 140,
+  "service_provider_id": "SP-035",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

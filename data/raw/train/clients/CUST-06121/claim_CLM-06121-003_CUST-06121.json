@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06121-003",
+  "customer_id": "CUST-06121",
+  "claim_date": "2020-07-13",
+  "policy_start_date": "2019-02-12",
+  "policy_age_days": 517,
+  "claim_amount": 6086.16,
+  "claim_type": "theft",
+  "customer_age": 51,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 298,
+  "service_provider_id": "SP-097",
+  "location": "Reims",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

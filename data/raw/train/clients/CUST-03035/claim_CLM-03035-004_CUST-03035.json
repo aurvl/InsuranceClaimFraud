@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03035-004",
+  "customer_id": "CUST-03035",
+  "claim_date": "2020-10-30",
+  "policy_start_date": "2018-10-06",
+  "policy_age_days": 755,
+  "claim_amount": 6071.2,
+  "claim_type": "collision",
+  "customer_age": 62,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 219,
+  "service_provider_id": "SP-080",
+  "location": "Caen",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

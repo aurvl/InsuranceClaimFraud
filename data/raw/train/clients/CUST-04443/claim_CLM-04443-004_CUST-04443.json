@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04443-004",
+  "customer_id": "CUST-04443",
+  "claim_date": "2021-08-05",
+  "policy_start_date": "2018-12-19",
+  "policy_age_days": 960,
+  "claim_amount": 849.87,
+  "claim_type": "windshield",
+  "customer_age": 65,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 158,
+  "service_provider_id": "SP-001",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00785-001",
+  "customer_id": "CUST-00785",
+  "claim_date": "2022-02-01",
+  "policy_start_date": "2021-10-03",
+  "policy_age_days": 121,
+  "claim_amount": 2897.67,
+  "claim_type": "collision",
+  "customer_age": 22,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-027",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

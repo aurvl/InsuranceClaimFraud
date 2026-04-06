@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04400-004",
+  "customer_id": "CUST-04400",
+  "claim_date": "2020-04-12",
+  "policy_start_date": "2019-04-01",
+  "policy_age_days": 377,
+  "claim_amount": 7701.28,
+  "claim_type": "collision",
+  "customer_age": 19,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 215,
+  "service_provider_id": "SP-080",
+  "location": "Bordeaux",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

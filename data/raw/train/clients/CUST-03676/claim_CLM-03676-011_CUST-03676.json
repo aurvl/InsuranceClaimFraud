@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03676-011",
+  "customer_id": "CUST-03676",
+  "claim_date": "2024-09-20",
+  "policy_start_date": "2019-03-07",
+  "policy_age_days": 2024,
+  "claim_amount": 29075.76,
+  "claim_type": "theft",
+  "customer_age": 43,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 105,
+  "service_provider_id": "SP-056",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

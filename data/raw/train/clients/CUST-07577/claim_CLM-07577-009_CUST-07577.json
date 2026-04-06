@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07577-009",
+  "customer_id": "CUST-07577",
+  "claim_date": "2022-03-09",
+  "policy_start_date": "2018-04-29",
+  "policy_age_days": 1410,
+  "claim_amount": 3976.63,
+  "claim_type": "collision",
+  "customer_age": 31,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 328,
+  "service_provider_id": "SP-119",
+  "location": "Limoges",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

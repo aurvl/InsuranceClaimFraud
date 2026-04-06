@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00062-005",
+  "customer_id": "CUST-00062",
+  "claim_date": "2023-11-25",
+  "policy_start_date": "2021-04-27",
+  "policy_age_days": 942,
+  "claim_amount": 11254.49,
+  "claim_type": "fire",
+  "customer_age": 38,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 116,
+  "service_provider_id": "SP-056",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

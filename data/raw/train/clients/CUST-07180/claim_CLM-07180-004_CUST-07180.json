@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07180-004",
+  "customer_id": "CUST-07180",
+  "claim_date": "2020-08-23",
+  "policy_start_date": "2019-09-11",
+  "policy_age_days": 347,
+  "claim_amount": 1899.44,
+  "claim_type": "hail_damage",
+  "customer_age": 47,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 178,
+  "service_provider_id": "SP-051",
+  "location": "Villeurbanne",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

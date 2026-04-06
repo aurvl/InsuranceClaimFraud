@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04059-007",
+  "customer_id": "CUST-04059",
+  "claim_date": "2022-07-02",
+  "policy_start_date": "2018-11-13",
+  "policy_age_days": 1327,
+  "claim_amount": 2283.15,
+  "claim_type": "water_damage",
+  "customer_age": 24,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 165,
+  "service_provider_id": "SP-024",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

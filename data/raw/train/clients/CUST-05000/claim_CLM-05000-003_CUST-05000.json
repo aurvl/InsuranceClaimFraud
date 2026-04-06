@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05000-003",
+  "customer_id": "CUST-05000",
+  "claim_date": "2023-04-18",
+  "policy_start_date": "2022-02-04",
+  "policy_age_days": 438,
+  "claim_amount": 3008.1,
+  "claim_type": "hail_damage",
+  "customer_age": 32,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-053",
+  "location": "La Rochelle",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

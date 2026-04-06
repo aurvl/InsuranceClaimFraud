@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02140-005",
+  "customer_id": "CUST-02140",
+  "claim_date": "2023-03-09",
+  "policy_start_date": "2020-03-28",
+  "policy_age_days": 1076,
+  "claim_amount": 5552.01,
+  "claim_type": "fire",
+  "customer_age": 85,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 102,
+  "service_provider_id": "SP-006",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

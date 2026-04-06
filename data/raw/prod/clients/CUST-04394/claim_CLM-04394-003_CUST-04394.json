@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04394-003",
+  "customer_id": "CUST-04394",
+  "claim_date": "2025-08-11",
+  "policy_start_date": "2024-09-29",
+  "policy_age_days": 316,
+  "claim_amount": 5310.34,
+  "claim_type": "theft",
+  "customer_age": 67,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 284,
+  "service_provider_id": "SP-071",
+  "location": "Brest",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

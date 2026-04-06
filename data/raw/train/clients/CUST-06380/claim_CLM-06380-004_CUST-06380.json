@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06380-004",
+  "customer_id": "CUST-06380",
+  "claim_date": "2022-02-02",
+  "policy_start_date": "2019-11-13",
+  "policy_age_days": 812,
+  "claim_amount": 12470.9,
+  "claim_type": "fire",
+  "customer_age": 82,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 222,
+  "service_provider_id": "SP-015",
+  "location": "Toulon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02701-003",
+  "customer_id": "CUST-02701",
+  "claim_date": "2025-12-28",
+  "policy_start_date": "2025-01-28",
+  "policy_age_days": 334,
+  "claim_amount": 1915.23,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 129,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

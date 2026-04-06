@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00237-001",
+  "customer_id": "CUST-00237",
+  "claim_date": "2023-07-17",
+  "policy_start_date": "2023-02-18",
+  "policy_age_days": 149,
+  "claim_amount": 3672.68,
+  "claim_type": "collision",
+  "customer_age": 52,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-007",
+  "location": "Paris",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

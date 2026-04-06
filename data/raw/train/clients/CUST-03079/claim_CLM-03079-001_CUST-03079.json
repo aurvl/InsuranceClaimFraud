@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03079-001",
+  "customer_id": "CUST-03079",
+  "claim_date": "2019-08-21",
+  "policy_start_date": "2019-04-18",
+  "policy_age_days": 125,
+  "claim_amount": 1204.3,
+  "claim_type": "hail_damage",
+  "customer_age": 30,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-084",
+  "location": "Aix-en-Provence",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

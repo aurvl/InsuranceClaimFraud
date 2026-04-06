@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01143-004",
+  "customer_id": "CUST-01143",
+  "claim_date": "2023-05-18",
+  "policy_start_date": "2021-04-02",
+  "policy_age_days": 776,
+  "claim_amount": 17345.08,
+  "claim_type": "fire",
+  "customer_age": 84,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 267,
+  "service_provider_id": "SP-071",
+  "location": "Saint-Malo",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

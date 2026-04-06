@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01548-004",
+  "customer_id": "CUST-01548",
+  "claim_date": "2022-12-16",
+  "policy_start_date": "2021-09-22",
+  "policy_age_days": 450,
+  "claim_amount": 5984.87,
+  "claim_type": "theft",
+  "customer_age": 78,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-075",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

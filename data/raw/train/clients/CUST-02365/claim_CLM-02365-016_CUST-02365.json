@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02365-016",
+  "customer_id": "CUST-02365",
+  "claim_date": "2023-04-25",
+  "policy_start_date": "2018-03-13",
+  "policy_age_days": 1869,
+  "claim_amount": 2580.51,
+  "claim_type": "hail_damage",
+  "customer_age": 66,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 22,
+  "service_provider_id": "SP-031",
+  "location": "Lyon",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

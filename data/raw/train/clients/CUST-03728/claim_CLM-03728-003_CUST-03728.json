@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03728-003",
+  "customer_id": "CUST-03728",
+  "claim_date": "2022-02-18",
+  "policy_start_date": "2020-12-11",
+  "policy_age_days": 434,
+  "claim_amount": 6444.95,
+  "claim_type": "fire",
+  "customer_age": 42,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 207,
+  "service_provider_id": "SP-070",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04028-008",
+  "customer_id": "CUST-04028",
+  "claim_date": "2021-05-30",
+  "policy_start_date": "2018-07-20",
+  "policy_age_days": 1045,
+  "claim_amount": 15190.59,
+  "claim_type": "theft",
+  "customer_age": 48,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 331,
+  "service_provider_id": "SP-006",
+  "location": "Paris",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

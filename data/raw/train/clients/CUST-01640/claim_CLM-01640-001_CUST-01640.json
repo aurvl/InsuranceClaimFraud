@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01640-001",
+  "customer_id": "CUST-01640",
+  "claim_date": "2023-04-23",
+  "policy_start_date": "2023-01-18",
+  "policy_age_days": 95,
+  "claim_amount": 31947.13,
+  "claim_type": "fire",
+  "customer_age": 76,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-013",
+  "location": "Perpignan",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06863-007",
+  "customer_id": "CUST-06863",
+  "claim_date": "2022-08-07",
+  "policy_start_date": "2018-01-05",
+  "policy_age_days": 1675,
+  "claim_amount": 5646.22,
+  "claim_type": "collision",
+  "customer_age": 50,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 398,
+  "service_provider_id": "SP-068",
+  "location": "Strasbourg",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

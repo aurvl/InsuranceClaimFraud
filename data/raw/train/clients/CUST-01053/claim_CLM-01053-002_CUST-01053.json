@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01053-002",
+  "customer_id": "CUST-01053",
+  "claim_date": "2021-12-29",
+  "policy_start_date": "2021-08-24",
+  "policy_age_days": 127,
+  "claim_amount": 3109.61,
+  "claim_type": "collision",
+  "customer_age": 83,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 34,
+  "service_provider_id": "SP-034",
+  "location": "Dijon",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

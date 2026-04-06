@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08074-002",
+  "customer_id": "CUST-08074",
+  "claim_date": "2021-07-27",
+  "policy_start_date": "2020-12-10",
+  "policy_age_days": 229,
+  "claim_amount": 548.41,
+  "claim_type": "windshield",
+  "customer_age": 66,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 112,
+  "service_provider_id": "SP-038",
+  "location": "Cannes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

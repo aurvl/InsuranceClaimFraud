@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02723-002",
+  "customer_id": "CUST-02723",
+  "claim_date": "2021-03-14",
+  "policy_start_date": "2020-01-14",
+  "policy_age_days": 425,
+  "claim_amount": 6072.31,
+  "claim_type": "water_damage",
+  "customer_age": 34,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 303,
+  "service_provider_id": "SP-039",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

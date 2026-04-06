@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01824-002",
+  "customer_id": "CUST-01824",
+  "claim_date": "2025-01-22",
+  "policy_start_date": "2024-05-01",
+  "policy_age_days": 266,
+  "claim_amount": 5074.99,
+  "claim_type": "collision",
+  "customer_age": 79,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 174,
+  "service_provider_id": "SP-089",
+  "location": "Strasbourg",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

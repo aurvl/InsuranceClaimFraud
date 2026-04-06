@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06397-006",
+  "customer_id": "CUST-06397",
+  "claim_date": "2022-04-01",
+  "policy_start_date": "2019-08-31",
+  "policy_age_days": 944,
+  "claim_amount": 1797.02,
+  "claim_type": "windshield",
+  "customer_age": 50,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 135,
+  "service_provider_id": "SP-026",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

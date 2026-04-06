@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04365-005",
+  "customer_id": "CUST-04365",
+  "claim_date": "2021-10-21",
+  "policy_start_date": "2019-05-23",
+  "policy_age_days": 882,
+  "claim_amount": 609.86,
+  "claim_type": "windshield",
+  "customer_age": 80,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 229,
+  "service_provider_id": "SP-040",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05521-001",
+  "customer_id": "CUST-05521",
+  "claim_date": "2020-05-28",
+  "policy_start_date": "2020-05-15",
+  "policy_age_days": 13,
+  "claim_amount": 3823.6,
+  "claim_type": "theft",
+  "customer_age": 31,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-089",
+  "location": "Le Havre",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

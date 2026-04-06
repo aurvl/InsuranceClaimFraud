@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04395-005",
+  "customer_id": "CUST-04395",
+  "claim_date": "2024-09-05",
+  "policy_start_date": "2021-08-25",
+  "policy_age_days": 1107,
+  "claim_amount": 4516.21,
+  "claim_type": "collision",
+  "customer_age": 18,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 249,
+  "service_provider_id": "SP-026",
+  "location": "Lyon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

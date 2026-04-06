@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07134-001",
+  "customer_id": "CUST-07134",
+  "claim_date": "2019-02-11",
+  "policy_start_date": "2018-12-22",
+  "policy_age_days": 51,
+  "claim_amount": 1404.3,
+  "claim_type": "windshield",
+  "customer_age": 69,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-085",
+  "location": "Lille",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

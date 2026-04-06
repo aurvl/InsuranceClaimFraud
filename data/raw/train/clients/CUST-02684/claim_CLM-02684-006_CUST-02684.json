@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02684-006",
+  "customer_id": "CUST-02684",
+  "claim_date": "2024-09-14",
+  "policy_start_date": "2021-10-09",
+  "policy_age_days": 1071,
+  "claim_amount": 28617.29,
+  "claim_type": "theft",
+  "customer_age": 32,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 28,
+  "service_provider_id": "SP-003",
+  "location": "Toulon",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02760-010",
+  "customer_id": "CUST-02760",
+  "claim_date": "2021-08-19",
+  "policy_start_date": "2018-05-17",
+  "policy_age_days": 1190,
+  "claim_amount": 11224.38,
+  "claim_type": "bodily_injury",
+  "customer_age": 37,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 110,
+  "service_provider_id": "SP-100",
+  "location": "Rennes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

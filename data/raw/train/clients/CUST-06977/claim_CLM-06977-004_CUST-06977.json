@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06977-004",
+  "customer_id": "CUST-06977",
+  "claim_date": "2022-08-14",
+  "policy_start_date": "2021-03-30",
+  "policy_age_days": 502,
+  "claim_amount": 2884.75,
+  "claim_type": "collision",
+  "customer_age": 75,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 257,
+  "service_provider_id": "SP-067",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

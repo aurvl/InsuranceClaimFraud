@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07672-004",
+  "customer_id": "CUST-07672",
+  "claim_date": "2021-03-22",
+  "policy_start_date": "2019-12-01",
+  "policy_age_days": 477,
+  "claim_amount": 3455.05,
+  "claim_type": "water_damage",
+  "customer_age": 58,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 206,
+  "service_provider_id": "SP-107",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

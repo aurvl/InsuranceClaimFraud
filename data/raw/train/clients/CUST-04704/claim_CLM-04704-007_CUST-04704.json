@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04704-007",
+  "customer_id": "CUST-04704",
+  "claim_date": "2021-10-18",
+  "policy_start_date": "2019-02-12",
+  "policy_age_days": 979,
+  "claim_amount": 2182.1,
+  "claim_type": "windshield",
+  "customer_age": 43,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 253,
+  "service_provider_id": "SP-058",
+  "location": "Brest",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

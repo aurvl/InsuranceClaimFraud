@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00268-008",
+  "customer_id": "CUST-00268",
+  "claim_date": "2022-11-14",
+  "policy_start_date": "2018-02-17",
+  "policy_age_days": 1731,
+  "claim_amount": 4309.55,
+  "claim_type": "water_damage",
+  "customer_age": 32,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 284,
+  "service_provider_id": "SP-105",
+  "location": "Reims",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

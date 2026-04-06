@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01647-005",
+  "customer_id": "CUST-01647",
+  "claim_date": "2020-10-07",
+  "policy_start_date": "2018-09-07",
+  "policy_age_days": 761,
+  "claim_amount": 18951.14,
+  "claim_type": "bodily_injury",
+  "customer_age": 59,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 118,
+  "service_provider_id": "SP-031",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

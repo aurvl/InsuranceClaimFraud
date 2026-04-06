@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07917-010",
+  "customer_id": "CUST-07917",
+  "claim_date": "2022-11-12",
+  "policy_start_date": "2019-04-06",
+  "policy_age_days": 1316,
+  "claim_amount": 3362.15,
+  "claim_type": "collision",
+  "customer_age": 68,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 178,
+  "service_provider_id": "SP-076",
+  "location": "Ajaccio",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

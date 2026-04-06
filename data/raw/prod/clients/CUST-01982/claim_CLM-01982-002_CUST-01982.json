@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01982-002",
+  "customer_id": "CUST-01982",
+  "claim_date": "2025-08-17",
+  "policy_start_date": "2024-11-07",
+  "policy_age_days": 283,
+  "claim_amount": 761.06,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 180,
+  "service_provider_id": "SP-079",
+  "location": "Caen",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

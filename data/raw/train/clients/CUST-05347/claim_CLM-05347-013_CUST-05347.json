@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05347-013",
+  "customer_id": "CUST-05347",
+  "claim_date": "2023-12-30",
+  "policy_start_date": "2019-06-07",
+  "policy_age_days": 1667,
+  "claim_amount": 25253.5,
+  "claim_type": "bodily_injury",
+  "customer_age": 22,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 188,
+  "service_provider_id": "SP-065",
+  "location": "Strasbourg",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

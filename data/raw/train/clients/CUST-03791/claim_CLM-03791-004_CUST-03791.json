@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03791-004",
+  "customer_id": "CUST-03791",
+  "claim_date": "2019-09-03",
+  "policy_start_date": "2018-08-30",
+  "policy_age_days": 369,
+  "claim_amount": 26541.44,
+  "claim_type": "theft",
+  "customer_age": 74,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 124,
+  "service_provider_id": "SP-041",
+  "location": "Cannes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

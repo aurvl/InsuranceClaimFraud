@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07737-002",
+  "customer_id": "CUST-07737",
+  "claim_date": "2020-07-13",
+  "policy_start_date": "2019-09-12",
+  "policy_age_days": 305,
+  "claim_amount": 1126.71,
+  "claim_type": "hail_damage",
+  "customer_age": 58,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 204,
+  "service_provider_id": "SP-008",
+  "location": "Paris",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

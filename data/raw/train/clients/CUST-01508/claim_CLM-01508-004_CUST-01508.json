@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01508-004",
+  "customer_id": "CUST-01508",
+  "claim_date": "2021-07-23",
+  "policy_start_date": "2020-04-24",
+  "policy_age_days": 455,
+  "claim_amount": 3780.29,
+  "claim_type": "hail_damage",
+  "customer_age": 59,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 133,
+  "service_provider_id": "SP-062",
+  "location": "Clermont-Ferrand",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

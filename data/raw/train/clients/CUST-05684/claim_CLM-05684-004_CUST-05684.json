@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05684-004",
+  "customer_id": "CUST-05684",
+  "claim_date": "2022-11-28",
+  "policy_start_date": "2022-04-28",
+  "policy_age_days": 214,
+  "claim_amount": 9567.82,
+  "claim_type": "bodily_injury",
+  "customer_age": 77,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 61,
+  "service_provider_id": "SP-002",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

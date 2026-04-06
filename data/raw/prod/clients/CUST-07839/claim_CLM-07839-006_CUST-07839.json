@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07839-006",
+  "customer_id": "CUST-07839",
+  "claim_date": "2025-06-17",
+  "policy_start_date": "2022-04-20",
+  "policy_age_days": 1154,
+  "claim_amount": 3430.44,
+  "claim_type": "hail_damage",
+  "customer_age": 19,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 132,
+  "service_provider_id": "SP-071",
+  "location": "Orl\u00e9ans",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

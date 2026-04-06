@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02860-007",
+  "customer_id": "CUST-02860",
+  "claim_date": "2023-01-02",
+  "policy_start_date": "2020-08-10",
+  "policy_age_days": 875,
+  "claim_amount": 958.75,
+  "claim_type": "windshield",
+  "customer_age": 30,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 111,
+  "service_provider_id": "SP-003",
+  "location": "Le Havre",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

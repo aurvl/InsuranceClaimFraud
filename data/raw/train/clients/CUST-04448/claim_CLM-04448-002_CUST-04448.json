@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04448-002",
+  "customer_id": "CUST-04448",
+  "claim_date": "2022-01-25",
+  "policy_start_date": "2021-04-16",
+  "policy_age_days": 284,
+  "claim_amount": 4941.71,
+  "claim_type": "water_damage",
+  "customer_age": 72,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 268,
+  "service_provider_id": "SP-044",
+  "location": "Nice",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

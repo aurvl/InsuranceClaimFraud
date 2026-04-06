@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00775-006",
+  "customer_id": "CUST-00775",
+  "claim_date": "2023-07-18",
+  "policy_start_date": "2020-09-08",
+  "policy_age_days": 1043,
+  "claim_amount": 17503.55,
+  "claim_type": "fire",
+  "customer_age": 30,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 177,
+  "service_provider_id": "SP-087",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

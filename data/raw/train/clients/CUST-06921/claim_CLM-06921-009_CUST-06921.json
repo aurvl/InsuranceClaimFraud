@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06921-009",
+  "customer_id": "CUST-06921",
+  "claim_date": "2021-12-29",
+  "policy_start_date": "2018-03-02",
+  "policy_age_days": 1398,
+  "claim_amount": 1538.09,
+  "claim_type": "hail_damage",
+  "customer_age": 55,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-115",
+  "location": "Limoges",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

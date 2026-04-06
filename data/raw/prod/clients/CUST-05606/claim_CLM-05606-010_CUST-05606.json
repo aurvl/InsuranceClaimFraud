@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05606-010",
+  "customer_id": "CUST-05606",
+  "claim_date": "2025-02-16",
+  "policy_start_date": "2018-06-29",
+  "policy_age_days": 2424,
+  "claim_amount": 18086.72,
+  "claim_type": "theft",
+  "customer_age": 37,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 380,
+  "service_provider_id": "SP-004",
+  "location": "Perpignan",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

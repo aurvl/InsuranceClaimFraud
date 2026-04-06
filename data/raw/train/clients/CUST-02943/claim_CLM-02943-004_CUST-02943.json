@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02943-004",
+  "customer_id": "CUST-02943",
+  "claim_date": "2023-02-13",
+  "policy_start_date": "2020-03-15",
+  "policy_age_days": 1065,
+  "claim_amount": 15181.07,
+  "claim_type": "fire",
+  "customer_age": 45,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 805,
+  "service_provider_id": "SP-058",
+  "location": "La Rochelle",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

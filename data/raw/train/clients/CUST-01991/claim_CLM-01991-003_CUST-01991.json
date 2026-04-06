@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01991-003",
+  "customer_id": "CUST-01991",
+  "claim_date": "2021-02-02",
+  "policy_start_date": "2019-09-24",
+  "policy_age_days": 497,
+  "claim_amount": 1722.54,
+  "claim_type": "collision",
+  "customer_age": 22,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 333,
+  "service_provider_id": "SP-080",
+  "location": "Lille",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

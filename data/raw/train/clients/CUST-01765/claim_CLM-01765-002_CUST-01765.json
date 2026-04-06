@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01765-002",
+  "customer_id": "CUST-01765",
+  "claim_date": "2020-01-29",
+  "policy_start_date": "2019-08-15",
+  "policy_age_days": 167,
+  "claim_amount": 1221.63,
+  "claim_type": "collision",
+  "customer_age": 77,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 49,
+  "service_provider_id": "SP-041",
+  "location": "Toulouse",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

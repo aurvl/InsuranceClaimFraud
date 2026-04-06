@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05406-002",
+  "customer_id": "CUST-05406",
+  "claim_date": "2019-06-22",
+  "policy_start_date": "2019-04-21",
+  "policy_age_days": 62,
+  "claim_amount": 1160.38,
+  "claim_type": "water_damage",
+  "customer_age": 20,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 19,
+  "service_provider_id": "SP-038",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

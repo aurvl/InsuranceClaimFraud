@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00363-001",
+  "customer_id": "CUST-00363",
+  "claim_date": "2021-01-17",
+  "policy_start_date": "2020-12-05",
+  "policy_age_days": 43,
+  "claim_amount": 9225.83,
+  "claim_type": "theft",
+  "customer_age": 69,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-063",
+  "location": "Saint-Malo",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

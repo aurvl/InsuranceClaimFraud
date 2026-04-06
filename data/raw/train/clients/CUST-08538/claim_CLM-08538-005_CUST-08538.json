@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08538-005",
+  "customer_id": "CUST-08538",
+  "claim_date": "2021-10-22",
+  "policy_start_date": "2019-09-10",
+  "policy_age_days": 773,
+  "claim_amount": 7593.03,
+  "claim_type": "collision",
+  "customer_age": 44,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 256,
+  "service_provider_id": "SP-012",
+  "location": "Paris",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

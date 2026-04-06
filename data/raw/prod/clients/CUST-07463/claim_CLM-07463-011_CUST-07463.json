@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07463-011",
+  "customer_id": "CUST-07463",
+  "claim_date": "2024-11-25",
+  "policy_start_date": "2019-10-13",
+  "policy_age_days": 1870,
+  "claim_amount": 1554.77,
+  "claim_type": "water_damage",
+  "customer_age": 20,
+  "num_previous_claims": 10,
+  "time_since_last_claim_days": 31,
+  "service_provider_id": "SP-109",
+  "location": "Reims",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08803-003",
+  "customer_id": "CUST-08803",
+  "claim_date": "2021-09-06",
+  "policy_start_date": "2020-03-16",
+  "policy_age_days": 539,
+  "claim_amount": 4186.71,
+  "claim_type": "water_damage",
+  "customer_age": 68,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 296,
+  "service_provider_id": "SP-010",
+  "location": "Perpignan",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07130-004",
+  "customer_id": "CUST-07130",
+  "claim_date": "2025-08-07",
+  "policy_start_date": "2024-09-09",
+  "policy_age_days": 332,
+  "claim_amount": 11496.49,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-086",
+  "location": "Brest",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

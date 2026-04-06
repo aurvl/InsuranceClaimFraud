@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06021-008",
+  "customer_id": "CUST-06021",
+  "claim_date": "2022-11-22",
+  "policy_start_date": "2018-03-16",
+  "policy_age_days": 1712,
+  "claim_amount": 29296.88,
+  "claim_type": "theft",
+  "customer_age": 66,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 544,
+  "service_provider_id": "SP-005",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

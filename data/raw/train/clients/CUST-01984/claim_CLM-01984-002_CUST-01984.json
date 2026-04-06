@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01984-002",
+  "customer_id": "CUST-01984",
+  "claim_date": "2024-08-15",
+  "policy_start_date": "2024-04-20",
+  "policy_age_days": 117,
+  "claim_amount": 8512.76,
+  "claim_type": "theft",
+  "customer_age": 55,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 9,
+  "service_provider_id": "SP-105",
+  "location": "Amiens",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

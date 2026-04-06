@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04948-006",
+  "customer_id": "CUST-04948",
+  "claim_date": "2020-10-28",
+  "policy_start_date": "2018-05-29",
+  "policy_age_days": 883,
+  "claim_amount": 18569.15,
+  "claim_type": "fire",
+  "customer_age": 71,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 253,
+  "service_provider_id": "SP-030",
+  "location": "Toulouse",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

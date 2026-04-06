@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08311-006",
+  "customer_id": "CUST-08311",
+  "claim_date": "2020-09-28",
+  "policy_start_date": "2018-08-08",
+  "policy_age_days": 782,
+  "claim_amount": 17240.36,
+  "claim_type": "bodily_injury",
+  "customer_age": 27,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 30,
+  "service_provider_id": "SP-055",
+  "location": "Nantes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

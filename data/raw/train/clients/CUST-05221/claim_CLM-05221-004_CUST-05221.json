@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05221-004",
+  "customer_id": "CUST-05221",
+  "claim_date": "2021-01-05",
+  "policy_start_date": "2018-05-24",
+  "policy_age_days": 957,
+  "claim_amount": 7258.24,
+  "claim_type": "theft",
+  "customer_age": 34,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 434,
+  "service_provider_id": "SP-115",
+  "location": "Le Havre",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

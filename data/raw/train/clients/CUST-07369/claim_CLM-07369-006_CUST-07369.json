@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07369-006",
+  "customer_id": "CUST-07369",
+  "claim_date": "2021-06-11",
+  "policy_start_date": "2018-01-08",
+  "policy_age_days": 1250,
+  "claim_amount": 1881.15,
+  "claim_type": "water_damage",
+  "customer_age": 78,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 275,
+  "service_provider_id": "SP-053",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

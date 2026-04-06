@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01604-004",
+  "customer_id": "CUST-01604",
+  "claim_date": "2024-03-01",
+  "policy_start_date": "2022-05-08",
+  "policy_age_days": 663,
+  "claim_amount": 3258.13,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 26,
+  "service_provider_id": "SP-002",
+  "location": "Limoges",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

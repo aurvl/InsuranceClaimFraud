@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00164-009",
+  "customer_id": "CUST-00164",
+  "claim_date": "2023-01-22",
+  "policy_start_date": "2019-06-20",
+  "policy_age_days": 1312,
+  "claim_amount": 9073.49,
+  "claim_type": "collision",
+  "customer_age": 27,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 102,
+  "service_provider_id": "SP-055",
+  "location": "N\u00eemes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02560-003",
+  "customer_id": "CUST-02560",
+  "claim_date": "2025-01-03",
+  "policy_start_date": "2023-12-16",
+  "policy_age_days": 384,
+  "claim_amount": 41836.25,
+  "claim_type": "bodily_injury",
+  "customer_age": 77,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 167,
+  "service_provider_id": "SP-045",
+  "location": "Nice",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

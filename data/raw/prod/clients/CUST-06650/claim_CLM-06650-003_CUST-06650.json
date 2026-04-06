@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06650-003",
+  "customer_id": "CUST-06650",
+  "claim_date": "2024-11-03",
+  "policy_start_date": "2023-04-04",
+  "policy_age_days": 579,
+  "claim_amount": 1739.36,
+  "claim_type": "collision",
+  "customer_age": 21,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 199,
+  "service_provider_id": "SP-048",
+  "location": "Annecy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

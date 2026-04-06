@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07587-016",
+  "customer_id": "CUST-07587",
+  "claim_date": "2025-06-19",
+  "policy_start_date": "2018-05-07",
+  "policy_age_days": 2600,
+  "claim_amount": 1954.22,
+  "claim_type": "collision",
+  "customer_age": 33,
+  "num_previous_claims": 15,
+  "time_since_last_claim_days": 13,
+  "service_provider_id": "SP-093",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

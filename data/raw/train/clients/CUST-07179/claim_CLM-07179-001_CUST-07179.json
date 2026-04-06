@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07179-001",
+  "customer_id": "CUST-07179",
+  "claim_date": "2021-07-11",
+  "policy_start_date": "2021-04-16",
+  "policy_age_days": 86,
+  "claim_amount": 3271.63,
+  "claim_type": "bodily_injury",
+  "customer_age": 26,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-019",
+  "location": "Grenoble",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

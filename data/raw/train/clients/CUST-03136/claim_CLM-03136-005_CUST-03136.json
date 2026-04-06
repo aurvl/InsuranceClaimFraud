@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03136-005",
+  "customer_id": "CUST-03136",
+  "claim_date": "2020-07-19",
+  "policy_start_date": "2019-03-08",
+  "policy_age_days": 499,
+  "claim_amount": 3057.76,
+  "claim_type": "water_damage",
+  "customer_age": 38,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 27,
+  "service_provider_id": "SP-075",
+  "location": "Caen",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

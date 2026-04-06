@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00091-002",
+  "customer_id": "CUST-00091",
+  "claim_date": "2019-11-01",
+  "policy_start_date": "2019-02-10",
+  "policy_age_days": 264,
+  "claim_amount": 6290.91,
+  "claim_type": "theft",
+  "customer_age": 81,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 145,
+  "service_provider_id": "SP-046",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

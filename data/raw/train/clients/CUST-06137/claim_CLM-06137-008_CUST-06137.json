@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06137-008",
+  "customer_id": "CUST-06137",
+  "claim_date": "2024-05-08",
+  "policy_start_date": "2020-04-05",
+  "policy_age_days": 1494,
+  "claim_amount": 15468.17,
+  "claim_type": "theft",
+  "customer_age": 75,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 316,
+  "service_provider_id": "SP-003",
+  "location": "Cannes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

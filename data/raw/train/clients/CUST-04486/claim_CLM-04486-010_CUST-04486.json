@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04486-010",
+  "customer_id": "CUST-04486",
+  "claim_date": "2023-07-02",
+  "policy_start_date": "2018-07-15",
+  "policy_age_days": 1813,
+  "claim_amount": 2600.78,
+  "claim_type": "hail_damage",
+  "customer_age": 28,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 208,
+  "service_provider_id": "SP-114",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05624-006",
+  "customer_id": "CUST-05624",
+  "claim_date": "2023-04-06",
+  "policy_start_date": "2020-02-27",
+  "policy_age_days": 1134,
+  "claim_amount": 3136.08,
+  "claim_type": "hail_damage",
+  "customer_age": 71,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 134,
+  "service_provider_id": "SP-071",
+  "location": "Annecy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

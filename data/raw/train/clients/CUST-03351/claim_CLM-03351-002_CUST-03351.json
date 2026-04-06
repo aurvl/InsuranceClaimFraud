@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03351-002",
+  "customer_id": "CUST-03351",
+  "claim_date": "2023-10-14",
+  "policy_start_date": "2022-09-07",
+  "policy_age_days": 402,
+  "claim_amount": 3025.73,
+  "claim_type": "water_damage",
+  "customer_age": 51,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 273,
+  "service_provider_id": "SP-112",
+  "location": "Amiens",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04441-010",
+  "customer_id": "CUST-04441",
+  "claim_date": "2023-10-02",
+  "policy_start_date": "2018-10-21",
+  "policy_age_days": 1807,
+  "claim_amount": 22187.93,
+  "claim_type": "fire",
+  "customer_age": 29,
+  "num_previous_claims": 9,
+  "time_since_last_claim_days": 123,
+  "service_provider_id": "SP-030",
+  "location": "Cannes",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

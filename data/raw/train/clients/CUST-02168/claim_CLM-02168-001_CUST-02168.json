@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02168-001",
+  "customer_id": "CUST-02168",
+  "claim_date": "2020-11-29",
+  "policy_start_date": "2020-10-26",
+  "policy_age_days": 34,
+  "claim_amount": 13354.48,
+  "claim_type": "theft",
+  "customer_age": 27,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-098",
+  "location": "Nancy",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

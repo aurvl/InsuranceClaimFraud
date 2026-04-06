@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06623-012",
+  "customer_id": "CUST-06623",
+  "claim_date": "2023-03-17",
+  "policy_start_date": "2018-09-23",
+  "policy_age_days": 1636,
+  "claim_amount": 1626.64,
+  "claim_type": "water_damage",
+  "customer_age": 22,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 166,
+  "service_provider_id": "SP-011",
+  "location": "Saint-\u00c9tienne",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

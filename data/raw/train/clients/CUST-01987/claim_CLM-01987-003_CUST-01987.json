@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01987-003",
+  "customer_id": "CUST-01987",
+  "claim_date": "2021-10-15",
+  "policy_start_date": "2020-06-13",
+  "policy_age_days": 489,
+  "claim_amount": 36996.34,
+  "claim_type": "fire",
+  "customer_age": 44,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 294,
+  "service_provider_id": "SP-077",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

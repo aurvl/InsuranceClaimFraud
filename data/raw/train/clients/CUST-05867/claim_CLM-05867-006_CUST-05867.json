@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05867-006",
+  "customer_id": "CUST-05867",
+  "claim_date": "2021-02-17",
+  "policy_start_date": "2018-01-13",
+  "policy_age_days": 1131,
+  "claim_amount": 1850.5,
+  "claim_type": "collision",
+  "customer_age": 42,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 225,
+  "service_provider_id": "SP-050",
+  "location": "Nice",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

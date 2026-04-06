@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06341-003",
+  "customer_id": "CUST-06341",
+  "claim_date": "2020-07-16",
+  "policy_start_date": "2018-08-27",
+  "policy_age_days": 689,
+  "claim_amount": 6205.9,
+  "claim_type": "water_damage",
+  "customer_age": 43,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 321,
+  "service_provider_id": "SP-036",
+  "location": "Dijon",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

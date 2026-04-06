@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08266-003",
+  "customer_id": "CUST-08266",
+  "claim_date": "2022-02-09",
+  "policy_start_date": "2020-01-29",
+  "policy_age_days": 742,
+  "claim_amount": 10493.04,
+  "claim_type": "fire",
+  "customer_age": 29,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 213,
+  "service_provider_id": "SP-071",
+  "location": "Caen",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

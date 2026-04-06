@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05776-003",
+  "customer_id": "CUST-05776",
+  "claim_date": "2019-11-14",
+  "policy_start_date": "2019-02-16",
+  "policy_age_days": 271,
+  "claim_amount": 11266.15,
+  "claim_type": "theft",
+  "customer_age": 38,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 122,
+  "service_provider_id": "SP-111",
+  "location": "Reims",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

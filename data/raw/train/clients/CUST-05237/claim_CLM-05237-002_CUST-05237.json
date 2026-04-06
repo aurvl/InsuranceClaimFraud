@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05237-002",
+  "customer_id": "CUST-05237",
+  "claim_date": "2018-09-25",
+  "policy_start_date": "2018-01-25",
+  "policy_age_days": 243,
+  "claim_amount": 10656.79,
+  "claim_type": "theft",
+  "customer_age": 54,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 158,
+  "service_provider_id": "SP-058",
+  "location": "Dijon",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

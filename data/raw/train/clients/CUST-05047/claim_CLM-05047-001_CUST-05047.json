@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05047-001",
+  "customer_id": "CUST-05047",
+  "claim_date": "2022-04-15",
+  "policy_start_date": "2022-03-15",
+  "policy_age_days": 31,
+  "claim_amount": 20274.88,
+  "claim_type": "collision",
+  "customer_age": 20,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-046",
+  "location": "Annecy",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

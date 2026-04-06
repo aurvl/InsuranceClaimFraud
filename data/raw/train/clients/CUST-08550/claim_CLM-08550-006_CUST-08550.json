@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08550-006",
+  "customer_id": "CUST-08550",
+  "claim_date": "2024-01-03",
+  "policy_start_date": "2021-08-02",
+  "policy_age_days": 884,
+  "claim_amount": 1308.91,
+  "claim_type": "collision",
+  "customer_age": 58,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 255,
+  "service_provider_id": "SP-114",
+  "location": "Amiens",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

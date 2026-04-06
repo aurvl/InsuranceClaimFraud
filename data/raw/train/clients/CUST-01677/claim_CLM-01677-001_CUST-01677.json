@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01677-001",
+  "customer_id": "CUST-01677",
+  "claim_date": "2023-08-08",
+  "policy_start_date": "2023-04-06",
+  "policy_age_days": 124,
+  "claim_amount": 6563.62,
+  "claim_type": "theft",
+  "customer_age": 35,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-049",
+  "location": "Nice",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

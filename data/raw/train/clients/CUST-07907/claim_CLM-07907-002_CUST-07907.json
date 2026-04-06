@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07907-002",
+  "customer_id": "CUST-07907",
+  "claim_date": "2019-09-23",
+  "policy_start_date": "2019-04-26",
+  "policy_age_days": 150,
+  "claim_amount": 3179.97,
+  "claim_type": "hail_damage",
+  "customer_age": 28,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 111,
+  "service_provider_id": "SP-110",
+  "location": "Amiens",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

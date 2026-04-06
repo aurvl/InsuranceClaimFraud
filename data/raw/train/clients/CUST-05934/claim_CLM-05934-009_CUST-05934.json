@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05934-009",
+  "customer_id": "CUST-05934",
+  "claim_date": "2024-03-13",
+  "policy_start_date": "2019-08-11",
+  "policy_age_days": 1676,
+  "claim_amount": 986.78,
+  "claim_type": "hail_damage",
+  "customer_age": 37,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 640,
+  "service_provider_id": "SP-059",
+  "location": "Nantes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

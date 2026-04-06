@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07159-001",
+  "customer_id": "CUST-07159",
+  "claim_date": "2023-02-19",
+  "policy_start_date": "2023-01-03",
+  "policy_age_days": 47,
+  "claim_amount": 22305.04,
+  "claim_type": "theft",
+  "customer_age": 70,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-001",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

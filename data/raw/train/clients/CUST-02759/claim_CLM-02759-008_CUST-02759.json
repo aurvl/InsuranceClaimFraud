@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02759-008",
+  "customer_id": "CUST-02759",
+  "claim_date": "2021-04-29",
+  "policy_start_date": "2019-03-11",
+  "policy_age_days": 780,
+  "claim_amount": 7241.09,
+  "claim_type": "theft",
+  "customer_age": 53,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 180,
+  "service_provider_id": "SP-037",
+  "location": "Nice",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

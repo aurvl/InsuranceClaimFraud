@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01777-001",
+  "customer_id": "CUST-01777",
+  "claim_date": "2020-04-21",
+  "policy_start_date": "2020-01-22",
+  "policy_age_days": 90,
+  "claim_amount": 5889.29,
+  "claim_type": "collision",
+  "customer_age": 44,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-098",
+  "location": "Rennes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

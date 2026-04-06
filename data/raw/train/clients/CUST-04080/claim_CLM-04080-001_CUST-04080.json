@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04080-001",
+  "customer_id": "CUST-04080",
+  "claim_date": "2019-05-29",
+  "policy_start_date": "2019-04-03",
+  "policy_age_days": 56,
+  "claim_amount": 9570.78,
+  "claim_type": "theft",
+  "customer_age": 71,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-062",
+  "location": "La Rochelle",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

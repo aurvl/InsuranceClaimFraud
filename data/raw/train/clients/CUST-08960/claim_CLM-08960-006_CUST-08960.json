@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08960-006",
+  "customer_id": "CUST-08960",
+  "claim_date": "2023-12-16",
+  "policy_start_date": "2020-10-29",
+  "policy_age_days": 1143,
+  "claim_amount": 1835.72,
+  "claim_type": "collision",
+  "customer_age": 53,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 24,
+  "service_provider_id": "SP-086",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

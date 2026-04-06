@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-02426-002",
+  "customer_id": "CUST-02426",
+  "claim_date": "2021-12-27",
+  "policy_start_date": "2020-03-27",
+  "policy_age_days": 640,
+  "claim_amount": 10905.87,
+  "claim_type": "fire",
+  "customer_age": 37,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 586,
+  "service_provider_id": "SP-073",
+  "location": "Le Mans",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

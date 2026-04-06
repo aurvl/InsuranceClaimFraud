@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07156-004",
+  "customer_id": "CUST-07156",
+  "claim_date": "2024-06-20",
+  "policy_start_date": "2023-04-21",
+  "policy_age_days": 426,
+  "claim_amount": 4567.0,
+  "claim_type": "fire",
+  "customer_age": 40,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 112,
+  "service_provider_id": "SP-103",
+  "location": "Rennes",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

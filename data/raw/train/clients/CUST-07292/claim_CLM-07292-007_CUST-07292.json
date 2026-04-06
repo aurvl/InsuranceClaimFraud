@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07292-007",
+  "customer_id": "CUST-07292",
+  "claim_date": "2022-12-15",
+  "policy_start_date": "2019-09-08",
+  "policy_age_days": 1194,
+  "claim_amount": 6832.26,
+  "claim_type": "water_damage",
+  "customer_age": 34,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 175,
+  "service_provider_id": "SP-036",
+  "location": "Nice",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

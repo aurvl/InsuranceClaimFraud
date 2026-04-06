@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07050-001",
+  "customer_id": "CUST-07050",
+  "claim_date": "2022-07-10",
+  "policy_start_date": "2022-04-14",
+  "policy_age_days": 87,
+  "claim_amount": 1807.23,
+  "claim_type": "hail_damage",
+  "customer_age": 63,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-048",
+  "location": "Nice",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

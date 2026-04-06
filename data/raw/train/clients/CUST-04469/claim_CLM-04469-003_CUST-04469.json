@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04469-003",
+  "customer_id": "CUST-04469",
+  "claim_date": "2023-04-17",
+  "policy_start_date": "2021-11-21",
+  "policy_age_days": 512,
+  "claim_amount": 7883.41,
+  "claim_type": "collision",
+  "customer_age": 79,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 200,
+  "service_provider_id": "SP-070",
+  "location": "Saint-Malo",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

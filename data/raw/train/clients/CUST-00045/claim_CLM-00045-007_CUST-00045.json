@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00045-007",
+  "customer_id": "CUST-00045",
+  "claim_date": "2021-10-02",
+  "policy_start_date": "2018-09-27",
+  "policy_age_days": 1101,
+  "claim_amount": 11168.61,
+  "claim_type": "fire",
+  "customer_age": 67,
+  "num_previous_claims": 6,
+  "time_since_last_claim_days": 99,
+  "service_provider_id": "SP-016",
+  "location": "Marseille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

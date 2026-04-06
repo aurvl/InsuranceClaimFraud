@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03144-013",
+  "customer_id": "CUST-03144",
+  "claim_date": "2024-06-20",
+  "policy_start_date": "2018-01-01",
+  "policy_age_days": 2362,
+  "claim_amount": 5596.85,
+  "claim_type": "water_damage",
+  "customer_age": 50,
+  "num_previous_claims": 12,
+  "time_since_last_claim_days": 368,
+  "service_provider_id": "SP-017",
+  "location": "Toulon",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

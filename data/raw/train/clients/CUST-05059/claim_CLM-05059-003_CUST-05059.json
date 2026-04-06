@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05059-003",
+  "customer_id": "CUST-05059",
+  "claim_date": "2021-08-02",
+  "policy_start_date": "2020-04-22",
+  "policy_age_days": 467,
+  "claim_amount": 1942.98,
+  "claim_type": "water_damage",
+  "customer_age": 19,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 381,
+  "service_provider_id": "SP-074",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

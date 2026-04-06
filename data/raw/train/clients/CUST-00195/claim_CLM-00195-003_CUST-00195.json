@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00195-003",
+  "customer_id": "CUST-00195",
+  "claim_date": "2020-01-31",
+  "policy_start_date": "2018-04-25",
+  "policy_age_days": 646,
+  "claim_amount": 8300.28,
+  "claim_type": "collision",
+  "customer_age": 40,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 307,
+  "service_provider_id": "SP-036",
+  "location": "Dijon",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

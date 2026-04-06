@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04101-002",
+  "customer_id": "CUST-04101",
+  "claim_date": "2019-02-14",
+  "policy_start_date": "2018-10-21",
+  "policy_age_days": 116,
+  "claim_amount": 4104.19,
+  "claim_type": "hail_damage",
+  "customer_age": 31,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 63,
+  "service_provider_id": "SP-044",
+  "location": "Perpignan",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07535-004",
+  "customer_id": "CUST-07535",
+  "claim_date": "2022-01-22",
+  "policy_start_date": "2019-09-12",
+  "policy_age_days": 863,
+  "claim_amount": 25423.97,
+  "claim_type": "theft",
+  "customer_age": 26,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 7,
+  "service_provider_id": "SP-030",
+  "location": "Angers",
+  "weather_condition": "fog",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

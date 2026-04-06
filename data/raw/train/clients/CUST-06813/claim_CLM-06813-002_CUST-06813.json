@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06813-002",
+  "customer_id": "CUST-06813",
+  "claim_date": "2019-08-08",
+  "policy_start_date": "2018-08-22",
+  "policy_age_days": 351,
+  "claim_amount": 7625.09,
+  "claim_type": "theft",
+  "customer_age": 36,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 209,
+  "service_provider_id": "SP-071",
+  "location": "Annecy",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05747-001",
+  "customer_id": "CUST-05747",
+  "claim_date": "2018-07-11",
+  "policy_start_date": "2018-03-06",
+  "policy_age_days": 127,
+  "claim_amount": 3643.15,
+  "claim_type": "water_damage",
+  "customer_age": 53,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-083",
+  "location": "Bordeaux",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

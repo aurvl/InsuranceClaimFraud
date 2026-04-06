@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08802-002",
+  "customer_id": "CUST-08802",
+  "claim_date": "2022-04-01",
+  "policy_start_date": "2021-04-25",
+  "policy_age_days": 341,
+  "claim_amount": 7589.11,
+  "claim_type": "water_damage",
+  "customer_age": 74,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 307,
+  "service_provider_id": "SP-069",
+  "location": "Caen",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

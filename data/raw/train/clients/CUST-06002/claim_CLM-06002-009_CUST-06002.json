@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06002-009",
+  "customer_id": "CUST-06002",
+  "claim_date": "2024-03-22",
+  "policy_start_date": "2019-01-29",
+  "policy_age_days": 1879,
+  "claim_amount": 2585.48,
+  "claim_type": "water_damage",
+  "customer_age": 52,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 559,
+  "service_provider_id": "SP-021",
+  "location": "Marseille",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

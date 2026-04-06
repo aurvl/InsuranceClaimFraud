@@ -1,0 +1,228 @@
+{
+  "claim_payload": {
+    "claim_id": "CLM-00028-018",
+    "customer_id": "CUST-00028",
+    "claim_date": "2025-10-22",
+    "policy_start_date": "2018-09-09",
+    "policy_age_days": 2600,
+    "claim_amount": 9985.29,
+    "claim_type": "bodily_injury",
+    "customer_age": 20,
+    "num_previous_claims": 17,
+    "time_since_last_claim_days": 126,
+    "service_provider_id": "SP-071",
+    "location": "Marseille",
+    "weather_condition": "rain"
+  },
+  "structured_claim": {
+    "claim_id": "CLM-00028-018",
+    "customer_id": "CUST-00028",
+    "claim_date": "2025-10-22",
+    "policy_start_date": "2018-09-09",
+    "policy_age_days": 2600,
+    "claim_amount": 9985.29,
+    "claim_type": "bodily_injury",
+    "customer_age": 20,
+    "num_previous_claims": 17,
+    "time_since_last_claim_days": 126,
+    "service_provider_id": "SP-071",
+    "location": "Marseille",
+    "weather_condition": "rain"
+  },
+  "document_extraction": {
+    "json_fields": {},
+    "pdf_fields": {
+      "claim_id": "CLM-00028-018",
+      "customer_id": "CUST-00028",
+      "claim_date": "2025-10-22",
+      "policy_start_date": "2018-09-09",
+      "policy_age_days": 2600,
+      "claim_type": "bodily_injury",
+      "claim_amount": 9985.29,
+      "customer_age": 20,
+      "num_previous_claims": 17,
+      "time_since_last_claim_days": 126,
+      "service_provider_id": "SP-071",
+      "location": "Marseille",
+      "weather_condition": "rain"
+    },
+    "image_fields": {
+      "claim_id": "CLM-00028-018",
+      "customer_id": "CUST-00028"
+    },
+    "pdf_text_excerpt": "Insurance Claim Summary\nClaim ID: CLM-00028-018\nCustomer ID: CUST-00028\nClaim Date: 2025-10-22\nPolicy Start Date: 2018-09-09\nPolicy Age (days): 2600\nClaim Type: bodily_injury\nClaim Amount: EUR 9,985.29\nCustomer Age: 20\nPrevious Claims: 17\nTime Since Last Claim: 126 days\nService Provider: SP-071\nLocation: Marseille\nWeather: rain\nSynthetic adjuster note:\nThe claim involves a bodily_injury incident reported in Marseille under rain conditions. The requested amount is EUR 9,985.29, and this PDF is generated locally for experimentation, data engineering tests, and workflow prototyping.\n",
+    "image_metadata": {
+      "width": 900,
+      "height": 520,
+      "format": "PNG"
+    },
+    "source_map": {
+      "claim_id": [
+        {
+          "source": "pdf",
+          "value": "CLM-00028-018"
+        },
+        {
+          "source": "image",
+          "value": "CLM-00028-018"
+        }
+      ],
+      "customer_id": [
+        {
+          "source": "pdf",
+          "value": "CUST-00028"
+        },
+        {
+          "source": "image",
+          "value": "CUST-00028"
+        }
+      ],
+      "claim_date": [
+        {
+          "source": "pdf",
+          "value": "2025-10-22"
+        }
+      ],
+      "policy_start_date": [
+        {
+          "source": "pdf",
+          "value": "2018-09-09"
+        }
+      ],
+      "policy_age_days": [
+        {
+          "source": "pdf",
+          "value": 2600
+        }
+      ],
+      "claim_type": [
+        {
+          "source": "pdf",
+          "value": "bodily_injury"
+        }
+      ],
+      "claim_amount": [
+        {
+          "source": "pdf",
+          "value": 9985.29
+        }
+      ],
+      "customer_age": [
+        {
+          "source": "pdf",
+          "value": 20
+        }
+      ],
+      "num_previous_claims": [
+        {
+          "source": "pdf",
+          "value": 17
+        }
+      ],
+      "time_since_last_claim_days": [
+        {
+          "source": "pdf",
+          "value": 126
+        }
+      ],
+      "service_provider_id": [
+        {
+          "source": "pdf",
+          "value": "SP-071"
+        }
+      ],
+      "location": [
+        {
+          "source": "pdf",
+          "value": "Marseille"
+        }
+      ],
+      "weather_condition": [
+        {
+          "source": "pdf",
+          "value": "rain"
+        }
+      ]
+    },
+    "chosen_sources": {
+      "claim_id": "pdf",
+      "customer_id": "pdf",
+      "claim_date": "pdf",
+      "policy_start_date": "pdf",
+      "policy_age_days": "pdf",
+      "claim_amount": "pdf",
+      "claim_type": "pdf",
+      "customer_age": "pdf",
+      "num_previous_claims": "pdf",
+      "time_since_last_claim_days": "pdf",
+      "service_provider_id": "pdf",
+      "location": "pdf",
+      "weather_condition": "pdf"
+    },
+    "mismatches": [],
+    "missing_fields": [],
+    "structured_claim": {
+      "claim_id": "CLM-00028-018",
+      "customer_id": "CUST-00028",
+      "claim_date": "2025-10-22",
+      "policy_start_date": "2018-09-09",
+      "policy_age_days": 2600,
+      "claim_amount": 9985.29,
+      "claim_type": "bodily_injury",
+      "customer_age": 20,
+      "num_previous_claims": 17,
+      "time_since_last_claim_days": 126,
+      "service_provider_id": "SP-071",
+      "location": "Marseille",
+      "weather_condition": "rain"
+    },
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  },
+  "package_metadata": {
+    "claim_id": "CLM-00028-018",
+    "package_directory": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00028-018",
+    "stored_files": {
+      "claim_json": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00028-018\\claim_payload.json",
+      "pdf": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00028-018\\pdf_claim_CLM-00028-018_CUST-00028.pdf",
+      "image": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00028-018\\image_claim_CLM-00028-018_CUST-00028.png"
+    },
+    "attachments": [
+      {
+        "kind": "pdf",
+        "filename": "claim_CLM-00028-018_CUST-00028.pdf",
+        "content_type": "application/pdf",
+        "size_bytes": 1936,
+        "sha256": "133ca482c70d519753b376e6f550db9409f428ad48b23644e5ec833b6d08cbdd",
+        "stored_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00028-018\\pdf_claim_CLM-00028-018_CUST-00028.pdf"
+      },
+      {
+        "kind": "image",
+        "filename": "claim_CLM-00028-018_CUST-00028.png",
+        "content_type": "image/png",
+        "size_bytes": 10612,
+        "sha256": "4862f56e6cd6a7182c6cfba5320200b1377b69da8de5fa1c8177e7cea17c2bf0",
+        "image_width": 900,
+        "image_height": 520,
+        "image_format": "PNG",
+        "stored_path": "C:\\Users\\aurel\\Desktop\\Projects\\Insurance Claim Counterfactual Simulator\\data\\raw\\prod\\incoming_packages\\CLM-00028-018\\image_claim_CLM-00028-018_CUST-00028.png"
+      }
+    ],
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  },
+  "prediction": {
+    "claim_id": "CLM-00028-018",
+    "fraud_probability": 0.413676,
+    "model_decision": "non_fraud",
+    "decision_threshold": 0.5,
+    "risk_flags": [
+      "suspicious_provider"
+    ]
+  },
+  "policy": {
+    "development_cutoff_date": "2024-10-02",
+    "production_start_date": "2024-10-03",
+    "production_data_used_in_training": false,
+    "production_data_used_in_evaluation": false,
+    "document_extraction_mode": "implemented_rule_based_pdf_and_image_extraction"
+  }
+}

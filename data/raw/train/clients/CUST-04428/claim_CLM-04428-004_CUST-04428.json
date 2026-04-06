@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04428-004",
+  "customer_id": "CUST-04428",
+  "claim_date": "2020-06-11",
+  "policy_start_date": "2019-01-11",
+  "policy_age_days": 517,
+  "claim_amount": 1032.1,
+  "claim_type": "hail_damage",
+  "customer_age": 77,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 207,
+  "service_provider_id": "SP-044",
+  "location": "N\u00eemes",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

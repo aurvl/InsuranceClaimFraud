@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05224-009",
+  "customer_id": "CUST-05224",
+  "claim_date": "2022-05-27",
+  "policy_start_date": "2018-11-03",
+  "policy_age_days": 1301,
+  "claim_amount": 7930.19,
+  "claim_type": "bodily_injury",
+  "customer_age": 23,
+  "num_previous_claims": 8,
+  "time_since_last_claim_days": 161,
+  "service_provider_id": "SP-022",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

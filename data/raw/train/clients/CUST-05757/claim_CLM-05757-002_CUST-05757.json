@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05757-002",
+  "customer_id": "CUST-05757",
+  "claim_date": "2022-07-03",
+  "policy_start_date": "2021-11-17",
+  "policy_age_days": 228,
+  "claim_amount": 1557.52,
+  "claim_type": "windshield",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 81,
+  "service_provider_id": "SP-005",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

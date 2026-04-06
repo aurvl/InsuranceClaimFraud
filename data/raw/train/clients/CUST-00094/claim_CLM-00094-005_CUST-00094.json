@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00094-005",
+  "customer_id": "CUST-00094",
+  "claim_date": "2024-09-24",
+  "policy_start_date": "2022-03-22",
+  "policy_age_days": 917,
+  "claim_amount": 8340.8,
+  "claim_type": "collision",
+  "customer_age": 37,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 78,
+  "service_provider_id": "SP-084",
+  "location": "Lille",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

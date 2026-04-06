@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03010-006",
+  "customer_id": "CUST-03010",
+  "claim_date": "2023-10-30",
+  "policy_start_date": "2021-07-08",
+  "policy_age_days": 844,
+  "claim_amount": 799.78,
+  "claim_type": "water_damage",
+  "customer_age": 59,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 164,
+  "service_provider_id": "SP-015",
+  "location": "Marseille",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

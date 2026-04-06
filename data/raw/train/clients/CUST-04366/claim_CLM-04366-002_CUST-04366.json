@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04366-002",
+  "customer_id": "CUST-04366",
+  "claim_date": "2022-12-05",
+  "policy_start_date": "2022-03-23",
+  "policy_age_days": 257,
+  "claim_amount": 2901.14,
+  "claim_type": "collision",
+  "customer_age": 49,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 209,
+  "service_provider_id": "SP-090",
+  "location": "Aix-en-Provence",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

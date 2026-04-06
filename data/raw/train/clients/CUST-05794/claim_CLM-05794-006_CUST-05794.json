@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05794-006",
+  "customer_id": "CUST-05794",
+  "claim_date": "2024-04-14",
+  "policy_start_date": "2018-10-10",
+  "policy_age_days": 2013,
+  "claim_amount": 13816.91,
+  "claim_type": "theft",
+  "customer_age": 25,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 696,
+  "service_provider_id": "SP-006",
+  "location": "Paris",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

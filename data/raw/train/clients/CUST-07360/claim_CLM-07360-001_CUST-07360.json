@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07360-001",
+  "customer_id": "CUST-07360",
+  "claim_date": "2022-12-25",
+  "policy_start_date": "2022-10-10",
+  "policy_age_days": 76,
+  "claim_amount": 6720.64,
+  "claim_type": "bodily_injury",
+  "customer_age": 18,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-092",
+  "location": "Aix-en-Provence",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

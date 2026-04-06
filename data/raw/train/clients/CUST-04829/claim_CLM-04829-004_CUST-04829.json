@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04829-004",
+  "customer_id": "CUST-04829",
+  "claim_date": "2023-07-23",
+  "policy_start_date": "2022-04-23",
+  "policy_age_days": 456,
+  "claim_amount": 2406.63,
+  "claim_type": "collision",
+  "customer_age": 72,
+  "num_previous_claims": 3,
+  "time_since_last_claim_days": 200,
+  "service_provider_id": "SP-078",
+  "location": "Bordeaux",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

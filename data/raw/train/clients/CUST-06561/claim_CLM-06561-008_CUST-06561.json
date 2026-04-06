@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-06561-008",
+  "customer_id": "CUST-06561",
+  "claim_date": "2021-10-15",
+  "policy_start_date": "2018-09-10",
+  "policy_age_days": 1131,
+  "claim_amount": 5978.7,
+  "claim_type": "water_damage",
+  "customer_age": 26,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 199,
+  "service_provider_id": "SP-081",
+  "location": "Ajaccio",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

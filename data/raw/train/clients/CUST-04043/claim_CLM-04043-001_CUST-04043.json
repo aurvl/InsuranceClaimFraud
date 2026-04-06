@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04043-001",
+  "customer_id": "CUST-04043",
+  "claim_date": "2022-06-28",
+  "policy_start_date": "2022-02-25",
+  "policy_age_days": 123,
+  "claim_amount": 21725.91,
+  "claim_type": "theft",
+  "customer_age": 18,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-022",
+  "location": "Grenoble",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

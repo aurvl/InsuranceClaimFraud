@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03950-005",
+  "customer_id": "CUST-03950",
+  "claim_date": "2023-02-17",
+  "policy_start_date": "2019-09-13",
+  "policy_age_days": 1253,
+  "claim_amount": 1156.29,
+  "claim_type": "hail_damage",
+  "customer_age": 75,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 293,
+  "service_provider_id": "SP-039",
+  "location": "Toulouse",
+  "weather_condition": "snow",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

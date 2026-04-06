@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07189-012",
+  "customer_id": "CUST-07189",
+  "claim_date": "2025-12-03",
+  "policy_start_date": "2021-03-18",
+  "policy_age_days": 1721,
+  "claim_amount": 1288.36,
+  "claim_type": "windshield",
+  "customer_age": 68,
+  "num_previous_claims": 11,
+  "time_since_last_claim_days": 18,
+  "service_provider_id": "SP-086",
+  "location": "Lille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

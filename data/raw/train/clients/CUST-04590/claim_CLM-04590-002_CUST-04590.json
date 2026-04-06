@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04590-002",
+  "customer_id": "CUST-04590",
+  "claim_date": "2018-06-03",
+  "policy_start_date": "2018-01-08",
+  "policy_age_days": 146,
+  "claim_amount": 10385.83,
+  "claim_type": "collision",
+  "customer_age": 29,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 52,
+  "service_provider_id": "SP-084",
+  "location": "Ajaccio",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

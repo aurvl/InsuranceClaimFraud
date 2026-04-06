@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04743-002",
+  "customer_id": "CUST-04743",
+  "claim_date": "2022-07-26",
+  "policy_start_date": "2022-05-06",
+  "policy_age_days": 81,
+  "claim_amount": 1155.83,
+  "claim_type": "hail_damage",
+  "customer_age": 73,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 21,
+  "service_provider_id": "SP-075",
+  "location": "Montpellier",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

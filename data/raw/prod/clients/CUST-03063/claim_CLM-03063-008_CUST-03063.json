@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-03063-008",
+  "customer_id": "CUST-03063",
+  "claim_date": "2025-10-20",
+  "policy_start_date": "2022-03-18",
+  "policy_age_days": 1312,
+  "claim_amount": 7614.44,
+  "claim_type": "theft",
+  "customer_age": 41,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 367,
+  "service_provider_id": "SP-047",
+  "location": "N\u00eemes",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05751-006",
+  "customer_id": "CUST-05751",
+  "claim_date": "2021-07-04",
+  "policy_start_date": "2018-09-15",
+  "policy_age_days": 1023,
+  "claim_amount": 17170.25,
+  "claim_type": "theft",
+  "customer_age": 39,
+  "num_previous_claims": 5,
+  "time_since_last_claim_days": 56,
+  "service_provider_id": "SP-089",
+  "location": "Montpellier",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

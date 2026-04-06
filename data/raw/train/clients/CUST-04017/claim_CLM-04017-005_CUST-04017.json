@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-04017-005",
+  "customer_id": "CUST-04017",
+  "claim_date": "2020-12-20",
+  "policy_start_date": "2019-02-24",
+  "policy_age_days": 665,
+  "claim_amount": 2011.79,
+  "claim_type": "collision",
+  "customer_age": 22,
+  "num_previous_claims": 4,
+  "time_since_last_claim_days": 275,
+  "service_provider_id": "SP-073",
+  "location": "Le Mans",
+  "weather_condition": "storm",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-08690-001",
+  "customer_id": "CUST-08690",
+  "claim_date": "2018-12-14",
+  "policy_start_date": "2018-07-25",
+  "policy_age_days": 142,
+  "claim_amount": 23549.14,
+  "claim_type": "bodily_injury",
+  "customer_age": 22,
+  "num_previous_claims": 0,
+  "time_since_last_claim_days": null,
+  "service_provider_id": "SP-040",
+  "location": "Angers",
+  "weather_condition": "rain",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

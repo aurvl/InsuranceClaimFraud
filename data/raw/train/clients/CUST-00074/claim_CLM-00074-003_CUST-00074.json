@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-00074-003",
+  "customer_id": "CUST-00074",
+  "claim_date": "2021-05-31",
+  "policy_start_date": "2020-04-24",
+  "policy_age_days": 402,
+  "claim_amount": 19760.72,
+  "claim_type": "bodily_injury",
+  "customer_age": 79,
+  "num_previous_claims": 2,
+  "time_since_last_claim_days": 79,
+  "service_provider_id": "SP-022",
+  "location": "Marseille",
+  "weather_condition": "heatwave",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

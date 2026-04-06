@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-07378-015",
+  "customer_id": "CUST-07378",
+  "claim_date": "2023-03-14",
+  "policy_start_date": "2018-01-20",
+  "policy_age_days": 1879,
+  "claim_amount": 17719.62,
+  "claim_type": "theft",
+  "customer_age": 25,
+  "num_previous_claims": 14,
+  "time_since_last_claim_days": 32,
+  "service_provider_id": "SP-041",
+  "location": "N\u00eemes",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

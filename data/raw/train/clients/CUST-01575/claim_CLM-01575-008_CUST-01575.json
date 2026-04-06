@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-01575-008",
+  "customer_id": "CUST-01575",
+  "claim_date": "2024-06-22",
+  "policy_start_date": "2019-05-22",
+  "policy_age_days": 1858,
+  "claim_amount": 7914.56,
+  "claim_type": "fire",
+  "customer_age": 54,
+  "num_previous_claims": 7,
+  "time_since_last_claim_days": 152,
+  "service_provider_id": "SP-097",
+  "location": "Nancy",
+  "weather_condition": "hail",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}

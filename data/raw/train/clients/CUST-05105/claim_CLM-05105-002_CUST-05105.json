@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM-05105-002",
+  "customer_id": "CUST-05105",
+  "claim_date": "2020-06-05",
+  "policy_start_date": "2018-10-04",
+  "policy_age_days": 610,
+  "claim_amount": 10172.78,
+  "claim_type": "bodily_injury",
+  "customer_age": 46,
+  "num_previous_claims": 1,
+  "time_since_last_claim_days": 490,
+  "service_provider_id": "SP-003",
+  "location": "Perpignan",
+  "weather_condition": "clear",
+  "crm_context": {
+    "source_system": "synthetic_crm",
+    "package_role": "structured_intake_payload"
+  }
+}
