@@ -25,6 +25,14 @@ The goal is not only to classify fraud. The main value is decision support:
 6. After the development boundary is frozen, new packages are scored through FastAPI.
 7. The API returns a fraud probability, a model decision, and a counterfactual explanation when requested.
 
+<p align="center">
+  <img src="data/v1.gif" alt="Pipeline demo v1" width="900" class="center" />
+</p>
+
+<p align="center">
+  <img src="data/v2.gif" alt="Pipeline demo v2" width="900" class="center" />
+</p>
+
 ## Current Pipeline Design
 
 The active pipeline is centered on PostgreSQL, not on intermediate CSV files.
